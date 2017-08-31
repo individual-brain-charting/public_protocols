@@ -1,0 +1,1389 @@
+'
+'
+'
+'	C:\Phil_labo\Twins_Project\Tests_Cognitifs\Batterie\Orientation\LeftRightTest.ebs
+'	Generated on: 9/17/2003	13:28:47
+'
+'
+'	Author:
+'		shfj (cea)
+'
+'
+'
+'
+
+Option CStrings On
+Dim ebContext as Context
+
+
+'--------------------------------------------------------------------------
+' Class Declarations
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' Instance Declarations
+'--------------------------------------------------------------------------
+Dim Display As DisplayDevice
+Dim Sound As SoundDevice
+Dim Keyboard As KeyboardDevice
+Dim Mouse As MouseDevice
+Dim Port As PortDevice
+Dim SessionProc As Procedure
+
+Dim ListTrials As List
+
+Dim trialproc As Procedure
+
+Dim Main As ImageDisplay
+Dim MainEchoClients As EchoClientCollection
+
+Dim Noir As TextDisplay
+
+Dim ImageDisplay2 As ImageDisplay
+Dim ImageDisplay2EchoClients As EchoClientCollection
+
+Dim ImageDisplay3 As ImageDisplay
+Dim ImageDisplay3EchoClients As EchoClientCollection
+
+Dim TextDisplay2 As TextDisplay
+Dim TextDisplay2EchoClients As EchoClientCollection
+
+Dim TextDisplay4 As TextDisplay
+
+Dim TextDisplay5 As TextDisplay
+
+Dim TextDisplay6 As TextDisplay
+Dim TextDisplay6EchoClients As EchoClientCollection
+
+Dim TextDisplay7 As TextDisplay
+
+Dim TextDisplay8 As TextDisplay
+
+Dim ListTrainning As List
+
+Dim trainproc As Procedure
+
+Dim TrainNoir As TextDisplay
+
+Dim TrainMain As ImageDisplay
+Dim TrainMainEchoClients As EchoClientCollection
+
+Dim FeedbackDisplay1 As FeedbackDisplay
+Dim FeedbackDisplay1_State As SlideState
+Dim FeedbackDisplay1_SlideText As SlideText
+
+
+
+'--------------------------------------------------------------------------
+' Package Declare Script
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' User Script
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' Package Global Script
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' Package Routines
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' Implementation
+'--------------------------------------------------------------------------
+Sub SessionProc_Run(c as Context)
+	
+	
+	TextDisplay2.InputMasks.Reset
+	
+	TextDisplay2EchoClients.RemoveAll
+	TextDisplay2.InputMasks.Add Keyboard.CreateInputMask("{SPACE}", "", CLng(TextDisplay2.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "ResponseMode:All ProcessBackspace:Yes")
+
+	
+	TextDisplay2.Run
+	
+	TextDisplay4.Run
+	
+	
+	ImageDisplay2.InputMasks.Reset
+	
+	ImageDisplay2EchoClients.RemoveAll
+	ImageDisplay2.InputMasks.Add Port.CreateInputMask("4", "4", CLng(ImageDisplay2.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "")
+
+	
+	ImageDisplay2.Run
+	
+	TextDisplay7.Run
+	
+	TextDisplay5.Run
+	
+	
+	ImageDisplay3.InputMasks.Reset
+	
+	ImageDisplay3EchoClients.RemoveAll
+	ImageDisplay3.InputMasks.Add Port.CreateInputMask("8", "8", CLng(ImageDisplay3.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "")
+
+	
+	ImageDisplay3.Run
+	
+	TextDisplay8.Run
+	
+	
+	TextDisplay6.InputMasks.Reset
+	
+	TextDisplay6EchoClients.RemoveAll
+	TextDisplay6.InputMasks.Add Keyboard.CreateInputMask("{SPACE}", "", CLng(TextDisplay6.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "ResponseMode:All ProcessBackspace:Yes")
+
+	
+	TextDisplay6.Run
+	ListTrainning.Run c
+	ListTrials.Run c
+
+	c.Log
+End Sub
+
+Sub trialproc_Run(c as Context)
+	
+	Noir.Run
+	
+	Main.Filename = c.GetAttrib("image")
+	Main.Load
+	
+	Main.InputMasks.Reset
+	
+	MainEchoClients.RemoveAll
+	Main.InputMasks.Add Port.CreateInputMask("48", c.GetAttrib("reponse"), CLng(Main.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "")
+
+	
+	Main.Run
+
+	c.Log
+End Sub
+
+Sub trainproc_Run(c as Context)
+	
+	TrainNoir.Run
+	
+	TrainMain.Filename = c.GetAttrib("image")
+	TrainMain.Load
+	
+	TrainMain.InputMasks.Reset
+	
+	TrainMainEchoClients.RemoveAll
+	TrainMain.InputMasks.Add Port.CreateInputMask("48", c.GetAttrib("reponse"), CLng(TrainMain.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "")
+
+	
+	TrainMain.Run
+	c.SetAttrib "TrainMain.OnsetDelay", TrainMain.OnsetDelay
+	c.SetAttrib "TrainMain.OnsetTime", TrainMain.OnsetTime
+	c.SetAttrib "TrainMain.DurationError", TrainMain.DurationError
+	c.SetAttrib "TrainMain.RTTime", TrainMain.RTTime
+	c.SetAttrib "TrainMain.ACC", TrainMain.ACC
+	c.SetAttrib "TrainMain.RT", TrainMain.RT
+	c.SetAttrib "TrainMain.RESP", TrainMain.RESP
+	c.SetAttrib "TrainMain.CRESP", TrainMain.CRESP
+	
+	
+	
+	If TrainMain.ACC = 1 Then
+		'Set the ActiveState to Correct
+		FeedbackDisplay1.ActiveState = "Correct"
+
+		'Add an observation to the accuracy stats
+		FeedbackDisplay1.AccStats.AddObservation TrainMain.Acc
+
+		'Add an observation to the response time stats
+		' unless the user did not respond and the author
+		' does not want us to add the no response RT
+		If Len(TrainMain.RESP) > 0 Then
+			FeedbackDisplay1.RTStats.AddObservation TrainMain.RT
+			FeedbackDisplay1.CorrectRTStats.AddObservation TrainMain.RT
+		End If
+	Else
+		'Is it incorrect or no response?
+		If Len(TrainMain.RESP) > 0 Then
+			'Set the ActiveState to Incorrect
+			FeedbackDisplay1.ActiveState = "Incorrect"
+
+			'Set the accuracy stats
+			FeedbackDisplay1.AccStats.AddObservation TrainMain.Acc
+
+			'Set the RT stats
+			FeedbackDisplay1.RTStats.AddObservation TrainMain.RT
+			FeedbackDisplay1.IncorrectRTStats.AddObservation TrainMain.RT
+		Else
+			'Set the ActiveState to NoResponse
+			FeedbackDisplay1.ActiveState = "NoResponse"
+
+			'Does the author want to consider a NoResponse
+			' to sum as an incorrect response in the ACC stats?
+			If FeedbackDisplay1.CollectNoRespACCStats = True Then
+				FeedbackDisplay1.AccStats.AddObservation TrainMain.Acc
+			End If
+		End If
+	End If
+
+	Select Case FeedbackDisplay1.ActiveState
+		Case "Correct"
+
+
+			Set FeedbackDisplay1_SlideText = CSlideText(FeedbackDisplay1.States.Item("Correct").Objects(1))
+			FeedbackDisplay1_SlideText.Text = "" & _
+		Format$((FeedbackDisplay1.ACCStats.Mean / FeedbackDisplay1.ACCDivisor),FeedbackDisplay1.ACCFormat) & _
+		" % de réponse correctes"
+			Set FeedbackDisplay1_SlideText = Nothing
+
+			Set FeedbackDisplay1_SlideText = CSlideText(FeedbackDisplay1.States.Item("Correct").Objects(2))
+			FeedbackDisplay1_SlideText.Text = "" & _
+		Format$((TrainMain.RT / FeedbackDisplay1.RTDivisor), FeedbackDisplay1.RTFormat) & _
+		" Secondes"
+			Set FeedbackDisplay1_SlideText = Nothing
+
+			Set FeedbackDisplay1_SlideText = CSlideText(FeedbackDisplay1.States.Item("Correct").Objects(3))
+			Set FeedbackDisplay1_SlideText = Nothing
+		Case "Incorrect"
+
+
+			Set FeedbackDisplay1_SlideText = CSlideText(FeedbackDisplay1.States.Item("Incorrect").Objects(1))
+			FeedbackDisplay1_SlideText.Text = "" & _
+		Format$((FeedbackDisplay1.ACCStats.Mean / FeedbackDisplay1.ACCDivisor),FeedbackDisplay1.ACCFormat) & _
+		" % de bonnes réponses"
+			Set FeedbackDisplay1_SlideText = Nothing
+
+			Set FeedbackDisplay1_SlideText = CSlideText(FeedbackDisplay1.States.Item("Incorrect").Objects(2))
+			FeedbackDisplay1_SlideText.Text = "" & _
+		Format$((TrainMain.RT / FeedbackDisplay1.RTDivisor), FeedbackDisplay1.RTFormat) & _
+		" Secondes"
+			Set FeedbackDisplay1_SlideText = Nothing
+
+			Set FeedbackDisplay1_SlideText = CSlideText(FeedbackDisplay1.States.Item("Incorrect").Objects(3))
+			Set FeedbackDisplay1_SlideText = Nothing
+		Case "NoResponse"
+
+
+			Set FeedbackDisplay1_SlideText = CSlideText(FeedbackDisplay1.States.Item("NoResponse").Objects(1))
+			Set FeedbackDisplay1_SlideText = Nothing
+		Case "Pending"
+
+	End Select
+
+	
+
+	FeedbackDisplay1.Run
+
+	
+	c.SetAttrib "TrainMain.OnsetDelay", TrainMain.OnsetDelay
+	c.SetAttrib "TrainMain.OnsetTime", TrainMain.OnsetTime
+	c.SetAttrib "TrainMain.DurationError", TrainMain.DurationError
+	c.SetAttrib "TrainMain.RTTime", TrainMain.RTTime
+	c.SetAttrib "TrainMain.ACC", TrainMain.ACC
+	c.SetAttrib "TrainMain.RT", TrainMain.RT
+	c.SetAttrib "TrainMain.RESP", TrainMain.RESP
+	c.SetAttrib "TrainMain.CRESP", TrainMain.CRESP
+	
+
+	c.Log
+End Sub
+
+
+
+
+
+'--------------------------------------------------------------------------
+' InitDevices
+'
+'--------------------------------------------------------------------------
+Sub InitDevices(c As Context)
+
+
+
+	SetOSThreadPriority 3
+
+
+	Set Display = New DisplayDevice
+	Display.Name = "Display"
+
+	Dim DisplayDisplayDeviceInfo As DisplayDeviceInfo
+	DisplayDisplayDeviceInfo.XRes = 640
+	DisplayDisplayDeviceInfo.YRes = 480
+	DisplayDisplayDeviceInfo.ColorDepth = 16
+	DisplayDisplayDeviceInfo.RefreshRate = 0
+	DisplayDisplayDeviceInfo.NumPages = 0
+
+	Display.Open DisplayDisplayDeviceInfo
+	c.SetAttrib "Display.RefreshRate", Format$(Display.CalculatedRefreshRate, "0.000")
+
+	Set Sound = New SoundDevice
+	Sound.Name = "Sound"
+
+	Dim SoundSoundOutDeviceInfo As SoundDeviceInfo
+	SoundSoundOutDeviceInfo.Channels = 2
+	SoundSoundOutDeviceInfo.SamplesPerSecond = 22050
+	SoundSoundOutDeviceInfo.BitsPerSample = 16
+	
+	Set Keyboard = New KeyboardDevice
+	Keyboard.Name = "Keyboard"
+
+	Dim KeyboardKeyboardDeviceInfo as KeyboardDeviceInfo
+	KeyboardKeyboardDeviceInfo.CollectionMode = ebPressesOnly
+	KeyboardKeyboardDeviceInfo.CapsLock = ebCapsLockOff
+	KeyboardKeyboardDeviceInfo.NumLock = ebNumLockOn
+	Keyboard.Open KeyboardKeyboardDeviceInfo
+	
+	Set Mouse = New MouseDevice
+	Mouse.Name = "Mouse"
+
+	Dim MouseMouseDeviceInfo as MouseDeviceInfo
+	MouseMouseDeviceInfo.OpenMode = ebMouseOpenModeDirect
+	MouseMouseDeviceInfo.CollectionMode = ebPressesOnly
+	MouseMouseDeviceInfo.ShowCursor = False
+	Mouse.Open MouseMouseDeviceInfo
+
+	Set Port = New PortDevice
+	Port.Name = "Port"
+	Dim PortPortDeviceInfo As PortDeviceInfo
+	PortPortDeviceInfo.CollectionMode = ebPressesOnly
+	PortPortDeviceInfo.Address = 889
+	PortPortDeviceInfo.Size = 8
+	PortPortDeviceInfo.Invert = CLogical("Yes")
+	PortPortDeviceInfo.Mask = -1
+	Port.Open PortPortDeviceInfo
+
+
+	SetOSThreadPriority 0
+
+End Sub
+
+
+
+'--------------------------------------------------------------------------
+' InitObjects
+'
+'--------------------------------------------------------------------------
+Sub InitObjects(c As Context)
+
+	Set SessionProc = New Procedure
+	SessionProc.Name = "SessionProc"
+	SessionProc.Tag = ""
+	SessionProc.Subroutine = "SessionProc_Run"
+
+	Set ListTrials = New List
+	ListTrials.Name = "ListTrials"
+	ListTrials.Tag = ""
+
+	'Initialization for ListTrials
+	
+	Set ListTrials.Order = New RandomOrder
+	Set ListTrials.Deletion = NoDeletion
+	ListTrials.ResetEveryRun = False
+
+	' Create the column headings
+	ListTrials.AddAttrib "image"
+	ListTrials.AddAttrib "reponse"
+	ListTrials.Filename = ""
+	ListTrials.LoadMethod = ebLoadMethodEmbedded
+
+	ListTrials.Load
+
+	Set ListTrials.TerminateCondition = Cycles(1)
+	Set ListTrials.ResetCondition = Samples(30)
+	ListTrials.Reset
+	
+	Set trialproc = New Procedure
+	trialproc.Name = "trialproc"
+	trialproc.Tag = ""
+	trialproc.Subroutine = "trialproc_Run"
+
+	Set Main = New ImageDisplay
+	Main.Name = "Main"
+	Main.Tag = ""
+
+	Set MainEchoClients = New EchoClientCollection
+	Main.Stretch = CLogical("No")
+	Main.MirrorLeftRight = CLogical("No")
+	Main.MirrorUpDown = CLogical("No")
+	Main.BackStyle = "opaque"
+	Main.BackColor = CColor("black")
+	Main.BorderColor = CColor("black")
+	Main.BorderWidth = CLng("0")
+	Main.X = "center"
+	Main.Y = "center"
+	Main.Width = "100%"
+	Main.Height = "100%"
+	Main.XAlign = "center"
+	Main.YAlign = "center"
+	Main.AlignVertical = "center"
+	Main.AlignHorizontal = "center"
+	Main.ClearAfter = CLogical("No")
+	Main.UseSourceColorKey = CLogical("No")
+	Main.SourceColorKey = CColor("black")
+	Main.Duration = CLng("-1")
+	Main.TimingMode = ebTimingModeEvent
+	Main.PreRelease = Val("0")
+
+	Main.OnsetSync = 1
+	Main.OffsetSync = 0
+
+	Set Noir = New TextDisplay
+	Noir.Name = "Noir"
+	Noir.Tag = ""
+	Noir.Text = ""
+	Noir.WordWrap = True
+	Noir.BackStyle = "opaque"
+	Noir.BackColor = CColor("black")
+	Noir.BorderColor = CColor("black")
+	Noir.BorderWidth = CLng("0")
+	Noir.ForeColor = CColor("black")
+	Noir.X = "center"
+	Noir.Y = "center"
+	Noir.Width = "100%"
+	Noir.Height = "100%"
+	Noir.XAlign = "center"
+	Noir.YAlign = "center"
+	Noir.AlignVertical = "center"
+	Noir.AlignHorizontal = "center"
+	Noir.FontName = "Courier New"
+	Noir.FontSize = "18"
+	Noir.FontBold = CLogical("Yes")
+	Noir.FontItalic = CLogical("No")
+	Noir.FontUnderline = CLogical("No")
+	Noir.FontStrikeout = CLogical("No")
+	Noir.ClearAfter = CLogical("No")
+	Noir.Duration = CLng("2000")
+	Noir.TimingMode = ebTimingModeEvent
+	Noir.PreRelease = Val("0")
+
+	Noir.OnsetSync = 1
+	Noir.OffsetSync = 0
+
+	Set ImageDisplay2 = New ImageDisplay
+	ImageDisplay2.Name = "ImageDisplay2"
+	ImageDisplay2.Tag = ""
+
+	Set ImageDisplay2EchoClients = New EchoClientCollection
+	ImageDisplay2.Filename = "ExempleG.bmp"
+	ImageDisplay2.Load
+	ImageDisplay2.Stretch = CLogical("No")
+	ImageDisplay2.MirrorLeftRight = CLogical("No")
+	ImageDisplay2.MirrorUpDown = CLogical("No")
+	ImageDisplay2.BackStyle = "opaque"
+	ImageDisplay2.BackColor = CColor("black")
+	ImageDisplay2.BorderColor = CColor("black")
+	ImageDisplay2.BorderWidth = CLng("0")
+	ImageDisplay2.X = "center"
+	ImageDisplay2.Y = "center"
+	ImageDisplay2.Width = "100%"
+	ImageDisplay2.Height = "100%"
+	ImageDisplay2.XAlign = "center"
+	ImageDisplay2.YAlign = "center"
+	ImageDisplay2.AlignVertical = "center"
+	ImageDisplay2.AlignHorizontal = "center"
+	ImageDisplay2.ClearAfter = CLogical("No")
+	ImageDisplay2.UseSourceColorKey = CLogical("No")
+	ImageDisplay2.SourceColorKey = CColor("black")
+	ImageDisplay2.Duration = CLng("-1")
+	ImageDisplay2.TimingMode = ebTimingModeEvent
+	ImageDisplay2.PreRelease = Val("0")
+
+	ImageDisplay2.OnsetSync = 1
+	ImageDisplay2.OffsetSync = 0
+
+	Set ImageDisplay3 = New ImageDisplay
+	ImageDisplay3.Name = "ImageDisplay3"
+	ImageDisplay3.Tag = ""
+
+	Set ImageDisplay3EchoClients = New EchoClientCollection
+	ImageDisplay3.Filename = "ExempleD.bmp"
+	ImageDisplay3.Load
+	ImageDisplay3.Stretch = CLogical("No")
+	ImageDisplay3.MirrorLeftRight = CLogical("No")
+	ImageDisplay3.MirrorUpDown = CLogical("No")
+	ImageDisplay3.BackStyle = "opaque"
+	ImageDisplay3.BackColor = CColor("black")
+	ImageDisplay3.BorderColor = CColor("black")
+	ImageDisplay3.BorderWidth = CLng("0")
+	ImageDisplay3.X = "center"
+	ImageDisplay3.Y = "center"
+	ImageDisplay3.Width = "100%"
+	ImageDisplay3.Height = "100%"
+	ImageDisplay3.XAlign = "center"
+	ImageDisplay3.YAlign = "center"
+	ImageDisplay3.AlignVertical = "center"
+	ImageDisplay3.AlignHorizontal = "center"
+	ImageDisplay3.ClearAfter = CLogical("No")
+	ImageDisplay3.UseSourceColorKey = CLogical("No")
+	ImageDisplay3.SourceColorKey = CColor("black")
+	ImageDisplay3.Duration = CLng("-1")
+	ImageDisplay3.TimingMode = ebTimingModeEvent
+	ImageDisplay3.PreRelease = Val("0")
+
+	ImageDisplay3.OnsetSync = 1
+	ImageDisplay3.OffsetSync = 0
+
+	Set TextDisplay2 = New TextDisplay
+	TextDisplay2.Name = "TextDisplay2"
+	TextDisplay2.Tag = ""
+
+	Set TextDisplay2EchoClients = New EchoClientCollection
+	TextDisplay2.Text = "Vous allez voir une trentaine de photos de main gauche et de main droite\n\n- Si c'est une photo de main droite, vous cliquerez à droite (touche '4')\n" &_ 
+				"\n- Si c'est une photo de main gauche, vous cliquerez à gauche (touche '2')\n\n\n\n(barre d'espace pour la suite...)"
+	TextDisplay2.WordWrap = True
+	TextDisplay2.BackStyle = "opaque"
+	TextDisplay2.BackColor = CColor("black")
+	TextDisplay2.BorderColor = CColor("black")
+	TextDisplay2.BorderWidth = CLng("0")
+	TextDisplay2.ForeColor = CColor("white")
+	TextDisplay2.X = "center"
+	TextDisplay2.Y = "center"
+	TextDisplay2.Width = "100%"
+	TextDisplay2.Height = "100%"
+	TextDisplay2.XAlign = "center"
+	TextDisplay2.YAlign = "center"
+	TextDisplay2.AlignVertical = "center"
+	TextDisplay2.AlignHorizontal = "center"
+	TextDisplay2.FontName = "Arial"
+	TextDisplay2.FontSize = "12"
+	TextDisplay2.FontBold = CLogical("Yes")
+	TextDisplay2.FontItalic = CLogical("No")
+	TextDisplay2.FontUnderline = CLogical("No")
+	TextDisplay2.FontStrikeout = CLogical("No")
+	TextDisplay2.ClearAfter = CLogical("No")
+	TextDisplay2.Duration = CLng("-1")
+	TextDisplay2.TimingMode = ebTimingModeEvent
+	TextDisplay2.PreRelease = Val("0")
+
+	TextDisplay2.OnsetSync = 1
+	TextDisplay2.OffsetSync = 0
+
+	Set TextDisplay4 = New TextDisplay
+	TextDisplay4.Name = "TextDisplay4"
+	TextDisplay4.Tag = ""
+	TextDisplay4.Text = "exemple de main gauche...\n(vous devrez alors cliquer à gauche)"
+	TextDisplay4.WordWrap = True
+	TextDisplay4.BackStyle = "opaque"
+	TextDisplay4.BackColor = CColor("black")
+	TextDisplay4.BorderColor = CColor("black")
+	TextDisplay4.BorderWidth = CLng("0")
+	TextDisplay4.ForeColor = CColor("white")
+	TextDisplay4.X = "center"
+	TextDisplay4.Y = "center"
+	TextDisplay4.Width = "100%"
+	TextDisplay4.Height = "100%"
+	TextDisplay4.XAlign = "center"
+	TextDisplay4.YAlign = "center"
+	TextDisplay4.AlignVertical = "center"
+	TextDisplay4.AlignHorizontal = "center"
+	TextDisplay4.FontName = "Arial"
+	TextDisplay4.FontSize = "12"
+	TextDisplay4.FontBold = CLogical("Yes")
+	TextDisplay4.FontItalic = CLogical("No")
+	TextDisplay4.FontUnderline = CLogical("No")
+	TextDisplay4.FontStrikeout = CLogical("No")
+	TextDisplay4.ClearAfter = CLogical("No")
+	TextDisplay4.Duration = CLng("2000")
+	TextDisplay4.TimingMode = ebTimingModeEvent
+	TextDisplay4.PreRelease = Val("0")
+
+	TextDisplay4.OnsetSync = 1
+	TextDisplay4.OffsetSync = 0
+
+	Set TextDisplay5 = New TextDisplay
+	TextDisplay5.Name = "TextDisplay5"
+	TextDisplay5.Tag = ""
+	TextDisplay5.Text = "exemple de main droite...\n(vous devrez alors cliquer à droite)"
+	TextDisplay5.WordWrap = True
+	TextDisplay5.BackStyle = "opaque"
+	TextDisplay5.BackColor = CColor("black")
+	TextDisplay5.BorderColor = CColor("black")
+	TextDisplay5.BorderWidth = CLng("0")
+	TextDisplay5.ForeColor = CColor("white")
+	TextDisplay5.X = "center"
+	TextDisplay5.Y = "center"
+	TextDisplay5.Width = "100%"
+	TextDisplay5.Height = "100%"
+	TextDisplay5.XAlign = "center"
+	TextDisplay5.YAlign = "center"
+	TextDisplay5.AlignVertical = "center"
+	TextDisplay5.AlignHorizontal = "center"
+	TextDisplay5.FontName = "Arial"
+	TextDisplay5.FontSize = "12"
+	TextDisplay5.FontBold = CLogical("Yes")
+	TextDisplay5.FontItalic = CLogical("No")
+	TextDisplay5.FontUnderline = CLogical("No")
+	TextDisplay5.FontStrikeout = CLogical("No")
+	TextDisplay5.ClearAfter = CLogical("No")
+	TextDisplay5.Duration = CLng("2000")
+	TextDisplay5.TimingMode = ebTimingModeEvent
+	TextDisplay5.PreRelease = Val("0")
+
+	TextDisplay5.OnsetSync = 1
+	TextDisplay5.OffsetSync = 0
+
+	Set TextDisplay6 = New TextDisplay
+	TextDisplay6.Name = "TextDisplay6"
+	TextDisplay6.Tag = ""
+
+	Set TextDisplay6EchoClients = New EchoClientCollection
+	TextDisplay6.Text = "répondez le plus vite possible,\nmais en essayant de faire le moins\nd'erreur\n\n(appuyer sur la barre d'espace pour commencer)"
+	TextDisplay6.WordWrap = True
+	TextDisplay6.BackStyle = "opaque"
+	TextDisplay6.BackColor = CColor("black")
+	TextDisplay6.BorderColor = CColor("black")
+	TextDisplay6.BorderWidth = CLng("0")
+	TextDisplay6.ForeColor = CColor("white")
+	TextDisplay6.X = "center"
+	TextDisplay6.Y = "center"
+	TextDisplay6.Width = "100%"
+	TextDisplay6.Height = "100%"
+	TextDisplay6.XAlign = "center"
+	TextDisplay6.YAlign = "center"
+	TextDisplay6.AlignVertical = "center"
+	TextDisplay6.AlignHorizontal = "center"
+	TextDisplay6.FontName = "Arial"
+	TextDisplay6.FontSize = "12"
+	TextDisplay6.FontBold = CLogical("Yes")
+	TextDisplay6.FontItalic = CLogical("No")
+	TextDisplay6.FontUnderline = CLogical("No")
+	TextDisplay6.FontStrikeout = CLogical("No")
+	TextDisplay6.ClearAfter = CLogical("No")
+	TextDisplay6.Duration = CLng("-1")
+	TextDisplay6.TimingMode = ebTimingModeEvent
+	TextDisplay6.PreRelease = Val("0")
+
+	TextDisplay6.OnsetSync = 1
+	TextDisplay6.OffsetSync = 0
+
+	Set TextDisplay7 = New TextDisplay
+	TextDisplay7.Name = "TextDisplay7"
+	TextDisplay7.Tag = ""
+	TextDisplay7.Text = ""
+	TextDisplay7.WordWrap = True
+	TextDisplay7.BackStyle = "opaque"
+	TextDisplay7.BackColor = CColor("black")
+	TextDisplay7.BorderColor = CColor("black")
+	TextDisplay7.BorderWidth = CLng("0")
+	TextDisplay7.ForeColor = CColor("black")
+	TextDisplay7.X = "center"
+	TextDisplay7.Y = "center"
+	TextDisplay7.Width = "100%"
+	TextDisplay7.Height = "100%"
+	TextDisplay7.XAlign = "center"
+	TextDisplay7.YAlign = "center"
+	TextDisplay7.AlignVertical = "center"
+	TextDisplay7.AlignHorizontal = "center"
+	TextDisplay7.FontName = "Courier New"
+	TextDisplay7.FontSize = "18"
+	TextDisplay7.FontBold = CLogical("Yes")
+	TextDisplay7.FontItalic = CLogical("No")
+	TextDisplay7.FontUnderline = CLogical("No")
+	TextDisplay7.FontStrikeout = CLogical("No")
+	TextDisplay7.ClearAfter = CLogical("No")
+	TextDisplay7.Duration = CLng("1000")
+	TextDisplay7.TimingMode = ebTimingModeEvent
+	TextDisplay7.PreRelease = Val("0")
+
+	TextDisplay7.OnsetSync = 1
+	TextDisplay7.OffsetSync = 0
+
+	Set TextDisplay8 = New TextDisplay
+	TextDisplay8.Name = "TextDisplay8"
+	TextDisplay8.Tag = ""
+	TextDisplay8.Text = ""
+	TextDisplay8.WordWrap = True
+	TextDisplay8.BackStyle = "opaque"
+	TextDisplay8.BackColor = CColor("black")
+	TextDisplay8.BorderColor = CColor("black")
+	TextDisplay8.BorderWidth = CLng("0")
+	TextDisplay8.ForeColor = CColor("black")
+	TextDisplay8.X = "center"
+	TextDisplay8.Y = "center"
+	TextDisplay8.Width = "100%"
+	TextDisplay8.Height = "100%"
+	TextDisplay8.XAlign = "center"
+	TextDisplay8.YAlign = "center"
+	TextDisplay8.AlignVertical = "center"
+	TextDisplay8.AlignHorizontal = "center"
+	TextDisplay8.FontName = "Courier New"
+	TextDisplay8.FontSize = "18"
+	TextDisplay8.FontBold = CLogical("Yes")
+	TextDisplay8.FontItalic = CLogical("No")
+	TextDisplay8.FontUnderline = CLogical("No")
+	TextDisplay8.FontStrikeout = CLogical("No")
+	TextDisplay8.ClearAfter = CLogical("No")
+	TextDisplay8.Duration = CLng("1000")
+	TextDisplay8.TimingMode = ebTimingModeEvent
+	TextDisplay8.PreRelease = Val("0")
+
+	TextDisplay8.OnsetSync = 1
+	TextDisplay8.OffsetSync = 0
+
+	Set ListTrainning = New List
+	ListTrainning.Name = "ListTrainning"
+	ListTrainning.Tag = ""
+
+	'Initialization for ListTrainning
+	
+	Set ListTrainning.Order = New RandomOrder
+	Set ListTrainning.Deletion = NoDeletion
+	ListTrainning.ResetEveryRun = False
+
+	' Create the column headings
+	ListTrainning.AddAttrib "image"
+	ListTrainning.AddAttrib "reponse"
+	ListTrainning.Filename = ""
+	ListTrainning.LoadMethod = ebLoadMethodEmbedded
+
+	ListTrainning.Load
+
+	Set ListTrainning.TerminateCondition = Cycles(1)
+	Set ListTrainning.ResetCondition = Samples(10)
+	ListTrainning.Reset
+	
+	Set trainproc = New Procedure
+	trainproc.Name = "trainproc"
+	trainproc.Tag = ""
+	trainproc.Subroutine = "trainproc_Run"
+
+	Set TrainNoir = New TextDisplay
+	TrainNoir.Name = "TrainNoir"
+	TrainNoir.Tag = ""
+	TrainNoir.Text = ""
+	TrainNoir.WordWrap = True
+	TrainNoir.BackStyle = "opaque"
+	TrainNoir.BackColor = CColor("black")
+	TrainNoir.BorderColor = CColor("black")
+	TrainNoir.BorderWidth = CLng("0")
+	TrainNoir.ForeColor = CColor("black")
+	TrainNoir.X = "center"
+	TrainNoir.Y = "center"
+	TrainNoir.Width = "100%"
+	TrainNoir.Height = "100%"
+	TrainNoir.XAlign = "center"
+	TrainNoir.YAlign = "center"
+	TrainNoir.AlignVertical = "center"
+	TrainNoir.AlignHorizontal = "center"
+	TrainNoir.FontName = "Courier New"
+	TrainNoir.FontSize = "18"
+	TrainNoir.FontBold = CLogical("Yes")
+	TrainNoir.FontItalic = CLogical("No")
+	TrainNoir.FontUnderline = CLogical("No")
+	TrainNoir.FontStrikeout = CLogical("No")
+	TrainNoir.ClearAfter = CLogical("No")
+	TrainNoir.Duration = CLng("2000")
+	TrainNoir.TimingMode = ebTimingModeEvent
+	TrainNoir.PreRelease = Val("0")
+
+	TrainNoir.OnsetSync = 1
+	TrainNoir.OffsetSync = 0
+
+	Set TrainMain = New ImageDisplay
+	TrainMain.Name = "TrainMain"
+	TrainMain.Tag = ""
+
+	Set TrainMainEchoClients = New EchoClientCollection
+	TrainMain.Stretch = CLogical("No")
+	TrainMain.MirrorLeftRight = CLogical("No")
+	TrainMain.MirrorUpDown = CLogical("No")
+	TrainMain.BackStyle = "opaque"
+	TrainMain.BackColor = CColor("black")
+	TrainMain.BorderColor = CColor("black")
+	TrainMain.BorderWidth = CLng("0")
+	TrainMain.X = "center"
+	TrainMain.Y = "center"
+	TrainMain.Width = "100%"
+	TrainMain.Height = "100%"
+	TrainMain.XAlign = "center"
+	TrainMain.YAlign = "center"
+	TrainMain.AlignVertical = "center"
+	TrainMain.AlignHorizontal = "center"
+	TrainMain.ClearAfter = CLogical("No")
+	TrainMain.UseSourceColorKey = CLogical("No")
+	TrainMain.SourceColorKey = CColor("black")
+	TrainMain.Duration = CLng("1000")
+	TrainMain.TimingMode = ebTimingModeEvent
+	TrainMain.PreRelease = Val("0")
+
+	TrainMain.OnsetSync = 1
+	TrainMain.OffsetSync = 0
+
+	Set FeedbackDisplay1 = New FeedbackDisplay
+	FeedbackDisplay1.Name = "FeedbackDisplay1"
+	FeedbackDisplay1.Tag = ""
+
+		FeedbackDisplay1.ACCDivisor = "1.0"
+	FeedbackDisplay1.ACCFormat = "Percent"
+	FeedbackDisplay1.RTDivisor = "1000.0"
+	FeedbackDisplay1.RTFormat = "###0.000"
+	FeedbackDisplay1.CorrectRTDivisor = "1000.0"
+	FeedbackDisplay1.CorrectRTFormat = "###0.000"
+	FeedbackDisplay1.IncorrectRTDivisor = "1000.0"
+	FeedbackDisplay1.IncorrectRTFormat = "###0.000"
+	FeedbackDisplay1.CollectNoRespACCStats = True
+	FeedbackDisplay1.Duration = CLng("1500")
+	FeedbackDisplay1.TimingMode = ebTimingModeEvent
+	FeedbackDisplay1.PreRelease = Val("0")
+
+	FeedbackDisplay1.OnsetSync = 1
+	FeedbackDisplay1.OffsetSync = 0
+
+	Set FeedbackDisplay1_State = New SlideState
+	FeedbackDisplay1_State.Name = "Correct"
+	FeedbackDisplay1_State.X = "center"
+	FeedbackDisplay1_State.Y = "center"
+	FeedbackDisplay1_State.Width = "100%"
+	FeedbackDisplay1_State.Height = "100%"
+	FeedbackDisplay1_State.XAlign = "center"
+	FeedbackDisplay1_State.YAlign = "center"
+	FeedbackDisplay1_State.BorderColor = CColor("black")
+	FeedbackDisplay1_State.BorderWidth = CLng("0")
+	FeedbackDisplay1_State.BackColor = CColor("black")
+	FeedbackDisplay1_State.BackStyle = "opaque"
+	FeedbackDisplay1_State.ClearAfter = CLogical("No")
+	FeedbackDisplay1_State.Enabled = CLogical("Yes")
+
+	FeedbackDisplay1.States.Add FeedbackDisplay1_State, "Correct"
+
+	
+	Set FeedbackDisplay1_SlideText = New SlideText
+	FeedbackDisplay1_SlideText.Name = "Text3"
+	FeedbackDisplay1_SlideText.X = "center"
+	FeedbackDisplay1_SlideText.Y = "45%"
+	FeedbackDisplay1_SlideText.Width = "75%"
+	FeedbackDisplay1_SlideText.Height = "10%"
+	FeedbackDisplay1_SlideText.ForeColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackStyle = "transparent"
+	FeedbackDisplay1_SlideText.WordWrap = True
+	FeedbackDisplay1_SlideText.BorderColor = CColor("black")
+	FeedbackDisplay1_SlideText.BorderWidth = CLng("0")
+	FeedbackDisplay1_SlideText.XAlign = "center"
+	FeedbackDisplay1_SlideText.YAlign = "center"
+	FeedbackDisplay1_SlideText.AlignHorizontal = "left"
+	FeedbackDisplay1_SlideText.AlignVertical = "center"
+	FeedbackDisplay1_SlideText.FontName = "Courier New"
+	FeedbackDisplay1_SlideText.FontSize = "18"
+	FeedbackDisplay1_SlideText.FontBold = CLogical("Yes")
+	FeedbackDisplay1_SlideText.FontItalic = CLogical("No")
+	FeedbackDisplay1_SlideText.FontUnderline = CLogical("No")
+	FeedbackDisplay1_SlideText.FontStrikeout = CLogical("No")
+	FeedbackDisplay1.States.Item("Correct").Objects.Add FeedbackDisplay1_SlideText, "Text3"
+
+	Set FeedbackDisplay1_SlideText = New SlideText
+	FeedbackDisplay1_SlideText.Name = "Text2"
+	FeedbackDisplay1_SlideText.X = "center"
+	FeedbackDisplay1_SlideText.Y = "35%"
+	FeedbackDisplay1_SlideText.Width = "75%"
+	FeedbackDisplay1_SlideText.Height = "10%"
+	FeedbackDisplay1_SlideText.ForeColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackStyle = "transparent"
+	FeedbackDisplay1_SlideText.WordWrap = True
+	FeedbackDisplay1_SlideText.BorderColor = CColor("black")
+	FeedbackDisplay1_SlideText.BorderWidth = CLng("0")
+	FeedbackDisplay1_SlideText.XAlign = "center"
+	FeedbackDisplay1_SlideText.YAlign = "center"
+	FeedbackDisplay1_SlideText.AlignHorizontal = "left"
+	FeedbackDisplay1_SlideText.AlignVertical = "center"
+	FeedbackDisplay1_SlideText.FontName = "Courier New"
+	FeedbackDisplay1_SlideText.FontSize = "18"
+	FeedbackDisplay1_SlideText.FontBold = CLogical("Yes")
+	FeedbackDisplay1_SlideText.FontItalic = CLogical("No")
+	FeedbackDisplay1_SlideText.FontUnderline = CLogical("No")
+	FeedbackDisplay1_SlideText.FontStrikeout = CLogical("No")
+	FeedbackDisplay1.States.Item("Correct").Objects.Add FeedbackDisplay1_SlideText, "Text2"
+
+	Set FeedbackDisplay1_SlideText = New SlideText
+	FeedbackDisplay1_SlideText.Name = "Text1"
+	FeedbackDisplay1_SlideText.Text = "Correct!"
+	FeedbackDisplay1_SlideText.X = "center"
+	FeedbackDisplay1_SlideText.Y = "20%"
+	FeedbackDisplay1_SlideText.Width = "75%"
+	FeedbackDisplay1_SlideText.Height = "10%"
+	FeedbackDisplay1_SlideText.ForeColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackStyle = "transparent"
+	FeedbackDisplay1_SlideText.WordWrap = True
+	FeedbackDisplay1_SlideText.BorderColor = CColor("black")
+	FeedbackDisplay1_SlideText.BorderWidth = CLng("0")
+	FeedbackDisplay1_SlideText.XAlign = "center"
+	FeedbackDisplay1_SlideText.YAlign = "center"
+	FeedbackDisplay1_SlideText.AlignHorizontal = "left"
+	FeedbackDisplay1_SlideText.AlignVertical = "center"
+	FeedbackDisplay1_SlideText.FontName = "Courier New"
+	FeedbackDisplay1_SlideText.FontSize = "18"
+	FeedbackDisplay1_SlideText.FontBold = CLogical("Yes")
+	FeedbackDisplay1_SlideText.FontItalic = CLogical("No")
+	FeedbackDisplay1_SlideText.FontUnderline = CLogical("No")
+	FeedbackDisplay1_SlideText.FontStrikeout = CLogical("No")
+	FeedbackDisplay1.States.Item("Correct").Objects.Add FeedbackDisplay1_SlideText, "Text1"
+
+	Set FeedbackDisplay1_State = New SlideState
+	FeedbackDisplay1_State.Name = "Incorrect"
+	FeedbackDisplay1_State.X = "center"
+	FeedbackDisplay1_State.Y = "center"
+	FeedbackDisplay1_State.Width = "100%"
+	FeedbackDisplay1_State.Height = "100%"
+	FeedbackDisplay1_State.XAlign = "center"
+	FeedbackDisplay1_State.YAlign = "center"
+	FeedbackDisplay1_State.BorderColor = CColor("black")
+	FeedbackDisplay1_State.BorderWidth = CLng("0")
+	FeedbackDisplay1_State.BackColor = CColor("black")
+	FeedbackDisplay1_State.BackStyle = "opaque"
+	FeedbackDisplay1_State.ClearAfter = CLogical("No")
+	FeedbackDisplay1_State.Enabled = CLogical("Yes")
+
+	FeedbackDisplay1.States.Add FeedbackDisplay1_State, "Incorrect"
+
+	
+	Set FeedbackDisplay1_SlideText = New SlideText
+	FeedbackDisplay1_SlideText.Name = "Text3"
+	FeedbackDisplay1_SlideText.X = "center"
+	FeedbackDisplay1_SlideText.Y = "45%"
+	FeedbackDisplay1_SlideText.Width = "75%"
+	FeedbackDisplay1_SlideText.Height = "10%"
+	FeedbackDisplay1_SlideText.ForeColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackStyle = "transparent"
+	FeedbackDisplay1_SlideText.WordWrap = True
+	FeedbackDisplay1_SlideText.BorderColor = CColor("black")
+	FeedbackDisplay1_SlideText.BorderWidth = CLng("0")
+	FeedbackDisplay1_SlideText.XAlign = "center"
+	FeedbackDisplay1_SlideText.YAlign = "center"
+	FeedbackDisplay1_SlideText.AlignHorizontal = "left"
+	FeedbackDisplay1_SlideText.AlignVertical = "center"
+	FeedbackDisplay1_SlideText.FontName = "Courier New"
+	FeedbackDisplay1_SlideText.FontSize = "18"
+	FeedbackDisplay1_SlideText.FontBold = CLogical("Yes")
+	FeedbackDisplay1_SlideText.FontItalic = CLogical("No")
+	FeedbackDisplay1_SlideText.FontUnderline = CLogical("No")
+	FeedbackDisplay1_SlideText.FontStrikeout = CLogical("No")
+	FeedbackDisplay1.States.Item("Incorrect").Objects.Add FeedbackDisplay1_SlideText, "Text3"
+
+	Set FeedbackDisplay1_SlideText = New SlideText
+	FeedbackDisplay1_SlideText.Name = "Text2"
+	FeedbackDisplay1_SlideText.X = "center"
+	FeedbackDisplay1_SlideText.Y = "35%"
+	FeedbackDisplay1_SlideText.Width = "75%"
+	FeedbackDisplay1_SlideText.Height = "10%"
+	FeedbackDisplay1_SlideText.ForeColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackStyle = "transparent"
+	FeedbackDisplay1_SlideText.WordWrap = True
+	FeedbackDisplay1_SlideText.BorderColor = CColor("black")
+	FeedbackDisplay1_SlideText.BorderWidth = CLng("0")
+	FeedbackDisplay1_SlideText.XAlign = "center"
+	FeedbackDisplay1_SlideText.YAlign = "center"
+	FeedbackDisplay1_SlideText.AlignHorizontal = "left"
+	FeedbackDisplay1_SlideText.AlignVertical = "center"
+	FeedbackDisplay1_SlideText.FontName = "Courier New"
+	FeedbackDisplay1_SlideText.FontSize = "18"
+	FeedbackDisplay1_SlideText.FontBold = CLogical("Yes")
+	FeedbackDisplay1_SlideText.FontItalic = CLogical("No")
+	FeedbackDisplay1_SlideText.FontUnderline = CLogical("No")
+	FeedbackDisplay1_SlideText.FontStrikeout = CLogical("No")
+	FeedbackDisplay1.States.Item("Incorrect").Objects.Add FeedbackDisplay1_SlideText, "Text2"
+
+	Set FeedbackDisplay1_SlideText = New SlideText
+	FeedbackDisplay1_SlideText.Name = "Text1"
+	FeedbackDisplay1_SlideText.Text = "Incorrect"
+	FeedbackDisplay1_SlideText.X = "center"
+	FeedbackDisplay1_SlideText.Y = "20%"
+	FeedbackDisplay1_SlideText.Width = "75%"
+	FeedbackDisplay1_SlideText.Height = "10%"
+	FeedbackDisplay1_SlideText.ForeColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackStyle = "transparent"
+	FeedbackDisplay1_SlideText.WordWrap = True
+	FeedbackDisplay1_SlideText.BorderColor = CColor("black")
+	FeedbackDisplay1_SlideText.BorderWidth = CLng("0")
+	FeedbackDisplay1_SlideText.XAlign = "center"
+	FeedbackDisplay1_SlideText.YAlign = "center"
+	FeedbackDisplay1_SlideText.AlignHorizontal = "left"
+	FeedbackDisplay1_SlideText.AlignVertical = "center"
+	FeedbackDisplay1_SlideText.FontName = "Courier New"
+	FeedbackDisplay1_SlideText.FontSize = "18"
+	FeedbackDisplay1_SlideText.FontBold = CLogical("Yes")
+	FeedbackDisplay1_SlideText.FontItalic = CLogical("No")
+	FeedbackDisplay1_SlideText.FontUnderline = CLogical("No")
+	FeedbackDisplay1_SlideText.FontStrikeout = CLogical("No")
+	FeedbackDisplay1.States.Item("Incorrect").Objects.Add FeedbackDisplay1_SlideText, "Text1"
+
+	Set FeedbackDisplay1_State = New SlideState
+	FeedbackDisplay1_State.Name = "NoResponse"
+	FeedbackDisplay1_State.X = "center"
+	FeedbackDisplay1_State.Y = "center"
+	FeedbackDisplay1_State.Width = "100%"
+	FeedbackDisplay1_State.Height = "100%"
+	FeedbackDisplay1_State.XAlign = "center"
+	FeedbackDisplay1_State.YAlign = "center"
+	FeedbackDisplay1_State.BorderColor = CColor("black")
+	FeedbackDisplay1_State.BorderWidth = CLng("0")
+	FeedbackDisplay1_State.BackColor = CColor("black")
+	FeedbackDisplay1_State.BackStyle = "opaque"
+	FeedbackDisplay1_State.ClearAfter = CLogical("No")
+	FeedbackDisplay1_State.Enabled = CLogical("Yes")
+
+	FeedbackDisplay1.States.Add FeedbackDisplay1_State, "NoResponse"
+
+	
+	Set FeedbackDisplay1_SlideText = New SlideText
+	FeedbackDisplay1_SlideText.Name = "Text1"
+	FeedbackDisplay1_SlideText.Text = "Pas de réponse détectée"
+	FeedbackDisplay1_SlideText.X = "center"
+	FeedbackDisplay1_SlideText.Y = "20%"
+	FeedbackDisplay1_SlideText.Width = "75%"
+	FeedbackDisplay1_SlideText.Height = "10%"
+	FeedbackDisplay1_SlideText.ForeColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackColor = CColor("white")
+	FeedbackDisplay1_SlideText.BackStyle = "transparent"
+	FeedbackDisplay1_SlideText.WordWrap = True
+	FeedbackDisplay1_SlideText.BorderColor = CColor("black")
+	FeedbackDisplay1_SlideText.BorderWidth = CLng("0")
+	FeedbackDisplay1_SlideText.XAlign = "center"
+	FeedbackDisplay1_SlideText.YAlign = "center"
+	FeedbackDisplay1_SlideText.AlignHorizontal = "left"
+	FeedbackDisplay1_SlideText.AlignVertical = "center"
+	FeedbackDisplay1_SlideText.FontName = "Courier New"
+	FeedbackDisplay1_SlideText.FontSize = "18"
+	FeedbackDisplay1_SlideText.FontBold = CLogical("Yes")
+	FeedbackDisplay1_SlideText.FontItalic = CLogical("No")
+	FeedbackDisplay1_SlideText.FontUnderline = CLogical("No")
+	FeedbackDisplay1_SlideText.FontStrikeout = CLogical("No")
+	FeedbackDisplay1.States.Item("NoResponse").Objects.Add FeedbackDisplay1_SlideText, "Text1"
+
+	Set FeedbackDisplay1_State = New SlideState
+	FeedbackDisplay1_State.Name = "Pending"
+	FeedbackDisplay1_State.X = "center"
+	FeedbackDisplay1_State.Y = "center"
+	FeedbackDisplay1_State.Width = "100%"
+	FeedbackDisplay1_State.Height = "100%"
+	FeedbackDisplay1_State.XAlign = "center"
+	FeedbackDisplay1_State.YAlign = "center"
+	FeedbackDisplay1_State.BorderColor = CColor("black")
+	FeedbackDisplay1_State.BorderWidth = CLng("0")
+	FeedbackDisplay1_State.BackColor = CColor("white")
+	FeedbackDisplay1_State.BackStyle = "opaque"
+	FeedbackDisplay1_State.ClearAfter = CLogical("No")
+	FeedbackDisplay1_State.Enabled = CLogical("Yes")
+
+	FeedbackDisplay1.States.Add FeedbackDisplay1_State, "Pending"
+
+	
+
+End Sub
+
+
+'--------------------------------------------------------------------------
+' InitPackages
+'
+'--------------------------------------------------------------------------
+Sub InitPackages(c As Context)
+
+End Sub
+
+
+
+'--------------------------------------------------------------------------
+'--------------------------------------------------------------------------
+' UnInitDevices
+'--------------------------------------------------------------------------
+Sub UnInitDevices()
+	Display.Close
+	Set Display = Nothing
+
+	Keyboard.Close
+	Set Keyboard = Nothing
+
+	Mouse.Close
+	Set Mouse = Nothing
+
+
+	Port.Close
+	End Sub
+
+
+'--------------------------------------------------------------------------
+'--------------------------------------------------------------------------
+' UnInitPackages
+'--------------------------------------------------------------------------
+Sub UnInitPackages()
+End Sub
+
+
+'--------------------------------------------------------------------------
+' UnInitObjects
+'
+'--------------------------------------------------------------------------
+Sub UnInitObjects()
+
+	Set SessionProc = Nothing
+
+	Set ListTrials = Nothing
+
+	Set trialproc = Nothing
+
+	Set Main = Nothing
+
+	Set MainEchoClients = Nothing
+
+	Set Noir = Nothing
+
+	Set ImageDisplay2 = Nothing
+
+	Set ImageDisplay2EchoClients = Nothing
+
+	Set ImageDisplay3 = Nothing
+
+	Set ImageDisplay3EchoClients = Nothing
+
+	Set TextDisplay2 = Nothing
+
+	Set TextDisplay2EchoClients = Nothing
+
+	Set TextDisplay4 = Nothing
+
+	Set TextDisplay5 = Nothing
+
+	Set TextDisplay6 = Nothing
+
+	Set TextDisplay6EchoClients = Nothing
+
+	Set TextDisplay7 = Nothing
+
+	Set TextDisplay8 = Nothing
+
+	Set ListTrainning = Nothing
+
+	Set trainproc = Nothing
+
+	Set TrainNoir = Nothing
+
+	Set TrainMain = Nothing
+
+	Set TrainMainEchoClients = Nothing
+
+	Set FeedbackDisplay1 = Nothing
+
+
+End Sub
+
+
+'--------------------------------------------------------------------------
+' Main
+'
+'--------------------------------------------------------------------------
+Sub Main()
+
+	CreateDefaultPort
+
+	' Create and initialize the default context, data file,
+	' and provide global access to the context.
+	Dim c As Context
+	Set c = New Context
+	Set c.DataFile = New DataFile
+	c.PushNewFrame
+	Set ebContext = c
+
+	' Set the log level names
+	c.SetLogLevelName 1, "Session"
+	c.SetLogLevelName 2, "Block"
+	c.SetLogLevelName 3, "Trial"
+	c.SetLogLevelName 4, "SubTrial"
+	c.SetLogLevelName 5, "LogLevel5"
+	c.SetLogLevelName 6, "LogLevel6"
+	c.SetLogLevelName 7, "LogLevel7"
+	c.SetLogLevelName 8, "LogLevel8"
+	c.SetLogLevelName 9, "LogLevel9"
+	c.SetLogLevelName 10, "LogLevel10"
+
+	' Set standard logging items
+	ebContext.SetAttrib "Experiment", "LeftRightTest"
+	ebContext.SetAttrib "SessionDate", Date$
+	ebContext.SetAttrib "SessionTime", Time$
+	ebContext.SetAttrib "RandomSeed", PRNG.GetSeed()
+
+	If Basic.OS = ebWin32 Then
+		WinActivate "E-Run Experiment Window"
+	End If
+
+	' Get the StartupInfo
+	' Set default for GroupNumber
+	c.SetAttrib "Group", "1"
+
+
+	' Set the defaults for all of the StartupInfo
+	c.SetAttrib "Subject", "1"
+	c.SetAttrib "Session", "1"
+
+	Dim vAnswer As Variant
+StartupInfo_Begin:
+
+StartupInfoPrompt_Subject:
+	vAnswer = AskBox("Please enter the Subject Number (1-32767, 0=No Data Logging):", c.GetAttrib("Subject"))
+	If Not IsEmpty(vAnswer) then
+		If Not IsNumeric(vAnswer) then
+			MsgBox "Please enter an integer value"
+			GoTo StartupInfoPrompt_Subject
+		ElseIf CLng(vAnswer) < 0 Then
+			MsgBox "The value for Subject must not be less than 0"
+			GoTo StartupInfoPrompt_Subject
+		ElseIf CLng(vAnswer) > 32767 Then
+			MsgBox "The value for Subject must be not be greater than 32767"
+			GoTo StartupInfoPrompt_Subject
+		End If
+	Else
+		GoTo ExperimentAbort
+	End if
+
+	c.SetAttrib "Subject", CStr(vAnswer)
+
+StartupInfoPrompt_Session:
+	vAnswer = AskBox("Please enter the Session Number (0-32767):", c.GetAttrib("Session"))
+	If Not IsEmpty(vAnswer) then
+		If Not IsNumeric(vAnswer) then
+			MsgBox "Please enter an integer value"
+			GoTo StartupInfoPrompt_Session
+		ElseIf CLng(vAnswer) < 0 Then
+			MsgBox "The value for Session must not be less than 0"
+			GoTo StartupInfoPrompt_Session
+		ElseIf CLng(vAnswer) > 32767 Then
+			MsgBox "The value for Session must be not be greater than 32767"
+			GoTo StartupInfoPrompt_Session
+		End If
+	Else
+		GoTo ExperimentAbort
+	End if
+
+	c.SetAttrib "Session", CStr(vAnswer)
+
+	' Display the summary
+	Dim strSummary As String
+	strSummary = "Subject:    " & c.GetAttrib("Subject") & "\n"
+	strSummary = strSummary & "Session:    " & c.GetAttrib("Session") & "\n"
+	strSummary = strSummary & "\nContinue with the above startup info?"
+
+	Dim nSummaryAnswer As Integer
+	nSummaryAnswer = MsgBox(strSummary, ebYesNoCancel + ebQuestion, "Summary of Startup Info")
+	If nSummaryAnswer = ebNo Then
+		GoTo StartupInfo_Begin
+	ElseIf nSummaryAnswer = ebCancel Then
+		GoTo ExperimentAbort
+	End If
+
+
+	' Set the default Data Filename
+	c.DataFile.Filename = CStr(c.GetAttrib("Experiment")) & "-" & CStr(c.GetAttrib("Subject")) & "-" & CStr(c.GetAttrib("Session")) & ".txt"
+
+	' If we are logging data, then prompt to overwrite the data file if it exists
+	If CLng(c.GetAttrib("Subject")) <> 0 Then
+		If FileExists(c.DataFile.Filename) Then
+			If ebYes <> MsgBox("WARNING: The data file and/or recovery file already exists:\nFILE: " & c.DataFile.Filename & "\n\nDo you want to overwrite?", ebYesNo + ebQuestion) Then
+				GoTo ExperimentAbort
+			End If
+		End If
+	End If
+
+	' Initialize all system devices, packages, and objects
+	InitDevices c
+	InitPackages c
+	InitObjects c
+
+	' If we are logging data, then open the datafile
+	If CLng(c.GetAttrib("Subject")) <> 0 Then
+		c.DataFile.Open
+		c.LogHeader
+	End If
+
+	' Start the running of the Experiment
+	SessionProc.Run c
+
+	' Clean up the context and close the datafile
+	If CLng(c.GetAttrib("Subject")) <> 0 Then
+		c.DataFile.Close
+		' Attempt to convert the recovery file into a data file
+		Dim nConvert As Long
+		nConvert = c.DataFile.Convert(ebProgressSimple)
+		If nConvert = 0 Then
+			' Settings in E-Studio are set to not remove E-Recovery file
+		Else
+			' The datafile failed to convert!
+			MsgBox "ERROR: The datafile did not convert!\nFILE: " & c.DataFile.Filename & "\n\nIt is recommended that you recover your data with the E-Recovery utility"
+			MsgBox c.DataFile.GetLastErrorMessage()
+		End If
+	End If
+ExperimentFinish:
+
+	UnInitObjects
+
+	UnInitPackages
+	UnInitDevices
+
+ExperimentAbort:
+
+	' Clean up the context
+	c.PopFrame
+	Set c = Nothing
+	Set ebContext = Nothing
+
+	DestroyDefaultPort
+
+End Sub
+
+
+[DataSection_ListTrials(1)]
+Weight	Nested	Procedure	image	reponse
+1		trialproc	mainD1.bmp	8
+1		trialproc	mainD2.bmp	8
+1		trialproc	mainD3.bmp	8
+1		trialproc	mainD4.bmp	8
+1		trialproc	mainD5.bmp	8
+1		trialproc	mainD6.bmp	8
+1		trialproc	mainD7.bmp	8
+1		trialproc	mainD8.bmp	8
+1		trialproc	mainD9.bmp	8
+1		trialproc	mainD10.bmp	8
+1		trialproc	mainD11.bmp	8
+1		trialproc	mainD12.bmp	8
+1		trialproc	mainD13.bmp	8
+1		trialproc	mainD14.bmp	8
+1		trialproc	mainD15.bmp	8
+1		trialproc	mainG1.bmp	4
+1		trialproc	mainG2.bmp	4
+1		trialproc	mainG3.bmp	4
+1		trialproc	mainG4.bmp	4
+1		trialproc	mainG5.bmp	4
+1		trialproc	mainG6.bmp	4
+1		trialproc	mainG7.bmp	4
+1		trialproc	mainG8.bmp	4
+1		trialproc	mainG9.bmp	4
+1		trialproc	mainG10.bmp	4
+1		trialproc	mainG11.bmp	4
+1		trialproc	mainG12.bmp	4
+1		trialproc	mainG13.bmp	4
+1		trialproc	mainG14.bmp	4
+1		trialproc	mainG15.bmp	4\0
+
+[DataSection_ListTrainning(1)]
+Weight	Nested	Procedure	image	reponse
+1		trainproc	mainD1.bmp	8
+1		trainproc	mainD2.bmp	8
+1		trainproc	mainD3.bmp	8
+1		trainproc	mainD4.bmp	8
+1		trainproc	mainD5.bmp	8
+1		trainproc	mainG1.bmp	4
+1		trainproc	mainG2.bmp	4
+1		trainproc	mainG3.bmp	4
+1		trainproc	mainG4.bmp	4
+1		trainproc	mainG5.bmp	4\0

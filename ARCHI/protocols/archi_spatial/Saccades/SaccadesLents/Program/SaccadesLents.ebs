@@ -1,0 +1,1367 @@
+'
+'
+'
+'	D:\Phil_Labo\Spatial\Saccades\SaccadesLents\Program\SaccadesLents.ebs
+'	Generated on: 2/2/2010	12:44:42
+'
+'
+'	This file generated with E-Studio interface.
+'	E-Prime Copyright © 2002 Psychology Software Tools.
+'	ALL RIGHTS RESERVED
+
+'	Legal use of this experiment script requires a full E-Prime or Runtime License.
+'
+'
+'	Author:
+'		  (INSERM)
+'
+'
+'
+'
+
+Option CStrings On
+Dim ebContext as Context
+
+
+'--------------------------------------------------------------------------
+' Class Declarations
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+'InitTextDisplayDefaults
+'--------------------------------------------------------------------------
+Sub InitTextDisplayDefaults(theTextDisplay As TextDisplay)
+
+	If theTextDisplay Is Nothing Then Exit Sub
+
+	theTextDisplay.X = "center"
+	theTextDisplay.Y = "center"
+	theTextDisplay.Width = "100%"
+	theTextDisplay.Height = "100%"
+	theTextDisplay.ForeColor = CColor("black")
+	theTextDisplay.BackColor = CColor("white")
+	theTextDisplay.BackStyle = "opaque"
+	theTextDisplay.BorderColor = CColor("black")
+	theTextDisplay.BorderWidth = CLng("0")
+	theTextDisplay.XAlign = "center"
+	theTextDisplay.YAlign = "center"
+	theTextDisplay.AlignHorizontal = "center"
+	theTextDisplay.AlignVertical = "center"
+	theTextDisplay.WordWrap = True
+	theTextDisplay.ClearAfter = CLogical("No")
+	theTextDisplay.FontName = "Courier New"
+	theTextDisplay.FontSize = "18"
+	theTextDisplay.FontBold = CLogical("Yes")
+	theTextDisplay.FontItalic = CLogical("No")
+	theTextDisplay.FontUnderline = CLogical("No")
+	theTextDisplay.FontStrikeout = CLogical("No")
+
+End Sub
+
+
+
+
+
+
+
+
+
+'--------------------------------------------------------------------------
+'InitSlideStateDefaults
+'--------------------------------------------------------------------------
+Sub InitSlideStateDefaults(theSlideState As SlideState)
+
+	If theSlideState Is Nothing Then Exit Sub
+
+	theSlideState.X = "center"
+	theSlideState.Y = "center"
+	theSlideState.Width = "100%"
+	theSlideState.Height = "100%"
+	theSlideState.BackColor = CColor("white")
+	theSlideState.BackStyle = "opaque"
+	theSlideState.BorderColor = CColor("black")
+	theSlideState.BorderWidth = CLng("0")
+	theSlideState.XAlign = "center"
+	theSlideState.YAlign = "center"
+	theSlideState.ClearAfter = CLogical("No")
+	theSlideState.Enabled = CLogical("Yes")
+
+End Sub
+
+'--------------------------------------------------------------------------
+'InitSlideVisualStimDefaults
+'--------------------------------------------------------------------------
+Sub InitSlideVisualStimDefaults(theSlideVisualStim As SlideVisualStim)
+
+	If theSlideVisualStim Is Nothing Then Exit Sub
+
+	theSlideVisualStim.X = "center"
+	theSlideVisualStim.Y = "center"
+	theSlideVisualStim.Width = "25%"
+	theSlideVisualStim.Height = "25%"
+	theSlideVisualStim.ForeColor = CColor("black")
+	theSlideVisualStim.BackColor = CColor("white")
+	theSlideVisualStim.BackStyle = "opaque"
+	theSlideVisualStim.BorderColor = CColor("black")
+	theSlideVisualStim.BorderWidth = CLng("0")
+	theSlideVisualStim.XAlign = "center"
+	theSlideVisualStim.YAlign = "center"
+	theSlideVisualStim.AlignHorizontal = "center"
+	theSlideVisualStim.AlignVertical = "center"
+
+End Sub
+
+'--------------------------------------------------------------------------
+'InitSlideTextDefaults
+'--------------------------------------------------------------------------
+Sub InitSlideTextDefaults(theSlideText As SlideText)
+
+	If theSlideText Is Nothing Then Exit Sub
+
+	InitSlideVisualStimDefaults theSlideText
+
+	theSlideText.WordWrap = True
+	theSlideText.FontName = "Courier New"
+	theSlideText.FontSize = "18"
+	theSlideText.FontBold = CLogical("Yes")
+	theSlideText.FontItalic = CLogical("No")
+	theSlideText.FontUnderline = CLogical("No")
+	theSlideText.FontStrikeout = CLogical("No")
+
+End Sub
+
+'--------------------------------------------------------------------------
+'InitSlideImageDefaults
+'--------------------------------------------------------------------------
+Sub InitSlideImageDefaults(theSlideImage As SlideImage)
+
+	If theSlideImage Is Nothing Then Exit Sub
+
+	InitSlideVisualStimDefaults theSlideImage
+
+	theSlideImage.Stretch = CLogical("No")
+	theSlideImage.MirrorLeftRight = CLogical("No")
+	theSlideImage.MirrorUpDown = CLogical("No")
+	theSlideImage.UseSourceColorKey = CLogical("No")
+	theSlideImage.SourceColorKey = CColor("black")
+
+End Sub
+
+'--------------------------------------------------------------------------
+'InitSlideSoundBufferDefaults
+'--------------------------------------------------------------------------
+Sub InitSlideSoundBufferDefaults(theSoundBuffer As SoundBuffer)
+
+	If theSoundBuffer Is Nothing Then Exit Sub
+
+	theSoundBuffer.Loop = CLogical("No")
+	theSoundBuffer.StopAfter = CLogical("Yes")
+	theSoundBuffer.StartOffset = "0"
+	theSoundBuffer.StopOffset = "0"
+
+End Sub
+
+
+
+
+
+
+
+
+
+
+'--------------------------------------------------------------------------
+' Instance Declarations
+'--------------------------------------------------------------------------
+Dim Display As DisplayDevice
+Dim Sound As SoundDevice
+Dim Keyboard As KeyboardDevice
+Dim Mouse As MouseDevice
+Dim Port As PortDevice
+Dim MainProc As Procedure
+
+Dim ListOfRuns As List
+
+Dim RunsProc As Procedure
+
+Dim ListOfTrials As List
+
+Dim Stimuli As Procedure
+
+Dim WelcomeScreen As TextDisplay
+Dim WelcomeScreenEchoClients As EchoClientCollection
+
+Dim WaitTTL As TextDisplay
+Dim WaitTTLEchoClients As EchoClientCollection
+
+Dim GoodBye As TextDisplay
+
+Dim AskRerun As TextDisplay
+Dim AskRerunEchoClients As EchoClientCollection
+
+Dim Fixation As TextDisplay
+
+Dim ReturntoFixation As Slide
+Dim ReturntoFixation_State As SlideState
+Dim ReturntoFixation_SlideText As SlideText
+
+Dim SaccadeTarget1 As Slide
+Dim SaccadeTarget1_State As SlideState
+Dim SaccadeTarget1_SlideText As SlideText
+
+Dim SaccadeTarget2 As Slide
+Dim SaccadeTarget2_State As SlideState
+Dim SaccadeTarget2_SlideText As SlideText
+
+Dim SaccadeTarget3 As Slide
+Dim SaccadeTarget3_State As SlideState
+Dim SaccadeTarget3_SlideText As SlideText
+
+Dim SaccadeTarget4 As Slide
+Dim SaccadeTarget4_State As SlideState
+Dim SaccadeTarget4_SlideText As SlideText
+
+Dim EndFixation As TextDisplay
+
+Dim SaccadeTargetDelay As Slide
+Dim SaccadeTargetDelay_State As SlideState
+Dim SaccadeTargetDelay_SlideText As SlideText
+
+
+
+'--------------------------------------------------------------------------
+' Package Declare Script
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' User Script
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' Package Global Script
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' Package Routines
+'--------------------------------------------------------------------------
+
+
+
+'--------------------------------------------------------------------------
+' Implementation
+'--------------------------------------------------------------------------
+Sub MainProc_Run(c as Context)
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLStop BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 0
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLStop END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	
+	WelcomeScreen.InputMasks.Reset
+	
+	WelcomeScreenEchoClients.RemoveAll
+	WelcomeScreen.InputMasks.Add Keyboard.CreateInputMask("{ANY}", "", CLng(WelcomeScreen.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "ResponseMode:All ProcessBackspace:Yes")
+
+	
+	WelcomeScreen.Run
+	
+	''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+	'	Label - StartLabel BEGIN
+	''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+StartLabel:
+	If Err.Number = ebInputAccepted Then
+		Err.Clear
+		Resume StartLabelResume
+	ElseIf Err.Number <> 0 Then
+		'NOTE: If you receive a runtime error here, it
+		' is because a runtime error other than ebInputAccepted
+		' was thrown (ebInputAccepted for catching input masks that jump).
+		'You are encouraged to either handle the error so that
+		' it is not thrown in the future or will have to set up
+		' your own error handler, which will also need to take
+		' into account for any input masks that jump.
+		'
+		'Raise the error so the default error handler will show the message
+		Err.Raise Err.Number
+	End If
+
+StartLabelResume:
+
+	''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+	'	Label - StartLabel END
+	''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
+
+	ListOfRuns.Run c
+	
+	
+	AskRerun.InputMasks.Reset
+	
+	AskRerunEchoClients.RemoveAll
+	AskRerun.InputMasks.Add Keyboard.CreateInputMask("rq", "", CLng(AskRerun.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "ResponseMode:All ProcessBackspace:Yes")
+
+	
+	AskRerun.Run
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - GotoRerun BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	If AskRerun.RESP="r" Then 
+  Goto StartLabel
+End If
+
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - GotoRerun END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	GoodBye.Run
+
+	c.Log
+End Sub
+
+Sub RunsProc_Run(c as Context)
+	
+	
+	WaitTTL.InputMasks.Reset
+	
+	WaitTTLEchoClients.RemoveAll
+	WaitTTL.InputMasks.Add Keyboard.CreateInputMask("st", "", CLng(WaitTTL.Duration), CLng("1"), ebEndResponseActionTerminate, CLogical("Yes"), "", "", "ResponseMode:All ProcessBackspace:Yes")
+
+	
+	WaitTTL.Run
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - AbortRun BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' Abort this run if user break
+If WaitTTL.RESP="s" Then 
+  End
+End If
+
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - AbortRun END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTL BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 1
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTL END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	Fixation.Run
+	c.SetAttrib "Fixation.OnsetDelay", Fixation.OnsetDelay
+	c.SetAttrib "Fixation.OnsetTime", Fixation.OnsetTime
+	c.SetAttrib "Fixation.DurationError", Fixation.DurationError
+	
+	ListOfTrials.Run c
+	
+	EndFixation.Run
+	c.SetAttrib "EndFixation.OnsetDelay", EndFixation.OnsetDelay
+	c.SetAttrib "EndFixation.OnsetTime", EndFixation.OnsetTime
+	c.SetAttrib "EndFixation.DurationError", EndFixation.DurationError
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTL2 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 0
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTL2 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	c.SetAttrib "Fixation.OnsetDelay", Fixation.OnsetDelay
+	c.SetAttrib "Fixation.OnsetTime", Fixation.OnsetTime
+	c.SetAttrib "Fixation.DurationError", Fixation.DurationError
+	
+	c.SetAttrib "EndFixation.OnsetDelay", EndFixation.OnsetDelay
+	c.SetAttrib "EndFixation.OnsetTime", EndFixation.OnsetTime
+	c.SetAttrib "EndFixation.DurationError", EndFixation.DurationError
+	
+
+	c.Log
+End Sub
+
+Sub Stimuli_Run(c as Context)
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget1 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	c.SetAttrib "LocationX1", c.GetAttrib("TargetLocationX1")*1.6 + Random(0,16) - 8
+c.setAttrib "LocationY1", 384 + Random(0,10) - 5
+c.setAttrib "TargetDur1", c.GetAttrib("TargetDuration") / 4
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget1 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg1 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 3
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg1 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	
+	Select Case SaccadeTarget1.ActiveState
+		Case "Default"
+
+
+			Set SaccadeTarget1_SlideText = CSlideText(SaccadeTarget1.States.Item("Default").Objects(1))
+			SaccadeTarget1_SlideText.X = c.GetAttrib("locationX1")
+			SaccadeTarget1_SlideText.Y = c.GetAttrib("locationY1")
+			Set SaccadeTarget1_SlideText = Nothing
+	End Select
+
+	SaccadeTarget1.Duration = CLng(c.GetAttrib("TargetDur1"))
+	SaccadeTarget1.Run
+	
+	c.SetAttrib "SaccadeTarget1.OnsetDelay", SaccadeTarget1.OnsetDelay
+	c.SetAttrib "SaccadeTarget1.OnsetTime", SaccadeTarget1.OnsetTime
+	c.SetAttrib "SaccadeTarget1.DurationError", SaccadeTarget1.DurationError
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget2 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	c.SetAttrib "LocationX2", c.GetAttrib("TargetLocationX2")*1.6 + Random(0,16) - 8
+c.setAttrib "LocationY2", 384 + Random(0,10) - 5
+c.setAttrib "TargetDur2", c.GetAttrib("TargetDuration") / 4
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget2 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg2 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 5
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg2 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	
+	Select Case SaccadeTarget2.ActiveState
+		Case "Default"
+
+
+			Set SaccadeTarget2_SlideText = CSlideText(SaccadeTarget2.States.Item("Default").Objects(1))
+			SaccadeTarget2_SlideText.X = c.GetAttrib("locationX2")
+			SaccadeTarget2_SlideText.Y = c.GetAttrib("locationY2")
+			Set SaccadeTarget2_SlideText = Nothing
+	End Select
+
+	SaccadeTarget2.Duration = CLng(c.GetAttrib("TargetDur2"))
+	SaccadeTarget2.Run
+	
+	c.SetAttrib "SaccadeTarget2.OnsetDelay", SaccadeTarget2.OnsetDelay
+	c.SetAttrib "SaccadeTarget2.OnsetTime", SaccadeTarget2.OnsetTime
+	c.SetAttrib "SaccadeTarget2.DurationError", SaccadeTarget2.DurationError
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget3 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	c.SetAttrib "LocationX3", c.GetAttrib("TargetLocationX3")*1.6 + Random(0,16) - 8
+c.setAttrib "LocationY3", 384 + Random(0,10) - 5
+c.setAttrib "TargetDur3", c.GetAttrib("TargetDuration") / 4
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget3 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg3 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 7
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg3 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	
+	Select Case SaccadeTarget3.ActiveState
+		Case "Default"
+
+
+			Set SaccadeTarget3_SlideText = CSlideText(SaccadeTarget3.States.Item("Default").Objects(1))
+			SaccadeTarget3_SlideText.X = c.GetAttrib("locationX3")
+			SaccadeTarget3_SlideText.Y = c.GetAttrib("locationY3")
+			Set SaccadeTarget3_SlideText = Nothing
+	End Select
+
+	SaccadeTarget3.Duration = CLng(c.GetAttrib("TargetDur3"))
+	SaccadeTarget3.Run
+	
+	c.SetAttrib "SaccadeTarget3.OnsetDelay", SaccadeTarget3.OnsetDelay
+	c.SetAttrib "SaccadeTarget3.OnsetTime", SaccadeTarget3.OnsetTime
+	c.SetAttrib "SaccadeTarget3.DurationError", SaccadeTarget3.DurationError
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget4 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	c.SetAttrib "LocationX4", c.GetAttrib("TargetLocationX4")*1.6 + Random(0,16) - 8
+c.setAttrib "LocationY4", 384 + Random(0,10) - 5
+c.setAttrib "TargetDur4", c.GetAttrib("TargetDuration") / 4
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetTarget4 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg4 BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 9
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLTarg4 END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	
+	Select Case SaccadeTarget4.ActiveState
+		Case "Default"
+
+
+			Set SaccadeTarget4_SlideText = CSlideText(SaccadeTarget4.States.Item("Default").Objects(1))
+			SaccadeTarget4_SlideText.X = c.GetAttrib("locationX4")
+			SaccadeTarget4_SlideText.Y = c.GetAttrib("locationY4")
+			Set SaccadeTarget4_SlideText = Nothing
+	End Select
+
+	SaccadeTarget4.Duration = CLng(c.GetAttrib("TargetDur4"))
+	SaccadeTarget4.Run
+	
+	c.SetAttrib "SaccadeTarget4.OnsetDelay", SaccadeTarget4.OnsetDelay
+	c.SetAttrib "SaccadeTarget4.OnsetTime", SaccadeTarget4.OnsetTime
+	c.SetAttrib "SaccadeTarget4.DurationError", SaccadeTarget4.DurationError
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLSacEnd BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	WritePort &H378, 1
+
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SendTTLSacEnd END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetFixDurFirstHalf BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	c.setAttrib "FixDurFirstHalf", c.GetAttrib("ITI") / 2
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetFixDurFirstHalf END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	
+	Select Case SaccadeTargetDelay.ActiveState
+		Case "Default"
+
+
+			Set SaccadeTargetDelay_SlideText = CSlideText(SaccadeTargetDelay.States.Item("Default").Objects(1))
+			SaccadeTargetDelay_SlideText.X = c.GetAttrib("locationX4")
+			SaccadeTargetDelay_SlideText.Y = c.GetAttrib("locationY4")
+			Set SaccadeTargetDelay_SlideText = Nothing
+	End Select
+
+	SaccadeTargetDelay.Duration = CLng(c.GetAttrib("FixDurFirstHalf"))
+	SaccadeTargetDelay.Run
+	
+	c.SetAttrib "SaccadeTargetDelay.OnsetDelay", SaccadeTargetDelay.OnsetDelay
+	c.SetAttrib "SaccadeTargetDelay.OnsetTime", SaccadeTargetDelay.OnsetTime
+	c.SetAttrib "SaccadeTargetDelay.DurationError", SaccadeTargetDelay.DurationError
+	
+	
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetFixDur BEGIN
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+c.setAttrib "FixDurSecondHalf", c.GetAttrib("ITI") / 2
+	'''''''''''''''''''''''''''''''''''''''''''''
+	' InLine - SetFixDur END
+	'''''''''''''''''''''''''''''''''''''''''''''
+	
+	
+	
+	Select Case ReturntoFixation.ActiveState
+		Case "Default"
+
+
+			Set ReturntoFixation_SlideText = CSlideText(ReturntoFixation.States.Item("Default").Objects(1))
+			Set ReturntoFixation_SlideText = Nothing
+	End Select
+
+	ReturntoFixation.Duration = CLng(c.GetAttrib("FixDurSecondHalf"))
+	ReturntoFixation.Run
+	
+	c.SetAttrib "ReturntoFixation.OnsetDelay", ReturntoFixation.OnsetDelay
+	c.SetAttrib "ReturntoFixation.OnsetTime", ReturntoFixation.OnsetTime
+	c.SetAttrib "ReturntoFixation.DurationError", ReturntoFixation.DurationError
+	
+	c.SetAttrib "SaccadeTarget1.OnsetDelay", SaccadeTarget1.OnsetDelay
+	c.SetAttrib "SaccadeTarget1.OnsetTime", SaccadeTarget1.OnsetTime
+	c.SetAttrib "SaccadeTarget1.DurationError", SaccadeTarget1.DurationError
+	
+	c.SetAttrib "SaccadeTarget2.OnsetDelay", SaccadeTarget2.OnsetDelay
+	c.SetAttrib "SaccadeTarget2.OnsetTime", SaccadeTarget2.OnsetTime
+	c.SetAttrib "SaccadeTarget2.DurationError", SaccadeTarget2.DurationError
+	
+	c.SetAttrib "SaccadeTarget3.OnsetDelay", SaccadeTarget3.OnsetDelay
+	c.SetAttrib "SaccadeTarget3.OnsetTime", SaccadeTarget3.OnsetTime
+	c.SetAttrib "SaccadeTarget3.DurationError", SaccadeTarget3.DurationError
+	
+	c.SetAttrib "SaccadeTarget4.OnsetDelay", SaccadeTarget4.OnsetDelay
+	c.SetAttrib "SaccadeTarget4.OnsetTime", SaccadeTarget4.OnsetTime
+	c.SetAttrib "SaccadeTarget4.DurationError", SaccadeTarget4.DurationError
+	
+	c.SetAttrib "SaccadeTargetDelay.OnsetDelay", SaccadeTargetDelay.OnsetDelay
+	c.SetAttrib "SaccadeTargetDelay.OnsetTime", SaccadeTargetDelay.OnsetTime
+	c.SetAttrib "SaccadeTargetDelay.DurationError", SaccadeTargetDelay.DurationError
+	
+	c.SetAttrib "ReturntoFixation.OnsetDelay", ReturntoFixation.OnsetDelay
+	c.SetAttrib "ReturntoFixation.OnsetTime", ReturntoFixation.OnsetTime
+	c.SetAttrib "ReturntoFixation.DurationError", ReturntoFixation.DurationError
+	
+
+	c.Log
+End Sub
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'--------------------------------------------------------------------------
+' InitDevices
+'
+'--------------------------------------------------------------------------
+Sub InitDevices(c As Context)
+
+
+
+	SetOSThreadPriority 3
+
+
+	Set Display = New DisplayDevice
+	Display.Name = "Display"
+
+	Dim DisplayDisplayDeviceInfo As DisplayDeviceInfo
+	DisplayDisplayDeviceInfo.XRes = 1024
+	DisplayDisplayDeviceInfo.YRes = 768
+	DisplayDisplayDeviceInfo.ColorDepth = 16
+	DisplayDisplayDeviceInfo.RefreshRate = 0
+	DisplayDisplayDeviceInfo.NumPages = 0
+
+	Display.Open DisplayDisplayDeviceInfo
+	c.SetAttrib "Display.RefreshRate", Format$(Display.CalculatedRefreshRate, "0.000")
+
+	Set Sound = New SoundDevice
+	Sound.Name = "Sound"
+
+	Dim SoundSoundOutDeviceInfo As SoundDeviceInfo
+	SoundSoundOutDeviceInfo.Channels = 2
+	SoundSoundOutDeviceInfo.SamplesPerSecond = 22050
+	SoundSoundOutDeviceInfo.BitsPerSample = 16
+	
+	Set Keyboard = New KeyboardDevice
+	Keyboard.Name = "Keyboard"
+
+	Dim KeyboardKeyboardDeviceInfo as KeyboardDeviceInfo
+	KeyboardKeyboardDeviceInfo.CollectionMode = ebPressesOnly
+	KeyboardKeyboardDeviceInfo.CapsLock = ebCapsLockOff
+	KeyboardKeyboardDeviceInfo.NumLock = ebNumLockOn
+	Keyboard.Open KeyboardKeyboardDeviceInfo
+	
+	Set Mouse = New MouseDevice
+	Mouse.Name = "Mouse"
+
+	Dim MouseMouseDeviceInfo as MouseDeviceInfo
+	MouseMouseDeviceInfo.OpenMode = ebMouseOpenModeDirect
+	MouseMouseDeviceInfo.CollectionMode = ebPressesOnly
+	MouseMouseDeviceInfo.ShowCursor = False
+	Mouse.Open MouseMouseDeviceInfo
+
+	Set Port = New PortDevice
+	Port.Name = "Port"
+
+
+	SetOSThreadPriority 0
+
+End Sub
+
+
+
+'--------------------------------------------------------------------------
+' InitObjects
+'
+'--------------------------------------------------------------------------
+Sub InitObjects(c As Context)
+
+	Set MainProc = New Procedure
+	MainProc.Name = "MainProc"
+	MainProc.Tag = ""
+	MainProc.Subroutine = "MainProc_Run"
+
+	Set ListOfRuns = New List
+	ListOfRuns.Name = "ListOfRuns"
+	ListOfRuns.Tag = ""
+
+	'Initialization for ListOfRuns
+	
+	Set ListOfRuns.Order = New SequentialOrder
+	Set ListOfRuns.Deletion = NoDeletion
+	ListOfRuns.ResetEveryRun = False
+
+	' Create the column headings
+	ListOfRuns.Filename = ""
+	ListOfRuns.LoadMethod = ebLoadMethodEmbedded
+
+	ListOfRuns.Load
+
+	Set ListOfRuns.TerminateCondition = Cycles(1)
+	Set ListOfRuns.ResetCondition = Samples(2)
+	ListOfRuns.Reset
+	
+	Set RunsProc = New Procedure
+	RunsProc.Name = "RunsProc"
+	RunsProc.Tag = ""
+	RunsProc.Subroutine = "RunsProc_Run"
+
+	Set ListOfTrials = New List
+	ListOfTrials.Name = "ListOfTrials"
+	ListOfTrials.Tag = ""
+
+	'Initialization for ListOfTrials
+	
+	Set ListOfTrials.Order = New RandomOrder
+	Set ListOfTrials.Deletion = NoDeletion
+	ListOfTrials.ResetEveryRun = False
+
+	' Create the column headings
+	ListOfTrials.AddAttrib "SaccadeDirection"
+	ListOfTrials.AddAttrib "TargetDuration"
+	ListOfTrials.AddAttrib "TargetLocationX1"
+	ListOfTrials.AddAttrib "TargetLocationX2"
+	ListOfTrials.AddAttrib "TargetLocationX3"
+	ListOfTrials.AddAttrib "TargetLocationX4"
+	ListOfTrials.AddAttrib "ITI"
+	ListOfTrials.Filename = ""
+	ListOfTrials.LoadMethod = ebLoadMethodEmbedded
+
+	ListOfTrials.Load
+
+	Set ListOfTrials.TerminateCondition = Cycles(1)
+	Set ListOfTrials.ResetCondition = Samples(40)
+	ListOfTrials.Reset
+	
+	Set Stimuli = New Procedure
+	Stimuli.Name = "Stimuli"
+	Stimuli.Tag = ""
+	Stimuli.Subroutine = "Stimuli_Run"
+
+	Set WelcomeScreen = New TextDisplay
+	WelcomeScreen.Name = "WelcomeScreen"
+	WelcomeScreen.Tag = ""
+
+	Set WelcomeScreenEchoClients = New EchoClientCollection
+
+	InitTextDisplayDefaults WelcomeScreen
+
+	WelcomeScreen.Text = "Experiment Ready\nPress any key to start"
+	WelcomeScreen.BackColor = CColor("black")
+	WelcomeScreen.ForeColor = CColor("white")
+	WelcomeScreen.FontSize = "24"
+	WelcomeScreen.Duration = CLng("-1")
+	WelcomeScreen.TimingMode = ebTimingModeEvent
+	WelcomeScreen.PreRelease = Val("0")
+
+	WelcomeScreen.OnsetSync = 1
+	WelcomeScreen.OffsetSync = 0
+
+	Set WaitTTL = New TextDisplay
+	WaitTTL.Name = "WaitTTL"
+	WaitTTL.Tag = ""
+
+	Set WaitTTLEchoClients = New EchoClientCollection
+
+	InitTextDisplayDefaults WaitTTL
+
+	WaitTTL.Text = "Waiting for fMRI start signal\n\n\n+\n\nPress s to skip this block\nPress t to simulate ttl signal"
+	WaitTTL.BackColor = CColor("black")
+	WaitTTL.ForeColor = CColor("white")
+	WaitTTL.FontSize = "24"
+	WaitTTL.Duration = CLng("-1")
+	WaitTTL.TimingMode = ebTimingModeEvent
+	WaitTTL.PreRelease = Val("0")
+
+	WaitTTL.OnsetSync = 1
+	WaitTTL.OffsetSync = 0
+
+	Set GoodBye = New TextDisplay
+	GoodBye.Name = "GoodBye"
+	GoodBye.Tag = ""
+
+	InitTextDisplayDefaults GoodBye
+
+	GoodBye.Text = "Thank you!\n\nThe experiment is finished.\n\nSaving results and exiting..."
+	GoodBye.BackColor = CColor("black")
+	GoodBye.ForeColor = CColor("white")
+	GoodBye.FontSize = "24"
+	GoodBye.Duration = CLng("2000")
+	GoodBye.TimingMode = ebTimingModeCumulative
+	GoodBye.PreRelease = Val("100")
+
+	GoodBye.OnsetSync = 1
+	GoodBye.OffsetSync = 0
+
+	Set AskRerun = New TextDisplay
+	AskRerun.Name = "AskRerun"
+	AskRerun.Tag = ""
+
+	Set AskRerunEchoClients = New EchoClientCollection
+
+	InitTextDisplayDefaults AskRerun
+
+	AskRerun.Text = "All fMRI runs have been performed.\n\nPress R to run another series\n\nPress Q to quit"
+	AskRerun.BackColor = CColor("black")
+	AskRerun.ForeColor = CColor("white")
+	AskRerun.FontSize = "24"
+	AskRerun.Duration = CLng("-1")
+	AskRerun.TimingMode = ebTimingModeEvent
+	AskRerun.PreRelease = Val("0")
+
+	AskRerun.OnsetSync = 1
+	AskRerun.OffsetSync = 0
+
+	Set Fixation = New TextDisplay
+	Fixation.Name = "Fixation"
+	Fixation.Tag = ""
+
+	InitTextDisplayDefaults Fixation
+
+	Fixation.Text = "+"
+	Fixation.BackColor = CColor("black")
+	Fixation.ForeColor = CColor("white")
+	Fixation.FontSize = "24"
+	Fixation.Duration = CLng("4800")
+	Fixation.TimingMode = ebTimingModeCumulative
+	Fixation.PreRelease = Val("100")
+
+	Fixation.OnsetSync = 1
+	Fixation.OffsetSync = 0
+
+	Set ReturntoFixation = New Slide
+	ReturntoFixation.Name = "ReturntoFixation"
+	ReturntoFixation.Tag = ""
+	ReturntoFixation.TimingMode = ebTimingModeCumulative
+	ReturntoFixation.PreRelease = Val("100")
+
+	ReturntoFixation.OnsetSync = 1
+	ReturntoFixation.OffsetSync = 0
+
+	Set ReturntoFixation_State = New SlideState
+	ReturntoFixation_State.Name = "Default"
+
+	InitSlideStateDefaults ReturntoFixation_State
+
+	ReturntoFixation_State.BackColor = CColor("black")
+
+	ReturntoFixation.States.Add ReturntoFixation_State, "Default"
+
+
+	Set ReturntoFixation_SlideText = New SlideText
+	ReturntoFixation_SlideText.Name = "Text1"
+
+	InitSlideTextDefaults ReturntoFixation_SlideText
+
+	ReturntoFixation_SlideText.Text = "+"
+	ReturntoFixation_SlideText.ForeColor = CColor("white")
+	ReturntoFixation_SlideText.BackColor = CColor("black")
+	ReturntoFixation_SlideText.FontSize = "24"
+	ReturntoFixation.States.Item("Default").Objects.Add ReturntoFixation_SlideText, "Text1"
+	ReturntoFixation.ActiveState = "Default"
+
+	Set SaccadeTarget1 = New Slide
+	SaccadeTarget1.Name = "SaccadeTarget1"
+	SaccadeTarget1.Tag = ""
+	SaccadeTarget1.TimingMode = ebTimingModeCumulative
+	SaccadeTarget1.PreRelease = Val("100")
+
+	SaccadeTarget1.OnsetSync = 1
+	SaccadeTarget1.OffsetSync = 0
+
+	Set SaccadeTarget1_State = New SlideState
+	SaccadeTarget1_State.Name = "Default"
+
+	InitSlideStateDefaults SaccadeTarget1_State
+
+	SaccadeTarget1_State.BackColor = CColor("black")
+
+	SaccadeTarget1.States.Add SaccadeTarget1_State, "Default"
+
+
+	Set SaccadeTarget1_SlideText = New SlideText
+	SaccadeTarget1_SlideText.Name = "Text1"
+
+	InitSlideTextDefaults SaccadeTarget1_SlideText
+
+	SaccadeTarget1_SlideText.Text = "+"
+	SaccadeTarget1_SlideText.ForeColor = CColor("white")
+	SaccadeTarget1_SlideText.BackColor = CColor("black")
+	SaccadeTarget1_SlideText.BackStyle = "transparent"
+	SaccadeTarget1_SlideText.FontSize = "24"
+	SaccadeTarget1.States.Item("Default").Objects.Add SaccadeTarget1_SlideText, "Text1"
+	SaccadeTarget1.ActiveState = "Default"
+
+	Set SaccadeTarget2 = New Slide
+	SaccadeTarget2.Name = "SaccadeTarget2"
+	SaccadeTarget2.Tag = ""
+	SaccadeTarget2.TimingMode = ebTimingModeCumulative
+	SaccadeTarget2.PreRelease = Val("100")
+
+	SaccadeTarget2.OnsetSync = 1
+	SaccadeTarget2.OffsetSync = 0
+
+	Set SaccadeTarget2_State = New SlideState
+	SaccadeTarget2_State.Name = "Default"
+
+	InitSlideStateDefaults SaccadeTarget2_State
+
+	SaccadeTarget2_State.BackColor = CColor("black")
+
+	SaccadeTarget2.States.Add SaccadeTarget2_State, "Default"
+
+
+	Set SaccadeTarget2_SlideText = New SlideText
+	SaccadeTarget2_SlideText.Name = "Text1"
+
+	InitSlideTextDefaults SaccadeTarget2_SlideText
+
+	SaccadeTarget2_SlideText.Text = "+"
+	SaccadeTarget2_SlideText.ForeColor = CColor("white")
+	SaccadeTarget2_SlideText.BackColor = CColor("black")
+	SaccadeTarget2_SlideText.BackStyle = "transparent"
+	SaccadeTarget2_SlideText.FontSize = "24"
+	SaccadeTarget2.States.Item("Default").Objects.Add SaccadeTarget2_SlideText, "Text1"
+	SaccadeTarget2.ActiveState = "Default"
+
+	Set SaccadeTarget3 = New Slide
+	SaccadeTarget3.Name = "SaccadeTarget3"
+	SaccadeTarget3.Tag = ""
+	SaccadeTarget3.TimingMode = ebTimingModeCumulative
+	SaccadeTarget3.PreRelease = Val("100")
+
+	SaccadeTarget3.OnsetSync = 1
+	SaccadeTarget3.OffsetSync = 0
+
+	Set SaccadeTarget3_State = New SlideState
+	SaccadeTarget3_State.Name = "Default"
+
+	InitSlideStateDefaults SaccadeTarget3_State
+
+	SaccadeTarget3_State.BackColor = CColor("black")
+
+	SaccadeTarget3.States.Add SaccadeTarget3_State, "Default"
+
+
+	Set SaccadeTarget3_SlideText = New SlideText
+	SaccadeTarget3_SlideText.Name = "Text1"
+
+	InitSlideTextDefaults SaccadeTarget3_SlideText
+
+	SaccadeTarget3_SlideText.Text = "+"
+	SaccadeTarget3_SlideText.ForeColor = CColor("white")
+	SaccadeTarget3_SlideText.BackColor = CColor("black")
+	SaccadeTarget3_SlideText.BackStyle = "transparent"
+	SaccadeTarget3_SlideText.FontSize = "24"
+	SaccadeTarget3.States.Item("Default").Objects.Add SaccadeTarget3_SlideText, "Text1"
+	SaccadeTarget3.ActiveState = "Default"
+
+	Set SaccadeTarget4 = New Slide
+	SaccadeTarget4.Name = "SaccadeTarget4"
+	SaccadeTarget4.Tag = ""
+	SaccadeTarget4.TimingMode = ebTimingModeCumulative
+	SaccadeTarget4.PreRelease = Val("100")
+
+	SaccadeTarget4.OnsetSync = 1
+	SaccadeTarget4.OffsetSync = 0
+
+	Set SaccadeTarget4_State = New SlideState
+	SaccadeTarget4_State.Name = "Default"
+
+	InitSlideStateDefaults SaccadeTarget4_State
+
+	SaccadeTarget4_State.BackColor = CColor("black")
+
+	SaccadeTarget4.States.Add SaccadeTarget4_State, "Default"
+
+
+	Set SaccadeTarget4_SlideText = New SlideText
+	SaccadeTarget4_SlideText.Name = "Text1"
+
+	InitSlideTextDefaults SaccadeTarget4_SlideText
+
+	SaccadeTarget4_SlideText.Text = "+"
+	SaccadeTarget4_SlideText.ForeColor = CColor("white")
+	SaccadeTarget4_SlideText.BackColor = CColor("black")
+	SaccadeTarget4_SlideText.BackStyle = "transparent"
+	SaccadeTarget4_SlideText.FontSize = "24"
+	SaccadeTarget4.States.Item("Default").Objects.Add SaccadeTarget4_SlideText, "Text1"
+	SaccadeTarget4.ActiveState = "Default"
+
+	Set EndFixation = New TextDisplay
+	EndFixation.Name = "EndFixation"
+	EndFixation.Tag = ""
+
+	InitTextDisplayDefaults EndFixation
+
+	EndFixation.Text = "+"
+	EndFixation.BackColor = CColor("black")
+	EndFixation.ForeColor = CColor("white")
+	EndFixation.FontSize = "24"
+	EndFixation.Duration = CLng("12000")
+	EndFixation.TimingMode = ebTimingModeCumulative
+	EndFixation.PreRelease = Val("100")
+
+	EndFixation.OnsetSync = 1
+	EndFixation.OffsetSync = 0
+
+	Set SaccadeTargetDelay = New Slide
+	SaccadeTargetDelay.Name = "SaccadeTargetDelay"
+	SaccadeTargetDelay.Tag = ""
+	SaccadeTargetDelay.TimingMode = ebTimingModeCumulative
+	SaccadeTargetDelay.PreRelease = Val("100")
+
+	SaccadeTargetDelay.OnsetSync = 1
+	SaccadeTargetDelay.OffsetSync = 0
+
+	Set SaccadeTargetDelay_State = New SlideState
+	SaccadeTargetDelay_State.Name = "Default"
+
+	InitSlideStateDefaults SaccadeTargetDelay_State
+
+	SaccadeTargetDelay_State.BackColor = CColor("black")
+
+	SaccadeTargetDelay.States.Add SaccadeTargetDelay_State, "Default"
+
+
+	Set SaccadeTargetDelay_SlideText = New SlideText
+	SaccadeTargetDelay_SlideText.Name = "Text1"
+
+	InitSlideTextDefaults SaccadeTargetDelay_SlideText
+
+	SaccadeTargetDelay_SlideText.Text = "+"
+	SaccadeTargetDelay_SlideText.ForeColor = CColor("white")
+	SaccadeTargetDelay_SlideText.BackColor = CColor("black")
+	SaccadeTargetDelay_SlideText.BackStyle = "transparent"
+	SaccadeTargetDelay_SlideText.FontSize = "24"
+	SaccadeTargetDelay.States.Item("Default").Objects.Add SaccadeTargetDelay_SlideText, "Text1"
+	SaccadeTargetDelay.ActiveState = "Default"
+
+
+End Sub
+
+
+'--------------------------------------------------------------------------
+' InitPackages
+'
+'--------------------------------------------------------------------------
+Sub InitPackages(c As Context)
+
+End Sub
+
+
+
+'--------------------------------------------------------------------------
+'--------------------------------------------------------------------------
+' UnInitDevices
+'--------------------------------------------------------------------------
+Sub UnInitDevices()
+	Display.Close
+	Set Display = Nothing
+
+	Keyboard.Close
+	Set Keyboard = Nothing
+
+	Mouse.Close
+	Set Mouse = Nothing
+
+End Sub
+
+
+'--------------------------------------------------------------------------
+'--------------------------------------------------------------------------
+' UnInitPackages
+'--------------------------------------------------------------------------
+Sub UnInitPackages()
+End Sub
+
+
+'--------------------------------------------------------------------------
+' UnInitObjects
+'
+'--------------------------------------------------------------------------
+Sub UnInitObjects()
+
+	Set MainProc = Nothing
+
+	Set ListOfRuns = Nothing
+
+	Set RunsProc = Nothing
+
+	Set ListOfTrials = Nothing
+
+	Set Stimuli = Nothing
+
+	Set WelcomeScreen = Nothing
+
+	Set WelcomeScreenEchoClients = Nothing
+
+	Set WaitTTL = Nothing
+
+	Set WaitTTLEchoClients = Nothing
+
+	Set GoodBye = Nothing
+
+	Set AskRerun = Nothing
+
+	Set AskRerunEchoClients = Nothing
+
+	Set Fixation = Nothing
+
+	Set ReturntoFixation = Nothing
+
+	Set SaccadeTarget1 = Nothing
+
+	Set SaccadeTarget2 = Nothing
+
+	Set SaccadeTarget3 = Nothing
+
+	Set SaccadeTarget4 = Nothing
+
+	Set EndFixation = Nothing
+
+	Set SaccadeTargetDelay = Nothing
+
+
+End Sub
+
+
+'--------------------------------------------------------------------------
+' Main
+'
+'--------------------------------------------------------------------------
+Sub Main()
+
+	CreateDefaultPort
+
+	' Create and initialize the default context, data file,
+	' and provide global access to the context.
+	Dim c As Context
+	Set c = New Context
+	Set c.DataFile = New DataFile
+	c.PushNewFrame
+	Set ebContext = c
+
+	' Set the log level names
+	c.SetLogLevelName 1, "Session"
+	c.SetLogLevelName 2, "Block"
+	c.SetLogLevelName 3, "Trial"
+	c.SetLogLevelName 4, "SubTrial"
+	c.SetLogLevelName 5, "LogLevel5"
+	c.SetLogLevelName 6, "LogLevel6"
+	c.SetLogLevelName 7, "LogLevel7"
+	c.SetLogLevelName 8, "LogLevel8"
+	c.SetLogLevelName 9, "LogLevel9"
+	c.SetLogLevelName 10, "LogLevel10"
+
+	' Set standard logging items
+	ebContext.SetAttrib "Experiment", "SaccadesLents"
+	ebContext.SetAttrib "SessionDate", Date$
+	ebContext.SetAttrib "SessionTime", Time$
+	ebContext.SetAttrib "RandomSeed", PRNG.GetSeed()
+
+	If Basic.OS = ebWin32 Then
+		WinActivate "E-Run Experiment Window"
+	End If
+
+	' Get the StartupInfo
+	' Set default for GroupNumber
+	c.SetAttrib "Group", "1"
+
+
+	' Set the defaults for all of the StartupInfo
+	c.SetAttrib "Subject", "1"
+	c.SetAttrib "Session", "1"
+
+	Dim vAnswer As Variant
+StartupInfo_Begin:
+
+StartupInfoPrompt_Subject:
+	vAnswer = AskBox("Please enter the Subject Number (1-32767, 0=No Data Logging):", c.GetAttrib("Subject"))
+	If Not IsEmpty(vAnswer) then
+		If Not IsNumeric(vAnswer) then
+			MsgBox "Please enter an integer value"
+			GoTo StartupInfoPrompt_Subject
+		ElseIf CLng(vAnswer) < 0 Then
+			MsgBox "The value for Subject must not be less than 0"
+			GoTo StartupInfoPrompt_Subject
+		ElseIf CLng(vAnswer) > 32767 Then
+			MsgBox "The value for Subject must be not be greater than 32767"
+			GoTo StartupInfoPrompt_Subject
+		End If
+	Else
+		GoTo ExperimentAbort
+	End if
+
+	c.SetAttrib "Subject", CStr(vAnswer)
+
+StartupInfoPrompt_Session:
+	vAnswer = AskBox("Please enter the Session Number (1-32767):", c.GetAttrib("Session"))
+	If Not IsEmpty(vAnswer) then
+		If Not IsNumeric(vAnswer) then
+			MsgBox "Please enter an integer value"
+			GoTo StartupInfoPrompt_Session
+		ElseIf CLng(vAnswer) < 1 Then
+			MsgBox "The value for Session must not be less than 1"
+			GoTo StartupInfoPrompt_Session
+		ElseIf CLng(vAnswer) > 32767 Then
+			MsgBox "The value for Session must be not be greater than 32767"
+			GoTo StartupInfoPrompt_Session
+		End If
+	Else
+		GoTo ExperimentAbort
+	End if
+
+	c.SetAttrib "Session", CStr(vAnswer)
+
+	' Display the summary
+	Dim strSummary As String
+	strSummary = "Subject:    " & c.GetAttrib("Subject") & "\n"
+	strSummary = strSummary & "Session:    " & c.GetAttrib("Session") & "\n"
+	strSummary = strSummary & "\nContinue with the above startup info?"
+
+	Dim nSummaryAnswer As Integer
+	nSummaryAnswer = MsgBox(strSummary, ebYesNoCancel + ebQuestion, "Summary of Startup Info")
+	If nSummaryAnswer = ebNo Then
+		GoTo StartupInfo_Begin
+	ElseIf nSummaryAnswer = ebCancel Then
+		GoTo ExperimentAbort
+	End If
+
+
+	' Set the default Data Filename
+	c.DataFile.Filename = CStr(c.GetAttrib("Experiment")) & "-" & CStr(c.GetAttrib("Subject")) & "-" & CStr(c.GetAttrib("Session")) & ".txt"
+
+	' If we are logging data, then prompt to overwrite the data file if it exists
+	If CLng(c.GetAttrib("Subject")) <> 0 Then
+		If FileExists(c.DataFile.Filename) Then
+			If ebYes <> MsgBox("WARNING: The data file and/or recovery file already exists:\nFILE: " & c.DataFile.Filename & "\n\nDo you want to overwrite?", ebYesNo + ebQuestion) Then
+				GoTo ExperimentAbort
+			End If
+		End If
+	End If
+
+	' Initialize all system devices, packages, and objects
+	InitDevices c
+	InitPackages c
+	InitObjects c
+
+	' If we are logging data, then open the datafile
+	If CLng(c.GetAttrib("Subject")) <> 0 Then
+		c.DataFile.Open
+		c.LogHeader
+	End If
+
+	' Start the running of the Experiment
+	MainProc.Run c
+
+	' Clean up the context and close the datafile
+	If CLng(c.GetAttrib("Subject")) <> 0 Then
+		c.DataFile.Close
+		' Attempt to convert the recovery file into a data file
+		Dim nConvert As Long
+		nConvert = c.DataFile.Convert(ebProgressSimple)
+		If nConvert = 0 Then
+			' Settings in E-Studio are set to not remove E-Recovery file
+		Else
+			' The datafile failed to convert!
+			MsgBox "ERROR: The datafile did not convert!\nFILE: " & c.DataFile.Filename & "\n\nIt is recommended that you recover your data with the E-Recovery utility"
+			MsgBox c.DataFile.GetLastErrorMessage()
+		End If
+	End If
+ExperimentFinish:
+
+	UnInitObjects
+
+	UnInitPackages
+	UnInitDevices
+
+ExperimentAbort:
+
+	' Clean up the context
+	c.PopFrame
+	Set c = Nothing
+	Set ebContext = Nothing
+
+	DestroyDefaultPort
+
+End Sub
+
+
+[DataSection_ListOfRuns(1)]
+Weight	Nested	Procedure
+2		RunsProc\0
+
+[DataSection_ListOfTrials(1)]
+Weight	Nested	Procedure	SaccadeDirection	TargetDuration	TargetLocationX1	TargetLocationX2	TargetLocationX3	TargetLocationX4	ITI
+2		Stimuli	Left	2000	290	260	230	200	6000
+2		Stimuli	Left	2000	290	260	230	200	7000
+2		Stimuli	Left	2000	290	260	230	200	8000
+2		Stimuli	Left	3000	290	260	230	200	6000
+4		Stimuli	Left	3000	290	260	230	200	7000
+2		Stimuli	Left	3000	290	260	230	200	8000
+2		Stimuli	Left	4000	290	260	230	200	6000
+2		Stimuli	Left	4000	290	260	230	200	7000
+2		Stimuli	Left	4000	290	260	230	200	8000
+2		Stimuli	Right	2000	350	380	410	440	6000
+2		Stimuli	Right	2000	350	380	410	440	7000
+2		Stimuli	Right	2000	350	380	410	440	8000
+2		Stimuli	Right	3000	350	380	410	440	6000
+4		Stimuli	Right	3000	350	380	410	440	7000
+2		Stimuli	Right	3000	350	380	410	440	8000
+2		Stimuli	Right	4000	350	380	410	440	6000
+2		Stimuli	Right	4000	350	380	410	440	7000
+2		Stimuli	Right	4000	350	380	410	440	8000\0

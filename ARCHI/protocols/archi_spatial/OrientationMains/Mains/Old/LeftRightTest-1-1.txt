@@ -1,0 +1,32 @@
+*** Header Start ***
+VersionPersist: 1
+LevelName: Session
+LevelName: Block
+LevelName: Trial
+LevelName: SubTrial
+LevelName: LogLevel5
+LevelName: LogLevel6
+LevelName: LogLevel7
+LevelName: LogLevel8
+LevelName: LogLevel9
+LevelName: LogLevel10
+Experiment: LeftRightTest
+SessionDate: 09-17-2003
+SessionTime: 13:28:49
+RandomSeed: 458656086
+Group: 1
+Subject: 1
+Session: 1
+Display.RefreshRate: 59.973
+*** Header End ***
+Level: 1
+*** LogFrame Start ***
+Experiment: LeftRightTest
+SessionDate: 09-17-2003
+SessionTime: 13:28:49
+RandomSeed: 458656086
+Group: 1
+Subject: 1
+Session: 1
+Display.RefreshRate: 59.973
+*** LogFrame End ***
