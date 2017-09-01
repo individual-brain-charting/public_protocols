@@ -1,0 +1,16 @@
+Les prochaines tâches seront "0-back" et "2-back".
+
+Pour "0-back", indiquez si l'image présentée est la même que la cible.
+
+
+Pour "2-back", indiquez si l'image présentée est la même que celle présentée 2 images en arrière.
+
+Les tâches seront présentées de façon alternées. Le type de la tâche sera annoncé soit par "0-back", soit par
+"2-back". Répondez tant que le mot est encore à l'écran.
+
+Appuyez sur le bouton situé sous votre INDEX pour ASSOCIATION.
+Appuyez sur le bouton situé sous votre MAJEUR pour PAS d'ASSOCIATION.
+IMPORTANT : Merci de ne pas bouger votre tête.
+
+
+

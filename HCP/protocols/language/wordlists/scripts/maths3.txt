@@ -1,0 +1,433 @@
+math-level1-1-Q.wav
+2 : plusse : 1
+math-level1-1-1.wav
+égal à : 3 : ou : 5
+math-level1-1-2.wav
+égal à : 5 : ou : 3
+
+math-level1-2-Q.wav
+2 : plusse : 1
+math-level1-2-1.wav
+égal à : 3 : ou : 2
+math-level1-2-2.wav
+égal à : 2 : ou : 3
+
+math-level1-3-Q.wav
+1 : plusse : 2
+math-level1-3-1.wav
+égal à : 3 : ou : 5
+math-level1-3-2.wav
+égal à : 5 : ou : 3
+
+math-level2-1-Q.wav
+2 : plusse : 4
+math-level2-1-1.wav
+égal à : 6 : ou : 7
+math-level2-1-2.wav
+égal à : 7 : ou : 6
+
+math-level2-2-Q.wav
+2 : plusse : 5
+math-level2-2-1.wav
+égal à : 7 : ou : 9
+math-level2-2-2.wav
+égal à : 9 : ou : 7
+
+math-level2-3-Q.wav
+1 : plusse : 3
+math-level2-3-1.wav
+égal à : 4 : ou : 5
+math-level2-3-2.wav
+égal à : 5 : ou : 4
+
+math-level3-1-Q.wav
+1 : plusse : 3
+math-level3-1-1.wav
+égal à : 4 : ou : 2
+math-level3-1-2.wav
+égal à : 2 : ou : 4
+
+math-level3-2-Q.wav
+3 : plusse : 2
+math-level3-2-1.wav
+égal à : 5 : ou : 6
+math-level3-2-2.wav
+égal à : 6 : ou : 5
+
+math-level3-3-Q.wav
+2 : plusse : 7
+math-level3-3-1.wav
+égal à : 9 : ou : 8
+math-level3-3-2.wav
+égal à : 8 : ou : 9
+
+math-level4-1-Q.wav
+4 : plusse : 6
+math-level4-1-1.wav
+égal à : 10 : ou : 12
+math-level4-1-2.wav
+égal à : 12 : ou : 10
+
+math-level4-2-Q.wav
+2 : plusse : 4
+math-level4-2-1.wav
+égal à : 6 : ou : 8
+math-level4-2-2.wav
+égal à : 8 : ou : 6
+
+math-level4-3-Q.wav
+4 : plusse : 1
+math-level4-3-1.wav
+égal à : 5 : ou : 7
+math-level4-3-2.wav
+égal à : 7 : ou : 5
+
+math-level5-1-Q.wav
+1 : plusse : 6 : plusse : 3
+math-level5-1-1.wav
+égal à : 10 : ou : 12
+math-level5-1-2.wav
+égal à : 12 : ou : 10
+
+math-level5-2-Q.wav
+5 : plusse : 7 : plusse : 2
+math-level5-2-1.wav
+égal à : 14 : ou : 12
+math-level5-2-2.wav
+égal à : 12 : ou : 14
+
+math-level5-3-Q.wav
+1 : plusse : 3 : plusse : 4
+math-level5-3-1.wav
+égal à : 8 : ou : 7
+math-level5-3-2.wav
+égal à : 7 : ou : 8
+
+math-level6-1-Q.wav
+2 : plusse : 10 : moins : 2
+math-level6-1-1.wav
+égal à : 10 : ou : 12
+math-level6-1-2.wav
+égal à : 12 : ou : 10
+
+math-level6-2-Q.wav
+2 : plusse : 4 : plusse : 1
+math-level6-2-1.wav
+égal à : 7 : ou : 9
+math-level6-2-2.wav
+égal à : 9 : ou : 7
+
+math-level6-3-Q.wav
+8 : plusse : 7 : plusse : 2
+math-level6-3-1.wav
+égal à : 17 : ou : 18
+math-level6-3-2.wav
+égal à : 18 : ou : 17
+
+math-level7-1-Q.wav
+11 : moins : 1 : plusse : 10
+math-level7-1-1.wav
+égal à : 20 : ou : 10
+math-level7-1-2.wav
+égal à : 10 : ou : 20
+
+math-level7-2-Q.wav
+9 : plusse : 7 : moins : 4
+math-level7-2-1.wav
+égal à : 12 : ou : 13
+math-level7-2-2.wav
+égal à : 13 : ou : 12
+
+math-level7-3-Q.wav
+6 : plusse : 3 : plusse : 10
+math-level7-3-1.wav
+égal à : 19 : ou : 18
+math-level7-3-2.wav
+égal à : 18 : ou : 19
+
+math-level8-1-Q.wav
+8 : plusse : 11 : plusse : 8
+math-level8-1-1.wav
+égal à : 27 : ou : 26
+math-level8-1-2.wav
+égal à : 26 : ou : 27
+
+math-level8-2-Q.wav
+6 : plusse : 5 : plusse : 7
+math-level8-2-1.wav
+égal à : 18 : ou : 17
+math-level8-2-2.wav
+égal à : 17 : ou : 18
+
+math-level8-3-Q.wav
+2 : plusse : 1 : plusse : 7
+math-level8-3-1.wav
+égal à : 10 : ou : 11
+math-level8-3-2.wav
+égal à : 11 : ou : 10
+
+math-level9-1-Q.wav
+2 : moins : 1 : plusse : 12 : plusse : 1
+math-level9-1-1.wav
+égal à : 14 : ou : 13
+math-level9-1-2.wav
+égal à : 13 : ou : 14
+
+math-level9-2-Q.wav
+7 : moins : 2 : plusse : 7 : plusse : 3
+math-level9-2-1.wav
+égal à : 15 : ou : 13
+math-level9-2-2.wav
+égal à : 13 : ou : 15
+
+math-level9-3-Q.wav
+14 : plusse : 11 : moins : 4 : plusse : 8
+math-level9-3-1.wav
+égal à : 29 : ou : 28
+math-level9-3-2.wav
+égal à : 28 : ou : 29
+
+math-level10-1-Q.wav
+21 : moins : 5 : plusse : 12 : plusse : 2
+math-level10-1-1.wav
+égal à : 30 : ou : 29
+math-level10-1-2.wav
+égal à : 29 : ou : 30
+
+math-level10-2-Q.wav
+10 : plusse : 1 : plusse : 6 : plusse : 2
+math-level10-2-1.wav
+égal à : 19 : ou : 20
+math-level10-2-2.wav
+égal à : 20 : ou : 19
+
+math-level10-3-Q.wav
+18 : plusse : 3 : plusse : 9 : plusse : 1
+math-level10-3-1.wav
+égal à : 31 : ou : 30
+math-level10-3-2.wav
+égal à : 30 : ou : 31
+
+math-level11-1-Q.wav
+22 : plusse : 11 : moins : 2 : moins : 4
+math-level11-1-1.wav
+égal à : 27 : ou : 29
+math-level11-1-2.wav
+égal à : 29 : ou : 27
+
+math-level11-2-Q.wav
+16 : moins : 13 : plusse : 4 : plusse : 9
+math-level11-2-1.wav
+égal à : 16 : ou : 18
+math-level11-2-2.wav
+égal à : 18 : ou : 16
+
+math-level11-3-Q.wav
+16 : plusse : 13 : plusse : 6 : moins : 12
+math-level11-3-1.wav
+égal à : 23 : ou : 21
+math-level11-3-2.wav
+égal à : 21 : ou : 23
+
+math-level12-1-Q.wav
+15 : plusse : 12 : plusse : 7 : plusse : 2
+math-level12-1-1.wav
+égal à : 36 : ou : 37
+math-level12-1-2.wav
+égal à : 37 : ou : 36
+
+math-level12-2-Q.wav
+19 : plusse : 2 : moins : 3 : plusse : 2
+math-level12-2-1.wav
+égal à : 20 : ou : 30
+math-level12-2-2.wav
+égal à : 30 : ou : 20
+
+math-level12-3-Q.wav
+19 : plusse : 9 : plusse : 10 : moins : 9
+math-level12-3-1.wav
+égal à : 29 : ou : 30
+math-level12-3-2.wav
+égal à : 30 : ou : 29
+
+math-level13-1-Q.wav
+22 : plusse : 6 : moins : 11 : plusse : 3 : moins : 10
+math-level13-1-1.wav
+égal à : 10 : ou : 20 
+math-level13-1-2.wav
+égal à : 20 : ou : 10
+
+math-level13-2-Q.wav
+28 : plusse : 7 : plusse : 2 : moins : 3 : moins : 10
+math-level13-2-1.wav
+égal à : 24 : ou : 22
+math-level13-2-2.wav
+égal à : 22 : ou : 24
+
+math-level13-3-Q.wav
+37 : plusse : 10 : plusse : 8 : moins : 6 : moins : 14
+math-level13-3-1.wav
+égal à : 35 : ou : 34
+math-level13-3-2.wav
+égal à : 34 : ou : 35
+
+math-level14-1-Q.wav
+11 : moins : 8 : plusse : 9 : plusse : 2 : plusse : 9
+math-level14-1-1.wav
+égal à : 23 : ou : 21 
+math-level14-1-2.wav
+égal à : 21 : ou : 23
+
+math-level14-2-Q.wav
+42 : moins : 1 : moins : 9 : moins : 11 : plusse : 8 
+math-level14-2-1.wav
+égal à : 29 : ou : 28
+math-level14-2-2.wav
+égal à : 28 : ou : 29
+
+math-level14-3-Q.wav
+4 : plusse : 6 : moins : 3 : plusse : 13 : moins : 8
+math-level14-3-1.wav
+égal à : 12 : ou : 13
+math-level14-3-2.wav
+égal à : 13 : ou : 12
+
+math-level15-1-Q.wav
+13 : plusse : 1 : plusse : 15 : moins : 11 : plusse : 3
+math-level15-1-1.wav
+égal à : 21 : ou : 19
+math-level15-1-2.wav
+égal à : 19 : ou : 21
+
+math-level15-2-Q.wav
+27 : moins : 4 : moins : 8 : plusse : 2 : plusse : 13
+math-level15-2-1.wav
+égal à : 30 : ou : 20
+math-level15-2-2.wav
+égal à : 20 : ou : 30
+
+math-level15-3-Q.wav
+8 : plusse : 12 : plusse : 8 : moins : 15 : plusse : 5
+math-level15-3-1.wav
+égal à : 18 : ou : 19
+math-level15-3-2.wav
+égal à : 19 : ou : 18
+
+math-level16-1-Q.wav
+46 : plusse : 8 : plusse : 10 : moins : 2 : moins : 8
+math-level16-1-1.wav
+égal à : 54 : ou : 52
+math-level16-1-2.wav
+égal à : 52 : ou : 54
+
+math-level16-2-Q.wav
+48 : plusse : 7 : moins : 1 : plusse : 15 : plusse : 10
+math-level16-2-1.wav
+égal à : 79 : ou : 89
+math-level16-2-2.wav
+égal à : 89 : ou : 79
+
+math-level16-3-Q.wav
+52 : plusse : 1 : plusse : 7 : moins : 15 : plusse : 9
+math-level16-3-1.wav
+égal à : 54 : ou : 53
+math-level16-3-2.wav
+égal à : 53 : ou : 54
+
+math-level17-1-Q.wav
+57 : moins : 14 : moins : 15 : plusse : 8 : plusse : 3 : moins : 1
+math-level17-1-1.wav
+égal à : 38 : ou : 37
+math-level17-1-2.wav
+égal à : 37 : ou : 38
+
+math-level17-2-Q.wav
+43 : moins : 11 : moins : 3 : moins : 9 : moins : 15 : plusse : 2
+math-level17-2-1.wav
+égal à : 7 : ou : 5
+math-level17-2-2.wav
+égal à : 5 : ou : 7
+
+math-level17-3-Q.wav
+66 : plusse : 6 : moins : 15 : moins : 8 : plusse : 7 : plusse : 10
+math-level17-3-1.wav
+égal à : 66 : ou : 67
+math-level17-3-2.wav
+égal à : 67 : ou : 66
+
+math-level18-1-Q.wav
+61 : moins : 9 : plusse : 14 : moins : 10 : plusse : 14 : moins : 16
+math-level18-1-1.wav
+égal à : 54 : ou : 55
+math-level18-1-2.wav
+égal à : 55 : ou : 54
+
+math-level18-2-Q.wav
+13 : plusse : 15 : plusse : 1 : moins : 6 : moins : 4 : moins : 14
+math-level18-2-1.wav
+égal à : 5 : ou : 3
+math-level18-2-2.wav
+égal à : 3 : ou : 5
+
+math-level18-3-Q.wav
+65 : plusse : 10 : moins : 15 : plusse : 8 : moins : 5 : moins : 4
+math-level18-3-1.wav
+égal à : 59 : ou : 61
+math-level18-3-2.wav
+égal à : 61 : ou : 59
+
+math-level19-1-Q.wav
+61 : moins : 4 : plusse : 10 : moins : 5 : plusse : 16 : moins : 2
+math-level19-1-1.wav
+égal à : 76 : ou : 74
+math-level19-1-2.wav
+égal à : 74 : ou : 76
+
+math-level19-2-Q.wav
+32 : moins : 12 : moins : 16 : plusse : 5 : plusse : 17 : moins : 2
+math-level19-2-1.wav
+égal à : 24 : ou : 26
+math-level19-2-2.wav
+égal à : 26 : ou : 24
+
+math-level19-3-Q.wav
+84 : plusse : 12 : plusse : 4 : plusse : 1 : moins : 9 : plusse : 4
+math-level19-3-1.wav
+égal à : 96 : ou : 98
+math-level19-3-2.wav
+égal à : 98 : ou : 96
+
+math-level20-1-Q.wav
+24 : plusse : 16 : moins : 5 : plusse : 13 : plusse : 7 : moins : 13 : moins : 9
+math-level20-1-1.wav
+égal à : 33 : ou : 31
+math-level20-1-2.wav
+égal à : 31 : ou : 33
+
+math-level20-2-Q.wav
+35 : plusse : 3 : moins : 10 : plusse : 16 : moins : 2 : plusse : 7 : moins : 10
+math-level20-2-1.wav
+égal à : 39 : ou : 37
+math-level20-2-2.wav
+égal à : 37 : ou : 39
+
+math-level20-3-Q.wav
+88 : moins : 16 : plusse : 3 : plusse : 12 : plusse : 13 : moins : 17 : plusse : 1
+math-level20-3-1.wav
+égal à : 84 : ou : 86
+math-level20-3-2.wav
+égal à : 86 : ou : 84
+
+math-level10-100-Q.wav
+6 : plusse : 4 : plusse : 8  : moins : 2
+math-level10-100-1.wav
+égal à : 16 : ou : 18
+math-level10-100-2.wav
+égal à : 18 : ou : 16
+
+math-level10-125-Q.wav
+18 : plusse : 5 : plusse : 13 : plusse : 10
+math-level10-125-1.wav
+égal à : 46 : ou : 44
+math-level10-125-2.wav
+égal à : 44 : ou : 46

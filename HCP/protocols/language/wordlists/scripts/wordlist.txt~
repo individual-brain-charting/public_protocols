@@ -1,0 +1,304 @@
+rabbits:de lapins
+pig:de cochon
+eagle:d'aigle
+foxes:de renards
+workers:d'ouvriers
+dogs:de chiens
+snakes:de serpents
+hound:de chien de chasse
+hen:de poule
+birds:d'oiseaux
+bull:de taureau
+trees:d'arbres 
+bear:d'ours
+boys:de garçons 
+frog:de grenouille 
+rooster:de coq 
+wolf:de loup 
+crow:de corneille 
+ducks:de canards 
+oxen:de b½ufs 
+boar:de sanglier
+stag:de cerf 
+snake:de serpent 
+pigeons:de pigeons 
+deer:de cerf 
+lion:de lion 
+crabs:de crabes 
+wasp:de guêpe 
+bulls:de taureaux 
+gnat:de moucheron 
+donkey:d'âne
+wound:de blessure 
+man:d'homme 
+trumpeter:de trompettiste
+fish:de poisson 
+nuts:de noix 
+dog:de chien 
+thirst:de soif
+squirrels:d'écureuils 
+horse:de cheval 
+pigeon:de pigeon 
+cats:de chats 
+doctors:de médecins 
+raccoons:de ratons laveurs 
+lizards:de lézards 
+fox:de renard 
+duck:de canard 
+fish2:de poissons
+mule:de mulet
+flowers:de fleurs 
+leopard:de léopard 
+turtles:de tortues 
+turtle:de tortue 
+goose:d'oie 
+sheep:de mouton 
+hawk:de faucon 
+chickens:de poulets 
+cows:de vaches 
+elephant:d'éléphant 
+moose:d'élan 
+wire:de fil 
+doves:de colombes 
+goats:de chèvres 
+tiger:de tigre 
+spiders:d'araignées 
+bee:d'abeille 
+pigs:de cochon 
+fly:de voler 
+cow:de vache 
+bone:d'os 
+boy:de garçon 
+drummer:de joueur de tambour 
+worm:de ver 
+cookies:de biscuits
+coyote:de coyote 
+hunger:de faim
+meeting:de réunion 
+falling:de chute
+dying:de mort
+fighting:de combat
+working:de travail
+starving:de famine
+hatching:d'éclosion
+chasing:de chasse
+feeding:de nourriture
+bragging:de jactance
+squeezing:de se faufiler
+arguing:de débat
+lying:de mensonge
+killing:de meurtre
+pretending:de duperie
+searching:de recherche
+stealing:de vol
+biting:de morsure
+singing:de chant
+complaining:de plainte
+sharpening:d'aiguisage
+taking:de prendre quelque chose
+blaming:d'accusation
+protecting:de protection
+hunting:de chasse
+trusting:de confiance
+walking:de marche
+stinging:de piqûre
+attacking:d'attaque
+leaving:de sortie
+eating:de nourriture
+healing:de guérison
+helping::d'aide
+leading:de mener
+fishing:de pêche 
+holding:de tenir quelque chose
+dropping:de laisser tomber quelque chose
+reaching:de saisir quelque chose
+writing:d'écriture
+running:de course
+flying:de vol
+shouting:de cri
+traveling:de voyage
+sleeping:de sommeil
+burying:de creusement
+throwing:de lancer quelque chose
+cleaning:de nettoyage
+guessing:d'estimation
+kicking:de coup de pied
+teaching:d'enseignement
+cheating:de tricherie
+jumping:de saut
+listening:d'audition
+breaking:de destruction
+hiding:de cachette
+cutting:de coupure
+coughing:de toux
+describing:de description
+brushing:de brossage
+looking:de regard
+crushing:d'écrasement
+bothering:de dérangement
+planting:de plantation
+laughing:de rire
+digging:de creusement
+punching:de bagarre
+roaring:de rugissement
+starting:de commencement
+yelling:de cri
+washing:de nettoyage
+ignoring:d'ignorance
+watching:de regard
+diving:de plongée
+pushing:de pression
+lifting:de soulever quelque chose
+turning:de tourner
+fairness:de justice 
+stupidity:de stupidité 
+comfort:de confort 
+assistance:d'assistance 
+politics:de politique 
+foolishness:de sottise 
+caution:de prudence 
+effort:d'effort 
+production:de production 
+pride:de fierté 
+aging:de vieillissement 
+vanity:de vanité 
+dishonesty:de malhonnêteté 
+cruelty:de cruauté 
+deception:de tromperie 
+value:de valeur 
+responsibility:de responsabilité 
+regret:de regret
+desire:de désir 
+endurance:d'endurance 
+preparation:de préparation 
+selfishness:d'égoïsme 
+anger:de colère 
+survival:de survie 
+safety:de sécurité 
+loyalty:de fidélité 
+instruction:d'instruction 
+revenge:de vengeance 
+protection:de protection 
+importance:d'importance 
+commitment:d'engagement 
+advice:de conseil
+payback:de gratitude 
+leadership:de leadership 
+risk:de risque 
+compromise:de compromis 
+greed:d'avidité 
+solution:de solution
+happiness:de bonheur 
+hope:d'espoir
+honesty:d'honnêteté 
+pleasure:de plaisir 
+education:d'éducation 
+faith:de foi 
+friendship:d'amitié 
+planning:de planification 
+precaution:de précaution 
+strength:de force 
+power:de puissance 
+freedom:de liberté 
+luck:de chance 
+gossip:de potins 
+construction:de construction 
+danger:de danger 
+imagination:d'imagination 
+respect:de respect 
+hatred:de haine 
+generosity:de générosité 
+separation:de séparation 
+clarity:de clarté 
+distrust:de méfiance 
+kindness:de gentillesse 
+wealth:de richesse 
+modesty:de modestie 
+competition:de concurrence 
+amusement:d'amusement 
+discomfort:d'inconfort 
+purpose:de but 
+preference:de préférence 
+courage:de courage 
+loneliness:de solitude 
+laziness:de paresse 
+beauty:de beauté 
+fear:de peur 
+work:de travail 
+avoidance:d'évitement
+leverage:d'effet de levier 
+impropriety:d'inadéquation
+camaraderie:de camaraderie 
+evaluation:d'évaluation 
+pragmatism:de pragmatisme 
+desperation:de désespoir 
+foresight:de prévoyance 
+motivation:de motivation 
+incentive:de motivation 
+suffering:de souffrance 
+inexperience:d'inexpérience 
+inequality:d'inégalité 
+distortion:de distorsion 
+insensitivity:d'insensibilité 
+skepticism:de scepticisme 
+utility:d'utilité
+consequences:de conséquences 
+remorse:de remords 
+ambition:d'ambition 
+stoicism:de stoïcisme 
+readiness:d'empressement 
+disregard:de négligence 
+futility:de futilité 
+prudence:de prudence 
+inference:d'inférence 
+obligation:d'obligation 
+education:d'éducation 
+retaliation:de vengeance 
+cohesion:de cohésion 
+status:de statut 
+fanaticism:de fanatisme 
+superstition:de superstition 
+reciprocity:de réciprocité 
+influence:d'influence 
+certainty:de certitude 
+modification:de modification 
+overreaching:de surmenage
+invention:d'invention
+courtesy:de courtoisie 
+allegiance:d'allégeance 
+pessimism:de pessimisme 
+optimism:d'optimisme 
+resilience:de résilience
+morality:de moralité 
+frivolity:de frivolité 
+vanity:de vanité 
+equality:d'égalité 
+unity:d'unité 
+deliberation:de délibération 
+anxiety:d'anxiété 
+emotion:d'émotion 
+ideology:d'idéologie 
+plagiarism:de plagiat 
+prejudice:de préjudice 
+distractions:de distractions 
+suspicion:de suspicion 
+confidence:de confiance 
+antagonism:d'antagonisme 
+indifference:d'indifférence 
+favoritism:de favoritisme 
+necessity:de nécessité 
+persistence:de persistance 
+sensitivity:de sensibilité 
+animosity:d'animosité 
+prevention:de prévention 
+sympathy:de sympathie 
+composure:de sang-froid 
+sincerity:de sincérité 
+adversity:d'adversité 
+ambivalence:d'ambivalence 
+cowardice:de lâcheté 
+creativity:de créativité 
+ritual:de rituel 
+tolerance:de tolérance 
+deception:de tromperie 
+humility:d'humilité

@@ -1,0 +1,524 @@
+Wound (a): une blessure
+Stag (a) : un cerf
+Man (a): un homme
+Trumpeter (a): un trompettiste
+Bone (a): un os
+Fly (a): une mouche
+Eagle (an): un aigle
+Elephant (an): un éléphant
+Dog (a): un chien
+Coyote (a): un coyote
+Lion (a): un lion
+Wasp (a): une guêpe
+Boy (a): un garçon
+Donkey (a): un âne
+Worm (a):  un ver
+Frog (a): une grenouille
+Fox (a): un renard
+Tiger (a): un tigre
+Wire (a): un fil
+Mule (a): le bardeau
+Drummer (a): un batteur
+Hound (a): un chien de chasse
+Horse (a): cheval
+Fish (a): une poisson
+Bull (a): un taureau
+Boar (a): le sanglier
+Snake (a): un serpent
+Pigeon (a): un pigeon
+Cow (a): un vache
+Crow (a): un corbeau
+Leopard (a): un léopard
+Wolf (a): un loup
+Bee (a): une abeille
+Bore (a): un trou
+Bear (a): un ours
+Gnat (a): un moucheron
+Rooster (a): un coq
+Pig (a): un porc
+Moose (a): un élan
+Hawk (a): un faucon
+Hen (a): une poule
+Goose (a): une oie
+Turtle (a): une tortue
+Sheep (a): un mouton
+duck (a): un canard
+Honesty: une honnêteté
+That was about: c'était sur
+Leverage: effet de levier
+Leading: diriger
+Ignoring: ignorer
+Desperation: désespoir
+Overreaching: se surmener
+Describing: décriver
+Watching: regarder
+Starting: commencer
+Stinging: piquer
+Healing: guérir
+Washing: nettoyer
+Squeezing: coincer
+Starving: affamer
+Complaining: se plaindre
+Suffering: souffrance
+Sharpening: aiguise
+Stealing: voler
+Helping: aider
+Attacking: attaquer
+Roaring: rugir
+Leaving: sortir
+Lifting: lever
+Punching: se taper
+Protecting: protéger
+Sleeping: dormir
+Planting: planter
+Discussing: discuter
+Laughing: rire
+Blaming: blâmer
+Traveling: voyager
+Yelling: crier
+Holding: tenir
+Flying: voler
+Pretending: feindre
+Diving: plonger
+Searching: chercher
+Trusting: faire confiance
+Listening: ecouter
+Reaching: saisir
+Falling: tomber
+Counting: compter
+Shouting: crier
+Brushing: brosser
+Planning: planifier
+Arguing: se disputer
+Lying: mentir
+Singing: chanter
+Fighting: combattre
+Looking: regarder
+Throwing: jeter
+Walking: aller
+Feeding: nourrir
+Breaking: casser
+Dropping: tomber
+Aging: vieillir
+Cleaning: nettoyer
+Burying: enterrer
+Bothering: peiner
+Meeting: rendez-vous
+Cheating: tricher
+Jumping: sauter
+Turning: tourner
+Fishing: pêcher
+Writing: écrire
+Crushing: écraser
+Coughing: tousser
+Bragging: se vanter
+Chasing: chasser
+Teaching: enseigner
+working: travailler
+hunting: chasser
+pushing: pousser
+hiding: se cacher
+running: courir
+eating: manger
+kicking: botter
+dying: mourir
+taking: prendre
+hatching: couver
+guessing: deviner
+killing: tuer
+biting: mordre
+digging: caver
+cutting: couper
+
+
+Fanaticism: le fanatisme
+Inexperience: l'inexpérience
+Reciprocity: la réciprocité
+Modification: la modification
+Retaliation: la représaille
+Insensitivity: l'insensibilité
+Responsibility: la responsabilité
+Insensivity: l'insensibilité
+Ambivalence: l'ambivalence
+Stoicism: le stoïcisme
+Creativity: la créativité
+Superstition: la superstition
+Antagonism: l'antagonisme
+Selfishness: l'égoïsme
+Loneliness: la solitude
+Separation: la séparation
+Impropriety: l'impropriété
+Consequences: des conséquences
+Evaluation: l'évaluation
+Distractions: des distractions
+Sincerity: la sincérité
+Imagination: l'imagination
+Sensitivity: la sensibilité
+Skepticism: le scepticisme
+Sensitivity: la sensibilité
+Laziness: la paresse
+Compromise: le compromis
+Favoritism: le favoritisme
+Generosity: la générosité
+Invention: l'invention
+Ideology: l'idéologie
+Poularity: la popularité
+Indifference: l'indifférence
+Endurance: l'endurance
+Obligation: l'obligation
+Futility: la futilité
+Instruction: l'instruction
+Survival: la survie
+Plagiarism: le plagiat
+Certainty: la certitude
+Importance: l'importance
+Spiders: des araignées
+Influence: l'influence
+Avoidance: l'évitement
+Deliberation: la délibération
+Inequality: l'inégalité
+Plagiarism: le plagiat
+Frivolity: la frivolité
+Raccoons: des ratons laveurs
+Foxes: des renards
+Adversity: l'adversité
+Confidence: la confiance
+Construction: la construction
+Disregard: le mépris
+Popularity: la popularité
+Stupidity: la stupidité
+Resilience: la résilience
+Hypocrisy: l'hypocrisie
+Camaraderie: la camaraderie
+Anxiety: l'anxiété
+Ritual: le rituel
+Cowardice: la lâcheté
+Assistance: l'assistance
+Amusement: l'amusement
+Animosity: l'animosité
+Persistence: la persistance
+Distortion: la distorsion
+Persistence: la persistance
+Revenge: la vengeance
+Necessity: la nécessité
+Readiness: l'empressement
+Foolishness: la sottise
+Tolerance: la tolérance
+Incentive: la motivation
+Motivation: la motivation
+Competition: la compétition
+Sympathy : la sympathie
+Squirrels: des écureuils
+Composure: le sang-froid
+Preparation: la préparation
+Remorse: le remords
+Suspicion: la suspicion
+Discomfort: l'inconfort
+Distrust: la méfiance
+Pragmatism: le pragmatisme
+Leadership: le leadership
+Dishonesty: la malhonnêteté
+Inference: l'inférence
+Hipocracy: l'hypocrisie
+Solution: la solution
+Status: le statut
+Advice: le conseil
+Cohesion: la cohésion
+Flowers: des fleurs
+Education: l'éducation
+Equality: l'égalité
+Optimism: l'optimisme
+Kindness: la gentillesse
+Humility: l'humilité
+Allegiance: l'allégeance
+Prejudice: le préjudice
+Morality: la moralité
+Respect: le respect
+Utility: l'outil
+Deception: la déception
+Preference: la préférence
+Modesty: la modestie
+Loyalty: la fidélité
+Criticism: la critique
+Pessimism: le pessimisme
+Commitment: l'engagement
+Courage: le courage
+Foresight: la prévoyance
+Ambition : l'ambition
+Friendship: l'amitié
+Discretion: la discrétion
+Protection: la protection
+Snakes: des serpents
+Thirst: la soif
+Payback: la vengeance
+Crabs: des crabes
+Fear: la peur
+Clams: des palourdes
+Strength: la force
+Politics: la politique
+Doctors: des médecins
+Precaution: la précaution
+Oxen: des boeufs
+Lizards: ldes ézards
+Production: la production
+Cows: des vaches
+Greed: l'avidité
+Bulls: des taureaux
+Pigeons: des pigeons
+Clarity: la clarté
+Prevention: la prévention
+Emotion: l'émotion
+Desire: le désir
+Vanity: la vanité
+Fairness: la justice
+Workers: des ouvriers
+Prudence: la prudence
+Value: la valeur
+Happiness: la joie
+Chickens: des poulets
+Trees: des arbres
+Pride: la fierté
+Unity: l'unité
+Rabbits: des lapins
+Safety: la sécurité
+Purpose: le but
+Cruelty: la cruauté
+Regret: le regret
+Boys: des garçons
+Dogs: des chiens
+Birds: des oiseaux
+Risk: le risque
+Turtles: des tortues
+Freedom: la liberté
+Nuts: des noix
+Comfort: le confort
+Cookies: des biscuits
+Courtesy: la courtoisie
+Caution: la prudence
+Pleasure: le plaisir
+Wealth: la richesse
+fish2: le poisson
+cats: des chats
+hope: l'espoir
+gossip: le potin
+danger: le danger
+beauty: la beauté
+doves: des colombes
+hunger: la faim
+anger: la colère
+pigs: des porcs
+hatred: la haine
+faith: la foi
+work: le travail
+goats: des chèvres
+effort: l'effort
+power: la puissance
+deer: le cerf
+ducks: des canards
+or: ou
+luck: la chance
+or1: ou
+or2: ou
+math: math
+story: conte
+
+list="Fanaticism: fanatisme
+Inexperience: inexpérience
+Reciprocity: réciprocité
+Modification: modification
+Retaliation: représailles
+Insensitivity: insensibilité
+Responsibility: responsabilité
+Insensivity: insensibilité
+Ambivalence: ambivalence
+Stoicism: stoïcisme
+Creativity: créativité
+Superstition: superstition
+Antagonism: antagonisme
+Selfishness: égoïsme
+Loneliness: solitude
+Separation: séparation
+Impropriety: impropriété
+Consequences: conséquences
+Evaluation: évaluation
+Distractions: distractions
+Sincerity: sincérité
+Imagination: imagination
+Sensitivity: sensibilité
+Skepticism: scepticisme
+Sensitivity: sensibilité
+Laziness: paresse
+Compromise: compromis
+Favoritism: favoritisme
+Generosity: générosité
+Invention: invention
+Ideology: idéologie
+Poularity: popularité
+Indifference: indifférence
+Endurance: endurance
+Obligation: obligation
+Futility: futilité
+Instruction: instruction
+Survival: survie
+Plagiarism: plagiat
+Certainty: certitude
+Importance: importance
+Spiders: araignées
+Influence: influence
+Avoidance: évitement
+Deliberation: délibération
+Inequality: inégalité
+Plagiarism: plagiat
+Frivolity: frivolité
+Raccoons: ratons laveurs
+Foxes: renards
+Adversity: adversité
+Confidence: confiance
+Construction: construction
+Disregard: mépris
+Popularity: popularité
+Stupidity: stupidité
+Resilience: résilience
+Hypocrisy: hypocrisie
+Camaraderie: camaraderie
+Anxiety: anxiété
+Ritual: rituel
+Cowardice: lâcheté
+Assistance: assistance
+Amusement: amusement
+Animosity: animosité
+Persistence: persistance
+Distortion: distorsion
+Persistence: persistance
+Revenge: vengeance
+Necessity: nécessité
+Readiness: empressement
+Foolishness: sottise
+Tolerance: tolérance
+Incentive: motivation
+Motivation: motivation
+Competition: compétition
+Sympathy : sympathie
+Squirrels: écureuils
+Composure: sang-froid
+Preparation: préparation
+Remorse: remords
+Suspicion: suspicion
+Discomfort: inconfort
+Distrust: méfiance
+Pragmatism: pragmatisme
+Leadership: leadership
+Dishonesty: malhonnêteté
+Inference: inférence
+Hipocracy: Hipocracy
+Solution: solution
+Status: statut
+Advice: conseil
+Cohesion: cohésion
+Flowers: fleurs
+Education: éducation
+Equality: égalité
+Optimism: optimisme
+Kindness: gentillesse
+Humility: humilité
+Allegiance: allégeance
+Prejudice: préjudice
+Morality: moralité
+Respect: respect
+Utility: outil
+Deception: tromperie
+Preference: préférence
+Modesty: modestie
+Loyalty: fidélité
+Criticism: critique
+Pessimism: pessimisme
+Commitment: engagement
+Courage: courage
+Foresight: prévoyance
+Ambition : ambition
+Friendship: amitié
+Discretion: discrétion
+Protection: protection
+Snakes: serpents
+Thirst: soif
+Payback: vengeance
+Crabs: crabes
+Fear: peur
+Clams: palourdes
+Strength: force
+Politics: politique
+Doctors: médecins
+Precaution: précaution
+Oxen: boeufs
+Lizards: lézards
+Production: production
+Cows: vaches
+Greed: avidité
+Bulls: taureaux
+Pigeons: pigeons
+Clarity: clarté
+Prevention: prévention
+Emotion: émotion
+Desire: désir
+Vanity: vanité
+Fairness: justice
+Workers: ouvriers
+Prudence: prudence
+Value: valeur
+Happiness: joie
+Chickens: poulets
+Trees: arbres
+Pride: fierté
+Unity: unité
+Rabbits: lapins
+Safety: sécurité
+Purpose: but
+Cruelty: cruauté
+Regret: regret
+Boys: garçons
+Dogs: chiens
+Birds: oiseaux
+Risk: risque
+Turtles: tortues
+Freedom: liberté
+Nuts: noix
+Comfort: confort
+Cookies: biscuits
+Courtesy: courtoisie
+Caution: prudence
+Pleasure: plaisir
+Wealth: richesse
+fish2: poisson
+cats: chats
+hope: espoir
+gossip: potin
+danger: danger
+beauty: beauté
+doves: colombes
+hunger: faim
+anger: colère
+pigs: porcs
+hatred: haine
+faith: foi
+work: travail
+goats: chèvres
+effort: effort
+power: puissance
+deer: cerf
+ducks: canards
+or: ou
+luck: chance
+or1: ou
+or2: ou
+math: math
+story: conte"
+
+for i in list
+do
+fname=`echo $i |awk '{print $1}'| tr -d ":" | tr '[:upper:]' '[:lower:]'`
+cont=`echo $list |awk '{print $2}'`
+
+done
+
+
+

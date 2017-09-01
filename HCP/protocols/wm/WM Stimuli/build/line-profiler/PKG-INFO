@@ -1,0 +1,31 @@
+Metadata-Version: 1.1
+Name: line_profiler
+Version: 1.0
+Summary: Line-by-line profiler.
+Home-page: https://github.com/rkern/line_profiler
+Author: Robert Kern
+Author-email: robert.kern@enthought.com
+License: BSD
+Description: line_profiler will profile the time individual lines of code take to execute.
+        The profiler is implemented in C via Cython in order to reduce the overhead of
+        profiling.
+        
+        Also included is the script kernprof.py which can be used to conveniently
+        profile Python applications and scripts either with line_profiler or with the
+        function-level profiling tools in the Python standard library.
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Topic :: Software Development

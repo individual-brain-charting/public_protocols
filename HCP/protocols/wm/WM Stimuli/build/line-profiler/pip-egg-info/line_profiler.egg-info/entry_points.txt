@@ -1,0 +1,3 @@
+[console_scripts]
+kernprof = kernprof:main
+
