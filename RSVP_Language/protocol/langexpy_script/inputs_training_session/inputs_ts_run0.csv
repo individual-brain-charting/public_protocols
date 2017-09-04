@@ -1,0 +1,13 @@
+line,condition,item,probe_type,w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,probe_word
+8,pseudoword_list,4,word_present,Coupontige,se,cette,tracrileurs,la,détidias,porcrèce,rudrait,beaurepadio,l'Arium.,beaurepadio
+3,complex_sentence,11,word_absent,Les,économies,internationales,qui,ralentissent,empirent,le,problème,des,banques.,fermente
+5,jabberwocky,10,word_absent,La,lâtre,se,mailice,au,chanfaitif,bavre,le,rodi,bral.,férétéma
+6,word_list,12,word_present,Plusieurs,les,modèles,ramassent,le,sont,amuse,traînait,le,courroux.,traînait
+9,pseudoword_list,9,word_absent,Les,le,onge,pencopes,et,et,guche,en,et,partrivait.,sitermer
+10,consonant_strings,1,word_present,Jjnj,jtrqdsqqfdn,ffntlxnsjbg,xhdd,gxhszqvkqfqvm,tvv,jxjd,sgtldwlcx,cdjmrltrtbj,svdbqjqlnnrqn.,gxhszqvkqfqvm
+0,simple_sentence,3,word_present,Le,scénariste,s'explique,sur,le,tournage,et,le,réalisateur,écoute.,scénariste
+2,complex_sentence,2,word_present,La,question,que,l'Union,Européenne,tranche,angoisse,beaucoup,l'Etat,grec.,tranche
+7,word_list,8,word_absent,Le,donc,type,s'élucider,trajectoire,au,expérience,foin,le,portant.,brillant
+4,jabberwocky,5,word_present,La,reverne,a,lipilors,le,prect,de,Mondanu,en,inditée.,lipilors
+1,simple_sentence,6,word_absent,La,cantatrice,s'effraye,en,découvrant,une,souris,dans,son,lit.,ordinateur
+11,consonant_strings,7,word_absent,Tnx,xvbfh,kg,lpddztj,pqpbtshxgv,bnbjtb,cgbrvqtdj,mbqfrrtfkpqkdr,jtfgj,fjwtb.,fskjssf

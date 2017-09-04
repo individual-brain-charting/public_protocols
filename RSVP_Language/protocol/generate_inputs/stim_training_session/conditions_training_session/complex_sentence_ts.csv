@@ -1,0 +1,13 @@
+condition,item,w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,word_present,word_absent
+complex_sentence,1,Les,maladies,dangereuses,que,les,moustiques,diffusent,en,Afrique,prolifèrent.,diffusent,resquillent
+complex_sentence,2,La,question,que,l'Union,Européenne,tranche,angoisse,beaucoup,l'Etat,grec.,tranche,insistent
+complex_sentence,3,Le,scénariste,que,le,réalisateur,écoute,s'explique,sur,le,tournage.,écoute,souffre
+complex_sentence,4,La,soeur,de,Jean,que,le,voyou,a,menacé,s'évanouit.,voyou,toit
+complex_sentence,5,C'est,le,sac,que,la,poignée,a,accrochée,en,passant.,poignée,fascine
+complex_sentence,6,C'est,la,cantatrice,qu'une,souris,blanche,avait,effrayée,en,couinant.,blanche,allument
+complex_sentence,7,C'est,cette,solution,intéressante,que,le,chef,a,exigé,d'éliminer.,exigé,imposer
+complex_sentence,8,C'est,ce,politicien,véreux,que,le,président,aide,en,l'informant.,véreux,fantastique
+complex_sentence,9,Le,moineau,qui,gêne,le,gros,chat,chante,à,tue-tête.,moineau,continent
+complex_sentence,10,Au,crépuscule,le,lion,roux,qui,guette,la,hyène,dort.,guette,butinent
+complex_sentence,11,Les,économies,internationales,qui,ralentissent,empirent,le,problème,des,banques.,empirent,fermente
+complex_sentence,12,Les,soldats,qui,avancent,contre,les,officiers,se,battent,vaillamment,officiers,sourit

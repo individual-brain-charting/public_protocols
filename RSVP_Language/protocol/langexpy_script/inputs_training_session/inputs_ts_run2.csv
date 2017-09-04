@@ -1,0 +1,13 @@
+line,condition,item,probe_type,w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,probe_word
+2,complex_sentence,12,word_present,Les,soldats,qui,avancent,contre,les,officiers,se,battent,vaillamment,officiers
+3,complex_sentence,8,word_absent,C'est,ce,politicien,véreux,que,le,président,aide,en,l'informant.,fantastique
+11,consonant_strings,10,word_absent,Ssn,prssptm,brf,vrhdfhdlk,fjs,pwqnlttskhrr,jrrgpg,bcd,dmjpr,pgjfx.,lxhzndfsd
+0,simple_sentence,2,word_present,Cette,question,angoisse,beaucoup,l'Etat,grec,et,l'Union,Européenne,tranche.,grec
+1,simple_sentence,11,word_absent,Le,scooter,freine,aussitôt,que,le,vieux,vélo,rouge,s'arrête.,fonctionnaire
+8,pseudoword_list,1,word_present,Boumés,dans,plarale,aux,exercomme,conné,alon,le,coplenait,ortutir.,exercomme
+9,pseudoword_list,7,word_absent,Taplirai,la,crou,les,monefailors,zat,réanuais,la,gétotion,ce.,noméce
+10,consonant_strings,5,word_present,Sqr,jsggrjblg,jt,qctgrcplbd,fzn,qqlt,mrv,bblcrbffx,njg,scdxnnvb.,qctgrcplbd
+4,jabberwocky,4,word_present,Le,gonge,travtant,recrotit,et,la,vêpel,de,Luie,s'écrilées.,recrotit
+5,jabberwocky,9,word_absent,Le,raituce,monfie,à,fingogue,phrieur,que,le,siré,ciciéra.,terfiche
+7,word_list,6,word_absent,Le,aux,et,la,les,s'enflamme,continue,se,excusée,cholestérol.,électromagnétique
+6,word_list,3,word_present,Gramophone,a,minute,gin,le,volatile,en,participé,l'intention,à.,gramophone

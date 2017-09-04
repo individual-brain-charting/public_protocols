@@ -1,0 +1,13 @@
+line,condition,item,probe_type,w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,probe_word
+8,pseudoword_list,3,word_absent,Dirigartro,à,son,waté,detertre,a,au,Daie,soile,que.,dorfonte
+7,word_list,9,word_present,Le,gratitude,habitude,en,que,et,cette,la,que,comédie.,comédie
+9,pseudoword_list,6,word_present,Voutain,touplame,d'esbirale,que,méconge,l'exismanle,morif,jint,les,une.,jint
+11,consonant_strings,11,word_present,Lh,scbrtkr,frsqnm,vgsstttt,qws,lr,vzglx,vqlx,rpmgj,stvrrztg.,vzglx
+6,word_list,4,word_absent,Révélation,rhum,l'armes,plus,a,pâté,d'épanouir,magiciens,sont,planète.,frères
+10,consonant_strings,2,word_absent,Pmftxv,nssjbcfdk,pvtmjptpp,crqlfqrnr,tdsqq,rglxs,scm,nsnkxv,ntnddtjvprfr,dbfjgbvb.,pmvnpdjj
+0,simple_sentence,1,word_absent,Les,moustiques,résistent,aux,insecticides,et,les,maladies,tropicales,proliférent.,touristes
+2,complex_sentence,5,word_absent,C'est,le,sac,que,la,poignée,a,accrochée,en,passant.,fascine
+3,complex_sentence,10,word_present,Au,crépuscule,le,lion,roux,qui,guette,la,hyène,dort.,guette
+5,jabberwocky,8,word_present,Le,impauban,a,reproticé,ce,regi,élougneur,en,l'estochant,défuna.,reproticé
+1,simple_sentence,7,word_present,Le,chef,a,exigé,d'éliminer,cette,solution,originale,tout,seul.,solution
+4,jabberwocky,12,word_absent,Les,hédarés,jaut,macerreux,larisent,détuce,que,les,marvanles,couliment.,léferte

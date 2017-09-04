@@ -1,0 +1,13 @@
+line,condition,item,probe_type,w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,probe_word
+0,simple_sentence,5,word_absent,La,poignée,a,accroché,le,sac,de,Valérie,en,passant.,spectacle
+1,simple_sentence,10,word_present,La,hyène,se,promène,au,crépuscule,quand,le,lion,dort.,crépuscule
+2,complex_sentence,4,word_absent,La,soeur,de,Jean,que,le,voyou,a,menacé,s'évanouit.,toit
+3,complex_sentence,9,word_present,Le,moineau,qui,gêne,le,gros,chat,chante,à,tue-tête.,moineau
+4,jabberwocky,3,word_absent,Le,cholourai,s'extenput,sur,le,lecterte,et,le,ainchisonre,peinir.,mabams
+5,jabberwocky,6,word_present,La,faimeterde,s'étidait,en,cersomprit,une,éterve,dans,son,luc.,éterve
+6,word_list,1,word_absent,Cette,le,mime,vestiges,indication,bijoux,de,romance,le,soi-même.,circulation
+7,word_list,7,word_present,Associée,tribut,le,licencieux,noire,fraise,s'adapte,la,l'idiot,Denis.,tribut
+8,pseudoword_list,2,word_absent,Biteiltin,satramiments,de,a,sur,novons,masaient,zente,s'éintigare,nouclismé.,élalait
+9,pseudoword_list,11,word_present,Mertes,cracé,ocbo,flanfale,visamire,reure,que,les,partision,que.,ocbo
+10,consonant_strings,12,word_absent,Lzs,spldhts,plps,cvgrdgjkx,qvtncbnt,tnndws,qrz,lqs,pffkcvtrs,dmswrtbnt.,gmrdzvn
+11,consonant_strings,8,word_present,Nqj,tncmssrxmmm,nt,qlvdwhzbld,ssgfpx,cdh,tsnjclldjkh,bvbdnlws,tpl,ptbndggcmr.,qlvdwhzbld

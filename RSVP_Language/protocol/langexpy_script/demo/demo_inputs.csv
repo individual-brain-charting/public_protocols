@@ -1,0 +1,7 @@
+line,condition,item,probe_type,w1,w2,w3,w4,w5,w6,w7,w8,w9,w10,probe_word
+1,simplesent,2,word_absent,Cette,question,angoisse,beaucoup,l'Etat,grec,et,l'Union,Européenne,tranche.,avocats
+2,complexsent,5,word_present,C'est,le,sac,que,la,poignée,a,accroché,en,passant.,poignée
+5,jabberwocky,8,word_absent,Le,impauban,a,reproticé,ce,regi,élougneur,en,l'estochant,défuna.,poutréde
+6,wordlist,9,word_present,Le,courageux,beaucoup,en,que,et,cette,la,que,scooter.,scooter
+6,pseudolist,5,word_absent,Binitrons,en,le,hasace,counise,en,mausant,la,l'Arda,vivenrer.,partopucoup
+8,consstring,3,word_present,Gjm,tnpnrxbflmhp,bslzjfrdv,rnpd,dcr,spplmqspr,gmd,sch,mlsnfbqcsblkp,bbpdsmnr.,mlsnfbqcsblkp

@@ -1,0 +1,37 @@
+Slide|||||||||||||
+"Nous allons vous montrer des séries de dix ""chaînes de caractères""."|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Ces chaînes font partie de l'une des trois catégories suivantes:|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+(1) des mots usuels;|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+"(2) des ""quasi-mots"", c'est à dire une suite de caractère sans aucun sens, mais prononçable;"|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+"(3) des ""non-mots"" composés uniquement de consonnes."|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Certaines de ces séquences vont former de phrases sensées, mais pas toutes.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Après la présentation de chaque séquence, un mot/quasi-mot/non-mot sera présenté une seule fois.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Il vous faudra alors répondre si cet exemplaire-test faisait partie de l'ensemble de 10 mots/quasi-mots/non-mots qui viennent d'être présentés.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+"Pour cela, vous devrez appuyer sur le bouton gauche pour répondre ""OUI"" ou bien sur le bouton droit pour répondre ""NON""."|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Voici un exemple,|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+La séquence suivante de mots sera présentée:|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Le|scooter|freine|aussitôt|que|le|vieux|vélo|rouge|s'arrête.|no_item|no_item|no_item|no_probe
+Immédiatement après, un exemplaire unique est présenté. Par exemple:|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+vieux|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+"Avez-vous vu l'item “vieux”? Si ""OUI"", appuyez sur le bouton gauche. Si ""NON"", appuyez sur le bouton droit."|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|fdbk_yes
+La réponse est “OUI”, donc il faut presser le bouton avec la main gauche.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Voici un autre exemple,|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+La séquence de mots est maintenant:|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Le|conrola|agarme|viansace|que|le|laçon|oupé|clour|s'aleçon.|no_item|no_item|no_item|no_probe
+Et immédiatement après, le mot presenté est:|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+coutissent|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+"Avez-vous vu l'item “coutissent”? Si ""OUI"", appuyez sur le bouton gauche. Si ""NON"", appuyez sur le bouton droit."|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|fdbk_no
+La réponse, dans ce cas, est “NON”, donc il faut presser le bouton avec la main droite.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Et encore un autre example,|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+La séquence de mots sera presentée et, immédiatement après, un mot sera presenté, mais maintenant sans préavis.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Vgh|bjpdbmgv|pjvvsct|zcgljcgfjc|tpss|nqk|srrbhg|lfsfjs|rrtrmg|ldctvxvp.| | | |srrbhg
+"Avez-vous vu l'item “srrbhg”? Si ""OUI"", appuyez sur le bouton gauche. Si ""NON"" appuyez sur le bouton droit."|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|fdbk_yes
+La réponse est “OUI”, donc il faut presser le bouton avec la main gauche.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Veuillez noter qu'il n'y aura pas de préavis entre le mot présenté et la phrase.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+La durée totale de l'expérience est approximativement d'une heure. Elle inclut six sessions.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Chacune de ces sessions dure environ dix minutes, au cours desquelles soixante tests seront effectués.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Chaque test comprend la présentation successive de dix mots, suivis de l'exemple de test et de votre réponse.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Une session est continue, sans interruption.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+L'expérience est rapide, restez attentifs. Si vous ratez un test, ce n'est pas grave, essayez de vous concentrer pour le suivant.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+Il y aura une pause de une à deux minutes entre les sessions.|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
+"Pour retourner au menu principal, appuyez à tout moment sur le bouton “m”. Pour afficher les instructions de nouveau, appuyer ""ENTER""."|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item|no_item
