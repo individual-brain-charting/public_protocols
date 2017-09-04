@@ -399,4 +399,3 @@ def launch_protocol(protocol_ini, exp):
                                                  duration=5000)
                 # Leave while loop
                 stop = True
-
