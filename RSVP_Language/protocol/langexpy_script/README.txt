@@ -1,4 +1,4 @@
-Script of IBC protocol on language processing ## Author: Ana Luisa Pinho, Christophe Pallier ## email: ana.pinho@inria.fr
+Script of the RSVP-Language protocol ## Author: Ana Luisa Pinho, Christophe Pallier ## email: ana.pinho@inria.fr
 
 Compatibility: Python 2.7 / Expyriment 0.7.0 (Revision 7a6b73d) or older
 

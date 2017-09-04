@@ -1,4 +1,4 @@
-Script to generate the inputs for the IBC protocol on language processing ## Author: Ana Luisa Pinho ## email: ana.pinho@inria.fr
+Script to generate the inputs for the RSVP-Language protocol ## Author: Ana Luisa Pinho ## email: ana.pinho@inria.fr
 
 Compatibility: Python 2.7
 
