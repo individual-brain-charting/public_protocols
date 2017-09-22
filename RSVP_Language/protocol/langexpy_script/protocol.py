@@ -73,13 +73,6 @@ def launch_protocol(protocol_ini, exp):
     # %%
     # ============================== DESIGN ===================================
 
-    # Define the pathway of the inputs directory
-    inputs_path = os.path.abspath(setting["inputs_dir"])
-
-    # List input csv files
-    inputs_filenames = dirfiles.listdir_csvnohidden(inputs_path)
-    inputs_filenames.sort()
-
     # Generate a list of dataframes containing the inputs per block
     df_list = [pd.read_csv(inputs_filename)
                for inputs_filename in inputs_filenames]
