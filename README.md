@@ -1,4 +1,4 @@
-# Public\_protocols
+# Public Protocols
 This repository hosts public protocols for the IBC project.  
 
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
