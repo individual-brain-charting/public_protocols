@@ -1,4 +1,6 @@
-## General instructions    
+## Script for extraction of paradigm descriptors from the ARCHI tasks  
+
+### General instructions    
 
 Author: Ana Luisa Pinho  
 E-mail: ana.pinho@inria.fr  
