@@ -20,7 +20,7 @@ The __HCP directory__ contains the protocols of:
 
 The __RSVP\_Language directory__ concerns only to the protocol employed for the RSVP Language task.  
 
-Finally, each directory contains:  
+Finally, each directory are structured as follows:  
 1. the protocol's scripts pertaining the launch of the stimuli;  
 2. video demonstrations of the sequence of events displayed at every run;  
 3. documents containing instructions to the participants carried out during the training session; and  
