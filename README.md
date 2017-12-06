@@ -4,19 +4,19 @@ This repository hosts public protocols for the IBC project.
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
 
 Hence, the ARCHI directory contains the protocols of:  
-* ARCHI Standard;  
-* ARCHI Spatial;  
-* ARCHI Social; and  
-* ARCHI Emotional.  
+* ARCHI Standard  
+* ARCHI Spatial  
+* ARCHI Social    
+* ARCHI Emotional    
 
 The HCP directory contains the protocols of:  
-* HCP Emotion;  
-* HCP Gambling;  
-* HCP Motor;  
-* HCP Language;  
-* HCP Relational;  
-* HCP Social; and  
-* HCP Working-Memory.  
+* HCP Emotion  
+* HCP Gambling    
+* HCP Motor  
+* HCP Language    
+* HCP Relational    
+* HCP Social   
+* HCP Working-Memory    
 
 The RSVP\_Language directory concerns only to the protocol employed for the RSVP\_Language task.  
 
