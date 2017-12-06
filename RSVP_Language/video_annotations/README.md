@@ -1,4 +1,4 @@
-## Notes about video annotations of the RSVP_Language task  
+## Notes about video annotations of the RSVP Language task  
 
 Author: Ana Luisa Pinho  
 E-mail: ana.pinho@inria.fr
