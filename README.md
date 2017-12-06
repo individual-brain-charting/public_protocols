@@ -16,7 +16,7 @@ The __HCP directory__ contains the protocols of:
 * HCP Language task  
 * HCP Relational task  
 * HCP Social task  
-* HCP Working-Memory task      
+* HCP Working Memory task      
 
 The __RSVP\_Language directory__ concerns only to the protocol employed for the RSVP Language task.  
 
