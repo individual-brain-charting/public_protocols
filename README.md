@@ -9,7 +9,7 @@ Hence, the ARCHI directory contains the protocols of:
 (iii) ARCHI Social; and  
 (iv) ARCHI Emotional.  
 
-The HCP directory contains the protocols of: 
+The HCP directory contains the protocols of:  
 (a) HCP Emotion;  
 (b) HCP Gambling;  
 (c) HCP Motor;  
