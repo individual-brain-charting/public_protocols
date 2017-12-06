@@ -4,10 +4,10 @@ This repository hosts public protocols for the IBC project.
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
 
 Hence, the ARCHI directory contains the protocols of:  
-Markup : * ARCHI Standard;  
-         * ARCHI Spatial;  
-         * ARCHI Social; and  
-         * ARCHI Emotional.  
+* ARCHI Standard;  
+* ARCHI Spatial;  
+* ARCHI Social; and  
+* ARCHI Emotional.  
 
 The HCP directory contains the protocols of:  
 Markup: * HCP Emotion;  
