@@ -1,4 +1,6 @@
-## General instructions  
+## Script for extraction of paradigm descriptors from the HCP tasks  
+
+### General instructions  
 
 Author: Ana Luisa Pinho  
 E-mail: ana.pinho@inria.fr  
