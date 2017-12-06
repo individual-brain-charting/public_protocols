@@ -18,7 +18,7 @@ The HCP directory contains the protocols of:
 (f) HCP Social; and  
 (g) HCP Working-Memory.  
 
-The RSVP\_Language directory concerns only with the protocol employed for the RSVP\_Language task.  
+The RSVP\_Language directory concerns only to the protocol employed for the RSVP\_Language task.  
 
 Finally, each directory contains:  
 (1) the protocol's scripts pertaining the launch of the stimuli;  
