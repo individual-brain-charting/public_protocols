@@ -1,27 +1,27 @@
-# public_protocols
+# Public Protocols
 This repository hosts public protocols for the IBC project.  
 
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
 
-Hence, the ARCHI directory contains the protocols of:  
-(i) ARCHI Standard;  
-(ii) ARCHI Spatial;  
-(iii) ARCHI Social; and  
-(iv) ARCHI Emotional.  
+Hence, the __ARCHI directory__ contains information about the protocols of:  
+* _ARCHI Standard_ task  
+* _ARCHI Spatial_ task  
+* _ARCHI Social_ task  
+* _ARCHI Emotional_ task  
 
-The HCP directory contains the protocols of:  
-(a) HCP Emotion;  
-(b) HCP Gambling;  
-(c) HCP Motor;  
-(d) HCP Language;  
-(e) HCP Relational;  
-(f) HCP Social; and  
-(g) HCP Working-Memory.  
+The __HCP directory__ contains the protocols of:  
+* _HCP Emotion_ task  
+* _HCP Gambling_ task  
+* _HCP Motor_ task  
+* _HCP Language_ task  
+* _HCP Relational_ task  
+* _HCP Social_ task  
+* _HCP Working Memory_ task      
 
-The RSVP\_Language directory concerns only to the protocol employed for the RSVP\_Language task.  
+The __RSVP\_Language directory__ concerns only to the protocol employed for the _RSVP Language_ task.  
 
-Finally, each directory contains:  
-(1) the protocol's scripts pertaining the launch of the stimuli;  
-(2) video demonstrations of the sequence of events displayed at every run;  
-(3) documents containing instructions to the participants carried out during the training session; and  
-(4) scripts that parse + extract information from log files and compute the paradigm descriptors of the regressors-of-interest used in the GLM. Log files are released upon launching the protocols and they contain experimental variables and behavioral data.
+Finally, each directory are structured as follows:  
+1. the protocol's scripts pertaining the launch of the stimuli;  
+2. video demonstrations of the sequence of events displayed at every run;  
+3. documents containing instructions to the participants carried out during the training session; and  
+4. scripts that parse + extract information from log files and compute the paradigm descriptors of the regressors-of-interest used in the GLM estimation. Log files are released upon launching the protocols and they contain experimental variables and behavioral data.
