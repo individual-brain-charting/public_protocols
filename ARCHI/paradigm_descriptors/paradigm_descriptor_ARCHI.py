@@ -25,7 +25,7 @@ from confparser import load_config
 # =============================================================================
 # IMPORTANT NOTE: Before running this script, it is mandatory to extract for
 #                 each task, the values of the parameters mentioned below with
-#                 the parser_eprime_logtxt_HCP.py
+#                 the parser_eprime_logtxt_ARCHI.py
 #
 # ARCHI standard
 # Parameters extracted from the log files: mot1.OnsetTime
