@@ -5,10 +5,13 @@ Paradigm descriptors' estimation for ARCHI protocols
 @author: Ana Luisa Pinho, ana.pinho@inria.fr
 contributor: Andres Hoyos Idrobo
 
-Last update: Jan 2017
+Last update: Dec 2017
 
 Note: Run the script with the input csv files per subject and session under the
       same directory
+
+Compatibility: Python 2.7
+
 """
 
 import os
@@ -68,16 +71,21 @@ from confparser import load_config
 #                                          delai
 #                                          typetask
 #                                          Running
+#
+#
+# Afterwards, you shall run this script as follows:
+# python <name_of_the_script> <name_of_the_ARCHI_loc> <name_of_the_session>
+#
+# Example:
+# python paradigm_descriptor_ARCHI.py standard screening3
 # =============================================================================
 
 # %%
 # ######################## GENERAL PARAMETERS #################################
 # List of participants
-participants = [16]
+participants = [15]
 # Number of runs
 runs = 2
-# Name of current session
-session_name = '3ARCHI'
 # Output files
 output = 'paradigm_descriptors'
 output_short = 'paradigm_descriptors_sh'
@@ -92,7 +100,10 @@ loc_social = 'social'
 loc_emot = 'emotionnel'
 # Names of all possible sessions
 session1 = 'screening3'
-session2 = '3ARCHI'
+session2 = 'all_ARCHI_loc'
+# Subject or pilot
+fname_prefix = 'sub'
+# fname_prefix = 'pilot-'
 
 
 def list_converter(columnheaders, labels):
@@ -158,7 +169,7 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
     # Create a file for each participant and ...
     for participant in pts_list:
         participant_id = "%02d" % participant
-        foldername_participant_id = 'pilot-' + participant_id
+        foldername_participant_id = fname_prefix + '-' + participant_id
         localizer_name = 'localizer_' + protocol
         # ... per block
         for block in range(1, blocks + 1):
@@ -169,6 +180,8 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                                      localizer_name, filename_data)
             # If input file does not exist, go to the next run
             if not os.path.exists(path_data):
+                print 'Warning: No log-file for participant %s,' \
+                      % participant + ' run %s!' % block
                 continue
             # Read the table
             data_list = [line for line in csv.reader(open(path_data))]
@@ -258,10 +271,9 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                     elif protocol == loc_emot:
                         if row[HEADERS.index(setting["procedure"])] == \
                            'MainLocalizer':
-                                if row[HEADERS.index(
-                                   setting["trialref"])] != '0':
-                                    cond_duration.pop()
-                                cond_duration.append(float(row[HEADERS.index(
+                            if row[HEADERS.index(setting["trialref"])] != '0':
+                                cond_duration.pop()
+                            cond_duration.append(float(row[HEADERS.index(
                                                      setting["time_delay"])]))
                         elif HEADERS[nidx] in init.keys():
                             # Sync
@@ -297,10 +309,10 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                             if HEADERS[nidx] == 'TriangleMovie.OnsetTime':
                                 if row[HEADERS.index(
                                    setting["trialref"])] == '1':
-                                        cond_name.append(setting["stim_eoi"])
+                                    cond_name.append(setting["stim_eoi"])
                                 elif row[HEADERS.index(
                                      setting["trialref"])] == '2':
-                                        cond_name.append(
+                                    cond_name.append(
                                             setting["stim_control"])
                             # Other conditions
                             else:
@@ -350,11 +362,11 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
             cond_onset_new = cond_onset
             if protocol == loc_emot:
                 while np.any([onset == -1 for onset in cond_onset_new]):
-                    cond_onset_new = [cond_onset_new[k+1] -
+                    cond_onset_new = [cond_onset_new[k + 1] -
                                       setting["duration_blank"] -
                                       cond_duration[k]
                                       if cond_onset_new[k] == -1 and
-                                      cond_onset_new[k+1] != -1
+                                      cond_onset_new[k + 1] != -1
                                       else cond_onset_new[k]
                                       for k in np.arange(len(cond_onset_new))]
             # Subtract TTL value from onset and convert it from
@@ -366,8 +378,8 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                                      if cond_duration[i] == -1
                                      else cond_onset_sec[i + 1] -
                                      cond_onset_sec[i] -
-                                     setting["duration_blank"]/1000 -
-                                     cond_duration[i]/1000 for i in
+                                     setting["duration_blank"] / 1000 -
+                                     cond_duration[i] / 1000 for i in
                                      np.arange(len(cond_onset_sec) - 1)]
                 cond_duration_new.append(setting["duration_rest"])
             elif protocol == loc_social:
@@ -379,11 +391,12 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                 cond_duration_new = [cond_onset_sec[i + 1] - cond_onset_sec[i]
                                      if cond_duration[i] == -1
                                      else cond_onset_sec[i + 1] -
-                                     cond_onset_sec[i] - cond_duration[i]/1000
+                                     cond_onset_sec[i] -
+                                     cond_duration[i] / 1000
                                      for i in
                                      np.arange(len(cond_onset_sec) - 1)]
                 cond_duration_new = [duration_new -
-                                     setting["duration_blank"]/1000
+                                     setting["duration_blank"] / 1000
                                      if cond_name[n] == names['MainLocalizer']
                                      else duration_new for n, duration_new in
                                      enumerate(cond_duration_new)]
