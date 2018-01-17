@@ -4,6 +4,9 @@ Parser for e-prime HCP logfiles
 
 author: Mehdi Rahim
 @contributor: Ana Luisa Pinho, ana.pinho@inria.fr
+
+Compatibility: Python 2.7
+
 """
 
 import os
@@ -76,7 +79,7 @@ def parse_data_eprime(filename):
 ##############################################################################
 
 # General parameters
-participant = 14
+participant = 15
 session = 'HCP2'
 protocol = 'wm'
 
@@ -111,11 +114,11 @@ if len(sys.argv) > 1:
     # Save file (add extracted_ prefix)
     participant_id = "sub-%02d" % participant
     path_output = os.path.join(participant_id, session, protocol)
-    df.to_csv(path_output + '/extracted_' + output_file + '.csv', sep=',',
+    df.to_csv(path_output + '/extracted_sub-' + output_file + '.csv', sep=',',
               columns=eprime_selected_cols, index=False)
 
     print '________________'
-    print 'Output file : ', 'extracted_' + output_file + '.csv\n'
+    print 'Output file : ', 'extracted_sub-' + output_file + '.csv\n'
 else:
     print '\nYou must provide at least the eprime filename !'
     print str(''.join(('FORMAT: ipython parse_eprime_file.py',
