@@ -26,11 +26,11 @@ Finally, each directory are structured as follows:
 3. documents containing instructions to the participants carried out during the training session; and  
 4. scripts that parse + extract information from log files and compute the paradigm descriptors of the regressors-of-interest used in the GLM estimation. Log files are released upon launching the protocols and they contain experimental variables and behavioral data.
 
-# Future work
+## Future work
 More protocols will be made available following the releases of the IBC dataset on neuroimaging data.
 
-# Contributions
+## Contributions
 Please feel free to report any issue and propose improvements on github.
 
-# Author
+## Author
 Ana Luísa Pinho, 2015 - present
