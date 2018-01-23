@@ -32,7 +32,7 @@ Finally, each directory are structured as follows:
 More protocols will be made available following the releases of the IBC dataset on neuroimaging data.
 
 ## Contributions
-Please feel free to report any issue and propose improvements on github.
+Please, feel free to report any issue and propose improvements on github.
 
 ## Author
 Ana Luísa Pinho, 2015 - present
