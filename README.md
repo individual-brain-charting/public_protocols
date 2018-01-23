@@ -1,5 +1,5 @@
 # Public Protocols
-This repository hosts public protocols for the _Individual Brain Charting_ (IBC) project.  
+This repository hosts public behavioral protocols for the _Individual Brain Charting_ (IBC) project.  
 
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
 
