@@ -94,7 +94,9 @@ participant = 15
 session = 'screening3'
 # session = 'all_ARCHI_loc'
 protocol = 'localizer_spatial'
-
+# Subject or pilot?
+fname_prefix = 'sub'
+# fname_prefix = 'pilot'
 
 # fname must be the path to an eprime txt file (from argv or fixed)
 if len(sys.argv) > 1:
@@ -124,7 +126,7 @@ if len(sys.argv) > 1:
     # Filename lowercase only
     output_file = output_file.lower()
     # Save file (add extracted_ prefix)
-    participant_id = "sub-%02d" % participant
+    participant_id = fname_prefix + '-' + '%02d' % participant
     # foldername_participant_id = 'sub' + participant_id
     path_output = os.path.join(participant_id, session, protocol)
     df.to_csv(path_output + '/extracted_' + output_file + '.csv', sep=',',
