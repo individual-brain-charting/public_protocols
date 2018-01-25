@@ -101,7 +101,7 @@ loc_emot = 'emotionnel'
 # Names of all possible sessions
 session1 = 'screening3'
 session2 = 'all_ARCHI_loc'
-# Subject or pilot
+# Subject or pilot?
 fname_prefix = 'sub'
 # fname_prefix = 'pilot-'
 
@@ -182,6 +182,7 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
             if not os.path.exists(path_data):
                 print 'Warning: No log-file for participant %s,' \
                       % participant + ' run %s!' % block
+                print path_data
                 continue
             # Read the table
             data_list = [line for line in csv.reader(open(path_data))]
