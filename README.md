@@ -29,7 +29,7 @@ Finally, each directory are structured as follows:
 4. scripts that parse + extract information from log files and compute the paradigm descriptors of the regressors-of-interest used in the GLM estimation. Log files are released upon launching the protocols and they contain experimental variables and behavioral data.
 
 ## Notes
-Because these protocols were implemented for native-french speakers, please notice that text stimuli as well as instructions to the participants are written in french. Nevertheless, all the information pertaining the usage and adaptation of these protocols in other experimental settings are provided in english.
+Because these protocols were implemented for native-french speakers, please notice that text stimuli as well as instructions to the participants are written in french. Nevertheless, all the information pertaining the usage and adaptation of the protocols in other experimental settings are provided in english.
 
 ## Future work
 More protocols will be made available following the releases of the IBC dataset on neuroimaging data.
