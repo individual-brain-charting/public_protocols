@@ -48,16 +48,17 @@ menu_options = [setting_mm["instruct"], setting_mm["demo_sess"],
                 setting_mm["train_sess"], setting_mm["main_sess"],
                 setting_mm["exit"]]
 
+task_title = setting_mm["protocol_title"]
+
 # Use the next command line if you're running Expyriment vs. O.7.0 on Windows
 # menu_options = [s.decode('utf-8').encode('cp1252') for s in menu_options]
-# Use the next command line if you're running Expyriment vs. O.7.0 on Linux
-menu_options = [s.decode('utf-8') for s in menu_options]
+# task_title = task_title.decode('utf-8').encode('cp1252')
 
 display_note = stimuli.TextLine(setting_mm["note"].decode('utf-8'),
                                 text_size=24, text_colour=(0, 0, 150),
                                 position=(0, -300))
 
-menu = io.TextMenu(setting_mm["protocol_title"].decode('utf-8'), menu_options,
+menu = io.TextMenu(task_title, menu_options,
                    width=1000, text_size=28, gap=10,
                    background_colour=(127, 127, 127),
                    background_stimulus=display_note)
