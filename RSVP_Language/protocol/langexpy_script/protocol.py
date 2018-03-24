@@ -222,7 +222,7 @@ def launch_protocol(protocol_ini, exp):
     stop = False
     found_key = 0
     key_totalexp = []
-    # While "m" key is not pressed, ...
+    # While "h" key is not pressed, ...
     while not stop:
         # Loop over all blocks
         for b, block in enumerate(exp.blocks[start_block:]):
@@ -247,18 +247,18 @@ def launch_protocol(protocol_ini, exp):
                 line1.present(clear=True, update=False)
                 line2.present(clear=False, update=False)
                 fixcross2.present(clear=False)
-                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_m],
+                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_h],
                                                  duration=2000)
-                # If "m" key is pressed, returns to main menu
-                if found_key == misc.constants.K_m:
+                # If "h" key is pressed, returns to main menu
+                if found_key == misc.constants.K_h:
                     stop = True
                     break
                 # First blank screen
                 blank1.present()
-                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_m],
+                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_h],
                                                  duration=500)
-                # If "m" key is pressed, returns to main menu
-                if found_key == misc.constants.K_m:
+                # If "h" key is pressed, returns to main menu
+                if found_key == misc.constants.K_h:
                     stop = True
                     break
                 # Presentation of the language stimuli within
@@ -269,16 +269,16 @@ def launch_protocol(protocol_ini, exp):
                     line1.present(clear=True, update=False)
                     line2.present(clear=False, update=False)
                     word_stim.present(clear=False)
-                    found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_m],
+                    found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_h],
                                                      duration=400)
                     # Display: Word-off
                     # line1.present(clear=True, update=False)
                     # line2.present(clear=False, update=True)
                     # found_key, _ = exp.keyboard.wait(
-                    #                 keys=[misc.constants.K_m], duration=100)
+                    #                 keys=[misc.constants.K_h], duration=100)
 
-                    # If "m" key is pressed, returns to main menu
-                    if found_key == misc.constants.K_m:
+                    # If "h" key is pressed, returns to main menu
+                    if found_key == misc.constants.K_h:
                         stop = True
                         break
                 if stop:
@@ -295,16 +295,16 @@ def launch_protocol(protocol_ini, exp):
                 # Second jittered blank screen
                 blank2.present()
                 found_key, _ = exp.keyboard.wait(
-                    keys=[misc.constants.K_m],
+                    keys=[misc.constants.K_h],
                     duration=design.randomize.rand_int(1000, 1500))
                 # Display fixation cross before probe
                 line1.present(clear=True, update=False)
                 line2.present(clear=False, update=False)
                 fixcross2.present(clear=False)
-                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_m],
+                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_h],
                                                  duration=500)
-                # If "m" key is pressed, returns to main menu
-                if found_key == misc.constants.K_m:
+                # If "h" key is pressed, returns to main menu
+                if found_key == misc.constants.K_h:
                     stop = True
                     break
                 # Probe display
@@ -312,10 +312,10 @@ def launch_protocol(protocol_ini, exp):
                 line1.present(clear=True, update=False)
                 line2.present(clear=False, update=False)
                 trial.stimuli[setting["sentence_len"]].present(clear=False)
-                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_m],
+                found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_h],
                                                  duration=500)
-                # If "m" key is pressed, returns to main menu
-                if found_key == misc.constants.K_m:
+                # If "h" key is pressed, returns to main menu
+                if found_key == misc.constants.K_h:
                     stop = True
                     break
                 # Log file registry of probe display for the current trial
@@ -339,7 +339,7 @@ def launch_protocol(protocol_ini, exp):
                 t_end = t0.time
                 t_diff = t_end - t_start
                 if t_diff < setting["SOA"]:
-                    found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_m],
+                    found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_h],
                                                      duration=(setting["SOA"] -
                                                                t_diff))
             if stop:
@@ -359,8 +359,8 @@ def launch_protocol(protocol_ini, exp):
                 # Display message: "End of Session"
                 blockend_message.present()
                 found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_RETURN,
-                                                       misc.constants.K_m])
-                if found_key == misc.constants.K_m:
+                                                       misc.constants.K_h])
+                if found_key == misc.constants.K_h:
                     stop = True
                     break
             # In the end of the experiment:
@@ -388,7 +388,7 @@ def launch_protocol(protocol_ini, exp):
                 # Display message: "End of the Experiment"
                 text_end.present()
                 found_key, _ = exp.keyboard.wait(keys=[misc.constants.K_RETURN,
-                                                       misc.constants.K_m],
+                                                       misc.constants.K_h],
                                                  duration=5000)
                 # Leave while loop
                 stop = True

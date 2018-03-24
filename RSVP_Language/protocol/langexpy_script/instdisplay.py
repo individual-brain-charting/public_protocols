@@ -26,8 +26,8 @@ def launch_instructions(instructions_ini, exp):
     # Initialization of variable containing the value of the key pressed
     found_key = 0
     response_key = 0
-    # While "m" key to return to main menu is not pressed...
-    while not (found_key == misc.constants.K_m or response_key == 'm'):
+    # While "h" key to return to main menu is not pressed...
+    while not (found_key == misc.constants.K_h or response_key == 'h'):
         # Read the instructions file, line by line
         ldx = 0
         while ldx < len(instructions):
@@ -49,14 +49,14 @@ def launch_instructions(instructions_ini, exp):
                         text_colour=map(int, setting["txtcolour"]))
                     text_display.present()
                     exp.clock.wait(300)
-                    # Check whether "m" key was pressed
-                    found_key = exp.keyboard.check([misc.constants.K_m])
+                    # Check whether "h" key was pressed
+                    found_key = exp.keyboard.check([misc.constants.K_h])
                     # If yes, breaks the loop
-                    if found_key == misc.constants.K_m:
+                    if found_key == misc.constants.K_h:
                         break
-            # If "m" key was pressed during the presentation of the example,
+            # If "h" key was pressed during the presentation of the example,
             # it breaks the loop and return to main menu
-            if found_key == misc.constants.K_m:
+            if found_key == misc.constants.K_h:
                 break
             # After the display of the last word of sentence's example,
             # goes straight to the next line of instructions
@@ -66,8 +66,8 @@ def launch_instructions(instructions_ini, exp):
             # the answer was correct or not
             elif line[-1] in ("fdbk_yes", "fdbk_no"):
                 response_key, _ = exp.keyboard.wait_char([setting["YES"],
-                                                          setting["NO"], 'm'])
-                if response_key == 'm':
+                                                          setting["NO"], 'h'])
+                if response_key == 'h':
                     break
                 elif ((response_key == setting["YES"] and
                        line[-1] == "fdbk_yes") or
@@ -87,15 +87,15 @@ def launch_instructions(instructions_ini, exp):
             # Checks whether "ENTER", "LEFT" or m" key were pressed.
             # If "ENTER", goes to the next line;
             # if "LEFT", goes to the previous slide
-            # if "m", returns to main menu.
+            # if "h", returns to main menu.
             else:
                 found_key, _ = exp.keyboard.wait([misc.constants.K_RETURN,
                                                   misc.constants.K_LEFT,
-                                                  misc.constants.K_m])
+                                                  misc.constants.K_h])
                 if found_key == misc.constants.K_LEFT:
                     ldx = ldx - 2
                     if ldx < 0:
                         ldx = -1
-                elif found_key == misc.constants.K_m:
+                elif found_key == misc.constants.K_h:
                     break
             ldx = ldx + 1
