@@ -50,7 +50,7 @@ menu_options = [setting_mm["instruct"], setting_mm["demo_sess"],
 
 task_title = setting_mm["protocol_title"]
 
-# Use the next command line if you're running Expyriment vs. O.7.0 on Windows
+# Use the next command lines if you're running Expyriment vs. O.7.0 on Windows
 # menu_options = [s.decode('utf-8').encode('cp1252') for s in menu_options]
 # task_title = task_title.decode('utf-8').encode('cp1252')
 
@@ -94,7 +94,14 @@ while True:
                         setting_mm["train_sess"], setting_mm["main_sess"],
                         setting_mm["exit"]]
 
-        menu = io.TextMenu(setting_mm["protocol_title"], menu_options,
+        task_title = setting_mm["protocol_title"]
+
+        # For Windows OS, uncomment the next command lines
+        # menu_options = [s.decode('utf-8').encode('cp1252')
+        #                 for s in menu_options]
+        # task_title = task_title.decode('utf-8').encode('cp1252')
+
+        menu = io.TextMenu(task_title, menu_options,
                            width=1000, text_size=28, gap=10,
                            background_colour=(127, 127, 127),
                            background_stimulus=display_note)
