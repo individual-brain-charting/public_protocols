@@ -5,7 +5,7 @@ Parser for e-prime ARCHI localizers log-files
 author: Mehdi Rahim
 @contributor: Ana Luisa Pinho, ana.pinho@inria.fr
 
-Last update: Dec 2017
+Last update: August 2018
 
 Compatibility: Python 2.7
 
@@ -38,12 +38,13 @@ def parse_data_eprime(filename):
     hdr = {}  # Header dict
     level_flag = -1  # Flag on the current header/level
 
-    with open(filename) as f:
+    with open(filename, 'rb') as f:
         det = chardet.detect(f.readline())
-        if det['encoding'] == 'UTF-16LE':
+        # need to unit-test this in scenarios where encoding is 'UTF-16LE"
+        if det['encoding'] in ['UTF-16', 'UTF-16LE']:
             encoding = 'utf-16'
         else:
-            encoding = 'utf-8'
+           encoding = 'utf-8'
 
     print 'File encoding is : ', encoding
     print '________________'
@@ -98,6 +99,7 @@ protocol = 'localizer_spatial'
 fname_prefix = 'sub'
 # fname_prefix = 'pilot'
 
+
 # fname must be the path to an eprime txt file (from argv or fixed)
 if len(sys.argv) > 1:
     fname = sys.argv[1]
@@ -127,7 +129,6 @@ if len(sys.argv) > 1:
     output_file = output_file.lower()
     # Save file (add extracted_ prefix)
     participant_id = fname_prefix + '-' + '%02d' % participant
-    # foldername_participant_id = 'sub' + participant_id
     path_output = os.path.join(participant_id, session, protocol)
     df.to_csv(path_output + '/extracted_' + output_file + '.csv', sep=',',
               columns=eprime_selected_cols, index=False)

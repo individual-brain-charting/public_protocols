@@ -5,6 +5,8 @@ Parser for e-prime HCP logfiles
 author: Mehdi Rahim
 @contributor: Ana Luisa Pinho, ana.pinho@inria.fr
 
+Last update: August 2018
+
 Compatibility: Python 2.7
 
 """
@@ -27,9 +29,9 @@ def parse_data_eprime(filename):
     hdr = {}  # Header dict
     level_flag = -1  # Flag on the current header/level
 
-    with open(filename) as f:
+    with open(filename, 'rb') as f:
         det = chardet.detect(f.readline())
-        if det['encoding'] == 'UTF-16LE':
+        if det['encoding'] in ['UTF-16', 'UTF-16LE']:
             encoding = 'utf-16'
         else:
             encoding = 'utf-8'
