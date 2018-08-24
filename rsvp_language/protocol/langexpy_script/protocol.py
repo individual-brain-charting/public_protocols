@@ -327,7 +327,7 @@ def launch_protocol(protocol_ini, exp):
                 blank3.present()
                 key, rt = exp.keyboard.wait_char([setting["YES"],
                                                   setting["NO"]],
-                                                 duration=2000)
+                                                 duration=1000)
                 # Log file registry of pt's feedback for the current trial
                 exp.data.add([block_no, t, trial.get_factor("feedback"),
                               key, onset_reply, rt])
