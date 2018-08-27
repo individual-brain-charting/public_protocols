@@ -5,7 +5,7 @@ Paradigm descriptors' estimation for ARCHI protocols
 @author: Ana Luisa Pinho, ana.pinho@inria.fr
 contributor: Andres Hoyos Idrobo
 
-Last update: Dec 2017
+Last update: August 2018
 
 Note: Run the script with the input csv files per subject and session under the
       same directory
@@ -83,7 +83,7 @@ from confparser import load_config
 # %%
 # ######################## GENERAL PARAMETERS #################################
 # List of participants
-participants = [15]
+participants = [1,2,4,5,6,7,8,9,11,12,13,14,15]
 # Number of runs
 runs = 2
 # Output files
@@ -101,9 +101,11 @@ loc_emot = 'emotionnel'
 # Names of all possible sessions
 session1 = 'screening3'
 session2 = 'all_ARCHI_loc'
+session3 = 'tom_session'
+session4 = 'test'
 # Subject or pilot?
 fname_prefix = 'sub'
-# fname_prefix = 'pilot-'
+# fname_prefix = 'pilot'
 
 
 def list_converter(columnheaders, labels):
@@ -161,7 +163,7 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
     active_cond = dict((cond_key, setting["activecond_labels"][ack])
                        for ack, cond_key in enumerate(setting[
                            "activecond_columnheaders"]))
-    ans = {setting["ans_columnheader"]: 'response'}
+    ans = {setting["ans_columnheader"]: '_why'}
     fix = dict((fix_key, setting["fix_labels"][fk])
                for fk, fix_key in enumerate(setting["fix_columnheaders"]))
     names = dict((name_key, setting["names_labels"][nk])
@@ -306,7 +308,7 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                                 setting["trialref"])]].lower())
                         # Localizer Social
                         elif protocol == loc_social:
-                            # Active conditions that require response
+                            # Active conditions of triangles' movements stim
                             if HEADERS[nidx] == 'TriangleMovie.OnsetTime':
                                 if row[HEADERS.index(
                                    setting["trialref"])] == '1':
@@ -315,6 +317,26 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                                      setting["trialref"])] == '2':
                                     cond_name.append(
                                             setting["stim_control"])
+                            # Active conditions of "Why?" for audio stim
+                            elif HEADERS[nidx] == 'ToMaudio.OnsetTime':
+                                if row[HEADERS.index(
+                                   setting["trialref"])] == '5':
+                                    cond_name.append(
+                                            setting["stim_falsebelief_audio"])
+                                elif row[HEADERS.index(
+                                     setting["trialref"])] == '7':
+                                    cond_name.append(
+                                            setting["stim_mechanistic_audio"])
+                            # Active conditions of "Why?" for video stim
+                            elif HEADERS[nidx] == 'mot1.OnsetTime':
+                                if row[HEADERS.index(
+                                   setting["trialref"]) ] == '6':
+                                    cond_name.append(
+                                            setting["stim_falsebelief_video"])
+                                elif row[HEADERS.index(
+                                     setting["trialref"])] == '8':
+                                    cond_name.append(
+                                            setting["stim_mechanistic_video"])
                             # Other conditions
                             else:
                                 cond_name.append(active_cond[
@@ -322,7 +344,8 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                             # Response conditions
                             if HEADERS[nidx] in ['mot1.OnsetTime',
                                                  'ToMaudio.OnsetTime']:
-                                cond_name.append(ans.values()[0].lower())
+                                cond_name.append(cond_name[-1] +
+                                                 ans.values()[0].lower())
                     # Blank/fixation condition
                     elif HEADERS[nidx] in fix.keys():
                         # Localizer Social
@@ -408,6 +431,8 @@ def make_descriptors(protocol, pts_list, session, blocks, fname, fname_sh, c1,
                                      for i in
                                      np.arange(len(cond_onset_sec) - 1)]
                 cond_duration_new.append(setting["duration_rest"])
+            # Three decimals only
+            cond_duration_new = [round(x, 3) for x in cond_duration_new]
             # ###################### STACKED LIST #############################
             # Stack the name, onset and duration regressors in one single list
             stacked_list = lists.stacker(cond_onset_sec, cond_duration_new,
@@ -476,7 +501,7 @@ if len(sys.argv) > 1:
     if task in [loc_standard, loc_spatial, loc_social, loc_emot]:
         if len(sys.argv) > 2:
             session_name = sys.argv[2]
-            if session_name in [session1, session2]:
+            if session_name in [session1, session2, session3, session4]:
                 make_descriptors(task, participants, session_name, runs,
                                  output, output_short, label1, label2, label3)
             else:
