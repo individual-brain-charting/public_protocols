@@ -1,7 +1,7 @@
 ## Script to generate the inputs for the RSVP Language task  
 
 Author: Ana Luisa Pinho  
-E-mail: ana.pinho@inria.fr  
+e-mail: ana.pinho@inria.fr  
 
 Compatibility: Python 2.7  
 
