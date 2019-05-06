@@ -1,7 +1,7 @@
 ## Notes about documentation provided for the training session  
 
 Author: Ana Luisa Pinho   
-E-mail: ana.pinho@inria.fr  
+e-mail: ana.pinho@inria.fr  
 
 General description of the content of the files included in the present directory:  
 * __archi\_training\_page1.pdf__ → contains general instructions for the training session on the ARCHI protocols
