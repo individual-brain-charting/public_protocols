@@ -1,0 +1,11 @@
+line,island,space,time,reference_we,cue,distance,event_we_1,correct_answer,event_we_2,correct_answer,event_we_3,correct_answer,event_we_4,correct_answer
+1,we,center,present,lermite_observe,ouest_ou_est,close,perte_de_nourriture,east,eboulis_contournes,east,decouverte_de_fer,west,analyse_de_la_roche,west
+2,we,center,present,lermite_observe,avant_ou_apres,far,perte_de_nourriture,before,eboulis_contournes,after,decouverte_de_fer,before,analyse_de_la_roche,after
+3,we,center,past,premiere_rencontre,avant_ou_apres,close,maladie_inconnue,before,perte_de_nourriture,after,peche_de_poisson,before,decouverte_de_fer,after
+4,we,center,past,premiere_rencontre,ouest_ou_est,far,accostage_falaise,west,provision_deau,east,arrivee_sur_la_plage,east,traces_danimaux,west
+5,we,east,present,debit_reduit,ouest_ou_est,close,provision_deau,east,attaque_crocodile,east,peche_de_poisson,west,lavage_des_vetements,west
+6,we,east,present,debit_reduit,avant_ou_apres,far,minerai_embarque,after,lavage_des_vetements,after,peche_de_poisson,before,arrivee_sur_la_plage,before
+7,we,center,future,seconde_rencontre,ouest_ou_est,close,eboulis_contournes,east,soiree_musicale,west,analyse_de_la_roche,west,lavage_des_vetements,east
+8,we,center,future,seconde_rencontre,avant_ou_apres,far,attaque_crocodile,before,recifs_evites,after,pommade_anti_moustique,before,minerai_embarque,after
+9,we,west,present,les_animaux_broutent,avant_ou_apres,close,pommade_anti_moustique,after,traces_danimaux,before,analyse_de_la_roche,after,decouverte_de_fer,before
+10,we,west,present,les_animaux_broutent,ouest_ou_est,far,accostage_falaise,west,recifs_evites,west,decouverte_de_fer,east,analyse_de_la_roche,east

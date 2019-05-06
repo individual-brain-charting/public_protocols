@@ -1,0 +1,38 @@
+Slide|Category
+La tâche porte sur les histoires que nous vous avons données à apprendre.|no_item
+Vous allez devoir juger des positions relatives des événements composant ces histoires.|no_item
+La tâche à réaliser va consister en une série de jugements portant sur:|no_item
+(1) Relations spatiales|no_item
+C’est-à-dire: un événement s’est-il déroulé à l’ouest/l’est ou au sud/nord d’un événement de référence.|no_item
+(2) Relations temporelles|no_item
+C’est-à-dire: un événement s’est-il déroulé avant ou après un événement de référence.|no_item
+Dans chaque session, les événements de référence, les événements à juger et les consignes vous seront présentés en audio.|no_item
+Une série d'essais se décompose en:|no_item
+(1) Présentation d’un évènement de référence|no_item
+En voici un exemple|no_item
+lermite_observe|no_item
+(2) Présentation du type de jugement à donner|no_item
+En voici un exemple,|no_item
+ouest_ou_est|no_item
+(3) Présentation successive de quatre événements|no_item
+Pour chaque évenement,  vous devez indiquer où celui-ci s’est déroulé par rapport à l’événement de référence (par example «à l’Ouest ou l’Est» de celui-ci).|no_item
+Pour cela, vous devrez appuyer sur le bouton gauche pour répondre la première option (e.g. «Ouest») ou bien sur le bouton droit pour répondre la deuxième option (e.g. «Est»).|no_item
+En voici quelques exemples,|no_item
+perte_de_nourriture|event
+?|fdbk_right
+lavage_des_vetements|event
+?|fdbk_right
+soiree_musicale|event
+?|fdbk_left
+eboulis_contournes|event
+?|fdbk_right
+Le même principe s’applique aux consignes  «Sud ou Nord?».|no_item
+Dans le cas d’un jugement «Avant ou après», pour chaque évenement, vous devez indiquer quand celui-ci s’est déroulé  (par rapport à l’événement de référence).|no_item
+Pour cela, vous devrez appuyer sur le bouton gauche pour répondre la première option (e.g. «Avant») ou bien sur le bouton droit pour répondre la deuxième option (e.g. «Après»).|no_item
+Veuillez noter qu'il n'y aura pas de point d'interrogation présenté et il n’y aura pas de ‘feedback’ pendant l’expérience. Vous avez donc à répondre juste après présentation de l’évènement.|no_item
+La durée totale de l'expérience est approximativement d'une heure. Elle inclut trois sessions.|no_item
+Chacune de ces sessions dure environ quatorze minutes, au cours desquelles vingt series d’essais seront effectués.|no_item
+Une session est continue, sans interruption.|no_item
+L'expérience est rapide, restez attentifs. Répondez au mieux et aussi vite que possible.  Si vous faites une erreur, ce n'est pas grave, essayez de vous concentrer pour le suivant.|no_item 
+Il y aura une pause de une à deux minutes entre les sessions.|no_item
+"Pour retourner au menu principal, appuyez à tout moment sur le bouton “m”. Pour afficher les instructions de nouveau, appuyer ""ENTER""."|no_item

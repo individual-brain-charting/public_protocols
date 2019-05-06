@@ -1,0 +1,11 @@
+line,island,space,time,reference_ns,cue,distance,event_ns_1,correct_answer,event_ns_2,correct_answer,event_ns_3,correct_answer,event_ns_4,correct_answer
+9,sn,south,present,dolmens_sous_la_pluie,sud_ou_nord,close,position_des_astres,north,arc_en_ciel_observe,south,oiseaux_pour_augures,north,arret_pour_manger,south
+5,sn,north,present,les_feux_follets_sallument,sud_ou_nord,close,construction_de_radeaux,south,esprit_du_marais,north,onguent_contre_parasite,south,priere_aux_morts,north
+8,sn,center,future,second_rituel,sud_ou_nord,far,retour_au_foyer,north,construction_de_radeaux,south,oiseaux_pour_augures,north,procession_terminee,south
+2,sn,center,present,le_grand_pretre_observe,avant_ou_apres,far,bain_purificateur,before,discussions_tranquilles,after,commerce_local,before,roseaux_pour_offices,after
+4,sn,center,past,premier_rituel,sud_ou_nord,far,vivres_charges,north,onguent_contre_parasite,south,fumee_observee,south,position_des_astres,north
+3,sn,center,past,premier_rituel,avant_ou_apres,close,bain_purificateur,after,arc_en_ciel_observe,before,commerce_local,after,priere_aux_morts,before
+10,sn,south,present,dolmens_sous_la_pluie,avant_ou_apres,far,vivres_charges,before,retour_au_foyer,after,arc_en_ciel_observe,before,arret_pour_manger,after
+6,sn,north,present,les_feux_follets_sallument,avant_ou_apres,far,esprit_du_marais,after,procession_terminee,after,fumee_observee,before,priere_aux_morts,before
+1,sn,center,present,le_grand_pretre_observe,sud_ou_nord,close,roseaux_pour_offices,north,bain_purificateur,north,discussions_tranquilles,south,commerce_local,south
+7,sn,center,future,second_rituel,avant_ou_apres,close,esprit_du_marais,after,roseaux_pour_offices,before,arret_pour_manger,after,discussions_tranquilles,before
