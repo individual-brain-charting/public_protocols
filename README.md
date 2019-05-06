@@ -13,7 +13,7 @@ Each directory is structured as follows:
 
 ### Tasks  
 
-The `archi` directory contains information about the protocols of:  
+The `archi` directory contains the protocols of:  
 * _ARCHI Standard_ task  
 * _ARCHI Spatial_ task  
 * _ARCHI Social_ task  
