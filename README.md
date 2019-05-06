@@ -5,13 +5,21 @@ This repository hosts public behavioral protocols for the _Individual Brain Char
 
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
 
-Hence, the __archi directory__ contains information about the protocols of:  
+Each directory is structured as follows:  
+1. the protocol's scripts pertaining the launch of the stimuli;  
+2. video demonstrations of the sequence of events displayed at every run;  
+3. documents containing instructions to the participants carried out during the training session; and  
+4. scripts that parse + extract information from log files and compute the paradigm descriptors of the regressors-of-interest used in the GLM estimation. Log files are released upon launching the protocols and they contain experimental variables and behavioral data.
+
+### Tasks  
+
+The `archi` directory contains information about the protocols of:  
 * _ARCHI Standard_ task  
 * _ARCHI Spatial_ task  
 * _ARCHI Social_ task  
 * _ARCHI Emotional_ task  
 
-The __hcp directory__ contains the protocols of:  
+The `hcp` directory contains the protocols of:  
 * _HCP Emotion_ task  
 * _HCP Gambling_ task  
 * _HCP Motor_ task  
@@ -20,13 +28,20 @@ The __hcp directory__ contains the protocols of:
 * _HCP Social_ task  
 * _HCP Working Memory_ task      
 
-The __rsvp\_language directory__ concerns only to the protocol employed for the _RSVP Language_ task.  
+The `rsvp_language` directory contains the protocol employed for the *RSVP Language* task.  
 
-Finally, each directory are structured as follows:  
-1. the protocol's scripts pertaining the launch of the stimuli;  
-2. video demonstrations of the sequence of events displayed at every run;  
-3. documents containing instructions to the participants carried out during the training session; and  
-4. scripts that parse + extract information from log files and compute the paradigm descriptors of the regressors-of-interest used in the GLM estimation. Log files are released upon launching the protocols and they contain experimental variables and behavioral data.
+The `mental_time_travel` directory contains the protocol employed for the *Mental Time Travel* task.  
+
+The `positive_incentive_value` directory contains the protocol employed for the *Positive-incentive Value* task.  
+
+The `tom` directory contains the protocols of:  
+* _Theory-of-Mind Localizer_ task  
+* _Theory-of-Mind and Pain Matrix Narrative Localizer_ task  
+* _Theory-of-Mind and Pain Matrix Movie Localizer_ task  
+
+The `vstm_enum` directory contains the protocols of:  
+* _Visual Short-Term Memory_ task  
+* _Enumeration_ task  
 
 ## Notes
 Because these protocols were implemented for native-french speakers, please notice that text stimuli as well as instructions to the participants are written in french. Nevertheless, all the information pertaining the usage and adaptation of the protocols in other experimental settings are provided in english.
