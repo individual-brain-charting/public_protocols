@@ -1,7 +1,7 @@
 ## Script of the RSVP Language task  
 
 Author: Ana Luisa Pinho, Christophe Pallier  
-E-mail: ana.pinho@inria.fr  
+e-mail: ana.pinho@inria.fr  
 
 Compatibility: Python 2.7 / Expyriment 0.7.0 (Revision 7a6b73d) or older
 
