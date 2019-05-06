@@ -3,7 +3,7 @@
 ### General instructions  
 
 Author: Ana Luisa Pinho  
-E-mail: ana.pinho@inria.fr
+e-mail: ana.pinho@inria.fr
 
 Compatibility: Python 2.7 / log files from Expyriment 0.7.0 (Revision 7a6b73d)
 
