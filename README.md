@@ -5,13 +5,13 @@ This repository hosts public behavioral protocols for the _Individual Brain Char
 
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
 
-Hence, the __ARCHI directory__ contains information about the protocols of:  
+Hence, the __archi directory__ contains information about the protocols of:  
 * _ARCHI Standard_ task  
 * _ARCHI Spatial_ task  
 * _ARCHI Social_ task  
 * _ARCHI Emotional_ task  
 
-The __HCP directory__ contains the protocols of:  
+The __hcp directory__ contains the protocols of:  
 * _HCP Emotion_ task  
 * _HCP Gambling_ task  
 * _HCP Motor_ task  
