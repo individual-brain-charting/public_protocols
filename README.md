@@ -36,8 +36,8 @@ The `positive_incentive_value` directory contains the protocol employed for the 
 
 The `tom` directory contains the protocols of:  
 * _Theory-of-Mind Localizer_ task  
-* _Theory-of-Mind and Pain Matrix Narrative Localizer_ task  
-* _Theory-of-Mind and Pain Matrix Movie Localizer_ task  
+* _Theory-of-Mind_ and _Pain Matrix Narrative Localizer_ task  
+* _Theory-of-Mind_ and _Pain Matrix Movie Localizer_ task  
 
 The `vstm_enum` directory contains the protocols of:  
 * _Visual Short-Term Memory_ task  
