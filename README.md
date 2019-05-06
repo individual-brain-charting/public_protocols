@@ -20,7 +20,7 @@ The __HCP directory__ contains the protocols of:
 * _HCP Social_ task  
 * _HCP Working Memory_ task      
 
-The __RSVP\_Language directory__ concerns only to the protocol employed for the _RSVP Language_ task.  
+The __rsvp\_language directory__ concerns only to the protocol employed for the _RSVP Language_ task.  
 
 Finally, each directory are structured as follows:  
 1. the protocol's scripts pertaining the launch of the stimuli;  
