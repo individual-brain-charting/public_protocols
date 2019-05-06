@@ -1,7 +1,7 @@
 ## Notes about documentation provided for the training
 
-Author: Ana Luisa Pinho
-E-mail: ana.pinho@inria.fr
+Author: Ana Luisa Pinho  
+e-mail: ana.pinho@inria.fr
 
 Description of the content of the files and folders in the present directory:
 * __instructions\_mtt\_sn\_ibc.docx__ → contains instructions to train the participant for the *south-north* session
