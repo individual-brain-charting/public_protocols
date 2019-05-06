@@ -5,11 +5,11 @@ e-mail: ana.pinho@inria.fr
 
 Compatibility: Python 2.7 / Expyriment 0.7.0 (Revision 7a6b73d) or older
 
-To launch the protocol, please run the script __language.py__. Make sure the directory with the input files exists. The path of this directory shall be defined in the config file.
+To launch the protocol, please run the script `language.py`. Make sure the directory with the input files exists. The path of this directory shall be defined in the config file.
 
 In order to select the block number from which the protocol shall start, please note that the numeration starts from 0.
 
-To reorder trials within each block according to a pre-specified sequence, please uncomment the corresponding routine in __protocol.py__. Make sure the directory with the files containing the new sequences exist. The path of this directory shall also be defined in the config file.
+To reorder trials within each block according to a pre-specified sequence, please uncomment the corresponding routine in `protocol.py`. Make sure the directory with the files containing the new sequences exist. The path of this directory shall also be defined in the config file.
 
 To go back to the main menu, press __h__ key anytime. To leave/pause the experiment, press __ESC__ key anytime.
 
