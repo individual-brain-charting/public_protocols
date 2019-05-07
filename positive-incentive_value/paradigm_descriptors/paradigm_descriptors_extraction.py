@@ -12,7 +12,7 @@ import numpy as np
 # %%
 # ========================== GENERAL PARAMETERS ===============================
 # List of participants id
-participant_list = [01]
+participant_list = [1]
 
 # Subject or Pilot?
 # prefix = "pilot"
@@ -30,8 +30,6 @@ group = ['A', 'B']
 # to the group A and B, respectively.
 run_number = [[1, 5], [2, 6], [3, 7], [4, 8]]
 
-# Folder to store the output files
-output_folder = 'paradigm_descriptors'
 
 # ==============================================================================
 
@@ -78,12 +76,15 @@ for participant in participant_list:
             #              '_sess' + '%01d' % run_number[b][k] + '.mat'
 
             # (2) define the pathways;
-            mbb_path = os.path.abspath(prefix + '-' +
+            mbb_path = os.path.abspath(os.pardir + '/protocol/results/' +
+                                       prefix + '-' +
                                        '%02d' % participant + '/' + mbb_fname)
-            ratings_path = os.path.abspath(prefix + '-' +
-                                           '%02d' % participant + '/' +
+            ratings_path = os.path.abspath(os.pardir +
+                                           '/protocol/results/' + prefix +
+                                           '-' + '%02d' % participant + '/' +
                                            ratings_fname)
-            perm_path = os.path.abspath(prefix + '-' + '%02d' % participant +
+            perm_path = os.path.abspath(os.pardir + '/protocol/results/' +
+                                        prefix + '-' + '%02d' % participant +
                                         '/' + perm_fname)
 
             no_log_flag = int()
@@ -262,17 +263,14 @@ for participant in participant_list:
 
 # %%
             # Create directory for output files
-            if not os.path.exists(prefix + '-' + '%02d' % participant + '/' +
-                                  output_folder):
-                os.makedirs(prefix + '-' + '%02d' % participant + '/' +
-                            output_folder)
+            if not os.path.exists(prefix + '-' + '%02d' % participant):
+                os.makedirs(prefix + '-' + '%02d' % participant)
 
             # Set pathway of output file
-            output_path = prefix + '-' + '%02d' % participant + \
-                '/' + output_folder + '/' + \
-                'paradigm_descriptors_rewarding_' + \
+            output_path = prefix + '-' + '%02d' % participant + '/' + \
+                'paradigm_descriptors_piv_' + \
                 prefix + '-' + '%02d' % participant + '_run' + \
-                '%01d' % run_number[b][k] + '.csv'
+                '%01d' % run_number[b][k] + '.tsv'
 
             # Save liste in the output file
             with open(output_path, 'w') as fp:
