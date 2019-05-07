@@ -1,9 +1,9 @@
+## Script of the Positive-incentive Value protocol
+
 Authors of the original protocol: Nicolas Clairis and Mathias Pessiglione  
 
 Author of the current implementation: Ana Luisa Pinho  
 e-mail address: ana.pinho@inria.fr  
-
-Last update: 07/05/2019
 
 Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or MATLAB.
 Preset resolution: 1920x1080
