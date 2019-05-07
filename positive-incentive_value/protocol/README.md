@@ -5,7 +5,7 @@ Authors of the original protocol: Nicolas Clairis and Mathias Pessiglione
 Author of the current implementation: Ana Luisa Pinho  
 e-mail address: ana.pinho@inria.fr  
 
-Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or MATLAB.
+Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or MATLAB.  
 Preset resolution: 1920x1080
 
 To run the protocol, typewrite in the command window of Octave or MATLAB:  
