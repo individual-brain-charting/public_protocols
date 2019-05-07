@@ -3,7 +3,9 @@
 Author: Ana Luisa Pinho, Christophe Pallier  
 e-mail: ana.pinho@inria.fr  
 
-Compatibility: Python 2.7 / Expyriment 0.7.0 (Revision 7a6b73d) or older
+Compatibility: Python 2.7 / Expyriment 0.7.0 (Revision 7a6b73d) or older  
+
+Preset resolution of the screen: 1920x1080
 
 To launch the protocol, please run the script `language.py`. Make sure the directory with the input files exists. The path of this directory shall be defined in the config file.
 
