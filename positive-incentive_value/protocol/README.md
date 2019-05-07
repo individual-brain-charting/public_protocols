@@ -1,0 +1,40 @@
+Authors of the original protocol: Nicolas Clairis and Mathias Pessiglione  
+
+Author of the current implementation: Ana Luisa Pinho  
+e-mail address: ana.pinho@inria.fr  
+
+Last update: 07/05/2019
+
+Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or MATLAB.
+Preset resolution: 1920x1080
+
+To run the protocol, typewrite in the command window of Octave or MATLAB:  
+
+`ratings_full_Nspin`
+
+Before the launch of the protocol, you'll be asked:  
+
+1. the subject id;  
+2. the number of the run (according to the nomenclature of the protocol: session number);  
+3. the category of the stimuli, and; 
+4. which of the two available sequences within category you want to run.  
+
+The current response-box setup allows for two levels of scrolling speed of the rating scale in both ways, i.e. both left and right. Please, make sure the key-code configuration in the script is in agreement with the setup of your equipment.
+
+Always check the device number assigned to your keyboard, by running in the command window of Octave/MATLAB:  
+
+`GetKeyboardIndices`
+
+This value may change if you restart your machine.
+
+There are some non-ascii characters in some strings. Make sure you have configured, in your editor, "UTF-8" as the default text encoding. Additionally, if you're running the protocol in Win OS, you may have to uncomment the following line, in order to prevent bad decoding of non-ascii characters:
+
+`Screen('Preference','TextEncodingLocale','UTF-8');`
+
+The present protocol was implemented for 8 runs of 4 types of items: __food__, __paintings__, __faces__ and __houses__. Two sequences of stimuli with different items are provided per category. Sequences are randomized upon launching the protocol.  
+
+Due to copyright restrictions, the stimuli of face category could not be provided.  
+
+In addition, note that items pertaining the food category are available in the french market. Adaptation of these stimuli might be required in future implementations, depending where the experiment is taking place.
+
+
