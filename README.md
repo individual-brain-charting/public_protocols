@@ -8,7 +8,7 @@ The code related to the preprocessing and statistical analysis of the correspond
 Main directories are dedicated to the protocol(s) of one task or a group of tasks.  
 
 Each directory is structured as follows:  
-1. the protocol's scripts pertaining the launch of the stimuli;  
+1. the protocol's scripts pertaining the randomization (when applicable) and launching of the stimuli;  
 2. video demonstrations of the sequence of events displayed at every run;  
 3. documents containing instructions to the participants carried out during the training session; and  
 4. scripts that parse + extract information from log files and compute the paradigm descriptors of the regressors-of-interest used in the GLM estimation. Log files are released upon launching the protocols and they contain experimental variables and behavioral data.
