@@ -1,5 +1,7 @@
 # Public Protocols
-This repository hosts public behavioral protocols for the _Individual Brain Charting_ (IBC) project. More information about the project can be found in this [webpage](https://project.inria.fr/IBC/). The code related to the preprocessing and statistical analysis of the corresponding neuroimaging data can be found on the github repository [hbp-brain-charting/public\_analysis\_code](https://github.com/hbp-brain-charting/public_analysis_code).
+This repository hosts public behavioral protocols for the [_Individual Brain Charting_ (IBC)](https://project.inria.fr/IBC/) project.  
+
+The code related to the preprocessing and statistical analysis of the corresponding neuroimaging data can be found on the following github repository: [hbp-brain-charting/public\_analysis\_code](https://github.com/hbp-brain-charting/public_analysis_code).
 
 ## Organization of the repository
 
