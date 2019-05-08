@@ -1,0 +1,4 @@
+Sarah gets ready assuming her 
+shoes are under the dress.
+
+True			False

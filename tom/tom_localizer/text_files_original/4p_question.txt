@@ -1,0 +1,4 @@
+The biography says that the room 
+was light.
+
+True			False

@@ -1,0 +1,3 @@
+   Aujourd'hui, la couleur de la blouse est blanche.
+
+                         Vrai                    Faux

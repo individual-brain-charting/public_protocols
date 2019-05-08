@@ -1,0 +1,3 @@
+The house is currently one story.
+
+True			False

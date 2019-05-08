@@ -1,0 +1,3 @@
+Today the color of the blouse is white.
+
+True			False
