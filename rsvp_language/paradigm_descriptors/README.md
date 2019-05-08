@@ -1,4 +1,4 @@
-## Script for extraction of paradigm descriptors from the RSVP Language task  
+## Script for extraction of paradigm descriptors from the *RSVP Language* task  
 
 ### General instructions  
 
