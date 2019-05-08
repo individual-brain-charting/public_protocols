@@ -19,7 +19,7 @@ Before the launch of the protocol, you'll be asked:
 3. the category of the stimuli, and; 
 4. which of the two available sequences within category you want to run.  
 
-The current response-box setup allows for two levels of scrolling speed of the rating scale in both ways, i.e. both left and right. Please, make sure the key-code configuration in the script is in agreement with the setup of your equipment.
+The current response-box setup allows for two levels of scrolling speed of the rating scale in both sideways, i.e. both left and right. Please, make sure the key-code configuration of the script is in agreement with the setup of your equipment.
 
 Always check the device number assigned to your keyboard, by running in the command window of Octave/MATLAB:  
 
@@ -31,10 +31,10 @@ There are some non-ascii characters in some strings. Make sure you have configur
 
 `Screen('Preference','TextEncodingLocale','UTF-8');`
 
-The present protocol was implemented for 8 runs of 4 types of items: __food__, __paintings__, __faces__ and __houses__. Two sequences of stimuli with different items are provided per category. Sequences are randomized upon launching the protocol.  
+The present protocol was implemented for 8 runs of 4 categories of images: __food__, __paintings__, __faces__ and __houses__. Two sets of images are provided per category and each set is to be presented in one run. There are thus 8 available runs, each of them containing a unique set of images. The sequence of display of each set is randomized upon launching the protocol.  
 
-Due to copyright restrictions, the stimuli of face category could not be provided.  
+Due to copyright restrictions, the images pertaining to the face category could not be provided.  
 
-In addition, note that items pertaining the food category are available in the french market. Adaptation of these stimuli might be required in future implementations, depending where the experiment is taking place.
+In addition, note that the images of the food category are available in the french market. Adaptation of these stimuli might be required in future implementations, depending where the experiment is taking place.
 
 

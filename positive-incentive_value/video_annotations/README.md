@@ -3,8 +3,8 @@
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr
 
-Each video presents the sequence of visual stimuli for one single run. Each run was in turn dedicated to the evaluation of a specific category of items. There were two sequences per category and each sequence contained different items. Thus, there were two runs dedicated to each category and each run contained always a unique sequence of stimuli. 
+Each video presents a set of images for a single run dedicated to the evaluation of a specific category of items. There were two sets of images per category and, thus, two runs per category. Therefore, each video displays a unique set. 
 
-The present protocol was implemented for 8 runs of 4 types of items: __food__, __paintings__, __faces__ and __houses__. Here, we present six videos for food, painting and houses. Because randomization of the items for a run is predetermined upon launching the protocol, the order of the items' display is specific to the demo record.  
+The present protocol was implemented for 8 runs and 4 categories: __food__, __paintings__, __faces__ and __houses__. Here, we present six videos for food, painting and houses. Due to copyright restrictions, the video stimuli concerning the faces could not be provided.  
 
-Due to copyright restrictions, the video stimuli concerning the faces could not be provided.
+Because randomization of the images' display is predetermined upon launching the protocol, the videos are examples of possible sequences of images, as well as possible ratings, during the runs.
