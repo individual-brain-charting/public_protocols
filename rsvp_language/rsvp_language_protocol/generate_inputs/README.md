@@ -1,4 +1,4 @@
-## Script to generate the inputs for the RSVP Language task  
+## Script to generate the inputs for the *RSVP Language* task  
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr  
