@@ -37,9 +37,9 @@ The `mental_time_travel` directory contains the protocol employed for the *Menta
 The `positive_incentive_value` directory contains the protocol employed for the *Positive-incentive Value* task.  
 
 The `tom` directory contains the protocols of:  
-* _Theory-of-Mind Localizer_ task  
-* _Theory-of-Mind_ and _Pain Matrix Narrative Localizer_ task  
-* _Theory-of-Mind_ and _Pain Matrix Movie Localizer_ task  
+* _Theory-of-Mind Localizer_ task in the `tom_localizer` folder
+* _Theory-of-Mind_ and _Pain Matrix Narrative Localizer_ task in the `ep_localizer` folder
+* _Theory-of-Mind_ and _Pain Matrix Movie Localizer_ task  in the `mov_localizer` folder
 
 The `vstm_enumeration` directory contains the protocols of:  
 * _Visual Short-Term Memory_ task  
