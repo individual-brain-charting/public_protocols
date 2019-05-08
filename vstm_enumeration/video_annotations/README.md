@@ -1,4 +1,4 @@
-## Notes about video annotations of the Visual Short-term Memory and Enumeration tasks
+## Notes about video annotations of the *Visual Short-term Memory* and *Enumeration* tasks
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr  
