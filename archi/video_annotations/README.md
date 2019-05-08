@@ -1,4 +1,4 @@
-## Notes about video annotations of the ARCHI tasks  
+## Notes about video annotations of the *ARCHI* tasks  
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr
