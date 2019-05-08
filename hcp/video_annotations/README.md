@@ -1,4 +1,4 @@
-## Notes about video annotations of the HCP tasks  
+## Notes about video annotations of the *HCP* tasks  
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr
