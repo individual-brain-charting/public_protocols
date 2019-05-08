@@ -5,8 +5,6 @@ Author of the original protocols: André Knops
 Author of the current implementation: Ana Luisa Pinho  
 e-mail address: ana.pinho@inria.fr  
 
-Date: May 2019
-
 Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or Matlab and Python 2.7.  
 
 Preset resolution: 1024x768  
