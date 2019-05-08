@@ -31,7 +31,7 @@ There are some non-ascii characters in some strings. Make sure you have configur
 
 `Screen('Preference','TextEncodingLocale','UTF-8');`
 
-The present protocol was implemented for 8 runs of 4 types of items: __food__, __paintings__, __faces__ and __houses__. Two sequences of stimuli with different items are provided per category. Sequences are randomized upon launching the protocol.  
+The present protocol was implemented for 8 runs of 4 categories of images: __food__, __paintings__, __faces__ and __houses__. Two sets of images are provided per category and each set is to be presented in one run. There are thus 8 available runs, each of them containing a unique set of images. The sequence of display of each set is randomized upon launching the protocol.  
 
 Due to copyright restrictions, the stimuli of face category could not be provided.  
 
