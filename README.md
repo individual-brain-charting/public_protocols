@@ -41,7 +41,7 @@ The `tom` directory contains the protocols of:
 * _Theory-of-Mind_ and _Pain Matrix Narrative Localizer_ task  
 * _Theory-of-Mind_ and _Pain Matrix Movie Localizer_ task  
 
-The `vstm_enum` directory contains the protocols of:  
+The `vstm_enumeration` directory contains the protocols of:  
 * _Visual Short-Term Memory_ task  
 * _Enumeration_ task  
 
