@@ -1,4 +1,4 @@
-## Script for extraction of paradigm descriptors from the Positive-incentive Value task  
+## Script for extraction of the paradigm descriptors from the *Positive-incentive Value* task  
 
 ### General instructions  
 
