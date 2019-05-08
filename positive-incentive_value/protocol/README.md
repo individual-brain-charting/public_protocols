@@ -33,8 +33,8 @@ There are some non-ascii characters in some strings. Make sure you have configur
 
 The present protocol was implemented for 8 runs of 4 categories of images: __food__, __paintings__, __faces__ and __houses__. Two sets of images are provided per category and each set is to be presented in one run. There are thus 8 available runs, each of them containing a unique set of images. The sequence of display of each set is randomized upon launching the protocol.  
 
-Due to copyright restrictions, the stimuli of face category could not be provided.  
+Due to copyright restrictions, the images pertaining to the face category could not be provided.  
 
-In addition, note that items pertaining the food category are available in the french market. Adaptation of these stimuli might be required in future implementations, depending where the experiment is taking place.
+In addition, note that the images of the food category are available in the french market. Adaptation of these stimuli might be required in future implementations, depending where the experiment is taking place.
 
 
