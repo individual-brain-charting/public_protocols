@@ -14,7 +14,7 @@ Main session - 800x600
 Training session - 3200x1800  
 
 
-# Theory-of-Mind Localizer
+### Theory-of-Mind Localizer
 
 To launch the protocol of the *Theory-of-Mind Localizer*, go to the `tom_localizer` folder and run in the command window of Octave/MATLAB:  
 
@@ -33,7 +33,7 @@ To extract the paradigm descriptors of this task, go to the `tom_localizer` fold
 The inputs are stored in the folder `behavioural` created in the same directory, after running the protocol. The outputs are stored in the folder `paradigm_descriptors` also created in the same directory.
 
 
-# Theory-of-Mind and Pain Matrix Narrative Localizer
+### Theory-of-Mind and Pain Matrix Narrative Localizer
 
 To launch the protocol of the *Theory-of-Mind and Pain Matrix Narrative Localizer*, go to the `ep_localizer` folder and run in the command window of Octave/MATLAB:  
 
@@ -58,7 +58,7 @@ To extract the paradigm descriptors of this task, go to the `ep_localizer` folde
 The inputs are stored in the folder `behavioural` created in the same directory, after running the protocol. The outputs are stored in the folder `paradigm_descriptors` also created in the same directory.
 
 
-# Theory-of-Mind and Pain Matrix Movie Localizer
+### Theory-of-Mind and Pain Matrix Movie Localizer
 
 To launch the protocol of the *Theory-of-Mind and Pain Matrix Movie Localizer*, go to the `mov_localizer` folder and run in the command window of Octave/MATLAB:  
 
@@ -67,8 +67,8 @@ To launch the protocol of the *Theory-of-Mind and Pain Matrix Movie Localizer*, 
 The paradigm descriptors of this task are fixed and provided in the file `paradigm_descriptors_movloc.csv` under the same directory.  
 
 
-# Additional Notes
-For all scripts, there are some non-ascii characters in some strings. Make sure you have configured, in your editor, "UTF-8" as the default text encoding. Additionally, if you're running the protocol in Win OS, you may have to uncomment the following line, in order to prevent bad decoding of non-ascii characters:  
+### Additional Notes
+For all scripts, there are non-ascii characters in some strings. Make sure you have configured, in your editor, "UTF-8" as the default text encoding. Additionally, if you're running the protocol in Win OS, you may have to uncomment the following line, in order to prevent bad decoding of non-ascii characters:  
 
 `Screen('Preference','TextEncodingLocale','UTF-8');`
 
