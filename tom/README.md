@@ -5,7 +5,7 @@ Author of the original protocols: Rebecca Saxe & collaborators
 Author of the current implementation: Ana Luisa Pinho  
 e-mail address: ana.pinho@inria.fr  
 
-Date: 22/03/2018  
+Date: May 2019  
 
 Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or Matlab and Python 2.7.  
 
@@ -15,6 +15,8 @@ Training session - 3200x1800
 
 
 ### Theory-of-Mind Localizer
+
+#### Run the protocol
 
 To launch the protocol of the *Theory-of-Mind Localizer*, go to the `tom_localizer` folder and run in the command window of Octave/MATLAB:  
 
@@ -26,14 +28,18 @@ To launch the protocol of the *Theory-of-Mind Localizer*, go to the `tom_localiz
 
 `tom_localizer_ts.m`  
 
+#### Paradigm descriptors extraction
+
 To extract the paradigm descriptors of this task, go to the `tom_localizer` folder and run:  
 
 `paradigm_descriptors_tomloc.py`  
 
-The inputs are stored in the folder `behavioural` created in the same directory, after running the protocol. The outputs are stored in the folder `paradigm_descriptors` also created in the same directory.
+The inputs are stored in the folder `behavioural`; they have been created in the same directory after running the protocol. The outputs will be stored in the folder `paradigm_descriptors` that will be created in the same directory.
 
 
 ### Theory-of-Mind and Pain Matrix Narrative Localizer
+
+#### Run the protocol
 
 To launch the protocol of the *Theory-of-Mind and Pain Matrix Narrative Localizer*, go to the `ep_localizer` folder and run in the command window of Octave/MATLAB:  
 
@@ -45,6 +51,8 @@ To launch the protocol of the *Theory-of-Mind and Pain Matrix Narrative Localize
 
 `ep_localizer_ts.m`  
 
+#### Paradigm descriptors extraction
+
 To edit the stimuli of this task, create/edit the `.txt` files in the folder `stim*` and run:
 
 `stim_into_mat.m`
@@ -55,14 +63,18 @@ To extract the paradigm descriptors of this task, go to the `ep_localizer` folde
 
 `paradigm_descriptors_eploc.py`
 
-The inputs are stored in the folder `behavioural` created in the same directory, after running the protocol. The outputs are stored in the folder `paradigm_descriptors` also created in the same directory.
+The inputs are stored in the folder `behavioural`; they have been created in the same directory after running the protocol. The outputs will be stored in the folder `paradigm_descriptors` that will be created in the same directory.
 
 
 ### Theory-of-Mind and Pain Matrix Movie Localizer
 
+#### Run the protocol
+
 To launch the protocol of the *Theory-of-Mind and Pain Matrix Movie Localizer*, go to the `mov_localizer` folder and run in the command window of Octave/MATLAB:  
 
 `mov_localizer.m`  
+
+#### Paradigm descriptors extraction
 
 The paradigm descriptors of this task are fixed and provided in the file `paradigm_descriptors_movloc.csv` under the same directory.  
 
