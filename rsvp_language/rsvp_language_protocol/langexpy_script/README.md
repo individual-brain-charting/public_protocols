@@ -1,4 +1,4 @@
-## Script of the RSVP Language task  
+## Script of the *RSVP Language* task  
 
 Author: Ana Luisa Pinho, Christophe Pallier  
 e-mail: ana.pinho@inria.fr  
