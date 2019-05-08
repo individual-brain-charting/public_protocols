@@ -1,4 +1,4 @@
-## Notes about video annotations of the Positive-incentive Value task  
+## Notes about video annotations of the *Positive-incentive Value* task  
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr
