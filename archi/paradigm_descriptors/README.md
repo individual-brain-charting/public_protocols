@@ -1,4 +1,4 @@
-## Script for extraction of paradigm descriptors from the ARCHI tasks  
+## Script for extraction of paradigm descriptors from the *ARCHI* tasks  
 
 ### General instructions    
 
