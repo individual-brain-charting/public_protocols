@@ -19,7 +19,7 @@ Before the launch of the protocol, you'll be asked:
 3. the category of the stimuli, and; 
 4. which of the two available sequences within category you want to run.  
 
-The current response-box setup allows for two levels of scrolling speed of the rating scale in both ways, i.e. both left and right. Please, make sure the key-code configuration in the script is in agreement with the setup of your equipment.
+The current response-box setup allows for two levels of scrolling speed of the rating scale in both sideways, i.e. both left and right. Please, make sure the key-code configuration of the script is in agreement with the setup of your equipment.
 
 Always check the device number assigned to your keyboard, by running in the command window of Octave/MATLAB:  
 
