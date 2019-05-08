@@ -1,4 +1,4 @@
-## Script of the Positive-incentive Value protocol
+## Script of the *Positive-incentive Value* protocol
 
 Authors of the original protocol: Nicolas Clairis and Mathias Pessiglione  
 
