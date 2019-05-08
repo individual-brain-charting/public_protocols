@@ -1,4 +1,4 @@
-## Notes about video annotations of the ToM Localizers 
+## Notes about video annotations of the *Theory-of-Mind* tasks 
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr
