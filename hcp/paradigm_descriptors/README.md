@@ -1,4 +1,4 @@
-## Script for extraction of paradigm descriptors from the HCP tasks  
+## Script for extraction of paradigm descriptors from the *HCP* tasks  
 
 ### General instructions  
 
