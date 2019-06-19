@@ -1,0 +1,3823 @@
+#Expyriment 0.9.0 (Python 3.6.4), .xpe-file, coding: cp1252
+#date: Tue Mar 19 2019 09:33:59
+#sha1: None
+#modules: 
+#display: size=(3200, 1800), window_mode=False, open_gl=2
+#os: uname_result(system='Windows', node='DESKTOP-DNH7C7I', release='10', version='10.0.17134', machine='AMD64', processor='Intel64 Family 6 Model 142 Stepping 9, GenuineIntel')
+Time,Type,Event,Value,Detail,Detail2
+9485,Keyboard,received,None,wait
+9606,Stimulus,presented,4
+9665,Stimulus,presented,4
+9716,Stimulus,presented,4
+9726,Stimulus,presented,5
+10557,Stimulus,presented,5
+11617,Stimulus,presented,5
+11736,Stimulus,presented,5
+12259,TextInput,entered,b'0'
+21969,design,log,
+#design: #exp: formisano_protocol
+#design: #dvn: Block,Trial,Onset,Duration,Condition,Response,RT
+#design: block_cnt,block_id,trial_cnt,trial_id,condition
+#design: 0,0,0,0,s2_voice_3
+#design: 0,0,1,1,s2_music_25
+#design: 0,0,2,2,s2_voice_20
+#design: 0,0,3,3,s2_animal_32
+#design: 0,0,4,4,s2_music_5
+#design: 0,0,5,5,s2_speech_20
+#design: 0,0,6,6,catch
+#design: 0,0,7,7,s2_tools_42
+#design: 0,0,8,8,s2_voice_41
+#design: 0,0,9,9,s2_nature_15
+#design: 0,0,10,10,s2_music_24
+#design: 0,0,11,11,s2_voice_2
+#design: 0,0,12,12,s2_tools_5
+#design: 0,0,13,13,s2_animal_40
+#design: 0,0,14,14,s2_music_46
+#design: 0,0,15,15,s2_tools_32
+#design: 0,0,16,16,s2_music_44
+#design: 0,0,17,17,catch
+#design: 0,0,18,18,silence
+#design: 0,0,19,19,s2_animal_4
+#design: 0,0,20,20,silence
+#design: 0,0,21,21,s2_nature_22
+#design: 0,0,22,22,s2_tools_11
+#design: 0,0,23,23,s2_animal_19
+#design: 0,0,24,24,s2_voice_1
+#design: 0,0,25,25,s2_animal_3
+#design: 0,0,26,26,s2_speech_39
+#design: 0,0,27,27,s2_nature_34
+#design: 0,0,28,28,s2_tools_18
+#design: 0,0,29,29,s2_nature_38
+#design: 0,0,30,30,s2_voice_21
+#design: 0,0,31,31,s2_speech_42
+#design: 0,0,32,32,s2_voice_22
+#design: 0,0,33,33,s2_tools_45
+#design: 0,0,34,34,catch
+#design: 0,0,35,35,s2_nature_36
+#design: 0,0,36,36,s2_voice_45
+#design: 0,0,37,37,s2_music_13
+#design: 0,0,38,38,silence
+#design: 0,0,39,39,s2_animal_42
+#design: 0,0,40,40,s2_tools_35
+#design: 0,0,41,41,s2_speech_48
+#design: 0,0,42,42,s2_voice_4
+#design: 0,0,43,43,s2_tools_14
+#design: 0,0,44,44,s2_nature_17
+#design: 0,0,45,45,s2_music_29
+#design: 0,0,46,46,silence
+#design: 0,0,47,47,s2_nature_5
+#design: 0,0,48,48,s2_speech_30
+#design: 0,0,49,49,s2_tools_27
+#design: 0,0,50,50,s2_animal_35
+#design: 0,0,51,51,s2_speech_44
+#design: 0,0,52,52,s2_nature_40
+#design: 0,0,53,53,catch
+#design: 0,0,54,54,silence
+#design: 0,0,55,55,s2_voice_44
+#design: 0,0,56,56,s2_nature_2
+#design: 0,0,57,57,s2_voice_35
+#design: 0,0,58,58,s2_animal_38
+#design: 0,0,59,59,s2_music_18
+#design: 0,0,60,60,s2_speech_31
+#design: 0,0,61,61,s2_nature_10
+#design: 0,0,62,62,catch
+#design: 0,0,63,63,s2_music_11
+#design: 0,0,64,64,s2_speech_34
+#design: 0,0,65,65,s2_music_45
+#design: 0,0,66,66,s2_speech_23
+#design: 0,0,67,67,s2_animal_43
+#design: 0,0,68,68,s2_tools_28
+#design: 0,0,69,69,s2_voice_12
+#design: 0,0,70,70,s2_animal_6
+#design: 0,0,71,71,s2_nature_28
+#design: 0,0,72,72,s2_animal_24
+#design: 0,0,73,73,s2_music_41
+#design: 0,0,74,74,s2_speech_7
+#design: 0,0,75,75,s2_tools_36
+#design: 0,0,76,76,s2_speech_28
+#design: 0,0,77,77,s2_tools_16
+#design: 0,0,78,78,s2_speech_40
+#design: 0,0,79,79,s2_animal_44
+#design: 0,0,80,80,s2_music_14
+#design: 0,0,81,81,s2_nature_48
+#design: 1,1,0,0,s2_nature_27
+#design: 1,1,1,1,silence
+#design: 1,1,2,2,s2_speech_37
+#design: 1,1,3,3,catch
+#design: 1,1,4,4,s2_nature_13
+#design: 1,1,5,5,s2_tools_46
+#design: 1,1,6,6,s2_music_6
+#design: 1,1,7,7,silence
+#design: 1,1,8,8,s2_voice_29
+#design: 1,1,9,9,s2_speech_47
+#design: 1,1,10,10,s2_tools_7
+#design: 1,1,11,11,s2_voice_47
+#design: 1,1,12,12,s2_music_22
+#design: 1,1,13,13,s2_animal_17
+#design: 1,1,14,14,s2_music_16
+#design: 1,1,15,15,s2_animal_5
+#design: 1,1,16,16,catch
+#design: 1,1,17,17,s2_nature_16
+#design: 1,1,18,18,s2_music_38
+#design: 1,1,19,19,s2_speech_46
+#design: 1,1,20,20,catch
+#design: 1,1,21,21,s2_voice_25
+#design: 1,1,22,22,s2_music_10
+#design: 1,1,23,23,s2_voice_42
+#design: 1,1,24,24,s2_animal_20
+#design: 1,1,25,25,s2_speech_24
+#design: 1,1,26,26,silence
+#design: 1,1,27,27,s2_nature_25
+#design: 1,1,28,28,s2_animal_25
+#design: 1,1,29,29,s2_nature_26
+#design: 1,1,30,30,s2_voice_34
+#design: 1,1,31,31,silence
+#design: 1,1,32,32,s2_speech_36
+#design: 1,1,33,33,s2_nature_35
+#design: 1,1,34,34,s2_music_37
+#design: 1,1,35,35,s2_speech_15
+#design: 1,1,36,36,s2_animal_15
+#design: 1,1,37,37,s2_voice_8
+#design: 1,1,38,38,s2_speech_33
+#design: 1,1,39,39,silence
+#design: 1,1,40,40,s2_tools_40
+#design: 1,1,41,41,s2_music_17
+#design: 1,1,42,42,s2_tools_33
+#design: 1,1,43,43,catch
+#design: 1,1,44,44,s2_music_26
+#design: 1,1,45,45,s2_voice_17
+#design: 1,1,46,46,s2_nature_46
+#design: 1,1,47,47,s2_tools_6
+#design: 1,1,48,48,s2_speech_26
+#design: 1,1,49,49,s2_animal_45
+#design: 1,1,50,50,s2_nature_20
+#design: 1,1,51,51,s2_speech_14
+#design: 1,1,52,52,s2_animal_28
+#design: 1,1,53,53,catch
+#design: 1,1,54,54,s2_nature_42
+#design: 1,1,55,55,s2_animal_47
+#design: 1,1,56,56,s2_nature_8
+#design: 1,1,57,57,s2_voice_6
+#design: 1,1,58,58,s2_music_27
+#design: 1,1,59,59,s2_tools_31
+#design: 1,1,60,60,s2_animal_29
+#design: 1,1,61,61,s2_nature_30
+#design: 1,1,62,62,s2_tools_2
+#design: 1,1,63,63,s2_animal_22
+#design: 1,1,64,64,s2_voice_27
+#design: 1,1,65,65,s2_tools_12
+#design: 1,1,66,66,s2_voice_48
+#design: 1,1,67,67,s2_tools_30
+#design: 1,1,68,68,s2_music_36
+#design: 1,1,69,69,s2_speech_13
+#design: 1,1,70,70,s2_tools_26
+#design: 1,1,71,71,s2_speech_11
+#design: 1,1,72,72,s2_animal_39
+#design: 1,1,73,73,s2_tools_44
+#design: 1,1,74,74,s2_voice_46
+#design: 1,1,75,75,s2_nature_11
+#design: 1,1,76,76,s2_music_9
+#design: 1,1,77,77,s2_animal_2
+#design: 1,1,78,78,s2_music_42
+#design: 1,1,79,79,s2_speech_16
+#design: 1,1,80,80,s2_tools_13
+#design: 1,1,81,81,s2_voice_39
+#design: 2,2,0,0,s2_speech_10
+#design: 2,2,1,1,s2_music_47
+#design: 2,2,2,2,s2_animal_11
+#design: 2,2,3,3,s2_nature_14
+#design: 2,2,4,4,s2_animal_46
+#design: 2,2,5,5,s2_voice_19
+#design: 2,2,6,6,s2_speech_45
+#design: 2,2,7,7,s2_tools_17
+#design: 2,2,8,8,s2_speech_32
+#design: 2,2,9,9,s2_music_1
+#design: 2,2,10,10,s2_animal_30
+#design: 2,2,11,11,s2_music_19
+#design: 2,2,12,12,catch
+#design: 2,2,13,13,s2_speech_41
+#design: 2,2,14,14,s2_tools_4
+#design: 2,2,15,15,catch
+#design: 2,2,16,16,s2_nature_1
+#design: 2,2,17,17,s2_speech_3
+#design: 2,2,18,18,s2_tools_21
+#design: 2,2,19,19,s2_voice_40
+#design: 2,2,20,20,s2_nature_47
+#design: 2,2,21,21,s2_music_15
+#design: 2,2,22,22,s2_nature_31
+#design: 2,2,23,23,s2_voice_14
+#design: 2,2,24,24,catch
+#design: 2,2,25,25,s2_speech_1
+#design: 2,2,26,26,s2_animal_31
+#design: 2,2,27,27,s2_music_4
+#design: 2,2,28,28,s2_nature_43
+#design: 2,2,29,29,s2_animal_18
+#design: 2,2,30,30,s2_speech_43
+#design: 2,2,31,31,s2_animal_37
+#design: 2,2,32,32,s2_voice_38
+#design: 2,2,33,33,s2_tools_43
+#design: 2,2,34,34,s2_animal_1
+#design: 2,2,35,35,s2_tools_38
+#design: 2,2,36,36,s2_speech_6
+#design: 2,2,37,37,catch
+#design: 2,2,38,38,s2_nature_37
+#design: 2,2,39,39,silence
+#design: 2,2,40,40,s2_music_2
+#design: 2,2,41,41,s2_voice_33
+#design: 2,2,42,42,s2_nature_21
+#design: 2,2,43,43,s2_voice_10
+#design: 2,2,44,44,s2_animal_41
+#design: 2,2,45,45,s2_voice_28
+#design: 2,2,46,46,s2_nature_45
+#design: 2,2,47,47,s2_voice_30
+#design: 2,2,48,48,s2_nature_32
+#design: 2,2,49,49,s2_tools_41
+#design: 2,2,50,50,s2_animal_12
+#design: 2,2,51,51,s2_nature_44
+#design: 2,2,52,52,s2_animal_21
+#design: 2,2,53,53,s2_music_31
+#design: 2,2,54,54,s2_tools_20
+#design: 2,2,55,55,s2_speech_17
+#design: 2,2,56,56,s2_nature_23
+#design: 2,2,57,57,s2_tools_9
+#design: 2,2,58,58,s2_music_21
+#design: 2,2,59,59,catch
+#design: 2,2,60,60,silence
+#design: 2,2,61,61,silence
+#design: 2,2,62,62,s2_voice_43
+#design: 2,2,63,63,s2_nature_29
+#design: 2,2,64,64,s2_music_48
+#design: 2,2,65,65,silence
+#design: 2,2,66,66,s2_voice_26
+#design: 2,2,67,67,s2_animal_33
+#design: 2,2,68,68,s2_voice_18
+#design: 2,2,69,69,silence
+#design: 2,2,70,70,s2_tools_25
+#design: 2,2,71,71,s2_animal_26
+#design: 2,2,72,72,s2_speech_19
+#design: 2,2,73,73,s2_music_43
+#design: 2,2,74,74,s2_tools_3
+#design: 2,2,75,75,s2_voice_5
+#design: 2,2,76,76,s2_music_40
+#design: 2,2,77,77,s2_tools_1
+#design: 2,2,78,78,s2_speech_9
+#design: 2,2,79,79,s2_tools_23
+#design: 2,2,80,80,s2_speech_5
+#design: 2,2,81,81,s2_music_34
+#design: 3,3,0,0,s2_music_8
+#design: 3,3,1,1,silence
+#design: 3,3,2,2,s2_animal_36
+#design: 3,3,3,3,silence
+#design: 3,3,4,4,s2_voice_31
+#design: 3,3,5,5,s2_animal_9
+#design: 3,3,6,6,s2_music_3
+#design: 3,3,7,7,s2_tools_24
+#design: 3,3,8,8,catch
+#design: 3,3,9,9,s2_speech_29
+#design: 3,3,10,10,s2_tools_10
+#design: 3,3,11,11,s2_animal_48
+#design: 3,3,12,12,s2_tools_29
+#design: 3,3,13,13,s2_music_35
+#design: 3,3,14,14,catch
+#design: 3,3,15,15,silence
+#design: 3,3,16,16,s2_nature_12
+#design: 3,3,17,17,s2_speech_21
+#design: 3,3,18,18,s2_tools_15
+#design: 3,3,19,19,s2_music_33
+#design: 3,3,20,20,s2_animal_8
+#design: 3,3,21,21,s2_nature_24
+#design: 3,3,22,22,s2_animal_34
+#design: 3,3,23,23,s2_speech_35
+#design: 3,3,24,24,s2_nature_33
+#design: 3,3,25,25,s2_music_39
+#design: 3,3,26,26,s2_speech_18
+#design: 3,3,27,27,s2_nature_3
+#design: 3,3,28,28,silence
+#design: 3,3,29,29,s2_tools_8
+#design: 3,3,30,30,silence
+#design: 3,3,31,31,s2_music_20
+#design: 3,3,32,32,s2_voice_24
+#design: 3,3,33,33,s2_speech_4
+#design: 3,3,34,34,s2_nature_9
+#design: 3,3,35,35,s2_animal_23
+#design: 3,3,36,36,s2_tools_39
+#design: 3,3,37,37,s2_speech_27
+#design: 3,3,38,38,s2_music_28
+#design: 3,3,39,39,s2_voice_32
+#design: 3,3,40,40,s2_music_7
+#design: 3,3,41,41,s2_voice_11
+#design: 3,3,42,42,s2_speech_8
+#design: 3,3,43,43,s2_nature_18
+#design: 3,3,44,44,s2_voice_37
+#design: 3,3,45,45,s2_tools_47
+#design: 3,3,46,46,s2_music_32
+#design: 3,3,47,47,s2_voice_36
+#design: 3,3,48,48,s2_nature_39
+#design: 3,3,49,49,catch
+#design: 3,3,50,50,s2_animal_13
+#design: 3,3,51,51,s2_voice_7
+#design: 3,3,52,52,s2_animal_14
+#design: 3,3,53,53,s2_music_30
+#design: 3,3,54,54,catch
+#design: 3,3,55,55,s2_tools_48
+#design: 3,3,56,56,s2_nature_41
+#design: 3,3,57,57,s2_voice_13
+#design: 3,3,58,58,s2_tools_22
+#design: 3,3,59,59,s2_animal_27
+#design: 3,3,60,60,s2_music_12
+#design: 3,3,61,61,catch
+#design: 3,3,62,62,s2_nature_19
+#design: 3,3,63,63,s2_tools_19
+#design: 3,3,64,64,s2_animal_7
+#design: 3,3,65,65,s2_nature_6
+#design: 3,3,66,66,s2_music_23
+#design: 3,3,67,67,s2_voice_23
+#design: 3,3,68,68,s2_tools_34
+#design: 3,3,69,69,s2_speech_38
+#design: 3,3,70,70,s2_voice_9
+#design: 3,3,71,71,s2_nature_4
+#design: 3,3,72,72,s2_voice_16
+#design: 3,3,73,73,s2_tools_37
+#design: 3,3,74,74,s2_speech_22
+#design: 3,3,75,75,s2_animal_16
+#design: 3,3,76,76,s2_speech_25
+#design: 3,3,77,77,s2_animal_10
+#design: 3,3,78,78,s2_voice_15
+#design: 3,3,79,79,s2_speech_12
+#design: 3,3,80,80,s2_nature_7
+#design: 3,3,81,81,s2_speech_2
+#design: 4,4,0,0,s2_speech_20
+#design: 4,4,1,1,s2_tools_14
+#design: 4,4,2,2,catch
+#design: 4,4,3,3,s2_animal_19
+#design: 4,4,4,4,s2_speech_28
+#design: 4,4,5,5,s2_music_41
+#design: 4,4,6,6,s2_nature_2
+#design: 4,4,7,7,s2_music_11
+#design: 4,4,8,8,s2_speech_40
+#design: 4,4,9,9,s2_music_14
+#design: 4,4,10,10,s2_voice_41
+#design: 4,4,11,11,s2_nature_36
+#design: 4,4,12,12,s2_music_18
+#design: 4,4,13,13,silence
+#design: 4,4,14,14,silence
+#design: 4,4,15,15,s2_animal_35
+#design: 4,4,16,16,s2_voice_35
+#design: 4,4,17,17,silence
+#design: 4,4,18,18,s2_nature_17
+#design: 4,4,19,19,s2_voice_3
+#design: 4,4,20,20,s2_speech_23
+#design: 4,4,21,21,s2_tools_36
+#design: 4,4,22,22,s2_animal_43
+#design: 4,4,23,23,s2_voice_21
+#design: 4,4,24,24,s2_speech_34
+#design: 4,4,25,25,s2_tools_28
+#design: 4,4,26,26,catch
+#design: 4,4,27,27,s2_speech_44
+#design: 4,4,28,28,silence
+#design: 4,4,29,29,s2_voice_2
+#design: 4,4,30,30,s2_nature_40
+#design: 4,4,31,31,s2_music_44
+#design: 4,4,32,32,s2_nature_5
+#design: 4,4,33,33,s2_animal_32
+#design: 4,4,34,34,s2_nature_22
+#design: 4,4,35,35,s2_voice_12
+#design: 4,4,36,36,s2_nature_34
+#design: 4,4,37,37,s2_voice_20
+#design: 4,4,38,38,s2_tools_18
+#design: 4,4,39,39,s2_music_24
+#design: 4,4,40,40,s2_tools_5
+#design: 4,4,41,41,s2_nature_28
+#design: 4,4,42,42,s2_speech_48
+#design: 4,4,43,43,s2_animal_44
+#design: 4,4,44,44,catch
+#design: 4,4,45,45,s2_nature_38
+#design: 4,4,46,46,s2_animal_4
+#design: 4,4,47,47,s2_music_29
+#design: 4,4,48,48,s2_nature_15
+#design: 4,4,49,49,s2_animal_38
+#design: 4,4,50,50,s2_music_5
+#design: 4,4,51,51,s2_tools_16
+#design: 4,4,52,52,s2_music_25
+#design: 4,4,53,53,s2_voice_1
+#design: 4,4,54,54,s2_speech_42
+#design: 4,4,55,55,s2_music_45
+#design: 4,4,56,56,s2_tools_11
+#design: 4,4,57,57,s2_music_46
+#design: 4,4,58,58,s2_animal_40
+#design: 4,4,59,59,s2_tools_32
+#design: 4,4,60,60,s2_speech_39
+#design: 4,4,61,61,s2_tools_42
+#design: 4,4,62,62,s2_voice_45
+#design: 4,4,63,63,s2_animal_42
+#design: 4,4,64,64,catch
+#design: 4,4,65,65,s2_tools_27
+#design: 4,4,66,66,catch
+#design: 4,4,67,67,s2_animal_6
+#design: 4,4,68,68,s2_tools_35
+#design: 4,4,69,69,s2_nature_48
+#design: 4,4,70,70,silence
+#design: 4,4,71,71,s2_speech_31
+#design: 4,4,72,72,s2_animal_24
+#design: 4,4,73,73,s2_tools_45
+#design: 4,4,74,74,s2_nature_10
+#design: 4,4,75,75,s2_voice_4
+#design: 4,4,76,76,s2_animal_3
+#design: 4,4,77,77,s2_music_13
+#design: 4,4,78,78,s2_voice_44
+#design: 4,4,79,79,s2_speech_7
+#design: 4,4,80,80,s2_voice_22
+#design: 4,4,81,81,s2_speech_30
+#design: 5,5,0,0,s2_music_26
+#design: 5,5,1,1,s2_nature_46
+#design: 5,5,2,2,s2_tools_40
+#design: 5,5,3,3,silence
+#design: 5,5,4,4,s2_speech_15
+#design: 5,5,5,5,s2_nature_27
+#design: 5,5,6,6,s2_speech_11
+#design: 5,5,7,7,s2_voice_25
+#design: 5,5,8,8,s2_animal_15
+#design: 5,5,9,9,s2_speech_26
+#design: 5,5,10,10,s2_voice_17
+#design: 5,5,11,11,s2_nature_8
+#design: 5,5,12,12,s2_speech_47
+#design: 5,5,13,13,catch
+#design: 5,5,14,14,s2_tools_33
+#design: 5,5,15,15,silence
+#design: 5,5,16,16,s2_music_42
+#design: 5,5,17,17,s2_animal_28
+#design: 5,5,18,18,catch
+#design: 5,5,19,19,s2_nature_16
+#design: 5,5,20,20,s2_tools_7
+#design: 5,5,21,21,silence
+#design: 5,5,22,22,s2_nature_35
+#design: 5,5,23,23,s2_voice_6
+#design: 5,5,24,24,silence
+#design: 5,5,25,25,s2_animal_25
+#design: 5,5,26,26,s2_voice_29
+#design: 5,5,27,27,s2_music_17
+#design: 5,5,28,28,s2_animal_5
+#design: 5,5,29,29,s2_music_9
+#design: 5,5,30,30,s2_tools_31
+#design: 5,5,31,31,s2_animal_22
+#design: 5,5,32,32,s2_voice_34
+#design: 5,5,33,33,s2_music_38
+#design: 5,5,34,34,silence
+#design: 5,5,35,35,s2_tools_6
+#design: 5,5,36,36,s2_music_6
+#design: 5,5,37,37,s2_voice_39
+#design: 5,5,38,38,s2_music_27
+#design: 5,5,39,39,s2_tools_26
+#design: 5,5,40,40,s2_nature_42
+#design: 5,5,41,41,s2_animal_47
+#design: 5,5,42,42,s2_tools_2
+#design: 5,5,43,43,s2_voice_27
+#design: 5,5,44,44,s2_nature_20
+#design: 5,5,45,45,catch
+#design: 5,5,46,46,s2_speech_14
+#design: 5,5,47,47,s2_music_22
+#design: 5,5,48,48,s2_speech_16
+#design: 5,5,49,49,s2_tools_44
+#design: 5,5,50,50,s2_music_37
+#design: 5,5,51,51,s2_speech_36
+#design: 5,5,52,52,s2_music_10
+#design: 5,5,53,53,s2_nature_13
+#design: 5,5,54,54,s2_animal_45
+#design: 5,5,55,55,s2_speech_37
+#design: 5,5,56,56,s2_animal_2
+#design: 5,5,57,57,s2_voice_42
+#design: 5,5,58,58,s2_music_36
+#design: 5,5,59,59,s2_speech_46
+#design: 5,5,60,60,s2_animal_17
+#design: 5,5,61,61,s2_nature_26
+#design: 5,5,62,62,s2_music_16
+#design: 5,5,63,63,s2_nature_25
+#design: 5,5,64,64,s2_voice_46
+#design: 5,5,65,65,s2_nature_11
+#design: 5,5,66,66,s2_tools_46
+#design: 5,5,67,67,catch
+#design: 5,5,68,68,s2_voice_47
+#design: 5,5,69,69,s2_animal_29
+#design: 5,5,70,70,s2_tools_12
+#design: 5,5,71,71,catch
+#design: 5,5,72,72,s2_speech_13
+#design: 5,5,73,73,s2_voice_8
+#design: 5,5,74,74,s2_tools_13
+#design: 5,5,75,75,s2_animal_39
+#design: 5,5,76,76,s2_speech_33
+#design: 5,5,77,77,s2_nature_30
+#design: 5,5,78,78,s2_voice_48
+#design: 5,5,79,79,s2_tools_30
+#design: 5,5,80,80,s2_animal_20
+#design: 5,5,81,81,s2_speech_24
+21972,design,logged,
+21972,Experiment,started
+21980,Stimulus,presented,0
+88858,Keyboard,received,b't',wait_char
+88859,Stimulus,presented,1
+90875,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_3.wav'
+90876,Stimulus,presented,1
+92884,Keyboard,received,None,wait
+94877,Keyboard,received,116,wait
+94877,stdout,received,'1981 2019'
+96897,Keyboard,received,None,wait
+96907,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_25.wav'
+96908,Stimulus,presented,1
+98917,Keyboard,received,None,wait
+100894,Keyboard,received,116,wait
+100895,stdout,received,'1966 2034'
+102931,Keyboard,received,None,wait
+102940,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_20.wav'
+102941,Stimulus,presented,1
+104949,Keyboard,received,None,wait
+106912,Keyboard,received,116,wait
+106913,stdout,received,'1953 4047'
+108913,Keyboard,received,116,wait
+108914,stdout,received,'1998 2049'
+110966,Keyboard,received,None,wait
+110970,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_32.wav'
+110970,Stimulus,presented,1
+112977,Keyboard,received,None,wait
+114934,Keyboard,received,116,wait
+114935,stdout,received,'1945 2055'
+116993,Keyboard,received,None,wait
+117003,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_5.wav'
+117003,Stimulus,presented,1
+119012,Keyboard,received,None,wait
+120951,Keyboard,received,116,wait
+120952,stdout,received,'1926 2074'
+123029,Keyboard,received,None,wait
+123039,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_20.wav'
+123039,Stimulus,presented,1
+125047,Keyboard,received,None,wait
+126970,Keyboard,received,116,wait
+126971,stdout,received,'1912 4088'
+128969,Keyboard,received,116,wait
+128970,stdout,received,'1996 2092'
+131066,Keyboard,received,None,wait
+131066,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_20.wav'
+131067,Stimulus,presented,1
+132693,Keyboard,received,121,wait
+134986,Keyboard,received,116,wait
+134987,stdout,received,'1901 2099'
+137089,Keyboard,received,None,wait
+137099,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_42.wav'
+137100,Stimulus,presented,1
+139109,Keyboard,received,None,wait
+141006,Keyboard,received,116,wait
+141007,stdout,received,'1886 2114'
+143123,Keyboard,received,None,wait
+143125,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_41.wav'
+143126,Stimulus,presented,1
+145135,Keyboard,received,None,wait
+147025,Keyboard,received,116,wait
+147026,stdout,received,'1879 4121'
+149025,Keyboard,received,116,wait
+149025,stdout,received,'1996 2125'
+151153,Keyboard,received,None,wait
+151162,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_15.wav'
+151163,Stimulus,presented,1
+153172,Keyboard,received,None,wait
+155043,Keyboard,received,116,wait
+155043,stdout,received,'1859 2141'
+157186,Keyboard,received,None,wait
+157188,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_24.wav'
+157188,Stimulus,presented,1
+159196,Keyboard,received,None,wait
+161061,Keyboard,received,116,wait
+161061,stdout,received,'1854 2146'
+163210,Keyboard,received,None,wait
+163213,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_2.wav'
+163214,Stimulus,presented,1
+165222,Keyboard,received,None,wait
+167081,Keyboard,received,116,wait
+167082,stdout,received,'1848 4152'
+169080,Keyboard,received,116,wait
+169081,stdout,received,'1996 2156'
+171239,Keyboard,received,None,wait
+171245,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_5.wav'
+171245,Stimulus,presented,1
+173253,Keyboard,received,None,wait
+175098,Keyboard,received,116,wait
+175098,stdout,received,'1834 2166'
+177268,Keyboard,received,None,wait
+177272,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_40.wav'
+177273,Stimulus,presented,1
+179282,Keyboard,received,None,wait
+181117,Keyboard,received,116,wait
+181118,stdout,received,'1825 2175'
+183296,Keyboard,received,None,wait
+183305,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_46.wav'
+183305,Stimulus,presented,1
+185312,Keyboard,received,None,wait
+187138,Keyboard,received,116,wait
+187138,stdout,received,'1814 4186'
+189136,Keyboard,received,116,wait
+189136,stdout,received,'1996 2190'
+191329,Keyboard,received,None,wait
+191340,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_32.wav'
+191340,Stimulus,presented,1
+193348,Keyboard,received,None,wait
+195154,Keyboard,received,116,wait
+195154,stdout,received,'1795 2205'
+197363,Keyboard,received,None,wait
+197372,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_44.wav'
+197372,Stimulus,presented,1
+199382,Keyboard,received,None,wait
+201172,Keyboard,received,116,wait
+201173,stdout,received,'1779 2221'
+203395,Keyboard,received,None,wait
+203395,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_44.wav'
+203396,Stimulus,presented,1
+204497,Keyboard,received,121,wait
+207192,Keyboard,received,116,wait
+207193,stdout,received,'1777 4223'
+209190,Keyboard,received,116,wait
+209191,stdout,received,'1996 2227'
+211420,Keyboard,received,None,wait
+211423,Stimulus,presented,23
+211430,Stimulus,presented,1
+213447,Keyboard,received,None,wait
+215211,Keyboard,received,116,wait
+215211,stdout,received,'1752 2248'
+217461,Keyboard,received,None,wait
+217463,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_4.wav'
+217463,Stimulus,presented,1
+219471,Keyboard,received,None,wait
+221228,Keyboard,received,116,wait
+221229,stdout,received,'1746 2254'
+223485,Keyboard,received,None,wait
+223488,Stimulus,presented,25
+223495,Stimulus,presented,1
+225516,Keyboard,received,None,wait
+227249,Keyboard,received,116,wait
+227250,stdout,received,'1721 4279'
+229248,Keyboard,received,116,wait
+229248,stdout,received,'1997 2282'
+231534,Keyboard,received,None,wait
+231543,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_22.wav'
+231544,Stimulus,presented,1
+233553,Keyboard,received,None,wait
+235268,Keyboard,received,116,wait
+235268,stdout,received,'1703 2297'
+237568,Keyboard,received,None,wait
+237579,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_11.wav'
+237579,Stimulus,presented,1
+239588,Keyboard,received,None,wait
+241285,Keyboard,received,116,wait
+241286,stdout,received,'1686 2314'
+243604,Keyboard,received,None,wait
+243613,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_19.wav'
+243613,Stimulus,presented,1
+245622,Keyboard,received,None,wait
+247304,Keyboard,received,116,wait
+247305,stdout,received,'1670 4330'
+249303,Keyboard,received,116,wait
+249304,stdout,received,'1997 2333'
+251639,Keyboard,received,None,wait
+251648,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_1.wav'
+251649,Stimulus,presented,1
+253656,Keyboard,received,None,wait
+255320,Keyboard,received,116,wait
+255320,stdout,received,'1653 2347'
+257670,Keyboard,received,None,wait
+257679,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_3.wav'
+257679,Stimulus,presented,1
+259689,Keyboard,received,None,wait
+261342,Keyboard,received,116,wait
+261342,stdout,received,'1641 2359'
+263704,Keyboard,received,None,wait
+263715,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_39.wav'
+263716,Stimulus,presented,1
+265724,Keyboard,received,None,wait
+267359,Keyboard,received,116,wait
+267360,stdout,received,'1624 4376'
+269358,Keyboard,received,116,wait
+269358,stdout,received,'1997 2379'
+271740,Keyboard,received,None,wait
+271750,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_34.wav'
+271751,Stimulus,presented,1
+273758,Keyboard,received,None,wait
+275378,Keyboard,received,116,wait
+275379,stdout,received,'1609 2391'
+277774,Keyboard,received,None,wait
+277785,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_18.wav'
+277786,Stimulus,presented,1
+279795,Keyboard,received,None,wait
+281396,Keyboard,received,116,wait
+281396,stdout,received,'1589 2411'
+283811,Keyboard,received,None,wait
+283815,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_38.wav'
+283815,Stimulus,presented,1
+285823,Keyboard,received,None,wait
+287416,Keyboard,received,116,wait
+287417,stdout,received,'1580 4420'
+289416,Keyboard,received,116,wait
+289416,stdout,received,'1997 2423'
+291842,Keyboard,received,None,wait
+291846,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_21.wav'
+291846,Stimulus,presented,1
+293855,Keyboard,received,None,wait
+295434,Keyboard,received,116,wait
+295434,stdout,received,'1567 2433'
+297869,Keyboard,received,None,wait
+297880,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_42.wav'
+297881,Stimulus,presented,1
+299888,Keyboard,received,None,wait
+301452,Keyboard,received,116,wait
+301453,stdout,received,'1552 2448'
+303904,Keyboard,received,None,wait
+303912,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_22.wav'
+303913,Stimulus,presented,1
+305921,Keyboard,received,None,wait
+307471,Keyboard,received,116,wait
+307471,stdout,received,'1537 4463'
+309472,Keyboard,received,116,wait
+309472,stdout,received,'1998 2465'
+311940,Keyboard,received,None,wait
+311950,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_45.wav'
+311950,Stimulus,presented,1
+313957,Keyboard,received,None,wait
+315489,Keyboard,received,116,wait
+315490,stdout,received,'1520 2480'
+317971,Keyboard,received,None,wait
+317972,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_45.wav'
+317972,Stimulus,presented,1
+319812,Keyboard,received,121,wait
+321508,Keyboard,received,116,wait
+321509,stdout,received,'1517 2483'
+323995,Keyboard,received,None,wait
+324006,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_36.wav'
+324007,Stimulus,presented,1
+326016,Keyboard,received,None,wait
+327527,Keyboard,received,116,wait
+327528,stdout,received,'1499 4501'
+329526,Keyboard,received,116,wait
+329527,stdout,received,'1996 2505'
+332034,Keyboard,received,None,wait
+332045,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_45.wav'
+332046,Stimulus,presented,1
+334054,Keyboard,received,None,wait
+335544,Keyboard,received,116,wait
+335545,stdout,received,'1479 2521'
+338068,Keyboard,received,None,wait
+338073,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_13.wav'
+338073,Stimulus,presented,1
+340081,Keyboard,received,None,wait
+341563,Keyboard,received,116,wait
+341564,stdout,received,'1471 2529'
+344095,Keyboard,received,None,wait
+344097,Stimulus,presented,43
+344103,Stimulus,presented,1
+346120,Keyboard,received,None,wait
+347582,Keyboard,received,116,wait
+347583,stdout,received,'1451 4549'
+349582,Keyboard,received,116,wait
+349582,stdout,received,'1997 2552'
+352138,Keyboard,received,None,wait
+352148,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_42.wav'
+352148,Stimulus,presented,1
+354156,Keyboard,received,None,wait
+355601,Keyboard,received,116,wait
+355601,stdout,received,'1433 2567'
+358172,Keyboard,received,None,wait
+358181,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_35.wav'
+358182,Stimulus,presented,1
+360191,Keyboard,received,None,wait
+361618,Keyboard,received,116,wait
+361619,stdout,received,'1417 2583'
+364205,Keyboard,received,None,wait
+364214,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_48.wav'
+364215,Stimulus,presented,1
+366223,Keyboard,received,None,wait
+367637,Keyboard,received,116,wait
+367637,stdout,received,'1403 4597'
+369639,Keyboard,received,116,wait
+369639,stdout,received,'2000 2597'
+372239,Keyboard,received,None,wait
+372249,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_4.wav'
+372249,Stimulus,presented,1
+374257,Keyboard,received,None,wait
+375655,Keyboard,received,116,wait
+375656,stdout,received,'1386 2614'
+378272,Keyboard,received,None,wait
+378282,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_14.wav'
+378282,Stimulus,presented,1
+380289,Keyboard,received,None,wait
+381675,Keyboard,received,116,wait
+381676,stdout,received,'1375 2625'
+384304,Keyboard,received,None,wait
+384314,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_17.wav'
+384315,Stimulus,presented,1
+386324,Keyboard,received,None,wait
+387692,Keyboard,received,116,wait
+387692,stdout,received,'1357 4643'
+389693,Keyboard,received,116,wait
+389694,stdout,received,'1999 2644'
+392340,Keyboard,received,None,wait
+392342,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_29.wav'
+392343,Stimulus,presented,1
+394352,Keyboard,received,None,wait
+395711,Keyboard,received,116,wait
+395711,stdout,received,'1348 2652'
+398364,Keyboard,received,None,wait
+398367,Stimulus,presented,51
+398374,Stimulus,presented,1
+400402,Keyboard,received,None,wait
+401731,Keyboard,received,116,wait
+401731,stdout,received,'1317 2683'
+404416,Keyboard,received,None,wait
+404427,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_5.wav'
+404427,Stimulus,presented,1
+406436,Keyboard,received,None,wait
+407749,Keyboard,received,116,wait
+407749,stdout,received,'1301 4699'
+409749,Keyboard,received,116,wait
+409750,stdout,received,'1998 2701'
+412453,Keyboard,received,None,wait
+412456,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_30.wav'
+412457,Stimulus,presented,1
+414465,Keyboard,received,None,wait
+415769,Keyboard,received,116,wait
+415769,stdout,received,'1292 2708'
+418479,Keyboard,received,None,wait
+418482,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_27.wav'
+418482,Stimulus,presented,1
+420490,Keyboard,received,None,wait
+421787,Keyboard,received,116,wait
+421787,stdout,received,'1285 2715'
+424506,Keyboard,received,None,wait
+424516,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_35.wav'
+424516,Stimulus,presented,1
+426525,Keyboard,received,None,wait
+427806,Keyboard,received,116,wait
+427806,stdout,received,'1269 4731'
+429805,Keyboard,received,116,wait
+429805,stdout,received,'1997 2734'
+432542,Keyboard,received,None,wait
+432551,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_44.wav'
+432551,Stimulus,presented,1
+434558,Keyboard,received,None,wait
+435823,Keyboard,received,116,wait
+435824,stdout,received,'1253 2747'
+438573,Keyboard,received,None,wait
+438582,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_40.wav'
+438582,Stimulus,presented,1
+440591,Keyboard,received,None,wait
+441842,Keyboard,received,116,wait
+441843,stdout,received,'1238 2762'
+444608,Keyboard,received,None,wait
+444609,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_40.wav'
+444609,Stimulus,presented,1
+446231,Keyboard,received,121,wait
+447861,Keyboard,received,116,wait
+447861,stdout,received,'1231 4769'
+449862,Keyboard,received,116,wait
+449862,stdout,received,'1998 2771'
+452635,Keyboard,received,None,wait
+452637,Stimulus,presented,59
+452643,Stimulus,presented,1
+454670,Keyboard,received,None,wait
+455880,Keyboard,received,116,wait
+455881,stdout,received,'1199 2801'
+458685,Keyboard,received,None,wait
+458696,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_44.wav'
+458697,Stimulus,presented,1
+460706,Keyboard,received,None,wait
+461896,Keyboard,received,116,wait
+461897,stdout,received,'1180 2820'
+464719,Keyboard,received,None,wait
+464729,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_2.wav'
+464730,Stimulus,presented,1
+466738,Keyboard,received,None,wait
+467917,Keyboard,received,116,wait
+467917,stdout,received,'1167 4833'
+469918,Keyboard,received,116,wait
+469918,stdout,received,'1998 2835'
+472756,Keyboard,received,None,wait
+472767,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_35.wav'
+472768,Stimulus,presented,1
+474776,Keyboard,received,None,wait
+475936,Keyboard,received,116,wait
+475937,stdout,received,'1149 2851'
+478789,Keyboard,received,None,wait
+478800,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_38.wav'
+478801,Stimulus,presented,1
+480809,Keyboard,received,None,wait
+481954,Keyboard,received,116,wait
+481954,stdout,received,'1133 2867'
+484824,Keyboard,received,None,wait
+484834,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_18.wav'
+484834,Stimulus,presented,1
+486843,Keyboard,received,None,wait
+487974,Keyboard,received,116,wait
+487974,stdout,received,'1119 4881'
+489971,Keyboard,received,116,wait
+489972,stdout,received,'1996 2885'
+492859,Keyboard,received,None,wait
+492869,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_31.wav'
+492870,Stimulus,presented,1
+494878,Keyboard,received,None,wait
+495991,Keyboard,received,116,wait
+495991,stdout,received,'1100 2900'
+498894,Keyboard,received,None,wait
+498896,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_10.wav'
+498896,Stimulus,presented,1
+500903,Keyboard,received,None,wait
+502010,Keyboard,received,116,wait
+502011,stdout,received,'1095 2905'
+504918,Keyboard,received,None,wait
+504919,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_10.wav'
+504919,Stimulus,presented,1
+506649,Keyboard,received,121,wait
+508026,Keyboard,received,116,wait
+508027,stdout,received,'1088 4912'
+510027,Keyboard,received,116,wait
+510028,stdout,received,'1999 2913'
+512943,Keyboard,received,None,wait
+512952,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_11.wav'
+512953,Stimulus,presented,1
+514961,Keyboard,received,None,wait
+516047,Keyboard,received,116,wait
+516047,stdout,received,'1074 2926'
+518976,Keyboard,received,None,wait
+518985,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_34.wav'
+518986,Stimulus,presented,1
+520994,Keyboard,received,None,wait
+522066,Keyboard,received,116,wait
+522066,stdout,received,'1060 2940'
+525009,Keyboard,received,None,wait
+525014,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_45.wav'
+525014,Stimulus,presented,1
+527023,Keyboard,received,None,wait
+528082,Keyboard,received,116,wait
+528083,stdout,received,'1048 4952'
+530084,Keyboard,received,116,wait
+530085,stdout,received,'1999 2953'
+533042,Keyboard,received,None,wait
+533051,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_23.wav'
+533051,Stimulus,presented,1
+535060,Keyboard,received,None,wait
+536101,Keyboard,received,116,wait
+536101,stdout,received,'1030 2970'
+539075,Keyboard,received,None,wait
+539084,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_43.wav'
+539084,Stimulus,presented,1
+541092,Keyboard,received,None,wait
+542121,Keyboard,received,116,wait
+542122,stdout,received,'1018 2982'
+545108,Keyboard,received,None,wait
+545117,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_28.wav'
+545117,Stimulus,presented,1
+547126,Keyboard,received,None,wait
+548140,Keyboard,received,116,wait
+548141,stdout,received,'1002 4998'
+550141,Keyboard,received,116,wait
+550141,stdout,received,'1998 3000'
+553144,Keyboard,received,None,wait
+553155,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_12.wav'
+553156,Stimulus,presented,1
+555165,Keyboard,received,None,wait
+556158,Keyboard,received,116,wait
+556158,stdout,received,'982 3018'
+559180,Keyboard,received,None,wait
+559189,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_6.wav'
+559189,Stimulus,presented,1
+561197,Keyboard,received,None,wait
+562178,Keyboard,received,116,wait
+562178,stdout,received,'969 3031'
+565212,Keyboard,received,None,wait
+565222,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_28.wav'
+565222,Stimulus,presented,1
+567230,Keyboard,received,None,wait
+568195,Keyboard,received,116,wait
+568195,stdout,received,'954 5046'
+570196,Keyboard,received,116,wait
+570196,stdout,received,'1998 3048'
+573247,Keyboard,received,None,wait
+573257,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_24.wav'
+573257,Stimulus,presented,1
+575266,Keyboard,received,None,wait
+576215,Keyboard,received,116,wait
+576216,stdout,received,'937 3063'
+579283,Keyboard,received,None,wait
+579294,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_41.wav'
+579294,Stimulus,presented,1
+581301,Keyboard,received,None,wait
+582233,Keyboard,received,116,wait
+582233,stdout,received,'920 3080'
+585316,Keyboard,received,None,wait
+585326,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_7.wav'
+585326,Stimulus,presented,1
+587336,Keyboard,received,None,wait
+588252,Keyboard,received,116,wait
+588252,stdout,received,'904 5096'
+590252,Keyboard,received,116,wait
+590252,stdout,received,'1998 3098'
+593353,Keyboard,received,None,wait
+593362,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_36.wav'
+593363,Stimulus,presented,1
+595372,Keyboard,received,None,wait
+596270,Keyboard,received,116,wait
+596270,stdout,received,'886 3114'
+599387,Keyboard,received,None,wait
+599396,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_28.wav'
+599396,Stimulus,presented,1
+601406,Keyboard,received,None,wait
+602288,Keyboard,received,116,wait
+602288,stdout,received,'870 3130'
+605421,Keyboard,received,None,wait
+605432,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_16.wav'
+605433,Stimulus,presented,1
+607442,Keyboard,received,None,wait
+608306,Keyboard,received,116,wait
+608307,stdout,received,'852 5148'
+610307,Keyboard,received,116,wait
+610307,stdout,received,'1999 3149'
+613458,Keyboard,received,None,wait
+613462,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_40.wav'
+613462,Stimulus,presented,1
+615470,Keyboard,received,None,wait
+616326,Keyboard,received,116,wait
+616329,stdout,received,'843 3157'
+619489,Keyboard,received,None,wait
+619498,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_44.wav'
+619499,Stimulus,presented,1
+621507,Keyboard,received,None,wait
+622344,Keyboard,received,116,wait
+622344,stdout,received,'826 3174'
+625521,Keyboard,received,None,wait
+625531,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_14.wav'
+625531,Stimulus,presented,1
+627540,Keyboard,received,None,wait
+628362,Keyboard,received,116,wait
+628362,stdout,received,'810 5190'
+630361,Keyboard,received,116,wait
+630361,stdout,received,'1997 3193'
+633557,Keyboard,received,None,wait
+633567,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_48.wav'
+633568,Stimulus,presented,1
+635576,Keyboard,received,None,wait
+636381,Keyboard,received,116,wait
+636382,stdout,received,'793 3207'
+639592,Keyboard,received,None,wait
+641593,Stimulus,presented,2
+679605,Keyboard,received,32,wait
+679605,Stimulus,presented,0
+738153,Keyboard,received,b't',wait_char
+738153,Stimulus,presented,1
+740160,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_27.wav'
+740160,Stimulus,presented,1
+742168,Keyboard,received,None,wait
+744171,Keyboard,received,116,wait
+744171,stdout,received,'1990 2010'
+746184,Keyboard,received,None,wait
+746186,Stimulus,presented,88
+746193,Stimulus,presented,1
+748209,Keyboard,received,None,wait
+750188,Keyboard,received,116,wait
+750189,stdout,received,'1969 2031'
+752222,Keyboard,received,None,wait
+752233,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_37.wav'
+752234,Stimulus,presented,1
+754242,Keyboard,received,None,wait
+756208,Keyboard,received,116,wait
+756208,stdout,received,'1954 4046'
+758207,Keyboard,received,116,wait
+758208,stdout,received,'1997 2049'
+760259,Keyboard,received,None,wait
+760260,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_37.wav'
+760260,Stimulus,presented,1
+761980,Keyboard,received,121,wait
+764228,Keyboard,received,116,wait
+764228,stdout,received,'1947 2053'
+766284,Keyboard,received,None,wait
+766296,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_13.wav'
+766296,Stimulus,presented,1
+768305,Keyboard,received,None,wait
+770246,Keyboard,received,116,wait
+770246,stdout,received,'1929 2071'
+772321,Keyboard,received,None,wait
+772332,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_46.wav'
+772333,Stimulus,presented,1
+774342,Keyboard,received,None,wait
+776264,Keyboard,received,116,wait
+776264,stdout,received,'1910 4090'
+778264,Keyboard,received,116,wait
+778265,stdout,received,'1998 2092'
+780359,Keyboard,received,None,wait
+780371,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_6.wav'
+780371,Stimulus,presented,1
+782380,Keyboard,received,None,wait
+784283,Keyboard,received,116,wait
+784283,stdout,received,'1890 2110'
+786397,Keyboard,received,None,wait
+786399,Stimulus,presented,94
+786405,Stimulus,presented,1
+788421,Keyboard,received,None,wait
+790302,Keyboard,received,116,wait
+790302,stdout,received,'1868 2132'
+792437,Keyboard,received,None,wait
+792439,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_29.wav'
+792439,Stimulus,presented,1
+794448,Keyboard,received,None,wait
+796321,Keyboard,received,116,wait
+796322,stdout,received,'1861 4139'
+798320,Keyboard,received,116,wait
+798321,stdout,received,'1996 2143'
+800466,Keyboard,received,None,wait
+800477,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_47.wav'
+800478,Stimulus,presented,1
+802486,Keyboard,received,None,wait
+804337,Keyboard,received,116,wait
+804337,stdout,received,'1840 2160'
+806499,Keyboard,received,None,wait
+806508,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_7.wav'
+806509,Stimulus,presented,1
+808518,Keyboard,received,None,wait
+810357,Keyboard,received,116,wait
+810357,stdout,received,'1827 2173'
+812532,Keyboard,received,None,wait
+812536,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_47.wav'
+812537,Stimulus,presented,1
+814547,Keyboard,received,None,wait
+816375,Keyboard,received,116,wait
+816375,stdout,received,'1816 4184'
+818375,Keyboard,received,116,wait
+818375,stdout,received,'1998 2186'
+820565,Keyboard,received,None,wait
+820574,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_22.wav'
+820575,Stimulus,presented,1
+822583,Keyboard,received,None,wait
+824394,Keyboard,received,116,wait
+824394,stdout,received,'1799 2201'
+826598,Keyboard,received,None,wait
+826609,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_17.wav'
+826610,Stimulus,presented,1
+828618,Keyboard,received,None,wait
+830412,Keyboard,received,116,wait
+830413,stdout,received,'1783 2217'
+832633,Keyboard,received,None,wait
+832636,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_16.wav'
+832637,Stimulus,presented,1
+834646,Keyboard,received,None,wait
+836431,Keyboard,received,116,wait
+836432,stdout,received,'1774 4226'
+838429,Keyboard,received,116,wait
+838430,stdout,received,'1996 2230'
+840663,Keyboard,received,None,wait
+840673,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_5.wav'
+840674,Stimulus,presented,1
+842683,Keyboard,received,None,wait
+844450,Keyboard,received,116,wait
+844450,stdout,received,'1755 2245'
+846698,Keyboard,received,None,wait
+846700,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_5.wav'
+846700,Stimulus,presented,1
+848336,Keyboard,received,121,wait
+850468,Keyboard,received,116,wait
+850469,stdout,received,'1748 2252'
+852724,Keyboard,received,None,wait
+852733,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_16.wav'
+852734,Stimulus,presented,1
+854742,Keyboard,received,None,wait
+856488,Keyboard,received,116,wait
+856489,stdout,received,'1734 4266'
+858487,Keyboard,received,116,wait
+858488,stdout,received,'1996 2270'
+860759,Keyboard,received,None,wait
+860769,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_38.wav'
+860769,Stimulus,presented,1
+862778,Keyboard,received,None,wait
+864506,Keyboard,received,116,wait
+864507,stdout,received,'1716 2284'
+866794,Keyboard,received,None,wait
+866798,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_46.wav'
+866799,Stimulus,presented,1
+868807,Keyboard,received,None,wait
+870522,Keyboard,received,116,wait
+870523,stdout,received,'1704 2296'
+872822,Keyboard,received,None,wait
+872822,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_46.wav'
+872823,Stimulus,presented,1
+874553,Keyboard,received,121,wait
+876542,Keyboard,received,116,wait
+876542,stdout,received,'1699 4301'
+878541,Keyboard,received,116,wait
+878542,stdout,received,'1998 2303'
+880848,Keyboard,received,None,wait
+880850,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_25.wav'
+880850,Stimulus,presented,1
+882858,Keyboard,received,None,wait
+884560,Keyboard,received,116,wait
+884560,stdout,received,'1690 2310'
+886873,Keyboard,received,None,wait
+886882,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_10.wav'
+886883,Stimulus,presented,1
+888890,Keyboard,received,None,wait
+890578,Keyboard,received,116,wait
+890578,stdout,received,'1676 2324'
+892905,Keyboard,received,None,wait
+892915,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_42.wav'
+892915,Stimulus,presented,1
+894923,Keyboard,received,None,wait
+896598,Keyboard,received,116,wait
+896599,stdout,received,'1663 4337'
+898598,Keyboard,received,116,wait
+898598,stdout,received,'1998 2339'
+900938,Keyboard,received,None,wait
+900950,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_20.wav'
+900950,Stimulus,presented,1
+902960,Keyboard,received,None,wait
+904618,Keyboard,received,116,wait
+904618,stdout,received,'1646 2354'
+906975,Keyboard,received,None,wait
+906986,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_24.wav'
+906987,Stimulus,presented,1
+908996,Keyboard,received,None,wait
+910635,Keyboard,received,116,wait
+910636,stdout,received,'1627 2373'
+913012,Keyboard,received,None,wait
+913016,Stimulus,presented,113
+913023,Stimulus,presented,1
+915045,Keyboard,received,None,wait
+916653,Keyboard,received,116,wait
+916654,stdout,received,'1597 4403'
+918654,Keyboard,received,116,wait
+918654,stdout,received,'1998 2405'
+921062,Keyboard,received,None,wait
+921072,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_25.wav'
+921072,Stimulus,presented,1
+923082,Keyboard,received,None,wait
+924671,Keyboard,received,116,wait
+924671,stdout,received,'1578 2422'
+927096,Keyboard,received,None,wait
+927103,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_25.wav'
+927103,Stimulus,presented,1
+929112,Keyboard,received,None,wait
+930692,Keyboard,received,116,wait
+930692,stdout,received,'1568 2432'
+933126,Keyboard,received,None,wait
+933137,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_26.wav'
+933138,Stimulus,presented,1
+935146,Keyboard,received,None,wait
+936709,Keyboard,received,116,wait
+936710,stdout,received,'1552 4448'
+938707,Keyboard,received,116,wait
+938707,stdout,received,'1996 2452'
+941163,Keyboard,received,None,wait
+941165,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_34.wav'
+941165,Stimulus,presented,1
+943173,Keyboard,received,None,wait
+944728,Keyboard,received,116,wait
+944728,stdout,received,'1543 2457'
+947188,Keyboard,received,None,wait
+947191,Stimulus,presented,118
+947197,Stimulus,presented,1
+949219,Keyboard,received,None,wait
+950746,Keyboard,received,116,wait
+950747,stdout,received,'1516 2484'
+953233,Keyboard,received,None,wait
+953244,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_36.wav'
+953245,Stimulus,presented,1
+955253,Keyboard,received,None,wait
+956765,Keyboard,received,116,wait
+956765,stdout,received,'1500 4500'
+958766,Keyboard,received,116,wait
+958766,stdout,received,'1998 2502'
+961271,Keyboard,received,None,wait
+961272,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_35.wav'
+961272,Stimulus,presented,1
+963279,Keyboard,received,None,wait
+964783,Keyboard,received,116,wait
+964784,stdout,received,'1493 2507'
+967293,Keyboard,received,None,wait
+967303,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_37.wav'
+967303,Stimulus,presented,1
+969312,Keyboard,received,None,wait
+970802,Keyboard,received,116,wait
+970802,stdout,received,'1478 2522'
+973326,Keyboard,received,None,wait
+973330,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_15.wav'
+973330,Stimulus,presented,1
+975340,Keyboard,received,None,wait
+976821,Keyboard,received,116,wait
+976822,stdout,received,'1470 4530'
+978822,Keyboard,received,116,wait
+978823,stdout,received,'1998 2532'
+981357,Keyboard,received,None,wait
+981368,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_15.wav'
+981368,Stimulus,presented,1
+983376,Keyboard,received,None,wait
+984838,Keyboard,received,116,wait
+984839,stdout,received,'1451 2549'
+987390,Keyboard,received,None,wait
+987402,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_8.wav'
+987402,Stimulus,presented,1
+989412,Keyboard,received,None,wait
+990857,Keyboard,received,116,wait
+990857,stdout,received,'1434 2566'
+993426,Keyboard,received,None,wait
+993436,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_33.wav'
+993436,Stimulus,presented,1
+995444,Keyboard,received,None,wait
+996875,Keyboard,received,116,wait
+996876,stdout,received,'1420 4580'
+998877,Keyboard,received,116,wait
+998877,stdout,received,'1999 2581'
+1001461,Keyboard,received,None,wait
+1001464,Stimulus,presented,126
+1001471,Stimulus,presented,1
+1003488,Keyboard,received,None,wait
+1004896,Keyboard,received,116,wait
+1004896,stdout,received,'1395 2605'
+1007504,Keyboard,received,None,wait
+1007505,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_40.wav'
+1007505,Stimulus,presented,1
+1009514,Keyboard,received,None,wait
+1010913,Keyboard,received,116,wait
+1010913,stdout,received,'1387 2613'
+1013528,Keyboard,received,None,wait
+1013538,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_17.wav'
+1013539,Stimulus,presented,1
+1015548,Keyboard,received,None,wait
+1016932,Keyboard,received,116,wait
+1016932,stdout,received,'1373 4627'
+1018933,Keyboard,received,116,wait
+1018933,stdout,received,'1998 2629'
+1021564,Keyboard,received,None,wait
+1021575,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_33.wav'
+1021575,Stimulus,presented,1
+1023584,Keyboard,received,None,wait
+1024949,Keyboard,received,116,wait
+1024950,stdout,received,'1355 2645'
+1027597,Keyboard,received,None,wait
+1027599,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_33.wav'
+1027599,Stimulus,presented,1
+1029214,Keyboard,received,121,wait
+1030970,Keyboard,received,116,wait
+1030971,stdout,received,'1351 2649'
+1033622,Keyboard,received,None,wait
+1033633,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_26.wav'
+1033634,Stimulus,presented,1
+1035643,Keyboard,received,None,wait
+1036988,Keyboard,received,116,wait
+1036989,stdout,received,'1333 4667'
+1038988,Keyboard,received,116,wait
+1038989,stdout,received,'1998 2669'
+1041660,Keyboard,received,None,wait
+1041669,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_17.wav'
+1041669,Stimulus,presented,1
+1043678,Keyboard,received,None,wait
+1045007,Keyboard,received,116,wait
+1045007,stdout,received,'1316 2684'
+1047694,Keyboard,received,None,wait
+1047705,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_46.wav'
+1047706,Stimulus,presented,1
+1049716,Keyboard,received,None,wait
+1051026,Keyboard,received,116,wait
+1051027,stdout,received,'1299 2701'
+1053731,Keyboard,received,None,wait
+1053733,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_6.wav'
+1053734,Stimulus,presented,1
+1055742,Keyboard,received,None,wait
+1057044,Keyboard,received,116,wait
+1057045,stdout,received,'1290 4710'
+1059045,Keyboard,received,116,wait
+1059045,stdout,received,'1998 2712'
+1061759,Keyboard,received,None,wait
+1061771,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_26.wav'
+1061771,Stimulus,presented,1
+1063781,Keyboard,received,None,wait
+1065063,Keyboard,received,116,wait
+1065063,stdout,received,'1270 2730'
+1067797,Keyboard,received,None,wait
+1067807,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_45.wav'
+1067807,Stimulus,presented,1
+1069817,Keyboard,received,None,wait
+1071080,Keyboard,received,116,wait
+1071081,stdout,received,'1252 2748'
+1073830,Keyboard,received,None,wait
+1073841,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_20.wav'
+1073841,Stimulus,presented,1
+1075848,Keyboard,received,None,wait
+1077098,Keyboard,received,116,wait
+1077099,stdout,received,'1239 4761'
+1079100,Keyboard,received,116,wait
+1079100,stdout,received,'1999 2762'
+1081865,Keyboard,received,None,wait
+1081875,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_14.wav'
+1081875,Stimulus,presented,1
+1083884,Keyboard,received,None,wait
+1085117,Keyboard,received,116,wait
+1085118,stdout,received,'1222 2778'
+1087898,Keyboard,received,None,wait
+1087908,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_28.wav'
+1087908,Stimulus,presented,1
+1089917,Keyboard,received,None,wait
+1091136,Keyboard,received,116,wait
+1091137,stdout,received,'1209 2791'
+1093931,Keyboard,received,None,wait
+1093932,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_28.wav'
+1093933,Stimulus,presented,1
+1095552,Keyboard,received,121,wait
+1097155,Keyboard,received,116,wait
+1097156,stdout,received,'1204 4796'
+1099157,Keyboard,received,116,wait
+1099157,stdout,received,'1999 2797'
+1101957,Keyboard,received,None,wait
+1101966,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_42.wav'
+1101966,Stimulus,presented,1
+1103975,Keyboard,received,None,wait
+1105173,Keyboard,received,116,wait
+1105174,stdout,received,'1188 2812'
+1107988,Keyboard,received,None,wait
+1107998,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_47.wav'
+1107998,Stimulus,presented,1
+1110008,Keyboard,received,None,wait
+1111192,Keyboard,received,116,wait
+1111193,stdout,received,'1173 2827'
+1114022,Keyboard,received,None,wait
+1114032,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_8.wav'
+1114033,Stimulus,presented,1
+1116041,Keyboard,received,None,wait
+1117210,Keyboard,received,116,wait
+1117210,stdout,received,'1157 4843'
+1119210,Keyboard,received,116,wait
+1119211,stdout,received,'1999 2844'
+1122058,Keyboard,received,None,wait
+1122067,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_6.wav'
+1122067,Stimulus,presented,1
+1124076,Keyboard,received,None,wait
+1125230,Keyboard,received,116,wait
+1125230,stdout,received,'1142 2858'
+1128090,Keyboard,received,None,wait
+1128101,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_27.wav'
+1128101,Stimulus,presented,1
+1130110,Keyboard,received,None,wait
+1131246,Keyboard,received,116,wait
+1131247,stdout,received,'1126 2874'
+1134124,Keyboard,received,None,wait
+1134127,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_31.wav'
+1134128,Stimulus,presented,1
+1136137,Keyboard,received,None,wait
+1137265,Keyboard,received,116,wait
+1137266,stdout,received,'1118 4882'
+1139266,Keyboard,received,116,wait
+1139267,stdout,received,'1998 2884'
+1142154,Keyboard,received,None,wait
+1142165,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_29.wav'
+1142166,Stimulus,presented,1
+1144175,Keyboard,received,None,wait
+1145285,Keyboard,received,116,wait
+1145285,stdout,received,'1097 2903'
+1148190,Keyboard,received,None,wait
+1148201,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_30.wav'
+1148202,Stimulus,presented,1
+1150212,Keyboard,received,None,wait
+1151303,Keyboard,received,116,wait
+1151303,stdout,received,'1080 2920'
+1154226,Keyboard,received,None,wait
+1154237,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_2.wav'
+1154238,Stimulus,presented,1
+1156247,Keyboard,received,None,wait
+1157323,Keyboard,received,116,wait
+1157324,stdout,received,'1065 4935'
+1159323,Keyboard,received,116,wait
+1159324,stdout,received,'1997 2938'
+1162266,Keyboard,received,None,wait
+1162275,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_22.wav'
+1162276,Stimulus,presented,1
+1164284,Keyboard,received,None,wait
+1165342,Keyboard,received,116,wait
+1165342,stdout,received,'1046 2954'
+1168298,Keyboard,received,None,wait
+1168301,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_27.wav'
+1168302,Stimulus,presented,1
+1170312,Keyboard,received,None,wait
+1171361,Keyboard,received,116,wait
+1171361,stdout,received,'1037 2963'
+1174326,Keyboard,received,None,wait
+1174336,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_12.wav'
+1174337,Stimulus,presented,1
+1176345,Keyboard,received,None,wait
+1177378,Keyboard,received,116,wait
+1177378,stdout,received,'1021 4979'
+1179377,Keyboard,received,116,wait
+1179377,stdout,received,'1997 2982'
+1182362,Keyboard,received,None,wait
+1182373,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_48.wav'
+1182373,Stimulus,presented,1
+1184382,Keyboard,received,None,wait
+1185397,Keyboard,received,116,wait
+1185397,stdout,received,'1003 2997'
+1188396,Keyboard,received,None,wait
+1188406,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_30.wav'
+1188407,Stimulus,presented,1
+1190415,Keyboard,received,None,wait
+1191415,Keyboard,received,116,wait
+1191415,stdout,received,'989 3011'
+1194429,Keyboard,received,None,wait
+1194440,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_36.wav'
+1194441,Stimulus,presented,1
+1196450,Keyboard,received,None,wait
+1197434,Keyboard,received,116,wait
+1197435,stdout,received,'973 5027'
+1199433,Keyboard,received,116,wait
+1199434,stdout,received,'1997 3030'
+1202466,Keyboard,received,None,wait
+1202477,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_13.wav'
+1202477,Stimulus,presented,1
+1204485,Keyboard,received,None,wait
+1205452,Keyboard,received,116,wait
+1205453,stdout,received,'956 3044'
+1208500,Keyboard,received,None,wait
+1208511,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_26.wav'
+1208512,Stimulus,presented,1
+1210520,Keyboard,received,None,wait
+1211471,Keyboard,received,116,wait
+1211472,stdout,received,'940 3060'
+1214534,Keyboard,received,None,wait
+1214538,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_11.wav'
+1214538,Stimulus,presented,1
+1216547,Keyboard,received,None,wait
+1217488,Keyboard,received,116,wait
+1217489,stdout,received,'931 5069'
+1219490,Keyboard,received,116,wait
+1219491,stdout,received,'1999 3070'
+1222563,Keyboard,received,None,wait
+1222573,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_39.wav'
+1222573,Stimulus,presented,1
+1224582,Keyboard,received,None,wait
+1225509,Keyboard,received,116,wait
+1225509,stdout,received,'915 3085'
+1228596,Keyboard,received,None,wait
+1228606,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_44.wav'
+1228606,Stimulus,presented,1
+1230615,Keyboard,received,None,wait
+1231527,Keyboard,received,116,wait
+1231527,stdout,received,'900 3100'
+1234630,Keyboard,received,None,wait
+1234641,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_46.wav'
+1234642,Stimulus,presented,1
+1236650,Keyboard,received,None,wait
+1237546,Keyboard,received,116,wait
+1237546,stdout,received,'884 5116'
+1239546,Keyboard,received,116,wait
+1239546,stdout,received,'1998 3118'
+1242667,Keyboard,received,None,wait
+1242677,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_11.wav'
+1242677,Stimulus,presented,1
+1244685,Keyboard,received,None,wait
+1245564,Keyboard,received,116,wait
+1245565,stdout,received,'867 3133'
+1248699,Keyboard,received,None,wait
+1248703,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_9.wav'
+1248704,Stimulus,presented,1
+1250714,Keyboard,received,None,wait
+1251582,Keyboard,received,116,wait
+1251583,stdout,received,'857 3143'
+1254729,Keyboard,received,None,wait
+1254740,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_2.wav'
+1254740,Stimulus,presented,1
+1256748,Keyboard,received,None,wait
+1257602,Keyboard,received,116,wait
+1257602,stdout,received,'842 5158'
+1259600,Keyboard,received,116,wait
+1259601,stdout,received,'1996 3162'
+1262765,Keyboard,received,None,wait
+1262777,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_42.wav'
+1262777,Stimulus,presented,1
+1264786,Keyboard,received,None,wait
+1265618,Keyboard,received,116,wait
+1265619,stdout,received,'821 3179'
+1268800,Keyboard,received,None,wait
+1268811,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_16.wav'
+1268812,Stimulus,presented,1
+1270819,Keyboard,received,None,wait
+1271638,Keyboard,received,116,wait
+1271639,stdout,received,'808 3192'
+1274833,Keyboard,received,None,wait
+1274843,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_13.wav'
+1274843,Stimulus,presented,1
+1276852,Keyboard,received,None,wait
+1277656,Keyboard,received,116,wait
+1277657,stdout,received,'793 5207'
+1279658,Keyboard,received,116,wait
+1279658,stdout,received,'1999 3208'
+1282869,Keyboard,received,None,wait
+1282880,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_39.wav'
+1282880,Stimulus,presented,1
+1284888,Keyboard,received,None,wait
+1285676,Keyboard,received,116,wait
+1285677,stdout,received,'776 3224'
+1288903,Keyboard,received,None,wait
+1290904,Stimulus,presented,2
+1292815,Keyboard,received,32,wait
+1292816,Stimulus,presented,0
+1382270,Keyboard,received,b't',wait_char
+1382271,Stimulus,presented,1
+1384285,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_10.wav'
+1384285,Stimulus,presented,1
+1386292,Keyboard,received,None,wait
+1388289,Keyboard,received,116,wait
+1388290,stdout,received,'1987 2013'
+1390306,Keyboard,received,None,wait
+1390318,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_47.wav'
+1390319,Stimulus,presented,1
+1392327,Keyboard,received,None,wait
+1394310,Keyboard,received,116,wait
+1394310,stdout,received,'1971 2029'
+1396342,Keyboard,received,None,wait
+1396353,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_11.wav'
+1396354,Stimulus,presented,1
+1398362,Keyboard,received,None,wait
+1400328,Keyboard,received,116,wait
+1400328,stdout,received,'1954 4046'
+1402328,Keyboard,received,116,wait
+1402329,stdout,received,'1998 2048'
+1404378,Keyboard,received,None,wait
+1404388,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_14.wav'
+1404389,Stimulus,presented,1
+1406398,Keyboard,received,None,wait
+1408347,Keyboard,received,116,wait
+1408347,stdout,received,'1937 2063'
+1410413,Keyboard,received,None,wait
+1410424,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_46.wav'
+1410425,Stimulus,presented,1
+1412433,Keyboard,received,None,wait
+1414365,Keyboard,received,116,wait
+1414366,stdout,received,'1921 2079'
+1416446,Keyboard,received,None,wait
+1416458,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_19.wav'
+1416459,Stimulus,presented,1
+1418466,Keyboard,received,None,wait
+1420383,Keyboard,received,116,wait
+1420383,stdout,received,'1904 4096'
+1422382,Keyboard,received,116,wait
+1422383,stdout,received,'1997 2099'
+1424485,Keyboard,received,None,wait
+1424488,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_45.wav'
+1424489,Stimulus,presented,1
+1426499,Keyboard,received,None,wait
+1428403,Keyboard,received,116,wait
+1428403,stdout,received,'1892 2108'
+1430514,Keyboard,received,None,wait
+1430524,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_17.wav'
+1430524,Stimulus,presented,1
+1432533,Keyboard,received,None,wait
+1434420,Keyboard,received,116,wait
+1434420,stdout,received,'1875 2125'
+1436548,Keyboard,received,None,wait
+1436559,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_32.wav'
+1436560,Stimulus,presented,1
+1438568,Keyboard,received,None,wait
+1440439,Keyboard,received,116,wait
+1440440,stdout,received,'1860 4140'
+1442438,Keyboard,received,116,wait
+1442439,stdout,received,'1997 2143'
+1444583,Keyboard,received,None,wait
+1444593,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_1.wav'
+1444594,Stimulus,presented,1
+1446603,Keyboard,received,None,wait
+1448457,Keyboard,received,116,wait
+1448457,stdout,received,'1843 2157'
+1450616,Keyboard,received,None,wait
+1450627,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_30.wav'
+1450628,Stimulus,presented,1
+1452636,Keyboard,received,None,wait
+1454476,Keyboard,received,116,wait
+1454477,stdout,received,'1828 2172'
+1456652,Keyboard,received,None,wait
+1456664,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_19.wav'
+1456664,Stimulus,presented,1
+1458674,Keyboard,received,None,wait
+1460495,Keyboard,received,116,wait
+1460496,stdout,received,'1810 4190'
+1462495,Keyboard,received,116,wait
+1462496,stdout,received,'1997 2193'
+1464692,Keyboard,received,None,wait
+1464694,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_19.wav'
+1464694,Stimulus,presented,1
+1466261,Keyboard,received,121,wait
+1468513,Keyboard,received,116,wait
+1468513,stdout,received,'1799 2201'
+1470717,Keyboard,received,None,wait
+1470728,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_41.wav'
+1470728,Stimulus,presented,1
+1472738,Keyboard,received,None,wait
+1474531,Keyboard,received,116,wait
+1474532,stdout,received,'1782 2218'
+1476754,Keyboard,received,None,wait
+1476765,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_4.wav'
+1476766,Stimulus,presented,1
+1478774,Keyboard,received,None,wait
+1480549,Keyboard,received,116,wait
+1480550,stdout,received,'1764 4236'
+1482550,Keyboard,received,116,wait
+1482550,stdout,received,'1998 2238'
+1484790,Keyboard,received,None,wait
+1484792,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_4.wav'
+1484793,Stimulus,presented,1
+1486344,Keyboard,received,121,wait
+1488570,Keyboard,received,116,wait
+1488571,stdout,received,'1758 2242'
+1490816,Keyboard,received,None,wait
+1490827,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_1.wav'
+1490828,Stimulus,presented,1
+1492838,Keyboard,received,None,wait
+1494587,Keyboard,received,116,wait
+1494588,stdout,received,'1738 2262'
+1496853,Keyboard,received,None,wait
+1496857,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_3.wav'
+1496858,Stimulus,presented,1
+1498866,Keyboard,received,None,wait
+1500606,Keyboard,received,116,wait
+1500606,stdout,received,'1729 4271'
+1502607,Keyboard,received,116,wait
+1502608,stdout,received,'1999 2272'
+1504883,Keyboard,received,None,wait
+1504887,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_21.wav'
+1504888,Stimulus,presented,1
+1506896,Keyboard,received,None,wait
+1508624,Keyboard,received,116,wait
+1508624,stdout,received,'1716 2284'
+1510912,Keyboard,received,None,wait
+1510923,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_40.wav'
+1510924,Stimulus,presented,1
+1512932,Keyboard,received,None,wait
+1514644,Keyboard,received,116,wait
+1514645,stdout,received,'1700 2300'
+1516947,Keyboard,received,None,wait
+1516959,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_47.wav'
+1516959,Stimulus,presented,1
+1518968,Keyboard,received,None,wait
+1520662,Keyboard,received,116,wait
+1520663,stdout,received,'1683 4317'
+1522662,Keyboard,received,116,wait
+1522663,stdout,received,'1997 2320'
+1524985,Keyboard,received,None,wait
+1524995,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_15.wav'
+1524996,Stimulus,presented,1
+1527005,Keyboard,received,None,wait
+1528680,Keyboard,received,116,wait
+1528680,stdout,received,'1663 2337'
+1531019,Keyboard,received,None,wait
+1531030,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_31.wav'
+1531031,Stimulus,presented,1
+1533039,Keyboard,received,None,wait
+1534700,Keyboard,received,116,wait
+1534700,stdout,received,'1649 2351'
+1537053,Keyboard,received,None,wait
+1537064,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_14.wav'
+1537065,Stimulus,presented,1
+1539075,Keyboard,received,None,wait
+1540717,Keyboard,received,116,wait
+1540717,stdout,received,'1630 4370'
+1542716,Keyboard,received,116,wait
+1542717,stdout,received,'1998 2372'
+1545090,Keyboard,received,None,wait
+1545091,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_14.wav'
+1545092,Stimulus,presented,1
+1546560,Keyboard,received,121,wait
+1548737,Keyboard,received,116,wait
+1548737,stdout,received,'1625 2375'
+1551116,Keyboard,received,None,wait
+1551127,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_1.wav'
+1551128,Stimulus,presented,1
+1553135,Keyboard,received,None,wait
+1554754,Keyboard,received,116,wait
+1554755,stdout,received,'1607 2393'
+1557149,Keyboard,received,None,wait
+1557161,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_31.wav'
+1557162,Stimulus,presented,1
+1559170,Keyboard,received,None,wait
+1560773,Keyboard,received,116,wait
+1560773,stdout,received,'1592 4408'
+1562773,Keyboard,received,116,wait
+1562773,stdout,received,'1999 2409'
+1565186,Keyboard,received,None,wait
+1565196,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_4.wav'
+1565197,Stimulus,presented,1
+1567205,Keyboard,received,None,wait
+1568791,Keyboard,received,116,wait
+1568791,stdout,received,'1575 2425'
+1571218,Keyboard,received,None,wait
+1571228,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_43.wav'
+1571228,Stimulus,presented,1
+1573236,Keyboard,received,None,wait
+1574809,Keyboard,received,116,wait
+1574809,stdout,received,'1562 2438'
+1577249,Keyboard,received,None,wait
+1577260,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_18.wav'
+1577261,Stimulus,presented,1
+1579270,Keyboard,received,None,wait
+1580829,Keyboard,received,116,wait
+1580830,stdout,received,'1547 4453'
+1582829,Keyboard,received,116,wait
+1582829,stdout,received,'1996 2457'
+1585290,Keyboard,received,None,wait
+1585292,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_43.wav'
+1585293,Stimulus,presented,1
+1587300,Keyboard,received,None,wait
+1588848,Keyboard,received,116,wait
+1588849,stdout,received,'1536 2464'
+1591315,Keyboard,received,None,wait
+1591325,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_37.wav'
+1591325,Stimulus,presented,1
+1593334,Keyboard,received,None,wait
+1594865,Keyboard,received,116,wait
+1594865,stdout,received,'1520 2480'
+1597348,Keyboard,received,None,wait
+1597357,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_38.wav'
+1597358,Stimulus,presented,1
+1599367,Keyboard,received,None,wait
+1600884,Keyboard,received,116,wait
+1600884,stdout,received,'1505 4495'
+1602885,Keyboard,received,116,wait
+1602886,stdout,received,'1999 2496'
+1605386,Keyboard,received,None,wait
+1605396,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_43.wav'
+1605396,Stimulus,presented,1
+1607405,Keyboard,received,None,wait
+1608902,Keyboard,received,116,wait
+1608903,stdout,received,'1486 2514'
+1611418,Keyboard,received,None,wait
+1611420,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_1.wav'
+1611421,Stimulus,presented,1
+1613428,Keyboard,received,None,wait
+1614920,Keyboard,received,116,wait
+1614920,stdout,received,'1481 2519'
+1617443,Keyboard,received,None,wait
+1617453,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_38.wav'
+1617453,Stimulus,presented,1
+1619461,Keyboard,received,None,wait
+1620939,Keyboard,received,116,wait
+1620939,stdout,received,'1466 4534'
+1622941,Keyboard,received,116,wait
+1622941,stdout,received,'1999 2535'
+1625478,Keyboard,received,None,wait
+1625487,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_6.wav'
+1625488,Stimulus,presented,1
+1627496,Keyboard,received,None,wait
+1628960,Keyboard,received,116,wait
+1628961,stdout,received,'1453 2547'
+1631511,Keyboard,received,None,wait
+1631512,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_6.wav'
+1631513,Stimulus,presented,1
+1633135,Keyboard,received,121,wait
+1634976,Keyboard,received,116,wait
+1634977,stdout,received,'1443 2557'
+1637536,Keyboard,received,None,wait
+1637546,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_37.wav'
+1637546,Stimulus,presented,1
+1639555,Keyboard,received,None,wait
+1640998,Keyboard,received,116,wait
+1640998,stdout,received,'1431 4569'
+1642996,Keyboard,received,116,wait
+1642997,stdout,received,'1996 2573'
+1645573,Keyboard,received,None,wait
+1645575,Stimulus,presented,208
+1645582,Stimulus,presented,1
+1647600,Keyboard,received,None,wait
+1649014,Keyboard,received,116,wait
+1649015,stdout,received,'1401 2599'
+1651617,Keyboard,received,None,wait
+1651626,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_2.wav'
+1651626,Stimulus,presented,1
+1653635,Keyboard,received,None,wait
+1655033,Keyboard,received,116,wait
+1655034,stdout,received,'1387 2613'
+1657649,Keyboard,received,None,wait
+1657659,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_33.wav'
+1657659,Stimulus,presented,1
+1659667,Keyboard,received,None,wait
+1661052,Keyboard,received,116,wait
+1661053,stdout,received,'1373 4627'
+1663051,Keyboard,received,116,wait
+1663052,stdout,received,'1996 2631'
+1665687,Keyboard,received,None,wait
+1665697,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_21.wav'
+1665697,Stimulus,presented,1
+1667706,Keyboard,received,None,wait
+1669071,Keyboard,received,116,wait
+1669071,stdout,received,'1353 2647'
+1671721,Keyboard,received,None,wait
+1671723,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_10.wav'
+1671724,Stimulus,presented,1
+1673733,Keyboard,received,None,wait
+1675088,Keyboard,received,116,wait
+1675088,stdout,received,'1344 2656'
+1677748,Keyboard,received,None,wait
+1677758,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_41.wav'
+1677758,Stimulus,presented,1
+1679767,Keyboard,received,None,wait
+1681108,Keyboard,received,116,wait
+1681109,stdout,received,'1329 4671'
+1683107,Keyboard,received,116,wait
+1683108,stdout,received,'1997 2674'
+1685785,Keyboard,received,None,wait
+1685794,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_28.wav'
+1685794,Stimulus,presented,1
+1687803,Keyboard,received,None,wait
+1689125,Keyboard,received,116,wait
+1689126,stdout,received,'1312 2688'
+1691817,Keyboard,received,None,wait
+1691827,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_45.wav'
+1691828,Stimulus,presented,1
+1693837,Keyboard,received,None,wait
+1695145,Keyboard,received,116,wait
+1695145,stdout,received,'1296 2704'
+1697852,Keyboard,received,None,wait
+1697863,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_30.wav'
+1697863,Stimulus,presented,1
+1699871,Keyboard,received,None,wait
+1701164,Keyboard,received,116,wait
+1701165,stdout,received,'1281 4719'
+1703164,Keyboard,received,116,wait
+1703164,stdout,received,'1998 2721'
+1705887,Keyboard,received,None,wait
+1705897,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_32.wav'
+1705897,Stimulus,presented,1
+1707906,Keyboard,received,None,wait
+1709182,Keyboard,received,116,wait
+1709182,stdout,received,'1264 2736'
+1711921,Keyboard,received,None,wait
+1711931,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_41.wav'
+1711932,Stimulus,presented,1
+1713940,Keyboard,received,None,wait
+1715200,Keyboard,received,116,wait
+1715201,stdout,received,'1249 2751'
+1717955,Keyboard,received,None,wait
+1717965,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_12.wav'
+1717965,Stimulus,presented,1
+1719975,Keyboard,received,None,wait
+1721218,Keyboard,received,116,wait
+1721219,stdout,received,'1232 4768'
+1723219,Keyboard,received,116,wait
+1723219,stdout,received,'1998 2770'
+1725991,Keyboard,received,None,wait
+1725995,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_44.wav'
+1725995,Stimulus,presented,1
+1728004,Keyboard,received,None,wait
+1729237,Keyboard,received,116,wait
+1729237,stdout,received,'1221 2779'
+1732020,Keyboard,received,None,wait
+1732029,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_21.wav'
+1732030,Stimulus,presented,1
+1734039,Keyboard,received,None,wait
+1735256,Keyboard,received,116,wait
+1735257,stdout,received,'1206 2794'
+1738055,Keyboard,received,None,wait
+1738058,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_31.wav'
+1738059,Stimulus,presented,1
+1740068,Keyboard,received,None,wait
+1741275,Keyboard,received,116,wait
+1741275,stdout,received,'1195 4805'
+1743275,Keyboard,received,116,wait
+1743276,stdout,received,'1998 2807'
+1746084,Keyboard,received,None,wait
+1746094,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_20.wav'
+1746094,Stimulus,presented,1
+1748103,Keyboard,received,None,wait
+1749293,Keyboard,received,116,wait
+1749294,stdout,received,'1178 2822'
+1752118,Keyboard,received,None,wait
+1752127,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_17.wav'
+1752128,Stimulus,presented,1
+1754136,Keyboard,received,None,wait
+1755310,Keyboard,received,116,wait
+1755311,stdout,received,'1164 2836'
+1758149,Keyboard,received,None,wait
+1758160,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_23.wav'
+1758160,Stimulus,presented,1
+1760169,Keyboard,received,None,wait
+1761331,Keyboard,received,116,wait
+1761331,stdout,received,'1151 4849'
+1763332,Keyboard,received,116,wait
+1763332,stdout,received,'1998 2851'
+1766185,Keyboard,received,None,wait
+1766189,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_9.wav'
+1766190,Stimulus,presented,1
+1768199,Keyboard,received,None,wait
+1769348,Keyboard,received,116,wait
+1769349,stdout,received,'1139 2861'
+1772212,Keyboard,received,None,wait
+1772224,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_21.wav'
+1772224,Stimulus,presented,1
+1774232,Keyboard,received,None,wait
+1775367,Keyboard,received,116,wait
+1775367,stdout,received,'1124 2876'
+1778246,Keyboard,received,None,wait
+1778246,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_21.wav'
+1778246,Stimulus,presented,1
+1779960,Keyboard,received,121,wait
+1781384,Keyboard,received,116,wait
+1781385,stdout,received,'1120 4880'
+1783386,Keyboard,received,116,wait
+1783386,stdout,received,'1999 2881'
+1786268,Keyboard,received,None,wait
+1786272,Stimulus,presented,229
+1786279,Stimulus,presented,1
+1788295,Keyboard,received,None,wait
+1789405,Keyboard,received,116,wait
+1789405,stdout,received,'1098 2902'
+1792310,Keyboard,received,None,wait
+1792311,Stimulus,presented,230
+1792318,Stimulus,presented,1
+1793726,Keyboard,received,121,wait
+1795422,Keyboard,received,116,wait
+1795422,stdout,received,'1067 2933'
+1798358,Keyboard,received,None,wait
+1798367,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_43.wav'
+1798368,Stimulus,presented,1
+1800375,Keyboard,received,None,wait
+1801443,Keyboard,received,116,wait
+1801444,stdout,received,'1056 4944'
+1803441,Keyboard,received,116,wait
+1803442,stdout,received,'1995 2949'
+1806393,Keyboard,received,None,wait
+1806404,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_nature_29.wav'
+1806405,Stimulus,presented,1
+1808414,Keyboard,received,None,wait
+1809460,Keyboard,received,116,wait
+1809460,stdout,received,'1034 2966'
+1812429,Keyboard,received,None,wait
+1812431,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_48.wav'
+1812432,Stimulus,presented,1
+1814440,Keyboard,received,None,wait
+1815479,Keyboard,received,116,wait
+1815479,stdout,received,'1027 2973'
+1818454,Keyboard,received,None,wait
+1818459,Stimulus,presented,234
+1818465,Stimulus,presented,1
+1820488,Keyboard,received,None,wait
+1821499,Keyboard,received,116,wait
+1821500,stdout,received,'999 5001'
+1823498,Keyboard,received,116,wait
+1823498,stdout,received,'1996 3005'
+1826505,Keyboard,received,None,wait
+1826514,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_26.wav'
+1826514,Stimulus,presented,1
+1828524,Keyboard,received,None,wait
+1829515,Keyboard,received,116,wait
+1829516,stdout,received,'981 3019'
+1832537,Keyboard,received,None,wait
+1832548,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_33.wav'
+1832548,Stimulus,presented,1
+1834556,Keyboard,received,None,wait
+1835535,Keyboard,received,116,wait
+1835536,stdout,received,'967 3033'
+1838571,Keyboard,received,None,wait
+1838582,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_18.wav'
+1838583,Stimulus,presented,1
+1840592,Keyboard,received,None,wait
+1841554,Keyboard,received,116,wait
+1841555,stdout,received,'951 5049'
+1843552,Keyboard,received,116,wait
+1843553,stdout,received,'1996 3053'
+1846608,Keyboard,received,None,wait
+1846611,Stimulus,presented,238
+1846617,Stimulus,presented,1
+1848645,Keyboard,received,None,wait
+1849573,Keyboard,received,116,wait
+1849574,stdout,received,'917 3083'
+1852660,Keyboard,received,None,wait
+1852663,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_25.wav'
+1852663,Stimulus,presented,1
+1854673,Keyboard,received,None,wait
+1855590,Keyboard,received,116,wait
+1855590,stdout,received,'906 3094'
+1858687,Keyboard,received,None,wait
+1858697,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_animal_26.wav'
+1858698,Stimulus,presented,1
+1860706,Keyboard,received,None,wait
+1861609,Keyboard,received,116,wait
+1861609,stdout,received,'892 5108'
+1863608,Keyboard,received,116,wait
+1863609,stdout,received,'1997 3111'
+1866722,Keyboard,received,None,wait
+1866732,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_19.wav'
+1866732,Stimulus,presented,1
+1868741,Keyboard,received,None,wait
+1869627,Keyboard,received,116,wait
+1869628,stdout,received,'875 3125'
+1872754,Keyboard,received,None,wait
+1872766,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_43.wav'
+1872766,Stimulus,presented,1
+1874775,Keyboard,received,None,wait
+1875646,Keyboard,received,116,wait
+1875646,stdout,received,'859 3141'
+1878790,Keyboard,received,None,wait
+1878799,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_3.wav'
+1878799,Stimulus,presented,1
+1880808,Keyboard,received,None,wait
+1881666,Keyboard,received,116,wait
+1881667,stdout,received,'847 5153'
+1883666,Keyboard,received,116,wait
+1883667,stdout,received,'1997 3156'
+1886826,Keyboard,received,None,wait
+1886835,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_voice_5.wav'
+1886836,Stimulus,presented,1
+1888845,Keyboard,received,None,wait
+1889684,Keyboard,received,116,wait
+1889684,stdout,received,'827 3173'
+1892858,Keyboard,received,None,wait
+1892870,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_40.wav'
+1892870,Stimulus,presented,1
+1894879,Keyboard,received,None,wait
+1895702,Keyboard,received,116,wait
+1895703,stdout,received,'812 3188'
+1898894,Keyboard,received,None,wait
+1898898,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_1.wav'
+1898899,Stimulus,presented,1
+1900907,Keyboard,received,None,wait
+1901720,Keyboard,received,116,wait
+1901721,stdout,received,'802 5198'
+1903721,Keyboard,received,116,wait
+1903721,stdout,received,'1997 3201'
+1906925,Keyboard,received,None,wait
+1906934,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_9.wav'
+1906935,Stimulus,presented,1
+1908942,Keyboard,received,None,wait
+1909740,Keyboard,received,116,wait
+1909740,stdout,received,'786 3214'
+1912958,Keyboard,received,None,wait
+1912970,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_tools_23.wav'
+1912970,Stimulus,presented,1
+1914979,Keyboard,received,None,wait
+1915758,Keyboard,received,116,wait
+1915758,stdout,received,'767 3233'
+1918994,Keyboard,received,None,wait
+1919005,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_speech_5.wav'
+1919006,Stimulus,presented,1
+1921015,Keyboard,received,None,wait
+1921776,Keyboard,received,116,wait
+1921776,stdout,received,'750 5250'
+1923776,Keyboard,received,116,wait
+1923777,stdout,received,'1997 3253'
+1927033,Keyboard,received,None,wait
+1927044,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set3\\s2_music_34.wav'
+1927044,Stimulus,presented,1
+1929053,Keyboard,received,None,wait
+1929795,Keyboard,received,116,wait
+1929795,stdout,received,'730 3270'
+1933068,Keyboard,received,None,wait
+1935068,Stimulus,presented,2
+1938766,Keyboard,received,32,wait
+1938767,Stimulus,presented,0
+2013619,Keyboard,received,b't',wait_char
+2013620,Stimulus,presented,1
+2015634,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_8.wav'
+2015634,Stimulus,presented,1
+2017642,Keyboard,received,None,wait
+2019637,Keyboard,received,116,wait
+2019638,stdout,received,'1984 2016'
+2021656,Keyboard,received,None,wait
+2021659,Stimulus,presented,252
+2021666,Stimulus,presented,1
+2023682,Keyboard,received,None,wait
+2025658,Keyboard,received,116,wait
+2025658,stdout,received,'1963 2037'
+2027699,Keyboard,received,None,wait
+2027705,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_36.wav'
+2027706,Stimulus,presented,1
+2029713,Keyboard,received,None,wait
+2031674,Keyboard,received,116,wait
+2031675,stdout,received,'1951 4049'
+2033676,Keyboard,received,116,wait
+2033676,stdout,received,'1998 2051'
+2035729,Keyboard,received,None,wait
+2035731,Stimulus,presented,254
+2035737,Stimulus,presented,1
+2037754,Keyboard,received,None,wait
+2039695,Keyboard,received,116,wait
+2039695,stdout,received,'1929 2071'
+2041768,Keyboard,received,None,wait
+2041778,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_31.wav'
+2041779,Stimulus,presented,1
+2043786,Keyboard,received,None,wait
+2045713,Keyboard,received,116,wait
+2045713,stdout,received,'1914 2086'
+2047803,Keyboard,received,None,wait
+2047813,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_9.wav'
+2047813,Stimulus,presented,1
+2049821,Keyboard,received,None,wait
+2051730,Keyboard,received,116,wait
+2051730,stdout,received,'1898 4102'
+2053731,Keyboard,received,116,wait
+2053732,stdout,received,'1999 2103'
+2055839,Keyboard,received,None,wait
+2055842,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_3.wav'
+2055843,Stimulus,presented,1
+2057852,Keyboard,received,None,wait
+2059749,Keyboard,received,116,wait
+2059749,stdout,received,'1885 2115'
+2061867,Keyboard,received,None,wait
+2061877,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_24.wav'
+2061877,Stimulus,presented,1
+2063887,Keyboard,received,None,wait
+2065768,Keyboard,received,116,wait
+2065768,stdout,received,'1869 2131'
+2067903,Keyboard,received,None,wait
+2067903,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_24.wav'
+2067904,Stimulus,presented,1
+2069588,Keyboard,received,121,wait
+2071784,Keyboard,received,116,wait
+2071785,stdout,received,'1862 4138'
+2073786,Keyboard,received,116,wait
+2073786,stdout,received,'1999 2139'
+2075928,Keyboard,received,None,wait
+2075938,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_29.wav'
+2075938,Stimulus,presented,1
+2077946,Keyboard,received,None,wait
+2079805,Keyboard,received,116,wait
+2079805,stdout,received,'1847 2153'
+2081961,Keyboard,received,None,wait
+2081971,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_10.wav'
+2081972,Stimulus,presented,1
+2083981,Keyboard,received,None,wait
+2085823,Keyboard,received,116,wait
+2085824,stdout,received,'1831 2169'
+2087995,Keyboard,received,None,wait
+2087998,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_48.wav'
+2087998,Stimulus,presented,1
+2090006,Keyboard,received,None,wait
+2091843,Keyboard,received,116,wait
+2091843,stdout,received,'1825 4175'
+2093841,Keyboard,received,116,wait
+2093841,stdout,received,'1996 2179'
+2096022,Keyboard,received,None,wait
+2096032,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_29.wav'
+2096032,Stimulus,presented,1
+2098041,Keyboard,received,None,wait
+2099861,Keyboard,received,116,wait
+2099861,stdout,received,'1808 2192'
+2102055,Keyboard,received,None,wait
+2102065,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_35.wav'
+2102065,Stimulus,presented,1
+2104074,Keyboard,received,None,wait
+2105877,Keyboard,received,116,wait
+2105877,stdout,received,'1792 2208'
+2108089,Keyboard,received,None,wait
+2108090,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_35.wav'
+2108090,Stimulus,presented,1
+2110082,Keyboard,received,121,wait
+2111899,Keyboard,received,116,wait
+2111899,stdout,received,'1789 4211'
+2113898,Keyboard,received,116,wait
+2113898,stdout,received,'1996 2215'
+2116116,Keyboard,received,None,wait
+2116120,Stimulus,presented,266
+2116127,Stimulus,presented,1
+2118145,Keyboard,received,None,wait
+2119916,Keyboard,received,116,wait
+2119917,stdout,received,'1760 2240'
+2122159,Keyboard,received,None,wait
+2122168,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_12.wav'
+2122168,Stimulus,presented,1
+2124177,Keyboard,received,None,wait
+2125934,Keyboard,received,116,wait
+2125934,stdout,received,'1746 2254'
+2128191,Keyboard,received,None,wait
+2128193,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_21.wav'
+2128193,Stimulus,presented,1
+2130203,Keyboard,received,None,wait
+2131952,Keyboard,received,116,wait
+2131953,stdout,received,'1739 4261'
+2133952,Keyboard,received,116,wait
+2133953,stdout,received,'1997 2264'
+2136220,Keyboard,received,None,wait
+2136229,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_15.wav'
+2136230,Stimulus,presented,1
+2138239,Keyboard,received,None,wait
+2139973,Keyboard,received,116,wait
+2139973,stdout,received,'1722 2278'
+2142252,Keyboard,received,None,wait
+2142264,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_33.wav'
+2142264,Stimulus,presented,1
+2144272,Keyboard,received,None,wait
+2145990,Keyboard,received,116,wait
+2145990,stdout,received,'1706 2294'
+2148288,Keyboard,received,None,wait
+2148289,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_8.wav'
+2148290,Stimulus,presented,1
+2150298,Keyboard,received,None,wait
+2152008,Keyboard,received,116,wait
+2152009,stdout,received,'1699 4301'
+2154009,Keyboard,received,116,wait
+2154010,stdout,received,'1999 2302'
+2156315,Keyboard,received,None,wait
+2156319,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_24.wav'
+2156320,Stimulus,presented,1
+2158328,Keyboard,received,None,wait
+2160028,Keyboard,received,116,wait
+2160029,stdout,received,'1689 2311'
+2162342,Keyboard,received,None,wait
+2162352,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_34.wav'
+2162352,Stimulus,presented,1
+2164361,Keyboard,received,None,wait
+2166046,Keyboard,received,116,wait
+2166047,stdout,received,'1674 2326'
+2168376,Keyboard,received,None,wait
+2168378,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_35.wav'
+2168379,Stimulus,presented,1
+2170388,Keyboard,received,None,wait
+2172065,Keyboard,received,116,wait
+2172066,stdout,received,'1666 4334'
+2174065,Keyboard,received,116,wait
+2174066,stdout,received,'1998 2336'
+2176404,Keyboard,received,None,wait
+2176408,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_33.wav'
+2176409,Stimulus,presented,1
+2178416,Keyboard,received,None,wait
+2180084,Keyboard,received,116,wait
+2180084,stdout,received,'1656 2344'
+2182431,Keyboard,received,None,wait
+2182433,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_39.wav'
+2182433,Stimulus,presented,1
+2184442,Keyboard,received,None,wait
+2186103,Keyboard,received,116,wait
+2186104,stdout,received,'1648 2352'
+2188458,Keyboard,received,None,wait
+2188469,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_18.wav'
+2188469,Stimulus,presented,1
+2190479,Keyboard,received,None,wait
+2192120,Keyboard,received,116,wait
+2192120,stdout,received,'1629 4371'
+2194121,Keyboard,received,116,wait
+2194122,stdout,received,'1999 2372'
+2196497,Keyboard,received,None,wait
+2196500,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_3.wav'
+2196500,Stimulus,presented,1
+2198509,Keyboard,received,None,wait
+2200139,Keyboard,received,116,wait
+2200139,stdout,received,'1619 2381'
+2202523,Keyboard,received,None,wait
+2202527,Stimulus,presented,279
+2202534,Stimulus,presented,1
+2204555,Keyboard,received,None,wait
+2206159,Keyboard,received,116,wait
+2206159,stdout,received,'1591 2409'
+2208571,Keyboard,received,None,wait
+2208580,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_8.wav'
+2208580,Stimulus,presented,1
+2210589,Keyboard,received,None,wait
+2212177,Keyboard,received,116,wait
+2212178,stdout,received,'1575 4425'
+2214177,Keyboard,received,116,wait
+2214177,stdout,received,'1997 2428'
+2216608,Keyboard,received,None,wait
+2216610,Stimulus,presented,281
+2216616,Stimulus,presented,1
+2218642,Keyboard,received,None,wait
+2220195,Keyboard,received,116,wait
+2220196,stdout,received,'1542 2458'
+2222657,Keyboard,received,None,wait
+2222666,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_20.wav'
+2222666,Stimulus,presented,1
+2224675,Keyboard,received,None,wait
+2226213,Keyboard,received,116,wait
+2226213,stdout,received,'1527 2473'
+2228687,Keyboard,received,None,wait
+2228689,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_24.wav'
+2228690,Stimulus,presented,1
+2230699,Keyboard,received,None,wait
+2232232,Keyboard,received,116,wait
+2232233,stdout,received,'1521 4479'
+2234232,Keyboard,received,116,wait
+2234233,stdout,received,'1998 2481'
+2236717,Keyboard,received,None,wait
+2236727,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_4.wav'
+2236727,Stimulus,presented,1
+2238734,Keyboard,received,None,wait
+2240250,Keyboard,received,116,wait
+2240251,stdout,received,'1505 2495'
+2242749,Keyboard,received,None,wait
+2242760,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_9.wav'
+2242761,Stimulus,presented,1
+2244769,Keyboard,received,None,wait
+2246270,Keyboard,received,116,wait
+2246270,stdout,received,'1489 2511'
+2248783,Keyboard,received,None,wait
+2248795,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_23.wav'
+2248796,Stimulus,presented,1
+2250803,Keyboard,received,None,wait
+2252288,Keyboard,received,116,wait
+2252289,stdout,received,'1474 4526'
+2254286,Keyboard,received,116,wait
+2254286,stdout,received,'1995 2531'
+2256819,Keyboard,received,None,wait
+2256830,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_39.wav'
+2256831,Stimulus,presented,1
+2258840,Keyboard,received,None,wait
+2260307,Keyboard,received,116,wait
+2260307,stdout,received,'1455 2545'
+2262856,Keyboard,received,None,wait
+2262859,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_27.wav'
+2262859,Stimulus,presented,1
+2264868,Keyboard,received,None,wait
+2266326,Keyboard,received,116,wait
+2266327,stdout,received,'1447 2553'
+2268882,Keyboard,received,None,wait
+2268892,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_28.wav'
+2268893,Stimulus,presented,1
+2270901,Keyboard,received,None,wait
+2272342,Keyboard,received,116,wait
+2272343,stdout,received,'1430 4570'
+2274344,Keyboard,received,116,wait
+2274344,stdout,received,'2000 2570'
+2276917,Keyboard,received,None,wait
+2276928,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_32.wav'
+2276929,Stimulus,presented,1
+2278937,Keyboard,received,None,wait
+2280362,Keyboard,received,116,wait
+2280362,stdout,received,'1413 2587'
+2282952,Keyboard,received,None,wait
+2282955,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_7.wav'
+2282955,Stimulus,presented,1
+2284965,Keyboard,received,None,wait
+2286381,Keyboard,received,116,wait
+2286382,stdout,received,'1405 2595'
+2288979,Keyboard,received,None,wait
+2288990,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_11.wav'
+2288990,Stimulus,presented,1
+2291000,Keyboard,received,None,wait
+2292398,Keyboard,received,116,wait
+2292398,stdout,received,'1387 4613'
+2294399,Keyboard,received,116,wait
+2294399,stdout,received,'1999 2614'
+2297015,Keyboard,received,None,wait
+2297019,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_8.wav'
+2297019,Stimulus,presented,1
+2299028,Keyboard,received,None,wait
+2300418,Keyboard,received,116,wait
+2300419,stdout,received,'1378 2622'
+2303043,Keyboard,received,None,wait
+2303054,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_18.wav'
+2303054,Stimulus,presented,1
+2305063,Keyboard,received,None,wait
+2306437,Keyboard,received,116,wait
+2306438,stdout,received,'1362 2638'
+2309078,Keyboard,received,None,wait
+2309089,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_37.wav'
+2309089,Stimulus,presented,1
+2311097,Keyboard,received,None,wait
+2312455,Keyboard,received,116,wait
+2312455,stdout,received,'1347 4653'
+2314453,Keyboard,received,116,wait
+2314453,stdout,received,'1997 2656'
+2317113,Keyboard,received,None,wait
+2317124,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_47.wav'
+2317125,Stimulus,presented,1
+2319134,Keyboard,received,None,wait
+2320473,Keyboard,received,116,wait
+2320473,stdout,received,'1328 2672'
+2323148,Keyboard,received,None,wait
+2323150,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_32.wav'
+2323151,Stimulus,presented,1
+2325160,Keyboard,received,None,wait
+2326491,Keyboard,received,116,wait
+2326491,stdout,received,'1320 2680'
+2329173,Keyboard,received,None,wait
+2329175,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_36.wav'
+2329175,Stimulus,presented,1
+2331183,Keyboard,received,None,wait
+2332510,Keyboard,received,116,wait
+2332511,stdout,received,'1314 4686'
+2334509,Keyboard,received,116,wait
+2334510,stdout,received,'1997 2689'
+2337201,Keyboard,received,None,wait
+2337204,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_39.wav'
+2337204,Stimulus,presented,1
+2339213,Keyboard,received,None,wait
+2340530,Keyboard,received,116,wait
+2340530,stdout,received,'1306 2694'
+2343228,Keyboard,received,None,wait
+2343229,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_39.wav'
+2343230,Stimulus,presented,1
+2344896,Keyboard,received,121,wait
+2346546,Keyboard,received,116,wait
+2346546,stdout,received,'1297 2703'
+2349252,Keyboard,received,None,wait
+2349263,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_13.wav'
+2349263,Stimulus,presented,1
+2351273,Keyboard,received,None,wait
+2352567,Keyboard,received,116,wait
+2352568,stdout,received,'1282 4718'
+2354567,Keyboard,received,116,wait
+2354567,stdout,received,'1997 2721'
+2357290,Keyboard,received,None,wait
+2357291,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_7.wav'
+2357292,Stimulus,presented,1
+2359301,Keyboard,received,None,wait
+2360585,Keyboard,received,116,wait
+2360585,stdout,received,'1271 2729'
+2363316,Keyboard,received,None,wait
+2363328,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_14.wav'
+2363329,Stimulus,presented,1
+2365337,Keyboard,received,None,wait
+2366603,Keyboard,received,116,wait
+2366604,stdout,received,'1255 2745'
+2369352,Keyboard,received,None,wait
+2369362,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_30.wav'
+2369362,Stimulus,presented,1
+2371371,Keyboard,received,None,wait
+2372623,Keyboard,received,116,wait
+2372624,stdout,received,'1240 4760'
+2374621,Keyboard,received,116,wait
+2374621,stdout,received,'1995 2765'
+2377389,Keyboard,received,None,wait
+2377390,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_30.wav'
+2377391,Stimulus,presented,1
+2379136,Keyboard,received,121,wait
+2380640,Keyboard,received,116,wait
+2380640,stdout,received,'1230 2770'
+2383411,Keyboard,received,None,wait
+2383421,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_48.wav'
+2383421,Stimulus,presented,1
+2385429,Keyboard,received,None,wait
+2386661,Keyboard,received,116,wait
+2386662,stdout,received,'1220 2780'
+2389444,Keyboard,received,None,wait
+2389455,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_41.wav'
+2389456,Stimulus,presented,1
+2391464,Keyboard,received,None,wait
+2392678,Keyboard,received,116,wait
+2392678,stdout,received,'1202 4798'
+2394679,Keyboard,received,116,wait
+2394679,stdout,received,'1999 2799'
+2397481,Keyboard,received,None,wait
+2397490,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_13.wav'
+2397491,Stimulus,presented,1
+2399500,Keyboard,received,None,wait
+2400697,Keyboard,received,116,wait
+2400697,stdout,received,'1184 2816'
+2403515,Keyboard,received,None,wait
+2403527,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_22.wav'
+2403527,Stimulus,presented,1
+2405537,Keyboard,received,None,wait
+2406715,Keyboard,received,116,wait
+2406716,stdout,received,'1166 2834'
+2409552,Keyboard,received,None,wait
+2409562,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_27.wav'
+2409563,Stimulus,presented,1
+2411571,Keyboard,received,None,wait
+2412734,Keyboard,received,116,wait
+2412734,stdout,received,'1151 4849'
+2414734,Keyboard,received,116,wait
+2414735,stdout,received,'1998 2851'
+2417588,Keyboard,received,None,wait
+2417599,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_12.wav'
+2417600,Stimulus,presented,1
+2419607,Keyboard,received,None,wait
+2420752,Keyboard,received,116,wait
+2420752,stdout,received,'1133 2867'
+2423622,Keyboard,received,None,wait
+2423624,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_12.wav'
+2423624,Stimulus,presented,1
+2425346,Keyboard,received,121,wait
+2426771,Keyboard,received,116,wait
+2426771,stdout,received,'1127 2873'
+2429648,Keyboard,received,None,wait
+2429657,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_19.wav'
+2429658,Stimulus,presented,1
+2431666,Keyboard,received,None,wait
+2432789,Keyboard,received,116,wait
+2432790,stdout,received,'1112 4888'
+2434788,Keyboard,received,116,wait
+2434789,stdout,received,'1996 2892'
+2437683,Keyboard,received,None,wait
+2437693,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_19.wav'
+2437693,Stimulus,presented,1
+2439701,Keyboard,received,None,wait
+2440806,Keyboard,received,116,wait
+2440807,stdout,received,'1095 2905'
+2443714,Keyboard,received,None,wait
+2443725,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_7.wav'
+2443726,Stimulus,presented,1
+2445733,Keyboard,received,None,wait
+2446826,Keyboard,received,116,wait
+2446826,stdout,received,'1082 2918'
+2449746,Keyboard,received,None,wait
+2449750,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_6.wav'
+2449751,Stimulus,presented,1
+2451761,Keyboard,received,None,wait
+2452845,Keyboard,received,116,wait
+2452846,stdout,received,'1072 4928'
+2454845,Keyboard,received,116,wait
+2454846,stdout,received,'1997 2931'
+2457779,Keyboard,received,None,wait
+2457783,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_music_23.wav'
+2457784,Stimulus,presented,1
+2459793,Keyboard,received,None,wait
+2460865,Keyboard,received,116,wait
+2460865,stdout,received,'1060 2940'
+2463809,Keyboard,received,None,wait
+2463818,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_23.wav'
+2463819,Stimulus,presented,1
+2465828,Keyboard,received,None,wait
+2466883,Keyboard,received,116,wait
+2466884,stdout,received,'1043 2957'
+2469843,Keyboard,received,None,wait
+2469846,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_34.wav'
+2469846,Stimulus,presented,1
+2471856,Keyboard,received,None,wait
+2472900,Keyboard,received,116,wait
+2472900,stdout,received,'1033 4967'
+2474900,Keyboard,received,116,wait
+2474900,stdout,received,'1998 2969'
+2477872,Keyboard,received,None,wait
+2477882,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_38.wav'
+2477882,Stimulus,presented,1
+2479891,Keyboard,received,None,wait
+2480919,Keyboard,received,116,wait
+2480919,stdout,received,'1016 2984'
+2483907,Keyboard,received,None,wait
+2483918,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_9.wav'
+2483919,Stimulus,presented,1
+2485927,Keyboard,received,None,wait
+2486939,Keyboard,received,116,wait
+2486939,stdout,received,'1000 3000'
+2489942,Keyboard,received,None,wait
+2489951,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_4.wav'
+2489952,Stimulus,presented,1
+2491961,Keyboard,received,None,wait
+2492957,Keyboard,received,116,wait
+2492957,stdout,received,'984 5016'
+2494955,Keyboard,received,116,wait
+2494955,stdout,received,'1996 3020'
+2497979,Keyboard,received,None,wait
+2497991,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_16.wav'
+2497991,Stimulus,presented,1
+2499999,Keyboard,received,None,wait
+2500975,Keyboard,received,116,wait
+2500976,stdout,received,'965 3035'
+2504013,Keyboard,received,None,wait
+2504024,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_tools_37.wav'
+2504025,Stimulus,presented,1
+2506033,Keyboard,received,None,wait
+2506994,Keyboard,received,116,wait
+2506994,stdout,received,'949 3051'
+2510048,Keyboard,received,None,wait
+2510059,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_22.wav'
+2510060,Stimulus,presented,1
+2512068,Keyboard,received,None,wait
+2513013,Keyboard,received,116,wait
+2513014,stdout,received,'934 5066'
+2515011,Keyboard,received,116,wait
+2515012,stdout,received,'1995 3071'
+2518084,Keyboard,received,None,wait
+2518094,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_16.wav'
+2518094,Stimulus,presented,1
+2520102,Keyboard,received,None,wait
+2521031,Keyboard,received,116,wait
+2521031,stdout,received,'917 3083'
+2524117,Keyboard,received,None,wait
+2524128,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_25.wav'
+2524129,Stimulus,presented,1
+2526137,Keyboard,received,None,wait
+2527050,Keyboard,received,116,wait
+2527051,stdout,received,'902 3098'
+2530152,Keyboard,received,None,wait
+2530161,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_animal_10.wav'
+2530161,Stimulus,presented,1
+2532171,Keyboard,received,None,wait
+2533069,Keyboard,received,116,wait
+2533070,stdout,received,'887 5113'
+2535067,Keyboard,received,116,wait
+2535067,stdout,received,'1996 3117'
+2538187,Keyboard,received,None,wait
+2538198,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_voice_15.wav'
+2538199,Stimulus,presented,1
+2540209,Keyboard,received,None,wait
+2541087,Keyboard,received,116,wait
+2541088,stdout,received,'867 3133'
+2544225,Keyboard,received,None,wait
+2544234,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_12.wav'
+2544235,Stimulus,presented,1
+2546243,Keyboard,received,None,wait
+2547106,Keyboard,received,116,wait
+2547106,stdout,received,'851 3149'
+2550258,Keyboard,received,None,wait
+2550269,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_nature_7.wav'
+2550269,Stimulus,presented,1
+2552277,Keyboard,received,None,wait
+2553124,Keyboard,received,116,wait
+2553125,stdout,received,'835 5165'
+2555124,Keyboard,received,116,wait
+2555125,stdout,received,'1997 3168'
+2558295,Keyboard,received,None,wait
+2558305,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set4\\s2_speech_2.wav'
+2558306,Stimulus,presented,1
+2560314,Keyboard,received,None,wait
+2561141,Keyboard,received,116,wait
+2561141,stdout,received,'816 3184'
+2564329,Keyboard,received,None,wait
+2566329,Stimulus,presented,2
+2582971,Keyboard,received,32,wait
+2582972,Stimulus,presented,0
+2655854,Keyboard,received,b't',wait_char
+2655854,Stimulus,presented,1
+2657860,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_20.wav'
+2657860,Stimulus,presented,1
+2659868,Keyboard,received,None,wait
+2661873,Keyboard,received,116,wait
+2661874,stdout,received,'1994 2006'
+2663882,Keyboard,received,None,wait
+2663884,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_14.wav'
+2663884,Stimulus,presented,1
+2665893,Keyboard,received,None,wait
+2667891,Keyboard,received,116,wait
+2667891,stdout,received,'1986 2014'
+2669907,Keyboard,received,None,wait
+2669908,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_14.wav'
+2669908,Stimulus,presented,1
+2671509,Keyboard,received,121,wait
+2673909,Keyboard,received,116,wait
+2673909,stdout,received,'1982 4018'
+2675909,Keyboard,received,116,wait
+2675909,stdout,received,'1998 2020'
+2677932,Keyboard,received,None,wait
+2677933,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_19.wav'
+2677933,Stimulus,presented,1
+2679941,Keyboard,received,None,wait
+2681928,Keyboard,received,116,wait
+2681929,stdout,received,'1975 2025'
+2683956,Keyboard,received,None,wait
+2683957,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_28.wav'
+2683958,Stimulus,presented,1
+2685967,Keyboard,received,None,wait
+2687947,Keyboard,received,116,wait
+2687947,stdout,received,'1968 2032'
+2689982,Keyboard,received,None,wait
+2689983,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_41.wav'
+2689983,Stimulus,presented,1
+2691991,Keyboard,received,None,wait
+2693966,Keyboard,received,116,wait
+2693966,stdout,received,'1963 4037'
+2695965,Keyboard,received,116,wait
+2695965,stdout,received,'1996 2041'
+2698008,Keyboard,received,None,wait
+2698009,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_2.wav'
+2698009,Stimulus,presented,1
+2700017,Keyboard,received,None,wait
+2701983,Keyboard,received,116,wait
+2701984,stdout,received,'1956 2044'
+2704031,Keyboard,received,None,wait
+2704032,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_11.wav'
+2704033,Stimulus,presented,1
+2706042,Keyboard,received,None,wait
+2708003,Keyboard,received,116,wait
+2708003,stdout,received,'1948 2052'
+2710059,Keyboard,received,None,wait
+2710061,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_40.wav'
+2710062,Stimulus,presented,1
+2712071,Keyboard,received,None,wait
+2714021,Keyboard,received,116,wait
+2714022,stdout,received,'1938 4062'
+2716021,Keyboard,received,116,wait
+2716022,stdout,received,'1997 2065'
+2718089,Keyboard,received,None,wait
+2718091,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_14.wav'
+2718091,Stimulus,presented,1
+2720101,Keyboard,received,None,wait
+2722039,Keyboard,received,116,wait
+2722040,stdout,received,'1927 2073'
+2724115,Keyboard,received,None,wait
+2724116,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_41.wav'
+2724117,Stimulus,presented,1
+2726125,Keyboard,received,None,wait
+2728059,Keyboard,received,116,wait
+2728059,stdout,received,'1922 2078'
+2730140,Keyboard,received,None,wait
+2730141,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_36.wav'
+2730142,Stimulus,presented,1
+2732149,Keyboard,received,None,wait
+2734076,Keyboard,received,116,wait
+2734076,stdout,received,'1915 4085'
+2736076,Keyboard,received,116,wait
+2736076,stdout,received,'1999 2086'
+2738166,Keyboard,received,None,wait
+2738167,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_18.wav'
+2738167,Stimulus,presented,1
+2740175,Keyboard,received,None,wait
+2742093,Keyboard,received,116,wait
+2742094,stdout,received,'1908 2092'
+2744189,Keyboard,received,None,wait
+2744194,Stimulus,presented,346
+2744201,Stimulus,presented,1
+2746220,Keyboard,received,None,wait
+2748112,Keyboard,received,116,wait
+2748113,stdout,received,'1882 2118'
+2750234,Keyboard,received,None,wait
+2750237,Stimulus,presented,347
+2750244,Stimulus,presented,1
+2752274,Keyboard,received,None,wait
+2754133,Keyboard,received,116,wait
+2754133,stdout,received,'1847 4153'
+2756133,Keyboard,received,116,wait
+2756133,stdout,received,'1997 2156'
+2758293,Keyboard,received,None,wait
+2758295,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_35.wav'
+2758295,Stimulus,presented,1
+2760305,Keyboard,received,None,wait
+2762151,Keyboard,received,116,wait
+2762152,stdout,received,'1835 2165'
+2764320,Keyboard,received,None,wait
+2764321,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_35.wav'
+2764321,Stimulus,presented,1
+2766331,Keyboard,received,None,wait
+2768169,Keyboard,received,116,wait
+2768169,stdout,received,'1827 2173'
+2770346,Keyboard,received,None,wait
+2770347,Stimulus,presented,350
+2770354,Stimulus,presented,1
+2772377,Keyboard,received,None,wait
+2774186,Keyboard,received,116,wait
+2774187,stdout,received,'1799 4201'
+2776188,Keyboard,received,116,wait
+2776189,stdout,received,'1999 2202'
+2778393,Keyboard,received,None,wait
+2778394,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_17.wav'
+2778394,Stimulus,presented,1
+2780401,Keyboard,received,None,wait
+2782207,Keyboard,received,116,wait
+2782207,stdout,received,'1793 2207'
+2784416,Keyboard,received,None,wait
+2784417,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_3.wav'
+2784417,Stimulus,presented,1
+2786426,Keyboard,received,None,wait
+2788225,Keyboard,received,116,wait
+2788225,stdout,received,'1787 2213'
+2790441,Keyboard,received,None,wait
+2790442,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_23.wav'
+2790442,Stimulus,presented,1
+2792451,Keyboard,received,None,wait
+2794245,Keyboard,received,116,wait
+2794246,stdout,received,'1782 4218'
+2796244,Keyboard,received,116,wait
+2796245,stdout,received,'1997 2221'
+2798469,Keyboard,received,None,wait
+2798470,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_36.wav'
+2798471,Stimulus,presented,1
+2800480,Keyboard,received,None,wait
+2802262,Keyboard,received,116,wait
+2802263,stdout,received,'1771 2229'
+2804494,Keyboard,received,None,wait
+2804495,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_43.wav'
+2804495,Stimulus,presented,1
+2806504,Keyboard,received,None,wait
+2808282,Keyboard,received,116,wait
+2808282,stdout,received,'1766 2234'
+2810518,Keyboard,received,None,wait
+2810520,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_21.wav'
+2810520,Stimulus,presented,1
+2812529,Keyboard,received,None,wait
+2814300,Keyboard,received,116,wait
+2814300,stdout,received,'1759 4241'
+2816299,Keyboard,received,116,wait
+2816300,stdout,received,'1997 2244'
+2818547,Keyboard,received,None,wait
+2818549,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_34.wav'
+2818550,Stimulus,presented,1
+2820558,Keyboard,received,None,wait
+2822319,Keyboard,received,116,wait
+2822320,stdout,received,'1749 2251'
+2824573,Keyboard,received,None,wait
+2824575,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_28.wav'
+2824576,Stimulus,presented,1
+2826584,Keyboard,received,None,wait
+2828336,Keyboard,received,116,wait
+2828336,stdout,received,'1741 2259'
+2830597,Keyboard,received,None,wait
+2830599,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_28.wav'
+2830600,Stimulus,presented,1
+2832381,Keyboard,received,121,wait
+2834355,Keyboard,received,116,wait
+2834356,stdout,received,'1736 4264'
+2836355,Keyboard,received,116,wait
+2836356,stdout,received,'1998 2266'
+2838626,Keyboard,received,None,wait
+2838627,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_44.wav'
+2838628,Stimulus,presented,1
+2840638,Keyboard,received,None,wait
+2842374,Keyboard,received,116,wait
+2842375,stdout,received,'1725 2275'
+2844653,Keyboard,received,None,wait
+2844656,Stimulus,presented,361
+2844663,Stimulus,presented,1
+2846685,Keyboard,received,None,wait
+2848392,Keyboard,received,116,wait
+2848393,stdout,received,'1697 2303'
+2850699,Keyboard,received,None,wait
+2850700,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_2.wav'
+2850701,Stimulus,presented,1
+2852709,Keyboard,received,None,wait
+2854410,Keyboard,received,116,wait
+2854410,stdout,received,'1690 4310'
+2856409,Keyboard,received,116,wait
+2856410,stdout,received,'1998 2312'
+2858724,Keyboard,received,None,wait
+2858725,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_40.wav'
+2858726,Stimulus,presented,1
+2860735,Keyboard,received,None,wait
+2862429,Keyboard,received,116,wait
+2862429,stdout,received,'1683 2317'
+2864749,Keyboard,received,None,wait
+2864751,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_44.wav'
+2864752,Stimulus,presented,1
+2866760,Keyboard,received,None,wait
+2868448,Keyboard,received,116,wait
+2868448,stdout,received,'1676 2324'
+2870775,Keyboard,received,None,wait
+2870776,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_5.wav'
+2870777,Stimulus,presented,1
+2872786,Keyboard,received,None,wait
+2874465,Keyboard,received,116,wait
+2874465,stdout,received,'1667 4333'
+2876467,Keyboard,received,116,wait
+2876468,stdout,received,'2000 2333'
+2878803,Keyboard,received,None,wait
+2878805,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_32.wav'
+2878806,Stimulus,presented,1
+2880814,Keyboard,received,None,wait
+2882486,Keyboard,received,116,wait
+2882487,stdout,received,'1661 2339'
+2884828,Keyboard,received,None,wait
+2884829,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_22.wav'
+2884830,Stimulus,presented,1
+2886839,Keyboard,received,None,wait
+2888504,Keyboard,received,116,wait
+2888504,stdout,received,'1653 2347'
+2890854,Keyboard,received,None,wait
+2890856,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_12.wav'
+2890857,Stimulus,presented,1
+2892865,Keyboard,received,None,wait
+2894523,Keyboard,received,116,wait
+2894523,stdout,received,'1645 4355'
+2896523,Keyboard,received,116,wait
+2896524,stdout,received,'1998 2357'
+2898883,Keyboard,received,None,wait
+2898885,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_34.wav'
+2898886,Stimulus,presented,1
+2900895,Keyboard,received,None,wait
+2902541,Keyboard,received,116,wait
+2902542,stdout,received,'1635 2365'
+2904909,Keyboard,received,None,wait
+2904910,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_20.wav'
+2904911,Stimulus,presented,1
+2906918,Keyboard,received,None,wait
+2908559,Keyboard,received,116,wait
+2908559,stdout,received,'1630 2370'
+2910932,Keyboard,received,None,wait
+2910933,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_18.wav'
+2910933,Stimulus,presented,1
+2912940,Keyboard,received,None,wait
+2914578,Keyboard,received,116,wait
+2914578,stdout,received,'1627 4373'
+2916577,Keyboard,received,116,wait
+2916578,stdout,received,'1998 2375'
+2918955,Keyboard,received,None,wait
+2918957,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_24.wav'
+2918958,Stimulus,presented,1
+2920967,Keyboard,received,None,wait
+2922596,Keyboard,received,116,wait
+2922597,stdout,received,'1618 2382'
+2924982,Keyboard,received,None,wait
+2924983,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_5.wav'
+2924983,Stimulus,presented,1
+2926991,Keyboard,received,None,wait
+2928615,Keyboard,received,116,wait
+2928616,stdout,received,'1613 2387'
+2931005,Keyboard,received,None,wait
+2931007,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_28.wav'
+2931008,Stimulus,presented,1
+2933017,Keyboard,received,None,wait
+2934634,Keyboard,received,116,wait
+2934635,stdout,received,'1605 4395'
+2936634,Keyboard,received,116,wait
+2936634,stdout,received,'1996 2399'
+2939035,Keyboard,received,None,wait
+2939036,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_48.wav'
+2939037,Stimulus,presented,1
+2941044,Keyboard,received,None,wait
+2942653,Keyboard,received,116,wait
+2942654,stdout,received,'1597 2403'
+2945059,Keyboard,received,None,wait
+2945061,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_44.wav'
+2945061,Stimulus,presented,1
+2947069,Keyboard,received,None,wait
+2948671,Keyboard,received,116,wait
+2948672,stdout,received,'1589 2411'
+2951085,Keyboard,received,None,wait
+2951086,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_44.wav'
+2951086,Stimulus,presented,1
+2952811,Keyboard,received,121,wait
+2954690,Keyboard,received,116,wait
+2954691,stdout,received,'1583 4417'
+2956689,Keyboard,received,116,wait
+2956690,stdout,received,'1996 2421'
+2959113,Keyboard,received,None,wait
+2959115,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_38.wav'
+2959115,Stimulus,presented,1
+2961123,Keyboard,received,None,wait
+2962709,Keyboard,received,116,wait
+2962710,stdout,received,'1575 2425'
+2965138,Keyboard,received,None,wait
+2965140,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_4.wav'
+2965140,Stimulus,presented,1
+2967150,Keyboard,received,None,wait
+2968726,Keyboard,received,116,wait
+2968727,stdout,received,'1565 2435'
+2971165,Keyboard,received,None,wait
+2971167,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_29.wav'
+2971168,Stimulus,presented,1
+2973176,Keyboard,received,None,wait
+2974746,Keyboard,received,116,wait
+2974746,stdout,received,'1558 4442'
+2976745,Keyboard,received,116,wait
+2976746,stdout,received,'1997 2445'
+2979194,Keyboard,received,None,wait
+2979195,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_15.wav'
+2979195,Stimulus,presented,1
+2981204,Keyboard,received,None,wait
+2982763,Keyboard,received,116,wait
+2982763,stdout,received,'1546 2454'
+2985219,Keyboard,received,None,wait
+2985220,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_38.wav'
+2985221,Stimulus,presented,1
+2987229,Keyboard,received,None,wait
+2988782,Keyboard,received,116,wait
+2988783,stdout,received,'1542 2458'
+2991242,Keyboard,received,None,wait
+2991244,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_5.wav'
+2991245,Stimulus,presented,1
+2993254,Keyboard,received,None,wait
+2994799,Keyboard,received,116,wait
+2994799,stdout,received,'1534 4466'
+2996800,Keyboard,received,116,wait
+2996800,stdout,received,'1999 2467'
+2999271,Keyboard,received,None,wait
+2999272,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_16.wav'
+2999273,Stimulus,presented,1
+3001281,Keyboard,received,None,wait
+3002819,Keyboard,received,116,wait
+3002820,stdout,received,'1526 2474'
+3005297,Keyboard,received,None,wait
+3005298,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_25.wav'
+3005299,Stimulus,presented,1
+3007308,Keyboard,received,None,wait
+3008838,Keyboard,received,116,wait
+3008838,stdout,received,'1518 2482'
+3011323,Keyboard,received,None,wait
+3011324,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_1.wav'
+3011325,Stimulus,presented,1
+3013335,Keyboard,received,None,wait
+3014857,Keyboard,received,116,wait
+3014858,stdout,received,'1511 4489'
+3016856,Keyboard,received,116,wait
+3016856,stdout,received,'1997 2492'
+3019351,Keyboard,received,None,wait
+3019352,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_42.wav'
+3019353,Stimulus,presented,1
+3021361,Keyboard,received,None,wait
+3022874,Keyboard,received,116,wait
+3022875,stdout,received,'1502 2498'
+3025376,Keyboard,received,None,wait
+3025377,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_45.wav'
+3025378,Stimulus,presented,1
+3027385,Keyboard,received,None,wait
+3028894,Keyboard,received,116,wait
+3028894,stdout,received,'1497 2503'
+3031400,Keyboard,received,None,wait
+3031401,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_11.wav'
+3031402,Stimulus,presented,1
+3033410,Keyboard,received,None,wait
+3034913,Keyboard,received,116,wait
+3034913,stdout,received,'1491 4509'
+3036914,Keyboard,received,116,wait
+3036914,stdout,received,'1998 2511'
+3039428,Keyboard,received,None,wait
+3039429,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_46.wav'
+3039429,Stimulus,presented,1
+3041437,Keyboard,received,None,wait
+3042931,Keyboard,received,116,wait
+3042932,stdout,received,'1482 2518'
+3045453,Keyboard,received,None,wait
+3045454,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_40.wav'
+3045455,Stimulus,presented,1
+3047464,Keyboard,received,None,wait
+3048950,Keyboard,received,116,wait
+3048951,stdout,received,'1474 2526'
+3051480,Keyboard,received,None,wait
+3051481,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_32.wav'
+3051482,Stimulus,presented,1
+3053490,Keyboard,received,None,wait
+3054968,Keyboard,received,116,wait
+3054968,stdout,received,'1466 4534'
+3056968,Keyboard,received,116,wait
+3056968,stdout,received,'1997 2537'
+3059508,Keyboard,received,None,wait
+3059510,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_39.wav'
+3059511,Stimulus,presented,1
+3061519,Keyboard,received,None,wait
+3062985,Keyboard,received,116,wait
+3062986,stdout,received,'1455 2545'
+3065533,Keyboard,received,None,wait
+3065534,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_42.wav'
+3065534,Stimulus,presented,1
+3067543,Keyboard,received,None,wait
+3069005,Keyboard,received,116,wait
+3069005,stdout,received,'1449 2551'
+3071560,Keyboard,received,None,wait
+3071561,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_45.wav'
+3071562,Stimulus,presented,1
+3073570,Keyboard,received,None,wait
+3075023,Keyboard,received,116,wait
+3075023,stdout,received,'1442 4558'
+3077024,Keyboard,received,116,wait
+3077024,stdout,received,'1999 2559'
+3079585,Keyboard,received,None,wait
+3079587,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_42.wav'
+3079587,Stimulus,presented,1
+3081596,Keyboard,received,None,wait
+3083043,Keyboard,received,116,wait
+3083043,stdout,received,'1435 2565'
+3085611,Keyboard,received,None,wait
+3085613,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_42.wav'
+3085613,Stimulus,presented,1
+3087375,Keyboard,received,121,wait
+3089061,Keyboard,received,116,wait
+3089061,stdout,received,'1429 2571'
+3091634,Keyboard,received,None,wait
+3091635,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_27.wav'
+3091636,Stimulus,presented,1
+3093643,Keyboard,received,None,wait
+3095081,Keyboard,received,116,wait
+3095081,stdout,received,'1426 4574'
+3097080,Keyboard,received,116,wait
+3097080,stdout,received,'1997 2577'
+3099659,Keyboard,received,None,wait
+3099661,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_27.wav'
+3099662,Stimulus,presented,1
+3101231,Keyboard,received,121,wait
+3103098,Keyboard,received,116,wait
+3103099,stdout,received,'1417 2583'
+3105684,Keyboard,received,None,wait
+3105684,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_6.wav'
+3105685,Stimulus,presented,1
+3107693,Keyboard,received,None,wait
+3109118,Keyboard,received,116,wait
+3109118,stdout,received,'1413 2587'
+3111709,Keyboard,received,None,wait
+3111710,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_35.wav'
+3111711,Stimulus,presented,1
+3113720,Keyboard,received,None,wait
+3115134,Keyboard,received,116,wait
+3115135,stdout,received,'1404 4596'
+3117134,Keyboard,received,116,wait
+3117135,stdout,received,'1998 2598'
+3119736,Keyboard,received,None,wait
+3119737,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_48.wav'
+3119737,Stimulus,presented,1
+3121746,Keyboard,received,None,wait
+3123155,Keyboard,received,116,wait
+3123155,stdout,received,'1397 2603'
+3125760,Keyboard,received,None,wait
+3125764,Stimulus,presented,403
+3125771,Stimulus,presented,1
+3127788,Keyboard,received,None,wait
+3129174,Keyboard,received,116,wait
+3129174,stdout,received,'1373 2627'
+3131804,Keyboard,received,None,wait
+3131805,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_31.wav'
+3131806,Stimulus,presented,1
+3133815,Keyboard,received,None,wait
+3135190,Keyboard,received,116,wait
+3135190,stdout,received,'1364 4636'
+3137191,Keyboard,received,116,wait
+3137191,stdout,received,'1998 2638'
+3139832,Keyboard,received,None,wait
+3139833,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_24.wav'
+3139834,Stimulus,presented,1
+3141842,Keyboard,received,None,wait
+3143210,Keyboard,received,116,wait
+3143211,stdout,received,'1357 2643'
+3145856,Keyboard,received,None,wait
+3145857,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_tools_45.wav'
+3145858,Stimulus,presented,1
+3147868,Keyboard,received,None,wait
+3149228,Keyboard,received,116,wait
+3149229,stdout,received,'1348 2652'
+3151884,Keyboard,received,None,wait
+3151886,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_nature_10.wav'
+3151886,Stimulus,presented,1
+3153895,Keyboard,received,None,wait
+3155247,Keyboard,received,116,wait
+3155248,stdout,received,'1341 4659'
+3157248,Keyboard,received,116,wait
+3157248,stdout,received,'1998 2661'
+3159910,Keyboard,received,None,wait
+3159912,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_4.wav'
+3159912,Stimulus,presented,1
+3161920,Keyboard,received,None,wait
+3163266,Keyboard,received,116,wait
+3163267,stdout,received,'1333 2667'
+3165935,Keyboard,received,None,wait
+3165936,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_animal_3.wav'
+3165936,Stimulus,presented,1
+3167945,Keyboard,received,None,wait
+3169285,Keyboard,received,116,wait
+3169285,stdout,received,'1329 2671'
+3171959,Keyboard,received,None,wait
+3171961,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_music_13.wav'
+3171961,Stimulus,presented,1
+3173970,Keyboard,received,None,wait
+3175301,Keyboard,received,116,wait
+3175301,stdout,received,'1320 4680'
+3177302,Keyboard,received,116,wait
+3177303,stdout,received,'1999 2681'
+3179987,Keyboard,received,None,wait
+3179988,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_44.wav'
+3179988,Stimulus,presented,1
+3181998,Keyboard,received,None,wait
+3183320,Keyboard,received,116,wait
+3183320,stdout,received,'1311 2689'
+3186012,Keyboard,received,None,wait
+3186013,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_7.wav'
+3186014,Stimulus,presented,1
+3188021,Keyboard,received,None,wait
+3189340,Keyboard,received,116,wait
+3189341,stdout,received,'1309 2691'
+3192034,Keyboard,received,None,wait
+3192036,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_voice_22.wav'
+3192036,Stimulus,presented,1
+3194045,Keyboard,received,None,wait
+3195359,Keyboard,received,116,wait
+3195360,stdout,received,'1302 4698'
+3197359,Keyboard,received,116,wait
+3197360,stdout,received,'1997 2701'
+3200062,Keyboard,received,None,wait
+3200064,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set1\\s2_speech_30.wav'
+3200065,Stimulus,presented,1
+3202073,Keyboard,received,None,wait
+3203377,Keyboard,received,116,wait
+3203379,stdout,received,'1292 2708'
+3206089,Keyboard,received,None,wait
+3208089,Stimulus,presented,2
+3216065,Keyboard,received,32,wait
+3216066,Stimulus,presented,0
+3282629,Keyboard,received,b't',wait_char
+3282630,Stimulus,presented,1
+3284636,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_26.wav'
+3284636,Stimulus,presented,1
+3286645,Keyboard,received,None,wait
+3288647,Keyboard,received,116,wait
+3288648,stdout,received,'1991 2009'
+3290659,Keyboard,received,None,wait
+3290661,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_46.wav'
+3290661,Stimulus,presented,1
+3292669,Keyboard,received,None,wait
+3294665,Keyboard,received,116,wait
+3294666,stdout,received,'1985 2015'
+3296684,Keyboard,received,None,wait
+3296686,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_40.wav'
+3296686,Stimulus,presented,1
+3298696,Keyboard,received,None,wait
+3300682,Keyboard,received,116,wait
+3300683,stdout,received,'1975 4025'
+3302684,Keyboard,received,116,wait
+3302684,stdout,received,'1999 2026'
+3304712,Keyboard,received,None,wait
+3304714,Stimulus,presented,418
+3304721,Stimulus,presented,1
+3306740,Keyboard,received,None,wait
+3308703,Keyboard,received,116,wait
+3308704,stdout,received,'1952 2048'
+3310756,Keyboard,received,None,wait
+3310757,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_15.wav'
+3310758,Stimulus,presented,1
+3312767,Keyboard,received,None,wait
+3314720,Keyboard,received,116,wait
+3314721,stdout,received,'1942 2058'
+3316782,Keyboard,received,None,wait
+3316783,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_27.wav'
+3316783,Stimulus,presented,1
+3318792,Keyboard,received,None,wait
+3320740,Keyboard,received,116,wait
+3320740,stdout,received,'1936 4064'
+3322740,Keyboard,received,116,wait
+3322740,stdout,received,'1997 2067'
+3324810,Keyboard,received,None,wait
+3324811,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_11.wav'
+3324812,Stimulus,presented,1
+3326820,Keyboard,received,None,wait
+3328759,Keyboard,received,116,wait
+3328759,stdout,received,'1927 2073'
+3330835,Keyboard,received,None,wait
+3330836,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_25.wav'
+3330836,Stimulus,presented,1
+3332845,Keyboard,received,None,wait
+3334777,Keyboard,received,116,wait
+3334777,stdout,received,'1920 2080'
+3336860,Keyboard,received,None,wait
+3336861,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_15.wav'
+3336862,Stimulus,presented,1
+3338870,Keyboard,received,None,wait
+3340797,Keyboard,received,116,wait
+3340797,stdout,received,'1915 4085'
+3342797,Keyboard,received,116,wait
+3342797,stdout,received,'1998 2087'
+3344888,Keyboard,received,None,wait
+3344890,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_26.wav'
+3344890,Stimulus,presented,1
+3346898,Keyboard,received,None,wait
+3348814,Keyboard,received,116,wait
+3348814,stdout,received,'1903 2097'
+3350914,Keyboard,received,None,wait
+3350915,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_17.wav'
+3350916,Stimulus,presented,1
+3352925,Keyboard,received,None,wait
+3354833,Keyboard,received,116,wait
+3354833,stdout,received,'1897 2103'
+3356938,Keyboard,received,None,wait
+3356938,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_8.wav'
+3356939,Stimulus,presented,1
+3358947,Keyboard,received,None,wait
+3360850,Keyboard,received,116,wait
+3360851,stdout,received,'1892 4108'
+3362851,Keyboard,received,116,wait
+3362852,stdout,received,'1998 2110'
+3364964,Keyboard,received,None,wait
+3364966,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_47.wav'
+3364966,Stimulus,presented,1
+3366976,Keyboard,received,None,wait
+3368869,Keyboard,received,116,wait
+3368869,stdout,received,'1882 2118'
+3370990,Keyboard,received,None,wait
+3370991,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_47.wav'
+3370992,Stimulus,presented,1
+3372659,Keyboard,received,121,wait
+3374887,Keyboard,received,116,wait
+3374888,stdout,received,'1877 2123'
+3377013,Keyboard,received,None,wait
+3377015,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_33.wav'
+3377015,Stimulus,presented,1
+3379025,Keyboard,received,None,wait
+3380907,Keyboard,received,116,wait
+3380908,stdout,received,'1871 4129'
+3382906,Keyboard,received,116,wait
+3382907,stdout,received,'1996 2133'
+3385042,Keyboard,received,None,wait
+3385046,Stimulus,presented,430
+3385053,Stimulus,presented,1
+3387082,Keyboard,received,None,wait
+3388926,Keyboard,received,116,wait
+3388927,stdout,received,'1831 2169'
+3391098,Keyboard,received,None,wait
+3391099,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_42.wav'
+3391100,Stimulus,presented,1
+3393108,Keyboard,received,None,wait
+3394943,Keyboard,received,116,wait
+3394944,stdout,received,'1824 2176'
+3397123,Keyboard,received,None,wait
+3397123,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_28.wav'
+3397124,Stimulus,presented,1
+3399133,Keyboard,received,None,wait
+3400963,Keyboard,received,116,wait
+3400963,stdout,received,'1818 4182'
+3402963,Keyboard,received,116,wait
+3402964,stdout,received,'1998 2184'
+3405151,Keyboard,received,None,wait
+3405152,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_28.wav'
+3405153,Stimulus,presented,1
+3406857,Keyboard,received,121,wait
+3408981,Keyboard,received,116,wait
+3408981,stdout,received,'1808 2192'
+3411175,Keyboard,received,None,wait
+3411177,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_16.wav'
+3411177,Stimulus,presented,1
+3413186,Keyboard,received,None,wait
+3415001,Keyboard,received,116,wait
+3415001,stdout,received,'1803 2197'
+3417201,Keyboard,received,None,wait
+3417203,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_7.wav'
+3417204,Stimulus,presented,1
+3419211,Keyboard,received,None,wait
+3421016,Keyboard,received,116,wait
+3421017,stdout,received,'1795 4205'
+3423017,Keyboard,received,116,wait
+3423017,stdout,received,'1998 2207'
+3425228,Keyboard,received,None,wait
+3425231,Stimulus,presented,436
+3425237,Stimulus,presented,1
+3427262,Keyboard,received,None,wait
+3429037,Keyboard,received,116,wait
+3429038,stdout,received,'1763 2237'
+3431276,Keyboard,received,None,wait
+3431278,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_35.wav'
+3431278,Stimulus,presented,1
+3433287,Keyboard,received,None,wait
+3435054,Keyboard,received,116,wait
+3435055,stdout,received,'1756 2244'
+3437301,Keyboard,received,None,wait
+3437302,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_6.wav'
+3437302,Stimulus,presented,1
+3439311,Keyboard,received,None,wait
+3441074,Keyboard,received,116,wait
+3441075,stdout,received,'1751 4249'
+3443072,Keyboard,received,116,wait
+3443073,stdout,received,'1997 2252'
+3445328,Keyboard,received,None,wait
+3445332,Stimulus,presented,439
+3445339,Stimulus,presented,1
+3447368,Keyboard,received,None,wait
+3449093,Keyboard,received,116,wait
+3449094,stdout,received,'1714 2286'
+3451382,Keyboard,received,None,wait
+3451383,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_25.wav'
+3451383,Stimulus,presented,1
+3453391,Keyboard,received,None,wait
+3455112,Keyboard,received,116,wait
+3455112,stdout,received,'1709 2291'
+3457406,Keyboard,received,None,wait
+3457407,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_29.wav'
+3457407,Stimulus,presented,1
+3459416,Keyboard,received,None,wait
+3461130,Keyboard,received,116,wait
+3461130,stdout,received,'1702 4298'
+3463129,Keyboard,received,116,wait
+3463129,stdout,received,'1997 2301'
+3465434,Keyboard,received,None,wait
+3465434,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_17.wav'
+3465435,Stimulus,presented,1
+3467443,Keyboard,received,None,wait
+3469148,Keyboard,received,116,wait
+3469148,stdout,received,'1693 2307'
+3471458,Keyboard,received,None,wait
+3471460,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_5.wav'
+3471460,Stimulus,presented,1
+3473469,Keyboard,received,None,wait
+3475168,Keyboard,received,116,wait
+3475169,stdout,received,'1687 2313'
+3477484,Keyboard,received,None,wait
+3477485,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_9.wav'
+3477485,Stimulus,presented,1
+3479494,Keyboard,received,None,wait
+3481183,Keyboard,received,116,wait
+3481184,stdout,received,'1679 4321'
+3483185,Keyboard,received,116,wait
+3483186,stdout,received,'1999 2322'
+3485511,Keyboard,received,None,wait
+3485512,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_31.wav'
+3485512,Stimulus,presented,1
+3487520,Keyboard,received,None,wait
+3489204,Keyboard,received,116,wait
+3489205,stdout,received,'1673 2327'
+3491534,Keyboard,received,None,wait
+3491535,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_22.wav'
+3491536,Stimulus,presented,1
+3493544,Keyboard,received,None,wait
+3495222,Keyboard,received,116,wait
+3495222,stdout,received,'1667 2333'
+3497558,Keyboard,received,None,wait
+3497560,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_34.wav'
+3497561,Stimulus,presented,1
+3499569,Keyboard,received,None,wait
+3501240,Keyboard,received,116,wait
+3501240,stdout,received,'1660 4340'
+3503242,Keyboard,received,116,wait
+3503242,stdout,received,'1999 2341'
+3505586,Keyboard,received,None,wait
+3505586,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_38.wav'
+3505587,Stimulus,presented,1
+3507595,Keyboard,received,None,wait
+3509260,Keyboard,received,116,wait
+3509260,stdout,received,'1654 2346'
+3511609,Keyboard,received,None,wait
+3511613,Stimulus,presented,449
+3511619,Stimulus,presented,1
+3513638,Keyboard,received,None,wait
+3515279,Keyboard,received,116,wait
+3515279,stdout,received,'1629 2371'
+3517652,Keyboard,received,None,wait
+3517652,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_6.wav'
+3517653,Stimulus,presented,1
+3519660,Keyboard,received,None,wait
+3521298,Keyboard,received,116,wait
+3521299,stdout,received,'1626 4374'
+3523297,Keyboard,received,116,wait
+3523297,stdout,received,'1997 2377'
+3525678,Keyboard,received,None,wait
+3525680,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_6.wav'
+3525681,Stimulus,presented,1
+3527690,Keyboard,received,None,wait
+3529315,Keyboard,received,116,wait
+3529316,stdout,received,'1614 2386'
+3531705,Keyboard,received,None,wait
+3531707,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_39.wav'
+3531707,Stimulus,presented,1
+3533716,Keyboard,received,None,wait
+3535335,Keyboard,received,116,wait
+3535335,stdout,received,'1607 2393'
+3537732,Keyboard,received,None,wait
+3537733,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_27.wav'
+3537733,Stimulus,presented,1
+3539742,Keyboard,received,None,wait
+3541352,Keyboard,received,116,wait
+3541353,stdout,received,'1598 4402'
+3543351,Keyboard,received,116,wait
+3543352,stdout,received,'1998 2404'
+3545759,Keyboard,received,None,wait
+3545760,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_26.wav'
+3545761,Stimulus,presented,1
+3547769,Keyboard,received,None,wait
+3549370,Keyboard,received,116,wait
+3549370,stdout,received,'1589 2411'
+3551784,Keyboard,received,None,wait
+3551786,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_42.wav'
+3551786,Stimulus,presented,1
+3553795,Keyboard,received,None,wait
+3555390,Keyboard,received,116,wait
+3555391,stdout,received,'1584 2416'
+3557808,Keyboard,received,None,wait
+3557810,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_47.wav'
+3557810,Stimulus,presented,1
+3559818,Keyboard,received,None,wait
+3561408,Keyboard,received,116,wait
+3561409,stdout,received,'1579 4421'
+3563407,Keyboard,received,116,wait
+3563407,stdout,received,'1997 2424'
+3565832,Keyboard,received,None,wait
+3565834,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_2.wav'
+3565834,Stimulus,presented,1
+3567844,Keyboard,received,None,wait
+3569427,Keyboard,received,116,wait
+3569428,stdout,received,'1571 2429'
+3571859,Keyboard,received,None,wait
+3571860,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_27.wav'
+3571860,Stimulus,presented,1
+3573870,Keyboard,received,None,wait
+3575445,Keyboard,received,116,wait
+3575446,stdout,received,'1564 2436'
+3577884,Keyboard,received,None,wait
+3577885,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_20.wav'
+3577885,Stimulus,presented,1
+3579894,Keyboard,received,None,wait
+3581463,Keyboard,received,116,wait
+3581464,stdout,received,'1559 4441'
+3583464,Keyboard,received,116,wait
+3583464,stdout,received,'1998 2443'
+3585910,Keyboard,received,None,wait
+3585911,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_20.wav'
+3585912,Stimulus,presented,1
+3587541,Keyboard,received,121,wait
+3589481,Keyboard,received,116,wait
+3589481,stdout,received,'1551 2449'
+3591934,Keyboard,received,None,wait
+3591934,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_14.wav'
+3591935,Stimulus,presented,1
+3593942,Keyboard,received,None,wait
+3595501,Keyboard,received,116,wait
+3595501,stdout,received,'1547 2453'
+3597956,Keyboard,received,None,wait
+3597958,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_22.wav'
+3597959,Stimulus,presented,1
+3599968,Keyboard,received,None,wait
+3601519,Keyboard,received,116,wait
+3601519,stdout,received,'1540 4460'
+3603519,Keyboard,received,116,wait
+3603520,stdout,received,'1999 2461'
+3605983,Keyboard,received,None,wait
+3605984,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_16.wav'
+3605985,Stimulus,presented,1
+3607995,Keyboard,received,None,wait
+3609538,Keyboard,received,116,wait
+3609538,stdout,received,'1531 2469'
+3612009,Keyboard,received,None,wait
+3612011,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_44.wav'
+3612011,Stimulus,presented,1
+3614019,Keyboard,received,None,wait
+3615557,Keyboard,received,116,wait
+3615557,stdout,received,'1526 2474'
+3618033,Keyboard,received,None,wait
+3618035,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_37.wav'
+3618035,Stimulus,presented,1
+3620043,Keyboard,received,None,wait
+3621576,Keyboard,received,116,wait
+3621576,stdout,received,'1521 4479'
+3623574,Keyboard,received,116,wait
+3623575,stdout,received,'1997 2482'
+3626060,Keyboard,received,None,wait
+3626062,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_36.wav'
+3626063,Stimulus,presented,1
+3628071,Keyboard,received,None,wait
+3629595,Keyboard,received,116,wait
+3629595,stdout,received,'1512 2488'
+3632086,Keyboard,received,None,wait
+3632087,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_10.wav'
+3632087,Stimulus,presented,1
+3634095,Keyboard,received,None,wait
+3635612,Keyboard,received,116,wait
+3635612,stdout,received,'1505 2495'
+3638109,Keyboard,received,None,wait
+3638111,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_13.wav'
+3638112,Stimulus,presented,1
+3640120,Keyboard,received,None,wait
+3641631,Keyboard,received,116,wait
+3641632,stdout,received,'1500 4500'
+3643630,Keyboard,received,116,wait
+3643631,stdout,received,'1997 2503'
+3646136,Keyboard,received,None,wait
+3646137,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_45.wav'
+3646137,Stimulus,presented,1
+3648146,Keyboard,received,None,wait
+3649648,Keyboard,received,116,wait
+3649648,stdout,received,'1491 2509'
+3652160,Keyboard,received,None,wait
+3652162,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_37.wav'
+3652162,Stimulus,presented,1
+3654170,Keyboard,received,None,wait
+3655667,Keyboard,received,116,wait
+3655667,stdout,received,'1485 2515'
+3658184,Keyboard,received,None,wait
+3658186,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_2.wav'
+3658187,Stimulus,presented,1
+3660196,Keyboard,received,None,wait
+3661687,Keyboard,received,116,wait
+3661688,stdout,received,'1480 4520'
+3663687,Keyboard,received,116,wait
+3663687,stdout,received,'1998 2522'
+3666213,Keyboard,received,None,wait
+3666214,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_42.wav'
+3666214,Stimulus,presented,1
+3668223,Keyboard,received,None,wait
+3669705,Keyboard,received,116,wait
+3669706,stdout,received,'1471 2529'
+3672238,Keyboard,received,None,wait
+3672239,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_36.wav'
+3672240,Stimulus,presented,1
+3674248,Keyboard,received,None,wait
+3675726,Keyboard,received,116,wait
+3675726,stdout,received,'1466 2534'
+3678264,Keyboard,received,None,wait
+3678265,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_46.wav'
+3678266,Stimulus,presented,1
+3680275,Keyboard,received,None,wait
+3681742,Keyboard,received,116,wait
+3681743,stdout,received,'1456 4544'
+3683743,Keyboard,received,116,wait
+3683744,stdout,received,'1999 2545'
+3686292,Keyboard,received,None,wait
+3686293,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_17.wav'
+3686294,Stimulus,presented,1
+3688302,Keyboard,received,None,wait
+3689762,Keyboard,received,116,wait
+3689762,stdout,received,'1448 2552'
+3692318,Keyboard,received,None,wait
+3692319,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_26.wav'
+3692319,Stimulus,presented,1
+3694328,Keyboard,received,None,wait
+3695778,Keyboard,received,116,wait
+3695779,stdout,received,'1440 2560'
+3698343,Keyboard,received,None,wait
+3698344,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_music_16.wav'
+3698344,Stimulus,presented,1
+3700353,Keyboard,received,None,wait
+3701798,Keyboard,received,116,wait
+3701798,stdout,received,'1434 4566'
+3703798,Keyboard,received,116,wait
+3703799,stdout,received,'1998 2568'
+3706369,Keyboard,received,None,wait
+3706370,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_25.wav'
+3706371,Stimulus,presented,1
+3708380,Keyboard,received,None,wait
+3709817,Keyboard,received,116,wait
+3709818,stdout,received,'1426 2574'
+3712395,Keyboard,received,None,wait
+3712396,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_46.wav'
+3712396,Stimulus,presented,1
+3714406,Keyboard,received,None,wait
+3715836,Keyboard,received,116,wait
+3715836,stdout,received,'1418 2582'
+3718421,Keyboard,received,None,wait
+3718422,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_11.wav'
+3718423,Stimulus,presented,1
+3720431,Keyboard,received,None,wait
+3721855,Keyboard,received,116,wait
+3721856,stdout,received,'1413 4587'
+3723854,Keyboard,received,116,wait
+3723855,stdout,received,'1997 2590'
+3726447,Keyboard,received,None,wait
+3726448,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_46.wav'
+3726449,Stimulus,presented,1
+3728456,Keyboard,received,None,wait
+3729871,Keyboard,received,116,wait
+3729871,stdout,received,'1404 2596'
+3732469,Keyboard,received,None,wait
+3732471,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_46.wav'
+3732472,Stimulus,presented,1
+3734125,Keyboard,received,121,wait
+3735891,Keyboard,received,116,wait
+3735891,stdout,received,'1399 2601'
+3738494,Keyboard,received,None,wait
+3738496,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_47.wav'
+3738496,Stimulus,presented,1
+3740505,Keyboard,received,None,wait
+3741911,Keyboard,received,116,wait
+3741912,stdout,received,'1395 4605'
+3743909,Keyboard,received,116,wait
+3743909,stdout,received,'1996 2609'
+3746521,Keyboard,received,None,wait
+3746522,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_29.wav'
+3746522,Stimulus,presented,1
+3748529,Keyboard,received,None,wait
+3749928,Keyboard,received,116,wait
+3749929,stdout,received,'1387 2613'
+3752546,Keyboard,received,None,wait
+3752547,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_12.wav'
+3752548,Stimulus,presented,1
+3754557,Keyboard,received,None,wait
+3755946,Keyboard,received,116,wait
+3755947,stdout,received,'1379 2621'
+3758572,Keyboard,received,None,wait
+3758573,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_12.wav'
+3758574,Stimulus,presented,1
+3760301,Keyboard,received,121,wait
+3761964,Keyboard,received,116,wait
+3761965,stdout,received,'1372 4628'
+3763964,Keyboard,received,116,wait
+3763965,stdout,received,'1998 2630'
+3766597,Keyboard,received,None,wait
+3766598,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_13.wav'
+3766598,Stimulus,presented,1
+3768606,Keyboard,received,None,wait
+3769985,Keyboard,received,116,wait
+3769986,stdout,received,'1368 2632'
+3772622,Keyboard,received,None,wait
+3772622,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_8.wav'
+3772623,Stimulus,presented,1
+3774630,Keyboard,received,None,wait
+3776003,Keyboard,received,116,wait
+3776004,stdout,received,'1362 2638'
+3778645,Keyboard,received,None,wait
+3778647,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_13.wav'
+3778648,Stimulus,presented,1
+3780655,Keyboard,received,None,wait
+3782022,Keyboard,received,116,wait
+3782022,stdout,received,'1355 4645'
+3784021,Keyboard,received,116,wait
+3784022,stdout,received,'1997 2648'
+3786673,Keyboard,received,None,wait
+3786675,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_39.wav'
+3786676,Stimulus,presented,1
+3788685,Keyboard,received,None,wait
+3790040,Keyboard,received,116,wait
+3790041,stdout,received,'1343 2657'
+3792700,Keyboard,received,None,wait
+3792701,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_33.wav'
+3792702,Stimulus,presented,1
+3794710,Keyboard,received,None,wait
+3796059,Keyboard,received,116,wait
+3796059,stdout,received,'1337 2663'
+3798726,Keyboard,received,None,wait
+3798727,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_nature_30.wav'
+3798728,Stimulus,presented,1
+3800737,Keyboard,received,None,wait
+3802076,Keyboard,received,116,wait
+3802077,stdout,received,'1328 4672'
+3804078,Keyboard,received,116,wait
+3804079,stdout,received,'1998 2674'
+3806757,Keyboard,received,None,wait
+3806758,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_voice_48.wav'
+3806759,Stimulus,presented,1
+3808767,Keyboard,received,None,wait
+3810096,Keyboard,received,116,wait
+3810096,stdout,received,'1317 2683'
+3812781,Keyboard,received,None,wait
+3812783,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_tools_30.wav'
+3812784,Stimulus,presented,1
+3814793,Keyboard,received,None,wait
+3816114,Keyboard,received,116,wait
+3816114,stdout,received,'1309 2691'
+3818807,Keyboard,received,None,wait
+3818809,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_animal_20.wav'
+3818809,Stimulus,presented,1
+3820818,Keyboard,received,None,wait
+3822134,Keyboard,received,116,wait
+3822135,stdout,received,'1304 4696'
+3824133,Keyboard,received,116,wait
+3824134,stdout,received,'1996 2700'
+3826836,Keyboard,received,None,wait
+3826838,Stimulus,played,b'C:\\Users\\Public\\gitrepos\\cognitive_protocols\\formisano\\protocol\\../stim\\set2\\s2_speech_24.wav'
+3826838,Stimulus,presented,1
+3828848,Keyboard,received,None,wait
+3830152,Keyboard,received,116,wait
+3830153,stdout,received,'1292 2708'
+3832863,Keyboard,received,None,wait
+3834864,Stimulus,presented,2
+3858093,Keyboard,received,32,wait
+3858094,Experiment,ended
+3858112,Data,saved
+3858119,Stimulus,presented,498
