@@ -1,0 +1,72 @@
+Scenario - loca_visu_version1bis
+Logfile written - 04/27/2018 13:11:23
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+pilot2	1	Nothing	cut	10167	0	1			0		other	0
+pilot2	1	Nothing	cut	15167	5000	1			5000		other	0
+pilot2	1	Pulse	255	20358	10191	0
+pilot2	2	Nothing	cut	30167	0	1			0		other	0
+pilot2	2	Nothing	cut	35167	5000	1			5000		other	0
+pilot2	3	Picture	Bfix	40234	0	1	150065	1	0	150000	other	0
+pilot2	4	Picture	10	190633	0	1	20201	1	0	20000	other	0
+pilot2	5	Picture	30	223233	0	1	20065	1	0	20000	other	0
+pilot2	6	Picture	60	254696	0	1	20065	1	0	20000	other	0
+pilot2	7	Picture	60	285160	0	1	20065	1	0	20000	other	0
+pilot2	8	Picture	10	316624	0	1	20065	1	0	20000	other	0
+pilot2	9	Picture	60	349087	0	1	20065	1	0	20000	other	0
+pilot2	10	Picture	10	380551	0	1	20065	1	0	20000	other	0
+pilot2	11	Picture	60	413015	0	1	20065	1	0	20000	other	0
+pilot2	12	Picture	60	445478	0	1	20065	1	0	20000	other	0
+pilot2	13	Picture	30	476942	0	1	20065	1	0	20000	other	0
+pilot2	14	Picture	10	508406	0	1	20065	1	0	20000	other	0
+pilot2	15	Picture	60	539869	0	1	20065	1	0	20000	other	0
+pilot2	16	Picture	30	572333	0	1	20065	1	0	20000	other	0
+pilot2	17	Picture	70	603797	0	1	20065	1	0	20000	other	0
+pilot2	18	Picture	10	636261	0	1	20065	1	0	20000	other	0
+pilot2	19	Picture	80	667724	0	1	20065	1	0	20000	other	0
+pilot2	19	Response	1	673580	5855	1
+pilot2	20	Picture	70	699188	0	1	20065	1	0	20000	other	0
+pilot2	21	Picture	30	729652	0	1	20065	1	0	20000	other	0
+pilot2	22	Picture	30	762115	0	1	20065	1	0	20000	other	0
+pilot2	23	Picture	60	794579	0	1	20065	1	0	20000	other	0
+pilot2	24	Picture	70	825043	0	1	20065	1	0	20000	other	0
+pilot2	25	Picture	70	857506	0	1	20065	1	0	20000	other	0
+pilot2	26	Picture	10	888970	0	1	20065	1	0	20000	other	0
+pilot2	27	Picture	10	921434	0	1	20065	1	0	20000	other	0
+pilot2	28	Picture	30	953897	0	1	20065	1	0	20000	other	0
+pilot2	29	Picture	Bfix	985194	0	1	150065	1	0	150000	other	0
+pilot2	30	Picture	70	1135593	0	1	20065	1	0	20000	other	0
+pilot2	31	Picture	10	1166057	0	1	20065	1	0	20000	other	0
+pilot2	32	Picture	80	1198520	0	1	20065	1	0	20000	other	0
+pilot2	32	Response	1	1205664	7144	1
+pilot2	33	Picture	10	1228984	0	1	20065	1	0	20000	other	0
+pilot2	34	Picture	70	1261448	0	1	20065	1	0	20000	other	0
+pilot2	35	Picture	60	1293911	0	1	20065	1	0	20000	other	0
+pilot2	36	Picture	70	1326375	0	1	20065	1	0	20000	other	0
+pilot2	37	Picture	30	1357839	0	1	20065	1	0	20000	other	0
+pilot2	38	Picture	30	1388302	0	1	20065	1	0	20000	other	0
+pilot2	39	Picture	70	1420766	0	1	20065	1	0	20000	other	0
+pilot2	40	Picture	30	1453230	0	1	20065	1	0	20000	other	0
+pilot2	41	Picture	60	1485693	0	1	20065	1	0	20000	other	0
+pilot2	42	Picture	60	1516157	0	1	20065	1	0	20000	other	0
+pilot2	43	Picture	30	1546620	0	1	20065	1	0	20000	other	0
+pilot2	44	Picture	60	1576917	0	1	20065	1	0	20000	other	0
+pilot2	45	Picture	10	1609381	0	1	20065	1	0	20000	other	0
+pilot2	46	Picture	10	1639845	0	1	20065	1	0	20000	other	0
+pilot2	47	Picture	30	1670308	0	1	20065	1	0	20000	other	0
+pilot2	48	Picture	80	1702772	0	1	20065	1	0	20000	other	0
+pilot2	48	Response	1	1708987	6215	1
+pilot2	49	Picture	60	1735235	0	1	20065	1	0	20000	other	0
+pilot2	50	Picture	Bfix	1765532	0	1	150400	1	0	150000	other	0
+pilot2	51	Picture	70	1915933	0	1	20065	1	0	20000	other	0
+pilot2	52	Picture	60	1948396	0	1	20065	1	0	20000	other	0
+pilot2	53	Picture	30	1979860	0	1	20065	1	0	20000	other	0
+pilot2	54	Picture	70	2011371	0	1	20065	1	0	20000	other	0
+pilot2	55	Picture	80	2043834	0	1	20065	1	0	20000	other	0
+pilot2	55	Response	1	2051249	7414	1
+pilot2	56	Picture	60	2076298	0	1	20065	1	0	20000	other	0
+pilot2	57	Picture	60	2106762	0	1	20065	1	0	20000	other	0
+pilot2	58	Picture	30	2139225	0	1	20065	1	0	20000	other	0
+pilot2	59	Picture	10	2170689	0	1	20065	1	0	20000	other	0
+pilot2	60	Picture	30	2203152	0	1	20065	1	0	20000	other	0

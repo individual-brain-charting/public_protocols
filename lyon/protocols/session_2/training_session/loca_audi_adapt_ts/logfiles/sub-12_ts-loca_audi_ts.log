@@ -1,0 +1,120 @@
+Scenario - loca_audi_ts
+Logfile written - 06/26/2018 08:55:17
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub-12_ts	0	Pulse	255	83768	83768	0
+sub-12_ts	1	Nothing	cut	83834	0	1			0		other	0
+sub-12_ts	1	Nothing	cut	88834	5000	1			5000		other	0
+sub-12_ts	1	Nothing	cut	93834	10000	1			10000		other	0
+sub-12_ts	2	Sound	start_sound	124133	30000	21955			30000		other	0
+sub-12_ts	2	Nothing	human	146088	51955	1			45000		other	0
+sub-12_ts	2	Nothing	human	146088	51955	1			50000		other	0
+sub-12_ts	2	Nothing	human	149133	55000	1			55000		other	0
+sub-12_ts	2	Nothing	human	154133	60000	1			60000		other	0
+sub-12_ts	2	Nothing	human	159133	65000	1			65000		other	0
+sub-12_ts	2	Nothing	human	164133	70000	1			70000		other	0
+sub-12_ts	2	Nothing	human	169133	75000	1			75000		other	0
+sub-12_ts	2	Nothing	human	174133	80000	1			80000		other	0
+sub-12_ts	2	Nothing	human	179133	85000	1			85000		other	0
+sub-12_ts	2	Nothing	human	184133	90000	1			90000		other	0
+sub-12_ts	2	Nothing	human	189133	95000	1			95000		other	0
+sub-12_ts	2	Nothing	human	194133	100000	1			100000		other	0
+sub-12_ts	2	Nothing	human	199133	105000	1			105000		other	0
+sub-12_ts	2	Nothing	human	204133	110000	1			110000		other	0
+sub-12_ts	2	Nothing	human	209133	115000	1			115000		other	0
+sub-12_ts	2	Nothing	human	214133	120000	1			120000		other	0
+sub-12_ts	2	Nothing	human	219133	125000	1			125000		other	0
+sub-12_ts	2	Nothing	human	224133	130000	1			130000		other	0
+sub-12_ts	2	Nothing	human	229133	135000	1			135000		other	0
+sub-12_ts	2	Nothing	human	234133	140000	1			140000		other	0
+sub-12_ts	3	Sound	start_sound	296102	30000	2			30000		other	0
+sub-12_ts	3	Nothing	music	311102	45000	1			45000		other	0
+sub-12_ts	3	Nothing	music	316102	50000	1			50000		other	0
+sub-12_ts	3	Nothing	music	321102	55000	1			55000		other	0
+sub-12_ts	3	Nothing	music	326102	60000	1			60000		other	0
+sub-12_ts	3	Nothing	music	331102	65000	1			65000		other	0
+sub-12_ts	3	Nothing	music	336102	70000	1			70000		other	0
+sub-12_ts	3	Nothing	music	341102	75000	1			75000		other	0
+sub-12_ts	3	Nothing	music	346102	80000	1			80000		other	0
+sub-12_ts	3	Nothing	music	351102	85000	1			85000		other	0
+sub-12_ts	3	Nothing	music	356102	90000	1			90000		other	0
+sub-12_ts	3	Nothing	music	361102	95000	1			95000		other	0
+sub-12_ts	3	Nothing	music	366102	100000	1			100000		other	0
+sub-12_ts	3	Nothing	music	371102	105000	1			105000		other	0
+sub-12_ts	3	Nothing	music	376102	110000	1			110000		other	0
+sub-12_ts	3	Nothing	music	381102	115000	1			115000		other	0
+sub-12_ts	3	Nothing	music	386102	120000	1			120000		other	0
+sub-12_ts	3	Nothing	music	391102	125000	1			125000		other	0
+sub-12_ts	3	Nothing	music	396102	130000	1			130000		other	0
+sub-12_ts	3	Nothing	music	401102	135000	1			135000		other	0
+sub-12_ts	3	Nothing	music	406102	140000	1			140000		other	0
+sub-12_ts	4	Sound	start_sound	466678	30000	2			30000		other	0
+sub-12_ts	4	Nothing	parol	476678	40000	1			40000		other	0
+sub-12_ts	4	Nothing	parol	481678	45000	1			45000		other	0
+sub-12_ts	4	Nothing	parol	486678	50000	1			50000		other	0
+sub-12_ts	4	Nothing	parol	491678	55000	1			55000		other	0
+sub-12_ts	4	Nothing	parol	496678	60000	1			60000		other	0
+sub-12_ts	4	Nothing	parol	501678	65000	1			65000		other	0
+sub-12_ts	4	Nothing	parol	506678	70000	1			70000		other	0
+sub-12_ts	4	Nothing	parol	511678	75000	1			75000		other	0
+sub-12_ts	4	Nothing	parol	516678	80000	1			80000		other	0
+sub-12_ts	4	Nothing	parol	521678	85000	1			85000		other	0
+sub-12_ts	4	Nothing	parol	526678	90000	1			90000		other	0
+sub-12_ts	4	Nothing	parol	531678	95000	1			95000		other	0
+sub-12_ts	4	Nothing	parol	536678	100000	1			100000		other	0
+sub-12_ts	4	Nothing	parol	541678	105000	1			105000		other	0
+sub-12_ts	4	Nothing	parol	546678	110000	1			110000		other	0
+sub-12_ts	4	Nothing	parol	551678	115000	1			115000		other	0
+sub-12_ts	4	Nothing	parol	556678	120000	1			120000		other	0
+sub-12_ts	4	Nothing	parol	561678	125000	1			125000		other	0
+sub-12_ts	4	Nothing	parol	566678	130000	1			130000		other	0
+sub-12_ts	4	Nothing	parol	571678	135000	1			135000		other	0
+sub-12_ts	5	Sound	start_sound	632040	30000	1			30000		other	0
+sub-12_ts	5	Nothing	yawny	647040	45000	1			45000		other	0
+sub-12_ts	5	Nothing	yawny	652040	50000	1			50000		other	0
+sub-12_ts	5	Nothing	yawny	657040	55000	1			55000		other	0
+sub-12_ts	5	Nothing	yawny	662040	60000	1			60000		other	0
+sub-12_ts	5	Nothing	yawny	667040	65000	1			65000		other	0
+sub-12_ts	5	Nothing	yawny	672040	70000	1			70000		other	0
+sub-12_ts	5	Nothing	yawny	677040	75000	1			75000		other	0
+sub-12_ts	5	Nothing	yawny	682040	80000	1			80000		other	0
+sub-12_ts	5	Nothing	yawny	687040	85000	1			85000		other	0
+sub-12_ts	5	Nothing	yawny	692040	90000	1			90000		other	0
+sub-12_ts	5	Nothing	yawny	697040	95000	1			95000		other	0
+sub-12_ts	5	Nothing	yawny	702040	100000	1			100000		other	0
+sub-12_ts	5	Nothing	yawny	707040	105000	1			105000		other	0
+sub-12_ts	5	Nothing	yawny	712040	110000	1			110000		other	0
+sub-12_ts	5	Nothing	yawny	717040	115000	1			115000		other	0
+sub-12_ts	5	Nothing	yawny	722040	120000	1			120000		other	0
+sub-12_ts	5	Nothing	yawny	727040	125000	1			125000		other	0
+sub-12_ts	5	Nothing	yawny	732040	130000	1			130000		other	0
+sub-12_ts	5	Nothing	yawny	737040	135000	1			135000		other	0
+sub-12_ts	5	Nothing	yawny	742040	140000	1			140000		other	0
+sub-12_ts	6	Sound	start_sound	802402	30000	2			30000		other	0
+sub-12_ts	6	Nothing	rever	817402	45000	1			45000		other	0
+sub-12_ts	6	Nothing	rever	822402	50000	1			50000		other	0
+sub-12_ts	6	Nothing	rever	827402	55000	1			55000		other	0
+sub-12_ts	6	Nothing	rever	832402	60000	1			60000		other	0
+sub-12_ts	6	Nothing	rever	837402	65000	1			65000		other	0
+sub-12_ts	6	Nothing	rever	842402	70000	1			70000		other	0
+sub-12_ts	6	Nothing	rever	847402	75000	1			75000		other	0
+sub-12_ts	6	Nothing	rever	852402	80000	1			80000		other	0
+sub-12_ts	6	Nothing	rever	857402	85000	1			85000		other	0
+sub-12_ts	6	Nothing	rever	862402	90000	1			90000		other	0
+sub-12_ts	6	Nothing	rever	867402	95000	1			95000		other	0
+sub-12_ts	6	Nothing	rever	872402	100000	1			100000		other	0
+sub-12_ts	6	Nothing	rever	877402	105000	1			105000		other	0
+sub-12_ts	6	Nothing	rever	882402	110000	1			110000		other	0
+sub-12_ts	6	Nothing	rever	887402	115000	1			115000		other	0
+sub-12_ts	6	Nothing	rever	892402	120000	1			120000		other	0
+sub-12_ts	6	Nothing	rever	897402	125000	1			125000		other	0
+sub-12_ts	6	Nothing	rever	902402	130000	1			130000		other	0
+sub-12_ts	6	Nothing	rever	907402	135000	1			135000		other	0
+sub-12_ts	6	Nothing	rever	912402	140000	1			140000		other	0
+sub-12_ts	7	Quit		948080	5417	NA
+
+The following output port codes were not sent because of a conflict on the port.
+Port	Code	Time(ms)
+1	5	14608.8
+1	5	14608.8

@@ -1,0 +1,113 @@
+Scenario - loca_moto
+Logfile written - 05/18/2018 14:30:04
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	0	Pulse	255	13503	13503	0
+test	1	Picture	Ins_main	13571	0	1	40065	1	0	40000	other	0
+test	2	Picture	11	73637	0	1	10065	1	0	10000	other	0
+test	3	Picture	11	98703	0	1	10065	1	0	10000	other	0
+test	4	Picture	11	123769	0	1	10065	1	0	10000	other	0
+test	5	Picture	11	148835	0	1	10065	1	0	10000	other	0
+test	6	Picture	11	173901	0	1	10065	1	0	10000	other	0
+test	7	Picture	11	198968	0	1	10065	1	0	10000	other	0
+test	8	Picture	11	224034	0	1	10065	1	0	10000	other	0
+test	9	Picture	11	249100	0	1	10065	1	0	10000	other	0
+test	10	Picture	11	274166	0	1	10065	1	0	10000	other	0
+test	11	Picture	11	299233	0	1	10065	1	0	10000	other	0
+test	12	Picture	12	324299	0	1	10065	1	0	10000	other	0
+test	13	Picture	12	349365	0	1	10065	1	0	10000	other	0
+test	14	Picture	12	374432	0	1	10065	1	0	10000	other	0
+test	15	Picture	12	399498	0	1	10065	1	0	10000	other	0
+test	16	Picture	12	424564	0	1	10065	1	0	10000	other	0
+test	17	Picture	12	449631	0	1	10065	1	0	10000	other	0
+test	18	Picture	12	474697	0	1	10065	1	0	10000	other	0
+test	19	Picture	12	499763	0	1	10065	1	0	10000	other	0
+test	20	Picture	12	524830	0	1	10065	1	0	10000	other	0
+test	21	Picture	12	549896	0	1	10065	1	0	10000	other	0
+test	22	Picture	Bfix	574964	0	1	30235	1	0	30000	other	0
+test	23	Picture	Ins_index	605199	0	1	40065	1	0	40000	other	0
+test	24	Picture	21	665265	0	1	10065	1	0	10000	hit	26
+test	24	Response	1	669485	4220	1
+test	25	Picture	21	690332	0	1	10065	1	0	10000	hit	28
+test	25	Response	1	693791	3460	1
+test	26	Picture	21	715398	0	1	10065	1	0	10000	hit	30
+test	26	Response	1	718357	2959	1
+test	27	Picture	21	740465	0	1	10065	1	0	10000	incorrect	32
+test	27	Response	2	744115	3651	1
+test	28	Picture	21	765531	0	1	10065	1	0	10000	incorrect	34
+test	28	Response	2	768013	2482	1
+test	29	Picture	21	790597	0	1	10065	1	0	10000	incorrect	36
+test	29	Response	2	793173	2576	1
+test	30	Picture	21	815664	0	1	10065	1	0	10000	hit	38
+test	30	Response	1	818196	2532	1
+test	31	Picture	21	840730	0	1	10065	1	0	10000	hit	40
+test	31	Response	1	843564	2834	1
+test	32	Picture	21	865796	0	1	10065	1	0	10000	hit	42
+test	32	Response	1	868398	2602	1
+test	33	Picture	21	890863	0	1	10065	1	0	10000	miss	0
+test	34	Picture	22	915929	0	1	10065	1	0	10000	hit	45
+test	34	Response	2	919181	3252	1
+test	35	Picture	22	940995	0	1	10065	1	0	10000	hit	47
+test	35	Response	2	943621	2625	1
+test	36	Picture	22	966062	0	1	10065	1	0	10000	hit	49
+test	36	Response	2	968823	2761	1
+test	37	Picture	22	991128	0	1	10065	1	0	10000	incorrect	51
+test	37	Response	1	993553	2425	1
+test	38	Picture	22	1016194	0	1	10065	1	0	10000	incorrect	53
+test	38	Response	1	1018617	2422	1
+test	39	Picture	22	1041261	0	1	10065	1	0	10000	incorrect	55
+test	39	Response	1	1044250	2989	1
+test	40	Picture	22	1066327	0	1	10065	1	0	10000	hit	57
+test	40	Response	2	1069113	2785	1
+test	41	Picture	22	1091394	0	1	10065	1	0	10000	hit	59
+test	41	Response	2	1094260	2866	1
+test	42	Picture	22	1116460	0	1	10065	1	0	10000	hit	61
+test	42	Response	2	1119585	3125	1
+test	43	Picture	22	1141527	0	1	10065	1	0	10000	miss	0
+test	44	Picture	Bfix	1166593	0	1	30235	1	0	30000	other	0
+test	45	Picture	Ins_yeux	1196827	0	1	40065	1	0	40000	other	0
+test	46	Picture	31	1256894	0	1	10065	1	0	10000	other	0
+test	46	Response	1	1261617	4724	1
+test	47	Picture	31	1281960	0	1	10065	1	0	10000	other	0
+test	47	Response	2	1286409	4449	1
+test	48	Picture	31	1307026	0	1	10065	1	0	10000	other	0
+test	48	Response	1	1310264	3238	1
+test	48	Response	2	1310540	3514	1
+test	48	Response	2	1312824	5798	1
+test	48	Response	1	1312921	5895	1
+test	48	Response	1	1314765	7739	1
+test	48	Response	2	1315298	8272	1
+test	48	Response	2	1316984	9958	1
+test	48	Response	1	1317207	10180	1
+test	48	Response	1	1319429	12403	1
+test	48	Response	2	1319582	12556	1
+test	48	Response	2	1321503	14477	1
+test	48	Response	1	1321738	14712	1
+test	49	Picture	31	1332093	0	1	10065	1	0	10000	other	0
+test	50	Picture	31	1357159	0	1	10065	1	0	10000	other	0
+test	51	Picture	31	1382225	0	1	10065	1	0	10000	other	0
+test	52	Picture	31	1407292	0	1	10065	1	0	10000	other	0
+test	53	Picture	31	1432358	0	1	10065	1	0	10000	other	0
+test	54	Picture	31	1457424	0	1	10065	1	0	10000	other	0
+test	55	Picture	31	1482491	0	1	10065	1	0	10000	other	0
+test	56	Picture	32	1507557	0	1	10065	1	0	10000	other	0
+test	56	Response	2	1510840	3283	1
+test	57	Picture	32	1532623	0	1	10065	1	0	10000	other	0
+test	57	Response	1	1536403	3779	1
+test	58	Picture	32	1557690	0	1	10065	1	0	10000	other	0
+test	59	Picture	32	1582756	0	1	10199	1	0	10000	other	0
+test	59	Response	2	1585834	3078	1
+test	59	Response	1	1585918	3162	1
+test	59	Response	2	1588038	5283	1
+test	59	Response	2	1590029	7273	1
+test	59	Response	1	1590181	7425	1
+test	59	Response	1	1592067	9311	1
+test	59	Response	2	1592163	9407	1
+test	59	Response	2	1594110	11354	1
+test	59	Response	1	1596311	13555	1
+test	59	Response	2	1596546	13790	1
+test	59	Response	1	1598423	15667	1
+test	59	Response	2	1598535	15779	1
+test	60	Picture	32	1607822	0	1	10065	1	0	10000	other	0
+test	60	Quit		1621383	13561	NA

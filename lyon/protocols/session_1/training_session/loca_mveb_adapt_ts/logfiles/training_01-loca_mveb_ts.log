@@ -1,0 +1,213 @@
+Scenario - loca_mveb_ts
+Logfile written - 05/28/2018 09:17:41
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+training_01	1	Picture	p_startup	10167	0	1	100030	1	0	100000	other	0
+training_01	1	Pulse	255	81746	71580	0
+training_01	2	Picture	p_startup	110364	0	1	100030	1	0	100000	other	0
+training_01	3	Picture	cross	210561	0	1	4168	1	0	4000	other	0
+training_01	3	Picture	61	215729	5168	1	15171	1	5000	15000	other	0
+training_01	3	Picture	cross	230900	20340	1	30176	1	20000	30000	other	0
+training_01	3	Nothing	90	260900	50340	1			50000		other	0
+training_01	3	Picture	response	276081	65520	1	15171	1	65000	15000	miss	0
+training_01	3	Picture	blank2	291252	80691	1	15171	1	80000	15000	other	0
+training_01	4	Picture	cross	306590	0	1	4168	1	0	4000	other	0
+training_01	4	Picture	40	311758	5168	1	15171	1	5000	15000	other	0
+training_01	4	Picture	cross	326930	20340	1	30176	1	20000	30000	other	0
+training_01	4	Nothing	45	356930	50340	1			50000		other	0
+training_01	4	Picture	response	372110	65520	1	15171	1	65000	15000	miss	0
+training_01	4	Picture	blank2	387281	80691	1	15171	1	80000	15000	other	0
+training_01	5	Picture	cross	402619	0	1	4168	1	0	4000	other	0
+training_01	5	Picture	60	407788	5168	1	15171	1	5000	15000	other	0
+training_01	5	Picture	cross	422959	20340	1	30176	1	20000	30000	other	0
+training_01	5	Nothing	65	452959	50340	1			50000		other	0
+training_01	5	Picture	response	468139	65520	1	15171	1	65000	15000	miss	0
+training_01	5	Picture	blank2	483311	80691	1	15171	1	80000	15000	other	0
+training_01	6	Picture	cross	498649	0	1	4168	1	0	4000	other	0
+training_01	6	Picture	40	503817	5168	2	15171	2	5000	15000	other	0
+training_01	6	Picture	cross	518988	20340	1	30176	1	20000	30000	other	0
+training_01	6	Nothing	45	548988	50340	1			50000		other	0
+training_01	6	Picture	response	564168	65520	1	15171	1	65000	15000	miss	0
+training_01	6	Picture	blank2	579340	80691	1	30176	1	80000	30000	other	0
+training_01	7	Picture	cross	609682	0	1	4168	1	0	4000	other	0
+training_01	7	Picture	60	614851	5168	1	15171	1	5000	15000	other	0
+training_01	7	Picture	cross	630022	20340	1	30176	1	20000	30000	other	0
+training_01	7	Nothing	65	660022	50340	1			50000		other	0
+training_01	7	Picture	response	675202	65520	1	15171	1	65000	15000	miss	0
+training_01	7	Picture	blank2	690374	80691	1	45180	1	80000	45000	other	0
+training_01	8	Picture	cross	735721	0	1	4168	1	0	4000	other	0
+training_01	8	Picture	40	740889	5168	1	15171	1	5000	15000	other	0
+training_01	8	Picture	cross	756060	20340	1	30176	1	20000	30000	other	0
+training_01	8	Nothing	45	786060	50340	1			50000		other	0
+training_01	8	Picture	response	801241	65520	1	15171	1	65000	15000	miss	0
+training_01	8	Picture	blank2	816412	80691	1	40179	1	80000	40000	other	0
+training_01	9	Picture	cross	856758	0	1	4168	1	0	4000	other	0
+training_01	9	Picture	61	861926	5168	1	15171	1	5000	15000	other	0
+training_01	9	Picture	cross	877097	20340	1	30176	1	20000	30000	other	0
+training_01	9	Nothing	90	907097	50340	1			50000		other	0
+training_01	9	Picture	response	922277	65520	1	15171	1	65000	15000	miss	0
+training_01	9	Picture	blank2	937449	80691	1	45180	1	80000	45000	other	0
+training_01	10	Picture	cross	982796	0	1	4168	1	0	4000	other	0
+training_01	10	Picture	40	987964	5168	1	15171	1	5000	15000	other	0
+training_01	10	Picture	cross	1003135	20340	1	30176	1	20000	30000	other	0
+training_01	10	Nothing	45	1033135	50340	1			50000		other	0
+training_01	10	Picture	response	1048316	65520	1	15171	1	65000	15000	miss	0
+training_01	10	Picture	blank2	1063487	80691	1	40179	1	80000	40000	other	0
+training_01	11	Picture	cross	1103833	0	1	4168	1	0	4000	other	0
+training_01	11	Picture	20	1109001	5168	1	15171	1	5000	15000	other	0
+training_01	11	Picture	cross	1124172	20340	1	30176	1	20000	30000	other	0
+training_01	11	Nothing	25	1154172	50340	1			50000		other	0
+training_01	11	Picture	response	1169353	65520	1	15171	1	65000	15000	miss	0
+training_01	11	Picture	blank2	1184524	80691	1	20173	1	80000	20000	other	0
+training_01	12	Picture	cross	1204863	0	1	4168	1	0	4000	other	0
+training_01	12	Picture	41	1210032	5168	1	15171	1	5000	15000	other	0
+training_01	12	Picture	cross	1225203	20340	1	30176	1	20000	30000	other	0
+training_01	12	Nothing	90	1255203	50340	1			50000		other	0
+training_01	12	Picture	response	1270383	65520	1	15171	1	65000	15000	miss	0
+training_01	12	Picture	blank2	1285555	80691	1	30176	1	80000	30000	other	0
+training_01	13	Picture	cross	1315897	0	1	4168	1	0	4000	other	0
+training_01	13	Picture	40	1321066	5168	1	15171	1	5000	15000	other	0
+training_01	13	Picture	cross	1336237	20340	1	30176	1	20000	30000	other	0
+training_01	13	Nothing	45	1366237	50340	1			50000		other	0
+training_01	13	Picture	response	1381417	65520	1	15171	1	65000	15000	miss	0
+training_01	13	Picture	blank2	1396588	80691	1	40179	1	80000	40000	other	0
+training_01	14	Picture	cross	1436934	0	1	4168	1	0	4000	other	0
+training_01	14	Picture	21	1442102	5168	1	15171	1	5000	15000	other	0
+training_01	14	Picture	cross	1457274	20340	1	30176	1	20000	30000	other	0
+training_01	14	Nothing	90	1487274	50340	1			50000		other	0
+training_01	14	Picture	response	1502454	65520	1	15171	1	65000	15000	miss	0
+training_01	14	Picture	blank2	1517625	80691	1	20173	1	80000	20000	other	0
+training_01	15	Picture	cross	1537965	0	1	4168	1	0	4000	other	0
+training_01	15	Picture	60	1543133	5168	1	15171	1	5000	15000	other	0
+training_01	15	Picture	cross	1558304	20340	1	30176	1	20000	30000	other	0
+training_01	15	Nothing	65	1588304	50340	1			50000		other	0
+training_01	15	Picture	response	1603485	65520	1	15171	1	65000	15000	miss	0
+training_01	15	Picture	blank2	1618656	80691	1	30176	1	80000	30000	other	0
+training_01	16	Picture	cross	1648999	0	1	4168	1	0	4000	other	0
+training_01	16	Picture	21	1654167	5168	1	15171	1	5000	15000	other	0
+training_01	16	Picture	cross	1669338	20340	1	30176	1	20000	30000	other	0
+training_01	16	Nothing	90	1699338	50340	1			50000		other	0
+training_01	16	Picture	response	1714519	65520	1	15171	1	65000	15000	miss	0
+training_01	16	Picture	blank2	1729690	80691	1	15171	1	80000	15000	other	0
+training_01	17	Picture	cross	1745028	0	1	4168	1	0	4000	other	0
+training_01	17	Picture	61	1750196	5168	1	15171	1	5000	15000	other	0
+training_01	17	Picture	cross	1765367	20340	1	30176	1	20000	30000	other	0
+training_01	17	Nothing	90	1795367	50340	1			50000		other	0
+training_01	17	Picture	response	1810548	65520	1	15171	1	65000	15000	miss	0
+training_01	17	Picture	blank2	1825719	80691	1	20173	1	80000	20000	other	0
+training_01	18	Picture	cross	1846059	0	1	4168	1	0	4000	other	0
+training_01	18	Picture	21	1851227	5168	1	15171	1	5000	15000	other	0
+training_01	18	Picture	cross	1866398	20340	1	30176	1	20000	30000	other	0
+training_01	18	Nothing	90	1896398	50340	1			50000		other	0
+training_01	18	Picture	response	1911579	65520	1	15171	1	65000	15000	miss	0
+training_01	18	Picture	blank2	1926750	80691	1	30176	1	80000	30000	other	0
+training_01	19	Picture	cross	1957092	0	1	4168	1	0	4000	other	0
+training_01	19	Picture	20	1962261	5168	1	15171	1	5000	15000	other	0
+training_01	19	Picture	cross	1977432	20340	1	30176	1	20000	30000	other	0
+training_01	19	Nothing	25	2007432	50340	1			50000		other	0
+training_01	19	Picture	response	2022612	65520	1	15171	1	65000	15000	miss	0
+training_01	19	Picture	blank2	2037784	80691	1	15171	1	80000	15000	other	0
+training_01	20	Picture	cross	2053122	0	1	4168	1	0	4000	other	0
+training_01	20	Picture	41	2058290	5168	1	15171	1	5000	15000	other	0
+training_01	20	Picture	cross	2073461	20340	1	30176	1	20000	30000	other	0
+training_01	20	Nothing	90	2103461	50340	1			50000		other	0
+training_01	20	Picture	response	2118642	65520	1	15171	1	65000	15000	miss	0
+training_01	20	Picture	blank2	2133813	80691	1	30176	1	80000	30000	other	0
+training_01	21	Picture	cross	2164155	0	1	4168	1	0	4000	other	0
+training_01	21	Picture	40	2169324	5168	1	15171	1	5000	15000	other	0
+training_01	21	Picture	cross	2184495	20340	1	30176	1	20000	30000	other	0
+training_01	21	Nothing	45	2214495	50340	1			50000		other	0
+training_01	21	Picture	response	2229675	65520	1	15171	1	65000	15000	miss	0
+training_01	21	Picture	blank2	2244847	80691	1	30176	1	80000	30000	other	0
+training_01	22	Picture	cross	2275189	0	1	4168	1	0	4000	other	0
+training_01	22	Picture	60	2280357	5168	1	15171	1	5000	15000	other	0
+training_01	22	Picture	cross	2295529	20340	1	30176	1	20000	30000	other	0
+training_01	22	Nothing	65	2325529	50340	1			50000		other	0
+training_01	22	Picture	response	2340709	65520	1	15171	1	65000	15000	miss	0
+training_01	22	Picture	blank2	2355880	80691	1	15171	1	80000	15000	other	0
+training_01	23	Picture	cross	2371218	0	1	4168	1	0	4000	other	0
+training_01	23	Picture	20	2376387	5168	1	15171	1	5000	15000	other	0
+training_01	23	Picture	cross	2391558	20340	1	30176	1	20000	30000	other	0
+training_01	23	Nothing	25	2421558	50340	1			50000		other	0
+training_01	23	Picture	response	2436738	65520	1	15171	1	65000	15000	miss	0
+training_01	23	Picture	blank2	2451910	80691	1	25174	1	80000	25000	other	0
+training_01	24	Picture	cross	2477251	0	1	4168	1	0	4000	other	0
+training_01	24	Picture	61	2482419	5168	1	15171	1	5000	15000	other	0
+training_01	24	Picture	cross	2497590	20340	1	30176	1	20000	30000	other	0
+training_01	24	Nothing	90	2527590	50340	1			50000		other	0
+training_01	24	Picture	response	2542771	65520	1	15171	1	65000	15000	miss	0
+training_01	24	Picture	blank2	2557942	80691	1	15171	1	80000	15000	other	0
+training_01	25	Picture	cross	2573280	0	1	4168	1	0	4000	other	0
+training_01	25	Picture	60	2578448	5168	1	15171	1	5000	15000	other	0
+training_01	25	Picture	cross	2593619	20340	1	30176	1	20000	30000	other	0
+training_01	25	Nothing	65	2623619	50340	1			50000		other	0
+training_01	25	Picture	response	2638800	65520	1	15171	1	65000	15000	miss	0
+training_01	25	Picture	blank2	2653971	80691	1	15171	1	80000	15000	other	0
+training_01	26	Picture	cross	2669309	0	1	4168	1	0	4000	other	0
+training_01	26	Picture	60	2674477	5168	1	15171	1	5000	15000	other	0
+training_01	26	Picture	cross	2689649	20340	1	30176	1	20000	30000	other	0
+training_01	26	Nothing	65	2719649	50340	1			50000		other	0
+training_01	26	Picture	response	2734829	65520	1	15171	1	65000	15000	miss	0
+training_01	26	Picture	blank2	2750000	80691	1	10170	1	80000	10000	other	0
+training_01	27	Picture	cross	2760337	0	1	4168	1	0	4000	other	0
+training_01	27	Picture	41	2765505	5168	1	15171	1	5000	15000	other	0
+training_01	27	Picture	cross	2780676	20340	1	30176	1	20000	30000	other	0
+training_01	27	Nothing	90	2810676	50340	1			50000		other	0
+training_01	27	Picture	response	2825857	65520	1	15171	1	65000	15000	miss	0
+training_01	27	Picture	blank2	2841028	80691	1	40179	1	80000	40000	other	0
+training_01	28	Picture	cross	2881374	0	1	4168	1	0	4000	other	0
+training_01	28	Picture	60	2886542	5168	1	15171	1	5000	15000	other	0
+training_01	28	Picture	cross	2901713	20340	1	30176	1	20000	30000	other	0
+training_01	28	Nothing	65	2931713	50340	1			50000		other	0
+training_01	28	Picture	response	2946894	65520	1	15171	1	65000	15000	miss	0
+training_01	28	Picture	blank2	2962065	80691	1	20173	1	80000	20000	other	0
+training_01	29	Picture	cross	2982404	0	1	4168	1	0	4000	other	0
+training_01	29	Picture	21	2987573	5168	1	15171	1	5000	15000	other	0
+training_01	29	Picture	cross	3002744	20340	1	30176	1	20000	30000	other	0
+training_01	29	Nothing	90	3032744	50340	1			50000		other	0
+training_01	29	Picture	response	3047924	65520	1	15171	1	65000	15000	miss	0
+training_01	29	Picture	blank2	3063096	80691	1	50015	1	80000	50000	other	0
+training_01	30	Picture	cross	3113278	0	1	4168	1	0	4000	other	0
+training_01	30	Picture	21	3118446	5168	1	15171	1	5000	15000	other	0
+training_01	30	Picture	cross	3133617	20340	1	30176	1	20000	30000	other	0
+training_01	30	Nothing	90	3163617	50340	1			50000		other	0
+training_01	30	Picture	response	3178798	65520	1	15171	1	65000	15000	miss	0
+training_01	30	Picture	blank2	3193969	80691	1	40179	1	80000	40000	other	0
+training_01	31	Picture	cross	3234314	0	1	4168	1	0	4000	other	0
+training_01	31	Picture	41	3239483	5168	1	15171	1	5000	15000	other	0
+training_01	31	Picture	cross	3254654	20340	1	30176	1	20000	30000	other	0
+training_01	31	Nothing	90	3284654	50340	1			50000		other	0
+training_01	31	Picture	response	3299834	65520	1	15171	1	65000	15000	miss	0
+training_01	31	Picture	blank2	3315006	80691	1	30176	1	80000	30000	other	0
+training_01	32	Picture	cross	3345348	0	1	4168	1	0	4000	other	0
+training_01	32	Picture	40	3350517	5168	1	15171	1	5000	15000	other	0
+training_01	32	Picture	cross	3365688	20340	1	30176	1	20000	30000	other	0
+training_01	32	Nothing	45	3395688	50340	1			50000		other	0
+training_01	32	Picture	response	3410868	65520	1	15171	1	65000	15000	miss	0
+training_01	32	Picture	blank2	3426039	80691	1	40179	1	80000	40000	other	0
+training_01	33	Picture	cross	3466385	0	1	4168	1	0	4000	other	0
+training_01	33	Picture	21	3471553	5168	1	15171	1	5000	15000	other	0
+training_01	33	Picture	cross	3486725	20340	1	30176	1	20000	30000	other	0
+training_01	33	Nothing	90	3516725	50340	1			50000		other	0
+training_01	33	Picture	response	3531905	65520	1	15171	1	65000	15000	miss	0
+training_01	33	Picture	blank2	3547076	80691	1	30176	1	80000	30000	other	0
+training_01	34	Picture	cross	3577419	0	1	4168	1	0	4000	other	0
+training_01	34	Picture	41	3582587	5168	1	15171	1	5000	15000	other	0
+training_01	34	Picture	cross	3597758	20340	1	30176	1	20000	30000	other	0
+training_01	34	Nothing	90	3627758	50340	1			50000		other	0
+training_01	34	Picture	response	3642939	65520	1	15171	1	65000	15000	miss	0
+training_01	34	Picture	blank2	3658110	80691	1	20173	1	80000	20000	other	0
+training_01	35	Picture	cross	3678450	0	1	4168	1	0	4000	other	0
+training_01	35	Picture	40	3683618	5168	1	15171	1	5000	15000	other	0
+training_01	35	Picture	cross	3698789	20340	1	30176	1	20000	30000	other	0
+training_01	35	Nothing	45	3728789	50340	1			50000		other	0
+training_01	35	Picture	response	3743970	65520	1	15171	1	65000	15000	miss	0
+training_01	35	Picture	blank2	3759141	80691	1	55017	1	80000	55000	other	0
+training_01	36	Picture	cross	3814324	0	1	4168	1	0	4000	other	0
+training_01	36	Picture	41	3819493	5168	1	15171	1	5000	15000	other	0
+training_01	36	Picture	cross	3834664	20340	1	30176	1	20000	30000	other	0
+training_01	36	Nothing	90	3864664	50340	1			50000		other	0
+training_01	36	Picture	response	3879844	65520	1	15171	1	65000	15000	miss	0
+training_01	36	Picture	blank2	3895016	80691	1	14283	1	80000	35000	other	0
+training_01	36	Quit		3903086	88761	NA

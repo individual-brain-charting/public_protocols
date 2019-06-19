@@ -1,0 +1,58 @@
+Scenario - loca_mvis_ts
+Logfile written - 06/12/2018 09:26:14
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub-12_ts	1	Picture	p_startup	10167	0	1	88065	1	0	88000	other	0
+sub-12_ts	1	Pulse	255	632452	622286	0
+sub-12_ts	2	Picture	p_startup	632518	0	1	88065	1	0	88000	other	0
+sub-12_ts	3	Picture	grid	720750	0	1	4065	1	0	4000	other	0
+sub-12_ts	3	Picture	41	724815	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	3	Picture	maintenance	739880	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	3	Nothing	90	769750	49000	1			49000		other	0
+sub-12_ts	3	Picture	test	784815	64065	1	15065	1	64000	15000	miss	0
+sub-12_ts	4	Picture	grid	800047	0	1	4065	1	0	4000	other	0
+sub-12_ts	4	Picture	60	804112	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	4	Picture	maintenance	819177	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	4	Nothing	65	849047	49000	1			49000		other	0
+sub-12_ts	4	Picture	test	864112	64065	1	25065	1	64000	25000	miss	0
+sub-12_ts	5	Picture	grid	889344	0	1	4065	1	0	4000	other	0
+sub-12_ts	5	Picture	41	893409	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	5	Picture	maintenance	908475	19131	1	30065	1	19000	30000	other	0
+sub-12_ts	5	Nothing	90	938344	49000	1			49000		other	0
+sub-12_ts	5	Picture	test	953409	64065	1	35065	1	64000	35000	miss	0
+sub-12_ts	6	Picture	grid	988641	0	1	4065	1	0	4000	other	0
+sub-12_ts	6	Picture	61	992706	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	6	Picture	maintenance	1007771	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	6	Nothing	90	1037641	49000	1			49000		other	0
+sub-12_ts	6	Picture	test	1052706	64065	1	15065	1	64000	15000	miss	0
+sub-12_ts	7	Picture	grid	1067938	0	1	4065	1	0	4000	other	0
+sub-12_ts	7	Picture	20	1072003	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	7	Picture	maintenance	1087068	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	7	Nothing	25	1116938	49000	1			49000		other	0
+sub-12_ts	7	Picture	test	1132003	64065	1	25065	1	64000	25000	miss	0
+sub-12_ts	8	Picture	grid	1157235	0	1	4065	1	0	4000	other	0
+sub-12_ts	8	Picture	40	1161300	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	8	Picture	maintenance	1176365	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	8	Nothing	45	1206235	49000	1			49000		other	0
+sub-12_ts	8	Picture	test	1221300	64065	1	40065	1	64000	40000	miss	0
+sub-12_ts	9	Picture	grid	1261532	0	1	4065	1	0	4000	other	0
+sub-12_ts	9	Picture	60	1265597	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	9	Picture	maintenance	1280662	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	9	Nothing	65	1310532	49000	1			49000		other	0
+sub-12_ts	9	Picture	test	1325597	64065	1	60065	1	64000	60000	miss	0
+sub-12_ts	10	Picture	grid	1385828	0	1	4065	1	0	4000	other	0
+sub-12_ts	10	Picture	61	1389893	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	10	Picture	maintenance	1404958	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	10	Nothing	90	1434828	49000	1			49000		other	0
+sub-12_ts	10	Picture	test	1449893	64065	1	30065	1	64000	30000	miss	0
+sub-12_ts	11	Picture	grid	1480125	0	1	4065	1	0	4000	other	0
+sub-12_ts	11	Picture	61	1484190	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	11	Picture	maintenance	1499255	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	11	Nothing	90	1529125	49000	1			49000		other	0
+sub-12_ts	11	Picture	test	1544190	64065	1	25065	1	64000	25000	miss	0
+sub-12_ts	12	Picture	grid	1569422	0	1	4065	1	0	4000	other	0
+sub-12_ts	12	Picture	20	1573487	4065	1	15065	1	4000	15000	other	0
+sub-12_ts	12	Picture	maintenance	1588551	19130	1	30065	1	19000	30000	other	0
+sub-12_ts	12	Nothing	25	1618422	49000	1			49000		other	0
+sub-12_ts	12	Picture	test	1633486	64065	1	15065	1	64000	15000	miss	0

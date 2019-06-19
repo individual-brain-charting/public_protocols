@@ -1,0 +1,53 @@
+Scenario - loca_moto
+Logfile written - 06/27/2018 09:04:04
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub-14_ts	0	Pulse	255	18464	18464	0
+sub-14_ts	1	Picture	Ins_main	18531	0	1	40065	1	0	40000	other	0
+sub-14_ts	2	Picture	11	78597	0	1	10065	1	0	10000	other	0
+sub-14_ts	3	Picture	11	103663	0	1	10065	1	0	10000	other	0
+sub-14_ts	4	Picture	11	128730	0	1	10065	1	0	10000	other	0
+sub-14_ts	5	Picture	12	153796	0	1	10065	1	0	10000	other	0
+sub-14_ts	6	Picture	12	178862	0	1	10065	1	0	10000	other	0
+sub-14_ts	7	Picture	12	203928	0	1	10065	1	0	10000	other	0
+sub-14_ts	8	Picture	Bfix	228994	0	1	30068	1	0	30000	other	0
+sub-14_ts	9	Picture	Ins_index	259061	0	1	40065	1	0	40000	other	0
+sub-14_ts	10	Picture	21	319127	0	1	10065	1	0	10000	other	0
+sub-14_ts	11	Picture	21	344193	0	1	10065	1	0	10000	other	0
+sub-14_ts	12	Picture	21	369259	0	1	10065	1	0	10000	other	0
+sub-14_ts	13	Picture	22	394325	0	1	10065	1	0	10000	other	0
+sub-14_ts	14	Picture	22	419391	0	1	10065	1	0	10000	other	0
+sub-14_ts	15	Picture	22	444456	0	1	10065	1	0	10000	other	0
+sub-14_ts	16	Picture	Bfix	469522	0	1	30067	1	0	30000	other	0
+sub-14_ts	17	Picture	Ins_yeux	499589	0	1	40065	1	0	40000	other	0
+sub-14_ts	18	Picture	31	559655	0	1	10065	1	0	10000	other	0
+sub-14_ts	19	Picture	31	584720	0	1	10065	1	0	10000	other	0
+sub-14_ts	20	Picture	31	609786	0	1	10065	1	0	10000	other	0
+sub-14_ts	21	Picture	32	634852	0	1	10065	1	0	10000	other	0
+sub-14_ts	22	Picture	32	659918	0	1	10065	1	0	10000	other	0
+sub-14_ts	23	Picture	32	684984	0	1	10065	1	0	10000	other	0
+sub-14_ts	24	Picture	Bfix	710049	0	1	30067	1	0	30000	other	0
+sub-14_ts	25	Picture	Ins_jambe	740116	0	1	40065	1	0	40000	other	0
+sub-14_ts	26	Picture	51	800182	0	1	10065	1	0	10000	other	0
+sub-14_ts	27	Picture	51	825248	0	1	10065	1	0	10000	other	0
+sub-14_ts	28	Picture	51	850314	0	1	10065	1	0	10000	other	0
+sub-14_ts	29	Picture	52	875379	0	1	10065	1	0	10000	other	0
+sub-14_ts	30	Picture	52	900445	0	1	10065	1	0	10000	other	0
+sub-14_ts	31	Picture	52	925511	0	1	10065	1	0	10000	other	0
+sub-14_ts	32	Picture	Bfix	950576	0	1	30065	1	0	30000	other	0
+sub-14_ts	33	Picture	Ins_bouche	980808	0	1	40065	1	0	40000	other	0
+sub-14_ts	34	Picture	61	1040874	0	1	10065	1	0	10000	other	0
+sub-14_ts	35	Picture	61	1065939	0	1	10065	1	0	10000	other	0
+sub-14_ts	36	Picture	61	1091005	0	1	10065	1	0	10000	other	0
+sub-14_ts	37	Picture	62	1116071	0	1	10065	1	0	10000	other	0
+sub-14_ts	38	Picture	62	1141137	0	1	10065	1	0	10000	other	0
+sub-14_ts	39	Picture	62	1166202	0	1	10065	1	0	10000	other	0
+sub-14_ts	40	Picture	Bfix	1191268	0	1	30067	1	0	30000	other	0
+sub-14_ts	41	Picture	Ins_repos	1221336	0	1	40065	1	0	40000	other	0
+sub-14_ts	42	Picture	71	1281401	0	1	10065	1	0	10000	other	0
+sub-14_ts	43	Picture	71	1306468	0	1	10065	1	0	10000	other	0
+sub-14_ts	44	Picture	71	1331533	0	1	10065	1	0	10000	other	0
+sub-14_ts	45	Picture	72	1356599	0	1	10065	1	0	10000	other	0
+sub-14_ts	46	Picture	72	1381665	0	1	10065	1	0	10000	other	0
+sub-14_ts	47	Picture	72	1406731	0	1	10065	1	0	10000	other	0

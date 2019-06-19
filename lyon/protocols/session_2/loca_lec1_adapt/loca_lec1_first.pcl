@@ -1,0 +1,161 @@
+double i_lag_y = 100.0; # should be the same as lag_y in the sce file
+# integer = entier ; double = décimal. Peut pas multipler un interger par un double, dc passe tout dans le même mode
+stimulus_data stim;
+int i_resp_type;
+string a_feedback;
+string a_string_feedback;
+
+/*
+sub
+	display_pause
+begin
+	t_pause.present()
+end;
+*/
+sub
+	display_change(int i_nextcode, int& i_score)
+begin
+	# finally, you change the position where string will be shown, and luminance of cross signs
+
+	i_score = 0;
+	
+   if (i_nextcode==10) then # words are shown on top
+		c_fix_sem.set_font_color(255,255,255);
+		c_fix_pho.set_font_color(64,64,64);
+		c_fix_vis.set_font_color(64,64,64);
+		c_fix_sem.redraw();
+		c_fix_pho.redraw();
+		c_fix_vis.redraw();
+	end;	
+   if (i_nextcode==20) then # pseudowords are shown on mid
+		c_fix_sem.set_font_color(64,64,64);
+		c_fix_pho.set_font_color(255,255,255);
+		c_fix_vis.set_font_color(64,64,64);
+		c_fix_sem.redraw();
+		c_fix_pho.redraw();
+		c_fix_vis.redraw();
+	end;	
+   if (i_nextcode==30) then # strings are shown on bottom
+		c_fix_sem.set_font_color(64,64,64);
+		c_fix_pho.set_font_color(64,64,64);
+		c_fix_vis.set_font_color(255,255,255);
+		c_fix_sem.redraw();
+		c_fix_pho.redraw();
+		c_fix_vis.redraw();
+	end;	
+
+	s_change.set_event_code("change_to_" + string(i_nextcode + 5));
+	s_change.set_port_code(i_nextcode + 5);
+	#EyeLink.send_string(string(i_nextcode + 5));
+	t_change.present()
+end;
+
+
+sub
+   display_trial(string a_string, int i_code, int i_yesno, int& i_score)
+begin
+
+   # first, you change the character string
+   c_string.set_caption(a_string);
+   c_string.redraw();
+
+	
+   # second, you change the codes
+   s_string.set_event_code(string(i_code));
+   s_string.set_port_code(i_code);
+   #EyeLink.send_string(string(i_code));
+   
+   # third, you change the target button
+   s_string.set_target_button(i_yesno);
+
+	# finally, you change the position where string will be shown, and luminance of cross signs
+
+   if (i_code==10) then # words are shown on top
+		c_fix_sem.set_font_color(255,255,255);
+		c_fix_pho.set_font_color(64,64,64);
+		c_fix_vis.set_font_color(64,64,64);
+		p_string.set_part_y(7,1.5*i_lag_y); # the string is part number 7
+		c_fix_sem.redraw();
+		c_fix_pho.redraw();
+		c_fix_vis.redraw();
+	end;	
+   if (i_code==20) then # pseudowords are shown on mid
+		c_fix_sem.set_font_color(64,64,64);
+		c_fix_pho.set_font_color(255,255,255);
+		c_fix_vis.set_font_color(64,64,64);
+		p_string.set_part_y(7,0); # the string is part number 7
+		c_fix_sem.redraw();
+		c_fix_pho.redraw();
+		c_fix_vis.redraw();
+	end;	
+   if (i_code==30) then # strings are shown on bottom
+		c_fix_sem.set_font_color(64,64,64);
+		c_fix_pho.set_font_color(64,64,64);
+		c_fix_vis.set_font_color(255,255,255);
+		p_string.set_part_y(7,-1.5*i_lag_y); # the string is part number 7
+		c_fix_sem.redraw();
+		c_fix_pho.redraw();
+		c_fix_vis.redraw();
+	end;	
+
+
+	t_trial.present();
+
+	# feedback - to be completed
+	stim = stimulus_manager.last_stimulus_data();
+	i_resp_type = stim.type();
+	if (i_resp_type == stimulus_hit) then
+		i_score = i_score + 1;
+	end;
+	if (i_resp_type == stimulus_incorrect) then
+		# no point
+	end;
+	if (i_resp_type == stimulus_miss) then
+		# no point
+	end;
+	if (i_resp_type == stimulus_false_alarm) then
+		# no point
+	end;
+	if (i_resp_type == stimulus_other) then
+		# no point
+	end;
+	
+end;
+
+
+/*sub
+	display_score(int i_this_score)
+begin                        
+	
+	if (i_this_score < 1) then
+		a_string_feedback = string(i_this_score) + " sur 5 ... oups !";
+		a_feedback = "fb_0.jpg";
+	elseif (i_this_score < 2) then
+		a_string_feedback = string(i_this_score) + " sur 5 ... bof !";
+		a_feedback = "fb_1.jpg";
+	elseif (i_this_score < 3) then
+		a_string_feedback = string(i_this_score) + " sur 5 ... mouais !!";
+		a_feedback = "fb_2.jpg";
+	elseif (i_this_score < 4) then
+		a_string_feedback = string(i_this_score) + " sur 5 ... bien !!";
+		a_feedback = "fb_3.jpg";
+	elseif (i_this_score < 5) then
+		a_string_feedback = string(i_this_score) + " sur 5 ... super !!";
+		a_feedback = "fb_4.jpg";
+	else
+		a_string_feedback = string(i_this_score) + " sur 5 ... parfait !";
+		a_feedback = "fb_5.jpg";
+	end;
+	
+	se_score.set_port_code(110 + i_this_score);
+	se_score.set_event_code("score_" + string(110 + i_this_score));
+	#EyeLink.send_string(string(110 + i_this_score));
+	c_score.set_caption(a_string_feedback);
+	c_score.redraw();
+	b_score.unload();
+   b_score.set_filename(a_feedback);
+   b_score.load();
+   
+   t_score.present();
+
+end;*/

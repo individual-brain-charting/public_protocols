@@ -1,0 +1,8 @@
+Scenario - loca_moto
+Logfile written - 05/28/2018 13:34:02
+
+Subject	Pulse	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+test	1	Pulse	255	18043	18043	0
+test	1	Picture	Ins_main	18111	18111	1	41987	1	0	40000	other	0
+test	1	Quit		55091	55091	NA

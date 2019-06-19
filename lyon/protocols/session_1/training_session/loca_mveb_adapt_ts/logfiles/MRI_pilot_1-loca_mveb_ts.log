@@ -1,0 +1,215 @@
+Scenario - loca_mveb_ts
+Logfile written - 05/17/2018 10:15:37
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+MRI_pilot_1	1	Picture	p_startup	10167	0	1	100065	1	0	100000	other	0
+MRI_pilot_1	1	Pulse	255	983662	973496	0
+MRI_pilot_1	2	Picture	p_startup	983729	0	1	100065	1	0	100000	other	0
+MRI_pilot_1	3	Picture	cross	1083961	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	3	Picture	61	1089026	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	3	Picture	cross	1104091	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	3	Nothing	90	1134091	50130	1			50000		other	0
+MRI_pilot_1	3	Picture	response	1149156	65195	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	3	Picture	blank2	1164221	80260	1	15065	1	80000	15000	other	0
+MRI_pilot_1	4	Picture	cross	1179452	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	4	Picture	40	1184517	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	4	Picture	cross	1199582	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	4	Nothing	45	1229582	50130	1			50000		other	0
+MRI_pilot_1	4	Picture	response	1244647	65195	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	4	Picture	blank2	1259712	80260	1	15065	1	80000	15000	other	0
+MRI_pilot_1	5	Picture	cross	1274943	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	5	Picture	60	1280009	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	5	Picture	cross	1295074	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	5	Nothing	65	1325074	50130	1			50000		other	0
+MRI_pilot_1	5	Picture	response	1340138	65195	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	5	Picture	blank2	1355203	80260	1	15065	1	80000	15000	other	0
+MRI_pilot_1	6	Picture	cross	1370435	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	6	Picture	40	1375500	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	6	Picture	cross	1390565	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	6	Nothing	45	1420565	50130	1			50000		other	0
+MRI_pilot_1	6	Picture	response	1435629	65195	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	6	Picture	blank2	1450694	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	7	Picture	cross	1480925	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	7	Picture	60	1485990	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	7	Picture	cross	1501055	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	7	Nothing	65	1531055	50130	1			50000		other	0
+MRI_pilot_1	7	Picture	response	1546120	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	7	Picture	blank2	1561184	80259	1	45065	1	80000	45000	other	0
+MRI_pilot_1	8	Picture	cross	1606416	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	8	Picture	40	1611481	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	8	Picture	cross	1626545	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	8	Nothing	45	1656545	50130	1			50000		other	0
+MRI_pilot_1	8	Picture	response	1671610	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	8	Picture	blank2	1686675	80259	1	40065	1	80000	40000	other	0
+MRI_pilot_1	9	Picture	cross	1726906	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	9	Picture	61	1731971	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	9	Picture	cross	1747036	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	9	Nothing	90	1777036	50130	1			50000		other	0
+MRI_pilot_1	9	Picture	response	1792101	65195	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	9	Picture	blank2	1807165	80259	1	45065	1	80000	45000	other	0
+MRI_pilot_1	10	Picture	cross	1852397	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	10	Picture	40	1857462	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	10	Picture	cross	1872527	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	10	Nothing	45	1902527	50130	1			50000		other	0
+MRI_pilot_1	10	Picture	response	1917591	65195	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	10	Picture	blank2	1932656	80259	1	40065	1	80000	40000	other	0
+MRI_pilot_1	11	Picture	cross	1972887	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	11	Picture	20	1977952	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	11	Picture	cross	1993017	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	11	Nothing	25	2023017	50130	1			50000		other	0
+MRI_pilot_1	11	Picture	response	2038082	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	11	Picture	blank2	2053146	80259	1	20065	1	80000	20000	other	0
+MRI_pilot_1	12	Picture	cross	2073377	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	12	Picture	41	2078442	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	12	Picture	cross	2093507	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	12	Nothing	90	2123507	50130	1			50000		other	0
+MRI_pilot_1	12	Picture	response	2138572	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	12	Picture	blank2	2153636	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	13	Picture	cross	2183868	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	13	Picture	40	2188933	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	13	Picture	cross	2203997	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	13	Nothing	45	2233997	50130	1			50000		other	0
+MRI_pilot_1	13	Picture	response	2249062	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	13	Picture	blank2	2264127	80259	1	40065	1	80000	40000	other	0
+MRI_pilot_1	14	Picture	cross	2304358	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	14	Picture	21	2309423	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	14	Picture	cross	2324488	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	14	Nothing	90	2354488	50130	1			50000		other	0
+MRI_pilot_1	14	Picture	response	2369552	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	14	Picture	blank2	2384617	80259	1	20065	1	80000	20000	other	0
+MRI_pilot_1	15	Picture	cross	2404848	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	15	Picture	60	2409913	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	15	Picture	cross	2424978	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	15	Nothing	65	2454978	50130	1			50000		other	0
+MRI_pilot_1	15	Picture	response	2470042	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	15	Picture	blank2	2485107	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	16	Picture	cross	2515339	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	16	Picture	21	2520404	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	16	Picture	cross	2535468	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	16	Nothing	90	2565468	50130	1			50000		other	0
+MRI_pilot_1	16	Picture	response	2580533	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	16	Picture	blank2	2595598	80259	1	15065	1	80000	15000	other	0
+MRI_pilot_1	17	Picture	cross	2610829	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	17	Picture	61	2615894	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	17	Picture	cross	2630958	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	17	Nothing	90	2660958	50130	1			50000		other	0
+MRI_pilot_1	17	Picture	response	2676023	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	17	Picture	blank2	2691088	80259	1	20065	1	80000	20000	other	0
+MRI_pilot_1	18	Picture	cross	2711319	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	18	Picture	21	2716384	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	18	Picture	cross	2731449	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	18	Nothing	90	2761449	50130	1			50000		other	0
+MRI_pilot_1	18	Picture	response	2776513	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	18	Picture	blank2	2791578	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	19	Picture	cross	2821810	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	19	Picture	20	2826875	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	19	Picture	cross	2841939	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	19	Nothing	25	2871939	50130	1			50000		other	0
+MRI_pilot_1	19	Picture	response	2887004	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	19	Picture	blank2	2902068	80259	1	15065	1	80000	15000	other	0
+MRI_pilot_1	20	Picture	cross	2917300	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	20	Picture	41	2922365	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	20	Picture	cross	2937430	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	20	Nothing	90	2967430	50130	1			50000		other	0
+MRI_pilot_1	20	Picture	response	2982494	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	20	Picture	blank2	2997559	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	21	Picture	cross	3027790	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	21	Picture	40	3032855	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	21	Picture	cross	3047920	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	21	Nothing	45	3077920	50129	1			50000		other	0
+MRI_pilot_1	21	Picture	response	3092984	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	21	Picture	blank2	3108049	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	22	Picture	cross	3138280	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	22	Picture	60	3143345	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	22	Picture	cross	3158410	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	22	Nothing	65	3188410	50130	1			50000		other	0
+MRI_pilot_1	22	Picture	response	3203474	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	22	Picture	blank2	3218539	80259	1	15183	1	80000	15000	other	0
+MRI_pilot_1	23	Picture	cross	3233888	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	23	Picture	20	3238953	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	23	Picture	cross	3254018	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	23	Nothing	25	3284018	50130	1			50000		other	0
+MRI_pilot_1	23	Picture	response	3299082	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	23	Picture	blank2	3314147	80259	1	25065	1	80000	25000	other	0
+MRI_pilot_1	24	Picture	cross	3339378	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	24	Picture	61	3344443	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	24	Picture	cross	3359508	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	24	Nothing	90	3389508	50130	1			50000		other	0
+MRI_pilot_1	24	Picture	response	3404572	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	24	Picture	blank2	3419637	80259	1	15065	1	80000	15000	other	0
+MRI_pilot_1	25	Picture	cross	3434869	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	25	Picture	60	3439933	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	25	Picture	cross	3454998	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	25	Nothing	65	3484998	50129	1			50000		other	0
+MRI_pilot_1	25	Picture	response	3500063	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	25	Picture	blank2	3515127	80259	1	15065	1	80000	15000	other	0
+MRI_pilot_1	26	Picture	cross	3530359	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	26	Picture	60	3535424	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	26	Picture	cross	3550488	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	26	Nothing	65	3580488	50129	1			50000		other	0
+MRI_pilot_1	26	Picture	response	3595553	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	26	Picture	blank2	3610618	80259	1	10065	1	80000	10000	other	0
+MRI_pilot_1	27	Picture	cross	3620849	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	27	Picture	41	3625914	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	27	Picture	cross	3640978	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	27	Nothing	90	3670978	50129	1			50000		other	0
+MRI_pilot_1	27	Picture	response	3686043	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	27	Picture	blank2	3701107	80259	1	40065	1	80000	40000	other	0
+MRI_pilot_1	28	Picture	cross	3741339	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	28	Picture	60	3746404	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	28	Picture	cross	3761468	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	28	Nothing	65	3791468	50129	1			50000		other	0
+MRI_pilot_1	28	Picture	response	3806533	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	28	Picture	blank2	3821598	80259	1	20065	1	80000	20000	other	0
+MRI_pilot_1	29	Picture	cross	3841829	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	29	Picture	21	3846894	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	29	Picture	cross	3861958	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	29	Nothing	90	3891958	50129	1			50000		other	0
+MRI_pilot_1	29	Picture	response	3907023	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	29	Picture	blank2	3922088	80259	1	50065	1	80000	50000	other	0
+MRI_pilot_1	30	Picture	cross	3972319	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	30	Picture	21	3977384	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	30	Picture	cross	3992449	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	30	Nothing	90	4022449	50130	1			50000		other	0
+MRI_pilot_1	30	Picture	response	4037513	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	30	Picture	blank2	4052578	80259	1	40065	1	80000	40000	other	0
+MRI_pilot_1	31	Picture	cross	4092809	0	1	4064	1	0	4000	other	0
+MRI_pilot_1	31	Picture	41	4097874	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	31	Picture	cross	4112939	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	31	Nothing	90	4142939	50130	1			50000		other	0
+MRI_pilot_1	31	Picture	response	4158003	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	31	Picture	blank2	4173068	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	32	Picture	cross	4203299	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	32	Picture	40	4208364	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	32	Picture	cross	4223429	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	32	Nothing	45	4253429	50129	1			50000		other	0
+MRI_pilot_1	32	Picture	response	4268493	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	32	Picture	blank2	4283558	80259	1	40065	1	80000	40000	other	0
+MRI_pilot_1	33	Picture	cross	4323789	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	33	Picture	21	4328854	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	33	Picture	cross	4343919	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	33	Nothing	90	4373919	50129	1			50000		other	0
+MRI_pilot_1	33	Picture	response	4388983	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	33	Picture	blank2	4404048	80259	1	30065	1	80000	30000	other	0
+MRI_pilot_1	34	Picture	cross	4434280	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	34	Picture	41	4439345	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	34	Picture	cross	4454409	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	34	Nothing	90	4484409	50130	1			50000		other	0
+MRI_pilot_1	34	Picture	response	4499474	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	34	Picture	blank2	4514539	80259	1	20065	1	80000	20000	other	0
+MRI_pilot_1	35	Picture	cross	4534770	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	35	Picture	40	4539835	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	35	Picture	cross	4554900	20130	1	30066	1	20000	30000	other	0
+MRI_pilot_1	35	Nothing	45	4584900	50130	1			50000		other	0
+MRI_pilot_1	35	Picture	response	4599964	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	35	Picture	blank2	4615029	80259	1	55065	1	80000	55000	other	0
+MRI_pilot_1	36	Picture	cross	4670260	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	36	Picture	41	4675325	5065	1	15065	1	5000	15000	other	0
+MRI_pilot_1	36	Picture	cross	4690390	20129	1	30066	1	20000	30000	other	0
+MRI_pilot_1	36	Nothing	90	4720390	50129	1			50000		other	0
+MRI_pilot_1	36	Picture	response	4735454	65194	1	15065	1	65000	15000	miss	0
+MRI_pilot_1	36	Picture	blank2	4750519	80259	1	35065	1	80000	35000	other	0
+MRI_pilot_1	37	Picture	cross	4785750	0	1	4065	1	0	4000	other	0
+MRI_pilot_1	37	Picture	60	4790815	5065	1	12779	1	5000	15000	other	0
+MRI_pilot_1	37	Quit		4797997	12246	NA

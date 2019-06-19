@@ -1,0 +1,1182 @@
+Scenario - loca_audi_bis
+Logfile written - 07/16/2018 14:50:11
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub-06_2	0	Pulse	255	576717	576717	0
+sub-06_2	1	Nothing	cut	576943	0	1			0		other	0
+sub-06_2	1	Nothing	cut	581943	5000	1			5000		other	0
+sub-06_2	2	Pulse	255	596718	9666	0
+sub-06_2	2	Pulse	255	616718	29666	0
+sub-06_2	2	Sound	start_sound	617052	30000	17986			30000		other	0
+sub-06_2	2	Nothing	pleur	635038	47986	1			45000		other	0
+sub-06_2	2	Pulse	255	636717	49666	0
+sub-06_2	2	Nothing	pleur	637052	50000	1			50000		other	0
+sub-06_2	2	Nothing	pleur	642052	55000	1			55000		other	0
+sub-06_2	2	Nothing	pleur	647052	60000	1			60000		other	0
+sub-06_2	2	Nothing	pleur	652052	65000	1			65000		other	0
+sub-06_2	2	Pulse	255	656717	69666	0
+sub-06_2	2	Nothing	pleur	657052	70000	1			70000		other	0
+sub-06_2	2	Nothing	pleur	662052	75000	1			75000		other	0
+sub-06_2	2	Nothing	pleur	667052	80000	1			80000		other	0
+sub-06_2	2	Nothing	pleur	672052	85000	1			85000		other	0
+sub-06_2	2	Pulse	255	676718	89666	0
+sub-06_2	2	Nothing	pleur	677052	90000	1			90000		other	0
+sub-06_2	2	Nothing	pleur	682052	95000	1			95000		other	0
+sub-06_2	2	Nothing	pleur	687052	100000	1			100000		other	0
+sub-06_2	2	Nothing	pleur	692052	105000	1			105000		other	0
+sub-06_2	2	Pulse	255	696718	109666	0
+sub-06_2	2	Nothing	pleur	697052	110000	1			110000		other	0
+sub-06_2	2	Nothing	pleur	702052	115000	1			115000		other	0
+sub-06_2	2	Nothing	pleur	707052	120000	1			120000		other	0
+sub-06_2	2	Nothing	pleur	712052	125000	1			125000		other	0
+sub-06_2	2	Pulse	255	716718	129666	0
+sub-06_2	2	Nothing	pleur	717052	130000	1			130000		other	0
+sub-06_2	2	Nothing	pleur	722052	135000	1			135000		other	0
+sub-06_2	2	Nothing	pleur	727052	140000	1			140000		other	0
+sub-06_2	2	Pulse	255	736718	149666	0
+sub-06_2	2	Pulse	255	756718	169667	0
+sub-06_2	3	Pulse	255	776719	19113	0
+sub-06_2	3	Sound	start_sound	787606	30000	2			30000		other	0
+sub-06_2	3	Pulse	255	796718	39112	0
+sub-06_2	3	Nothing	suomi	802606	45000	1			45000		other	0
+sub-06_2	3	Nothing	suomi	807606	50000	1			50000		other	0
+sub-06_2	3	Nothing	suomi	812606	55000	1			55000		other	0
+sub-06_2	3	Pulse	255	816717	59111	0
+sub-06_2	3	Nothing	suomi	817606	60000	1			60000		other	0
+sub-06_2	3	Nothing	suomi	822606	65000	1			65000		other	0
+sub-06_2	3	Nothing	suomi	827606	70000	1			70000		other	0
+sub-06_2	3	Nothing	suomi	832606	75000	1			75000		other	0
+sub-06_2	3	Pulse	255	836718	79112	0
+sub-06_2	3	Nothing	suomi	837609	80003	1			80000		other	0
+sub-06_2	3	Nothing	suomi	842606	85000	1			85000		other	0
+sub-06_2	3	Nothing	suomi	847606	90000	1			90000		other	0
+sub-06_2	3	Nothing	suomi	852606	95000	1			95000		other	0
+sub-06_2	3	Pulse	255	856719	99113	0
+sub-06_2	3	Nothing	suomi	857606	100000	1			100000		other	0
+sub-06_2	3	Nothing	suomi	862606	105000	1			105000		other	0
+sub-06_2	3	Nothing	suomi	867606	110000	1			110000		other	0
+sub-06_2	3	Nothing	suomi	872606	115000	1			115000		other	0
+sub-06_2	3	Pulse	255	876718	119112	0
+sub-06_2	3	Nothing	suomi	877606	120000	1			120000		other	0
+sub-06_2	3	Nothing	suomi	882606	125000	1			125000		other	0
+sub-06_2	3	Nothing	suomi	887606	130000	1			130000		other	0
+sub-06_2	3	Nothing	suomi	892606	135000	1			135000		other	0
+sub-06_2	3	Pulse	255	896718	139112	0
+sub-06_2	3	Nothing	suomi	897606	140000	1			140000		other	0
+sub-06_2	3	Pulse	255	916718	159112	0
+sub-06_2	4	Pulse	255	936718	8560	0
+sub-06_2	4	Pulse	255	956718	28560	0
+sub-06_2	4	Sound	start_sound	958158	30000	2			30000		other	0
+sub-06_2	4	Nothing	yawny	973158	45000	1			45000		other	0
+sub-06_2	4	Pulse	255	976719	48561	0
+sub-06_2	4	Nothing	yawny	978158	50000	1			50000		other	0
+sub-06_2	4	Nothing	yawny	983158	55000	1			55000		other	0
+sub-06_2	4	Nothing	yawny	988158	60000	1			60000		other	0
+sub-06_2	4	Nothing	yawny	993158	65000	1			65000		other	0
+sub-06_2	4	Pulse	255	996719	68561	0
+sub-06_2	4	Nothing	yawny	998158	70000	1			70000		other	0
+sub-06_2	4	Nothing	yawny	1003158	75000	1			75000		other	0
+sub-06_2	4	Nothing	yawny	1008158	80000	1			80000		other	0
+sub-06_2	4	Nothing	yawny	1013158	85000	1			85000		other	0
+sub-06_2	4	Pulse	255	1016719	88561	0
+sub-06_2	4	Nothing	yawny	1018158	90000	1			90000		other	0
+sub-06_2	4	Nothing	yawny	1023158	95000	1			95000		other	0
+sub-06_2	4	Nothing	yawny	1028158	100000	1			100000		other	0
+sub-06_2	4	Nothing	yawny	1033158	105000	1			105000		other	0
+sub-06_2	4	Pulse	255	1036718	108560	0
+sub-06_2	4	Nothing	yawny	1038158	110000	1			110000		other	0
+sub-06_2	4	Nothing	yawny	1043158	115000	1			115000		other	0
+sub-06_2	4	Nothing	yawny	1048158	120000	1			120000		other	0
+sub-06_2	4	Nothing	yawny	1053158	125000	1			125000		other	0
+sub-06_2	4	Pulse	255	1056718	128560	0
+sub-06_2	4	Nothing	yawny	1058158	130000	1			130000		other	0
+sub-06_2	4	Nothing	yawny	1063158	135000	1			135000		other	0
+sub-06_2	4	Nothing	yawny	1068158	140000	1			140000		other	0
+sub-06_2	4	Pulse	255	1076718	148560	0
+sub-06_2	4	Pulse	255	1096719	168561	0
+sub-06_2	5	Pulse	255	1116719	18007	0
+sub-06_2	5	Sound	start_sound	1128712	30000	2			30000		other	0
+sub-06_2	5	Pulse	255	1136719	38008	0
+sub-06_2	5	Nothing	human	1143712	45000	1			45000		other	0
+sub-06_2	5	Nothing	human	1148712	50000	1			50000		other	0
+sub-06_2	5	Nothing	human	1153712	55000	1			55000		other	0
+sub-06_2	5	Pulse	255	1156718	58007	0
+sub-06_2	5	Nothing	human	1158712	60000	1			60000		other	0
+sub-06_2	5	Nothing	human	1163712	65000	1			65000		other	0
+sub-06_2	5	Nothing	human	1168712	70000	1			70000		other	0
+sub-06_2	5	Nothing	human	1173712	75000	1			75000		other	0
+sub-06_2	5	Pulse	255	1176719	78007	0
+sub-06_2	5	Nothing	human	1178712	80000	1			80000		other	0
+sub-06_2	5	Nothing	human	1183712	85000	1			85000		other	0
+sub-06_2	5	Nothing	human	1188712	90000	1			90000		other	0
+sub-06_2	5	Nothing	human	1193712	95000	1			95000		other	0
+sub-06_2	5	Pulse	255	1196719	98007	0
+sub-06_2	5	Nothing	human	1198712	100000	1			100000		other	0
+sub-06_2	5	Nothing	human	1203712	105000	1			105000		other	0
+sub-06_2	5	Nothing	human	1208712	110000	1			110000		other	0
+sub-06_2	5	Nothing	human	1213712	115000	1			115000		other	0
+sub-06_2	5	Pulse	255	1216719	118007	0
+sub-06_2	5	Nothing	human	1218712	120000	1			120000		other	0
+sub-06_2	5	Nothing	human	1223712	125000	1			125000		other	0
+sub-06_2	5	Nothing	human	1228712	130000	1			130000		other	0
+sub-06_2	5	Nothing	human	1233712	135000	1			135000		other	0
+sub-06_2	5	Pulse	255	1236719	138007	0
+sub-06_2	5	Nothing	human	1238712	140000	1			140000		other	0
+sub-06_2	5	Pulse	255	1256719	158008	0
+sub-06_2	6	Pulse	255	1276719	7453	0
+sub-06_2	6	Pulse	255	1296719	27453	0
+sub-06_2	6	Sound	start_sound	1299266	30000	1			30000		other	0
+sub-06_2	6	Nothing	silen	1314266	45000	1			45000		other	0
+sub-06_2	6	Pulse	255	1316719	47453	0
+sub-06_2	6	Nothing	silen	1319266	50000	1			50000		other	0
+sub-06_2	6	Nothing	silen	1324266	55000	1			55000		other	0
+sub-06_2	6	Nothing	silen	1329266	60000	1			60000		other	0
+sub-06_2	6	Nothing	silen	1334266	65000	1			65000		other	0
+sub-06_2	6	Pulse	255	1336719	67453	0
+sub-06_2	6	Nothing	silen	1339266	70000	1			70000		other	0
+sub-06_2	6	Nothing	silen	1344266	75000	1			75000		other	0
+sub-06_2	6	Nothing	silen	1349266	80000	1			80000		other	0
+sub-06_2	6	Nothing	silen	1354266	85000	1			85000		other	0
+sub-06_2	6	Pulse	255	1356720	87453	0
+sub-06_2	6	Nothing	silen	1359266	90000	1			90000		other	0
+sub-06_2	6	Nothing	silen	1364266	95000	1			95000		other	0
+sub-06_2	6	Nothing	silen	1369266	100000	1			100000		other	0
+sub-06_2	6	Nothing	silen	1374266	105000	1			105000		other	0
+sub-06_2	6	Pulse	255	1376719	107453	0
+sub-06_2	6	Nothing	silen	1379266	110000	1			110000		other	0
+sub-06_2	6	Nothing	silen	1384266	115000	1			115000		other	0
+sub-06_2	6	Nothing	silen	1389266	120000	1			120000		other	0
+sub-06_2	6	Nothing	silen	1394266	125000	1			125000		other	0
+sub-06_2	6	Pulse	255	1396720	127454	0
+sub-06_2	6	Nothing	silen	1399266	130000	1			130000		other	0
+sub-06_2	6	Nothing	silen	1404266	135000	1			135000		other	0
+sub-06_2	6	Nothing	silen	1409266	140000	1			140000		other	0
+sub-06_2	6	Pulse	255	1416719	147453	0
+sub-06_2	6	Pulse	255	1436719	167453	0
+sub-06_2	7	Pulse	255	1456719	16898	0
+sub-06_2	7	Sound	start_sound	1469821	30000	2			30000		other	0
+sub-06_2	7	Pulse	255	1476719	36898	0
+sub-06_2	7	Nothing	music	1484821	45000	1			45000		other	0
+sub-06_2	7	Nothing	music	1489821	50000	1			50000		other	0
+sub-06_2	7	Nothing	music	1494821	55000	1			55000		other	0
+sub-06_2	7	Pulse	255	1496719	56899	0
+sub-06_2	7	Nothing	music	1499821	60000	1			60000		other	0
+sub-06_2	7	Nothing	music	1504821	65000	1			65000		other	0
+sub-06_2	7	Nothing	music	1509821	70000	1			70000		other	0
+sub-06_2	7	Nothing	music	1514821	75000	1			75000		other	0
+sub-06_2	7	Pulse	255	1516719	76898	0
+sub-06_2	7	Nothing	music	1519821	80000	1			80000		other	0
+sub-06_2	7	Nothing	music	1524821	85000	1			85000		other	0
+sub-06_2	7	Nothing	music	1529821	90000	1			90000		other	0
+sub-06_2	7	Nothing	music	1534821	95000	1			95000		other	0
+sub-06_2	7	Pulse	255	1536719	96898	0
+sub-06_2	7	Nothing	music	1539821	100000	1			100000		other	0
+sub-06_2	7	Nothing	music	1544821	105000	1			105000		other	0
+sub-06_2	7	Nothing	music	1549821	110000	1			110000		other	0
+sub-06_2	7	Nothing	music	1554821	115000	1			115000		other	0
+sub-06_2	7	Pulse	255	1556719	116899	0
+sub-06_2	7	Nothing	music	1559821	120000	1			120000		other	0
+sub-06_2	7	Nothing	music	1564821	125000	1			125000		other	0
+sub-06_2	7	Nothing	music	1569821	130000	1			130000		other	0
+sub-06_2	7	Nothing	music	1574821	135000	1			135000		other	0
+sub-06_2	7	Pulse	255	1576719	136899	0
+sub-06_2	7	Nothing	music	1579821	140000	1			140000		other	0
+sub-06_2	7	Pulse	255	1596720	156899	0
+sub-06_2	8	Pulse	255	1616719	6346	0
+sub-06_2	8	Pulse	255	1636721	26347	0
+sub-06_2	8	Sound	start_sound	1640373	30000	2			30000		other	0
+sub-06_2	8	Nothing	rever	1655373	45000	1			45000		other	0
+sub-06_2	8	Pulse	255	1656721	46347	0
+sub-06_2	8	Nothing	rever	1660373	50000	1			50000		other	0
+sub-06_2	8	Nothing	rever	1665373	55000	1			55000		other	0
+sub-06_2	8	Nothing	rever	1670373	60000	1			60000		other	0
+sub-06_2	8	Nothing	rever	1675373	65000	1			65000		other	0
+sub-06_2	8	Pulse	255	1676720	66347	0
+sub-06_2	8	Nothing	rever	1680373	70000	1			70000		other	0
+sub-06_2	8	Nothing	rever	1685373	75000	1			75000		other	0
+sub-06_2	8	Nothing	rever	1690373	80000	1			80000		other	0
+sub-06_2	8	Nothing	rever	1695373	85000	1			85000		other	0
+sub-06_2	8	Pulse	255	1696720	86347	0
+sub-06_2	8	Nothing	rever	1700373	90000	1			90000		other	0
+sub-06_2	8	Nothing	rever	1705373	95000	1			95000		other	0
+sub-06_2	8	Nothing	rever	1710373	100000	1			100000		other	0
+sub-06_2	8	Nothing	rever	1715373	105000	1			105000		other	0
+sub-06_2	8	Pulse	255	1716721	106348	0
+sub-06_2	8	Nothing	rever	1720373	110000	1			110000		other	0
+sub-06_2	8	Nothing	rever	1725373	115000	1			115000		other	0
+sub-06_2	8	Nothing	rever	1730373	120000	1			120000		other	0
+sub-06_2	8	Nothing	rever	1735373	125000	1			125000		other	0
+sub-06_2	8	Pulse	255	1736721	126347	0
+sub-06_2	8	Nothing	rever	1740373	130000	1			130000		other	0
+sub-06_2	8	Nothing	rever	1745373	135000	1			135000		other	0
+sub-06_2	8	Nothing	rever	1750373	140000	1			140000		other	0
+sub-06_2	8	Pulse	255	1756720	146347	0
+sub-06_2	8	Pulse	255	1776720	166347	0
+sub-06_2	9	Pulse	255	1796721	15795	0
+sub-06_2	9	Sound	start_sound	1810926	30000	2			30000		other	0
+sub-06_2	9	Pulse	255	1816721	35794	0
+sub-06_2	9	Nothing	parol	1820926	40000	1			40000		other	0
+sub-06_2	9	Nothing	parol	1825926	45000	1			45000		other	0
+sub-06_2	9	Nothing	parol	1830926	50000	1			50000		other	0
+sub-06_2	9	Nothing	parol	1835926	55000	1			55000		other	0
+sub-06_2	9	Pulse	255	1836721	55794	0
+sub-06_2	9	Nothing	parol	1840926	60000	1			60000		other	0
+sub-06_2	9	Nothing	parol	1845926	65000	1			65000		other	0
+sub-06_2	9	Nothing	parol	1850926	70000	1			70000		other	0
+sub-06_2	9	Nothing	parol	1855926	75000	1			75000		other	0
+sub-06_2	9	Pulse	255	1856720	75794	0
+sub-06_2	9	Nothing	parol	1860926	80000	1			80000		other	0
+sub-06_2	9	Nothing	parol	1865926	85000	1			85000		other	0
+sub-06_2	9	Nothing	parol	1870926	90000	1			90000		other	0
+sub-06_2	9	Nothing	parol	1875926	95000	1			95000		other	0
+sub-06_2	9	Pulse	255	1876720	95794	0
+sub-06_2	9	Nothing	parol	1880926	100000	1			100000		other	0
+sub-06_2	9	Nothing	parol	1885926	105000	1			105000		other	0
+sub-06_2	9	Nothing	parol	1890926	110000	1			110000		other	0
+sub-06_2	9	Nothing	parol	1895926	115000	1			115000		other	0
+sub-06_2	9	Pulse	255	1896720	115794	0
+sub-06_2	9	Nothing	parol	1900926	120000	1			120000		other	0
+sub-06_2	9	Nothing	parol	1905926	125000	1			125000		other	0
+sub-06_2	9	Nothing	parol	1910926	130000	1			130000		other	0
+sub-06_2	9	Nothing	parol	1915926	135000	1			135000		other	0
+sub-06_2	9	Pulse	255	1916721	135795	0
+sub-06_2	9	Pulse	255	1936721	155794	0
+sub-06_2	10	Pulse	255	1956721	10242	0
+sub-06_2	10	Sound	start_sound	1976479	30000	2			30000		other	0
+sub-06_2	10	Pulse	255	1976711	30232	0
+sub-06_2	10	Nothing	alpha	1991479	45000	1			45000		other	0
+sub-06_2	10	Nothing	alpha	1996479	50000	1			50000		other	0
+sub-06_2	10	Pulse	255	1996712	50233	0
+sub-06_2	10	Nothing	alpha	2001479	55000	1			55000		other	0
+sub-06_2	10	Nothing	alpha	2006479	60000	1			60000		other	0
+sub-06_2	10	Nothing	alpha	2011479	65000	1			65000		other	0
+sub-06_2	10	Nothing	alpha	2016479	70000	1			70000		other	0
+sub-06_2	10	Pulse	255	2016711	70232	0
+sub-06_2	10	Nothing	alpha	2021479	75000	1			75000		other	0
+sub-06_2	10	Nothing	alpha	2026479	80000	1			80000		other	0
+sub-06_2	10	Nothing	alpha	2031479	85000	1			85000		other	0
+sub-06_2	10	Nothing	alpha	2036479	90000	1			90000		other	0
+sub-06_2	10	Pulse	255	2036712	90233	0
+sub-06_2	10	Nothing	alpha	2041479	95000	1			95000		other	0
+sub-06_2	10	Nothing	alpha	2046479	100000	1			100000		other	0
+sub-06_2	10	Nothing	alpha	2051479	105000	1			105000		other	0
+sub-06_2	10	Nothing	alpha	2056479	110000	1			110000		other	0
+sub-06_2	10	Pulse	255	2056711	110232	0
+sub-06_2	10	Nothing	alpha	2061479	115000	1			115000		other	0
+sub-06_2	10	Nothing	alpha	2066479	120000	1			120000		other	0
+sub-06_2	10	Nothing	alpha	2071479	125000	1			125000		other	0
+sub-06_2	10	Nothing	alpha	2076479	130000	1			130000		other	0
+sub-06_2	10	Pulse	255	2076711	130233	0
+sub-06_2	10	Nothing	alpha	2081479	135000	1			135000		other	0
+sub-06_2	10	Nothing	alpha	2086479	140000	1			140000		other	0
+sub-06_2	10	Pulse	255	2096711	150232	0
+sub-06_2	10	Pulse	255	2116712	170233	0
+sub-06_2	11	Pulse	255	2136711	19679	0
+sub-06_2	11	Sound	start_sound	2147032	30000	2			30000		other	0
+sub-06_2	11	Pulse	255	2156711	39679	0
+sub-06_2	11	Nothing	human	2162032	45000	1			45000		other	0
+sub-06_2	11	Nothing	human	2167032	50000	1			50000		other	0
+sub-06_2	11	Nothing	human	2172032	55000	1			55000		other	0
+sub-06_2	11	Pulse	255	2176711	59679	0
+sub-06_2	11	Nothing	human	2177032	60000	1			60000		other	0
+sub-06_2	11	Nothing	human	2182032	65000	1			65000		other	0
+sub-06_2	11	Nothing	human	2187032	70000	1			70000		other	0
+sub-06_2	11	Nothing	human	2192032	75000	1			75000		other	0
+sub-06_2	11	Pulse	255	2196712	79680	0
+sub-06_2	11	Nothing	human	2197032	80000	1			80000		other	0
+sub-06_2	11	Nothing	human	2202032	85000	1			85000		other	0
+sub-06_2	11	Nothing	human	2207032	90000	1			90000		other	0
+sub-06_2	11	Nothing	human	2212032	95000	1			95000		other	0
+sub-06_2	11	Pulse	255	2216712	99680	0
+sub-06_2	11	Nothing	human	2217032	100000	1			100000		other	0
+sub-06_2	11	Nothing	human	2222032	105000	1			105000		other	0
+sub-06_2	11	Nothing	human	2227032	110000	1			110000		other	0
+sub-06_2	11	Nothing	human	2232032	115000	1			115000		other	0
+sub-06_2	11	Pulse	255	2236711	119679	0
+sub-06_2	11	Nothing	human	2237032	120000	1			120000		other	0
+sub-06_2	11	Nothing	human	2242032	125000	1			125000		other	0
+sub-06_2	11	Nothing	human	2247032	130000	1			130000		other	0
+sub-06_2	11	Nothing	human	2252032	135000	1			135000		other	0
+sub-06_2	11	Pulse	255	2256712	139680	0
+sub-06_2	11	Nothing	human	2257032	140000	1			140000		other	0
+sub-06_2	11	Pulse	255	2276711	159679	0
+sub-06_2	12	Picture	Bfix	2287651	0	1	60324	1	0	60000	other	0
+sub-06_2	12	Pulse	255	2296711	9060	0
+sub-06_2	12	Pulse	255	2316712	29060	0
+sub-06_2	12	Pulse	255	2336712	49060	0
+sub-06_2	13	Pulse	255	2356712	8963	0
+sub-06_2	13	Pulse	255	2376713	28964	0
+sub-06_2	13	Sound	start_sound	2377749	30000	2			30000		other	0
+sub-06_2	13	Nothing	pleur	2392749	45000	1			45000		other	0
+sub-06_2	13	Pulse	255	2396713	48964	0
+sub-06_2	13	Nothing	pleur	2397749	50000	1			50000		other	0
+sub-06_2	13	Nothing	pleur	2402749	55000	1			55000		other	0
+sub-06_2	13	Nothing	pleur	2407749	60000	1			60000		other	0
+sub-06_2	13	Nothing	pleur	2412749	65000	1			65000		other	0
+sub-06_2	13	Pulse	255	2416712	68963	0
+sub-06_2	13	Nothing	pleur	2417749	70000	1			70000		other	0
+sub-06_2	13	Nothing	pleur	2422749	75000	1			75000		other	0
+sub-06_2	13	Nothing	pleur	2427749	80000	1			80000		other	0
+sub-06_2	13	Nothing	pleur	2432749	85000	1			85000		other	0
+sub-06_2	13	Pulse	255	2436713	88964	0
+sub-06_2	13	Nothing	pleur	2437749	90000	1			90000		other	0
+sub-06_2	13	Nothing	pleur	2442749	95000	1			95000		other	0
+sub-06_2	13	Nothing	pleur	2447749	100000	1			100000		other	0
+sub-06_2	13	Nothing	pleur	2452749	105000	1			105000		other	0
+sub-06_2	13	Pulse	255	2456712	108964	0
+sub-06_2	13	Nothing	pleur	2457749	110000	1			110000		other	0
+sub-06_2	13	Nothing	pleur	2462749	115000	1			115000		other	0
+sub-06_2	13	Nothing	pleur	2467749	120000	1			120000		other	0
+sub-06_2	13	Nothing	pleur	2472749	125000	1			125000		other	0
+sub-06_2	13	Pulse	255	2476712	128963	0
+sub-06_2	13	Nothing	pleur	2477749	130000	1			130000		other	0
+sub-06_2	13	Nothing	pleur	2482749	135000	1			135000		other	0
+sub-06_2	13	Nothing	pleur	2487749	140000	1			140000		other	0
+sub-06_2	13	Pulse	255	2496712	148963	0
+sub-06_2	13	Pulse	255	2516712	168963	0
+sub-06_2	14	Pulse	255	2536713	18411	0
+sub-06_2	14	Sound	start_sound	2548301	30000	2			30000		other	0
+sub-06_2	14	Pulse	255	2556713	38411	0
+sub-06_2	14	Nothing	cough	2563301	45000	1			45000		other	0
+sub-06_2	14	Nothing	cough	2568301	50000	1			50000		other	0
+sub-06_2	14	Nothing	cough	2573301	55000	1			55000		other	0
+sub-06_2	14	Pulse	255	2576711	58410	0
+sub-06_2	14	Nothing	cough	2578301	60000	1			60000		other	0
+sub-06_2	14	Nothing	cough	2583301	65000	1			65000		other	0
+sub-06_2	14	Nothing	cough	2588301	70000	1			70000		other	0
+sub-06_2	14	Nothing	cough	2593301	75000	1			75000		other	0
+sub-06_2	14	Pulse	255	2596713	78411	0
+sub-06_2	14	Nothing	cough	2598301	80000	1			80000		other	0
+sub-06_2	14	Nothing	cough	2603301	85000	1			85000		other	0
+sub-06_2	14	Nothing	cough	2608301	90000	1			90000		other	0
+sub-06_2	14	Nothing	cough	2613301	95000	1			95000		other	0
+sub-06_2	14	Pulse	255	2616713	98411	0
+sub-06_2	14	Nothing	cough	2618301	100000	1			100000		other	0
+sub-06_2	14	Nothing	cough	2623301	105000	1			105000		other	0
+sub-06_2	14	Nothing	cough	2628301	110000	1			110000		other	0
+sub-06_2	14	Nothing	cough	2633301	115000	1			115000		other	0
+sub-06_2	14	Pulse	255	2636712	118411	0
+sub-06_2	14	Nothing	cough	2638301	120000	1			120000		other	0
+sub-06_2	14	Nothing	cough	2643301	125000	1			125000		other	0
+sub-06_2	14	Nothing	cough	2648301	130000	1			130000		other	0
+sub-06_2	14	Nothing	cough	2653301	135000	1			135000		other	0
+sub-06_2	14	Pulse	255	2656713	138412	0
+sub-06_2	14	Nothing	cough	2658301	140000	1			140000		other	0
+sub-06_2	14	Pulse	255	2676712	158411	0
+sub-06_2	15	Pulse	255	2696713	7859	0
+sub-06_2	15	Pulse	255	2716712	27858	0
+sub-06_2	15	Sound	start_sound	2718854	30000	2			30000		other	0
+sub-06_2	15	Nothing	suomi	2733854	45000	1			45000		other	0
+sub-06_2	15	Pulse	255	2736713	47858	0
+sub-06_2	15	Nothing	suomi	2738854	50000	1			50000		other	0
+sub-06_2	15	Nothing	suomi	2743854	55000	1			55000		other	0
+sub-06_2	15	Nothing	suomi	2748854	60000	1			60000		other	0
+sub-06_2	15	Nothing	suomi	2753854	65000	1			65000		other	0
+sub-06_2	15	Pulse	255	2756712	67858	0
+sub-06_2	15	Nothing	suomi	2758854	70000	1			70000		other	0
+sub-06_2	15	Nothing	suomi	2763854	75000	1			75000		other	0
+sub-06_2	15	Nothing	suomi	2768854	80000	1			80000		other	0
+sub-06_2	15	Nothing	suomi	2773854	85000	1			85000		other	0
+sub-06_2	15	Pulse	255	2776713	87859	0
+sub-06_2	15	Nothing	suomi	2778854	90000	1			90000		other	0
+sub-06_2	15	Nothing	suomi	2783854	95000	1			95000		other	0
+sub-06_2	15	Nothing	suomi	2788854	100000	1			100000		other	0
+sub-06_2	15	Nothing	suomi	2793854	105000	1			105000		other	0
+sub-06_2	15	Pulse	255	2796712	107858	0
+sub-06_2	15	Nothing	suomi	2798854	110000	1			110000		other	0
+sub-06_2	15	Nothing	suomi	2803854	115000	1			115000		other	0
+sub-06_2	15	Nothing	suomi	2808854	120000	1			120000		other	0
+sub-06_2	15	Nothing	suomi	2813854	125000	1			125000		other	0
+sub-06_2	15	Pulse	255	2816713	127858	0
+sub-06_2	15	Nothing	suomi	2818854	130000	1			130000		other	0
+sub-06_2	15	Nothing	suomi	2823854	135000	1			135000		other	0
+sub-06_2	15	Nothing	suomi	2828854	140000	1			140000		other	0
+sub-06_2	15	Pulse	255	2836713	147859	0
+sub-06_2	15	Pulse	255	2856714	167859	0
+sub-06_2	16	Pulse	255	2876713	17306	0
+sub-06_2	16	Sound	start_sound	2889407	30000	1			30000		other	0
+sub-06_2	16	Pulse	255	2896713	37306	0
+sub-06_2	16	Nothing	silen	2904407	45000	1			45000		other	0
+sub-06_2	16	Nothing	silen	2909407	50000	1			50000		other	0
+sub-06_2	16	Nothing	silen	2914407	55000	1			55000		other	0
+sub-06_2	16	Pulse	255	2916713	57306	0
+sub-06_2	16	Nothing	silen	2919407	60000	1			60000		other	0
+sub-06_2	16	Nothing	silen	2924407	65000	1			65000		other	0
+sub-06_2	16	Nothing	silen	2929407	70000	1			70000		other	0
+sub-06_2	16	Nothing	silen	2934407	75000	1			75000		other	0
+sub-06_2	16	Pulse	255	2936714	77307	0
+sub-06_2	16	Nothing	silen	2939407	80000	1			80000		other	0
+sub-06_2	16	Nothing	silen	2944407	85000	1			85000		other	0
+sub-06_2	16	Nothing	silen	2949407	90000	1			90000		other	0
+sub-06_2	16	Nothing	silen	2954407	95000	1			95000		other	0
+sub-06_2	16	Pulse	255	2956714	97307	0
+sub-06_2	16	Nothing	silen	2959407	100000	1			100000		other	0
+sub-06_2	16	Nothing	silen	2964407	105000	1			105000		other	0
+sub-06_2	16	Nothing	silen	2969407	110000	1			110000		other	0
+sub-06_2	16	Nothing	silen	2974407	115000	1			115000		other	0
+sub-06_2	16	Pulse	255	2976714	117307	0
+sub-06_2	16	Nothing	silen	2979407	120000	1			120000		other	0
+sub-06_2	16	Nothing	silen	2984407	125000	1			125000		other	0
+sub-06_2	16	Nothing	silen	2989407	130000	1			130000		other	0
+sub-06_2	16	Nothing	silen	2994407	135000	1			135000		other	0
+sub-06_2	16	Pulse	255	2996714	137307	0
+sub-06_2	16	Nothing	silen	2999407	140000	1			140000		other	0
+sub-06_2	16	Pulse	255	3016714	157307	0
+sub-06_2	17	Pulse	255	3036713	6752	0
+sub-06_2	17	Pulse	255	3056713	26752	0
+sub-06_2	17	Sound	start_sound	3059961	30000	2			30000		other	0
+sub-06_2	17	Nothing	human	3074961	45000	1			45000		other	0
+sub-06_2	17	Pulse	255	3076714	46753	0
+sub-06_2	17	Nothing	human	3079961	50000	1			50000		other	0
+sub-06_2	17	Nothing	human	3084961	55000	1			55000		other	0
+sub-06_2	17	Nothing	human	3089961	60000	1			60000		other	0
+sub-06_2	17	Nothing	human	3094961	65000	1			65000		other	0
+sub-06_2	17	Pulse	255	3096714	66754	0
+sub-06_2	17	Nothing	human	3099961	70000	1			70000		other	0
+sub-06_2	17	Nothing	human	3104961	75000	1			75000		other	0
+sub-06_2	17	Nothing	human	3109961	80000	1			80000		other	0
+sub-06_2	17	Nothing	human	3114961	85000	1			85000		other	0
+sub-06_2	17	Pulse	255	3116714	86753	0
+sub-06_2	17	Nothing	human	3119961	90000	1			90000		other	0
+sub-06_2	17	Nothing	human	3124961	95000	1			95000		other	0
+sub-06_2	17	Nothing	human	3129961	100000	1			100000		other	0
+sub-06_2	17	Nothing	human	3134961	105000	1			105000		other	0
+sub-06_2	17	Pulse	255	3136714	106753	0
+sub-06_2	17	Nothing	human	3139961	110000	1			110000		other	0
+sub-06_2	17	Nothing	human	3144961	115000	1			115000		other	0
+sub-06_2	17	Nothing	human	3149961	120000	1			120000		other	0
+sub-06_2	17	Nothing	human	3154961	125000	1			125000		other	0
+sub-06_2	17	Pulse	255	3156714	126753	0
+sub-06_2	17	Nothing	human	3159961	130000	1			130000		other	0
+sub-06_2	17	Nothing	human	3164961	135000	1			135000		other	0
+sub-06_2	17	Nothing	human	3169961	140000	1			140000		other	0
+sub-06_2	17	Pulse	255	3176714	146753	0
+sub-06_2	17	Pulse	255	3196714	166753	0
+sub-06_2	18	Pulse	255	3216714	16198	0
+sub-06_2	18	Sound	start_sound	3230516	30000	2			30000		other	0
+sub-06_2	18	Pulse	255	3236714	36199	0
+sub-06_2	18	Nothing	music	3245516	45000	1			45000		other	0
+sub-06_2	18	Nothing	music	3250516	50000	1			50000		other	0
+sub-06_2	18	Nothing	music	3255516	55000	1			55000		other	0
+sub-06_2	18	Pulse	255	3256714	56198	0
+sub-06_2	18	Nothing	music	3260516	60000	1			60000		other	0
+sub-06_2	18	Nothing	music	3265516	65000	1			65000		other	0
+sub-06_2	18	Nothing	music	3270516	70000	1			70000		other	0
+sub-06_2	18	Nothing	music	3275516	75000	1			75000		other	0
+sub-06_2	18	Pulse	255	3276714	76198	0
+sub-06_2	18	Nothing	music	3280516	80000	1			80000		other	0
+sub-06_2	18	Nothing	music	3285516	85000	1			85000		other	0
+sub-06_2	18	Nothing	music	3290516	90000	1			90000		other	0
+sub-06_2	18	Nothing	music	3295516	95000	1			95000		other	0
+sub-06_2	18	Pulse	255	3296714	96199	0
+sub-06_2	18	Nothing	music	3300516	100000	1			100000		other	0
+sub-06_2	18	Nothing	music	3305516	105000	1			105000		other	0
+sub-06_2	18	Nothing	music	3310516	110000	1			110000		other	0
+sub-06_2	18	Nothing	music	3315516	115000	1			115000		other	0
+sub-06_2	18	Pulse	255	3316714	116199	0
+sub-06_2	18	Nothing	music	3320516	120000	1			120000		other	0
+sub-06_2	18	Nothing	music	3325516	125000	1			125000		other	0
+sub-06_2	18	Nothing	music	3330516	130000	1			130000		other	0
+sub-06_2	18	Nothing	music	3335516	135000	1			135000		other	0
+sub-06_2	18	Pulse	255	3336714	136198	0
+sub-06_2	18	Nothing	music	3340516	140000	1			140000		other	0
+sub-06_2	18	Pulse	255	3356715	156199	0
+sub-06_2	19	Pulse	255	3376714	5645	0
+sub-06_2	19	Pulse	255	3396715	25646	0
+sub-06_2	19	Sound	start_sound	3401069	30000	2			30000		other	0
+sub-06_2	19	Nothing	animo	3416069	45000	1			45000		other	0
+sub-06_2	19	Pulse	255	3416714	45645	0
+sub-06_2	19	Nothing	animo	3421069	50000	1			50000		other	0
+sub-06_2	19	Nothing	animo	3426069	55000	1			55000		other	0
+sub-06_2	19	Nothing	animo	3431069	60000	1			60000		other	0
+sub-06_2	19	Nothing	animo	3436069	65000	1			65000		other	0
+sub-06_2	19	Pulse	255	3436715	65647	0
+sub-06_2	19	Nothing	animo	3441069	70000	1			70000		other	0
+sub-06_2	19	Nothing	animo	3446069	75000	1			75000		other	0
+sub-06_2	19	Nothing	animo	3451069	80000	1			80000		other	0
+sub-06_2	19	Nothing	animo	3456069	85000	1			85000		other	0
+sub-06_2	19	Pulse	255	3456715	85646	0
+sub-06_2	19	Nothing	animo	3461069	90000	1			90000		other	0
+sub-06_2	19	Nothing	animo	3466069	95000	1			95000		other	0
+sub-06_2	19	Nothing	animo	3471069	100000	1			100000		other	0
+sub-06_2	19	Nothing	animo	3476069	105000	1			105000		other	0
+sub-06_2	19	Pulse	255	3476715	105647	0
+sub-06_2	19	Nothing	animo	3481069	110000	1			110000		other	0
+sub-06_2	19	Nothing	animo	3486069	115000	1			115000		other	0
+sub-06_2	19	Nothing	animo	3491069	120000	1			120000		other	0
+sub-06_2	19	Nothing	animo	3496069	125000	1			125000		other	0
+sub-06_2	19	Pulse	255	3496714	125646	0
+sub-06_2	19	Nothing	animo	3501069	130000	1			130000		other	0
+sub-06_2	19	Nothing	animo	3506069	135000	1			135000		other	0
+sub-06_2	19	Nothing	animo	3511069	140000	1			140000		other	0
+sub-06_2	19	Pulse	255	3516715	145647	0
+sub-06_2	19	Pulse	255	3536715	165647	0
+sub-06_2	20	Pulse	255	3556715	15093	0
+sub-06_2	20	Sound	start_sound	3571621	30000	2			30000		other	0
+sub-06_2	20	Pulse	255	3576715	35093	0
+sub-06_2	20	Nothing	rires	3586621	45000	1			45000		other	0
+sub-06_2	20	Nothing	rires	3591621	50000	1			50000		other	0
+sub-06_2	20	Nothing	rires	3596621	55000	1			55000		other	0
+sub-06_2	20	Pulse	255	3596715	55094	0
+sub-06_2	20	Nothing	rires	3601621	60000	1			60000		other	0
+sub-06_2	20	Nothing	rires	3606621	65000	1			65000		other	0
+sub-06_2	20	Nothing	rires	3611621	70000	1			70000		other	0
+sub-06_2	20	Nothing	rires	3616621	75000	1			75000		other	0
+sub-06_2	20	Pulse	255	3616715	75094	0
+sub-06_2	20	Nothing	rires	3621621	80000	1			80000		other	0
+sub-06_2	20	Nothing	rires	3626621	85000	1			85000		other	0
+sub-06_2	20	Nothing	rires	3631621	90000	1			90000		other	0
+sub-06_2	20	Nothing	rires	3636621	95000	1			95000		other	0
+sub-06_2	20	Pulse	255	3636715	95094	0
+sub-06_2	20	Nothing	rires	3641621	100000	1			100000		other	0
+sub-06_2	20	Nothing	rires	3646621	105000	1			105000		other	0
+sub-06_2	20	Nothing	rires	3651621	110000	1			110000		other	0
+sub-06_2	20	Nothing	rires	3656621	115000	1			115000		other	0
+sub-06_2	20	Pulse	255	3656716	115094	0
+sub-06_2	20	Nothing	rires	3661621	120000	1			120000		other	0
+sub-06_2	20	Nothing	rires	3666621	125000	1			125000		other	0
+sub-06_2	20	Nothing	rires	3671621	130000	1			130000		other	0
+sub-06_2	20	Nothing	rires	3676621	135000	1			135000		other	0
+sub-06_2	20	Pulse	255	3676716	135094	0
+sub-06_2	20	Nothing	rires	3681621	140000	1			140000		other	0
+sub-06_2	20	Pulse	255	3696715	155094	0
+sub-06_2	21	Pulse	255	3716716	4542	0
+sub-06_2	21	Pulse	255	3736715	24541	0
+sub-06_2	21	Sound	start_sound	3742174	30000	2			30000		other	0
+sub-06_2	21	Pulse	255	3756716	44542	0
+sub-06_2	21	Nothing	envir	3757174	45000	1			45000		other	0
+sub-06_2	21	Nothing	envir	3762174	50000	1			50000		other	0
+sub-06_2	21	Nothing	envir	3767174	55000	1			55000		other	0
+sub-06_2	21	Nothing	envir	3772174	60000	1			60000		other	0
+sub-06_2	21	Pulse	255	3776716	64542	0
+sub-06_2	21	Nothing	envir	3777174	65000	1			65000		other	0
+sub-06_2	21	Nothing	envir	3782174	70000	1			70000		other	0
+sub-06_2	21	Nothing	envir	3787174	75000	1			75000		other	0
+sub-06_2	21	Nothing	envir	3792174	80000	1			80000		other	0
+sub-06_2	21	Pulse	255	3796715	84541	0
+sub-06_2	21	Nothing	envir	3797174	85000	1			85000		other	0
+sub-06_2	21	Nothing	envir	3802174	90000	1			90000		other	0
+sub-06_2	21	Nothing	envir	3807174	95000	1			95000		other	0
+sub-06_2	21	Nothing	envir	3812174	100000	1			100000		other	0
+sub-06_2	21	Pulse	255	3816716	104542	0
+sub-06_2	21	Nothing	envir	3817174	105000	1			105000		other	0
+sub-06_2	21	Nothing	envir	3822174	110000	1			110000		other	0
+sub-06_2	21	Nothing	envir	3827174	115000	1			115000		other	0
+sub-06_2	21	Nothing	envir	3832174	120000	1			120000		other	0
+sub-06_2	21	Pulse	255	3836715	124541	0
+sub-06_2	21	Nothing	envir	3837174	125000	1			125000		other	0
+sub-06_2	21	Nothing	envir	3842174	130000	1			130000		other	0
+sub-06_2	21	Nothing	envir	3847174	135000	1			135000		other	0
+sub-06_2	21	Nothing	envir	3852174	140000	1			140000		other	0
+sub-06_2	21	Pulse	255	3856716	144542	0
+sub-06_2	21	Pulse	255	3876716	164542	0
+sub-06_2	22	Pulse	255	3896715	13986	0
+sub-06_2	22	Sound	start_sound	3912730	30000	2			30000		other	0
+sub-06_2	22	Pulse	255	3916715	33986	0
+sub-06_2	22	Nothing	cough	3927730	45000	1			45000		other	0
+sub-06_2	22	Nothing	cough	3932730	50000	1			50000		other	0
+sub-06_2	22	Pulse	255	3936716	53986	0
+sub-06_2	22	Nothing	cough	3937730	55000	1			55000		other	0
+sub-06_2	22	Nothing	cough	3942730	60000	1			60000		other	0
+sub-06_2	22	Nothing	cough	3947730	65000	1			65000		other	0
+sub-06_2	22	Nothing	cough	3952730	70000	1			70000		other	0
+sub-06_2	22	Pulse	255	3956716	73987	0
+sub-06_2	22	Nothing	cough	3957730	75000	1			75000		other	0
+sub-06_2	22	Nothing	cough	3962730	80000	1			80000		other	0
+sub-06_2	22	Nothing	cough	3967730	85000	1			85000		other	0
+sub-06_2	22	Nothing	cough	3972730	90000	1			90000		other	0
+sub-06_2	22	Pulse	255	3976715	93986	0
+sub-06_2	22	Nothing	cough	3977730	95000	1			95000		other	0
+sub-06_2	22	Nothing	cough	3982730	100000	1			100000		other	0
+sub-06_2	22	Nothing	cough	3987730	105000	1			105000		other	0
+sub-06_2	22	Nothing	cough	3992730	110000	1			110000		other	0
+sub-06_2	22	Pulse	255	3996706	113977	0
+sub-06_2	22	Nothing	cough	3997730	115000	1			115000		other	0
+sub-06_2	22	Nothing	cough	4002730	120000	1			120000		other	0
+sub-06_2	22	Nothing	cough	4007730	125000	1			125000		other	0
+sub-06_2	22	Nothing	cough	4012730	130000	1			130000		other	0
+sub-06_2	22	Pulse	255	4016706	133977	0
+sub-06_2	22	Nothing	cough	4017730	135000	1			135000		other	0
+sub-06_2	22	Nothing	cough	4022730	140000	1			140000		other	0
+sub-06_2	22	Pulse	255	4036707	153977	0
+sub-06_2	23	Picture	Bfix	4053349	0	1	60226	1	0	60000	other	0
+sub-06_2	23	Pulse	255	4056707	3358	0
+sub-06_2	23	Pulse	255	4076706	23357	0
+sub-06_2	23	Pulse	255	4096706	43357	0
+sub-06_2	24	Pulse	255	4116706	3033	0
+sub-06_2	24	Pulse	255	4136707	23034	0
+sub-06_2	24	Sound	start_sound	4143673	30000	2			30000		other	0
+sub-06_2	24	Pulse	255	4156706	43033	0
+sub-06_2	24	Nothing	rires	4158673	45000	1			45000		other	0
+sub-06_2	24	Nothing	rires	4163673	50000	1			50000		other	0
+sub-06_2	24	Nothing	rires	4168673	55000	1			55000		other	0
+sub-06_2	24	Nothing	rires	4173673	60000	1			60000		other	0
+sub-06_2	24	Pulse	255	4176706	63033	0
+sub-06_2	24	Nothing	rires	4178673	65000	1			65000		other	0
+sub-06_2	24	Nothing	rires	4183673	70000	1			70000		other	0
+sub-06_2	24	Nothing	rires	4188673	75000	1			75000		other	0
+sub-06_2	24	Nothing	rires	4193673	80000	1			80000		other	0
+sub-06_2	24	Pulse	255	4196706	83033	0
+sub-06_2	24	Nothing	rires	4198673	85000	1			85000		other	0
+sub-06_2	24	Nothing	rires	4203673	90000	1			90000		other	0
+sub-06_2	24	Nothing	rires	4208673	95000	1			95000		other	0
+sub-06_2	24	Nothing	rires	4213673	100000	1			100000		other	0
+sub-06_2	24	Pulse	255	4216707	103034	0
+sub-06_2	24	Nothing	rires	4218673	105000	1			105000		other	0
+sub-06_2	24	Nothing	rires	4223673	110000	1			110000		other	0
+sub-06_2	24	Nothing	rires	4228673	115000	1			115000		other	0
+sub-06_2	24	Nothing	rires	4233673	120000	1			120000		other	0
+sub-06_2	24	Pulse	255	4236706	123034	0
+sub-06_2	24	Nothing	rires	4238673	125000	1			125000		other	0
+sub-06_2	24	Nothing	rires	4243673	130000	1			130000		other	0
+sub-06_2	24	Nothing	rires	4248673	135000	1			135000		other	0
+sub-06_2	24	Nothing	rires	4253673	140000	1			140000		other	0
+sub-06_2	24	Pulse	255	4256707	143034	0
+sub-06_2	24	Pulse	255	4276707	163035	0
+sub-06_2	25	Pulse	255	4296706	12481	0
+sub-06_2	25	Sound	start_sound	4314226	30000	2			30000		other	0
+sub-06_2	25	Pulse	255	4316707	32482	0
+sub-06_2	25	Nothing	cough	4329226	45000	1			45000		other	0
+sub-06_2	25	Nothing	cough	4334226	50000	1			50000		other	0
+sub-06_2	25	Pulse	255	4336707	52482	0
+sub-06_2	25	Nothing	cough	4339226	55000	1			55000		other	0
+sub-06_2	25	Nothing	cough	4344226	60000	1			60000		other	0
+sub-06_2	25	Nothing	cough	4349226	65000	1			65000		other	0
+sub-06_2	25	Nothing	cough	4354226	70000	1			70000		other	0
+sub-06_2	25	Pulse	255	4356707	72481	0
+sub-06_2	25	Nothing	cough	4359226	75000	1			75000		other	0
+sub-06_2	25	Nothing	cough	4364226	80000	1			80000		other	0
+sub-06_2	25	Nothing	cough	4369226	85000	1			85000		other	0
+sub-06_2	25	Nothing	cough	4374226	90000	1			90000		other	0
+sub-06_2	25	Pulse	255	4376707	92482	0
+sub-06_2	25	Nothing	cough	4379226	95000	1			95000		other	0
+sub-06_2	25	Nothing	cough	4384226	100000	1			100000		other	0
+sub-06_2	25	Nothing	cough	4389226	105000	1			105000		other	0
+sub-06_2	25	Nothing	cough	4394226	110000	1			110000		other	0
+sub-06_2	25	Pulse	255	4396707	112482	0
+sub-06_2	25	Nothing	cough	4399226	115000	1			115000		other	0
+sub-06_2	25	Nothing	cough	4404226	120000	1			120000		other	0
+sub-06_2	25	Nothing	cough	4409226	125000	1			125000		other	0
+sub-06_2	25	Nothing	cough	4414226	130000	1			130000		other	0
+sub-06_2	25	Pulse	255	4416707	132481	0
+sub-06_2	25	Nothing	cough	4419226	135000	1			135000		other	0
+sub-06_2	25	Nothing	cough	4424226	140000	1			140000		other	0
+sub-06_2	25	Pulse	255	4436707	152481	0
+sub-06_2	26	Pulse	255	4456708	1929	0
+sub-06_2	26	Pulse	255	4476707	21929	0
+sub-06_2	26	Sound	start_sound	4484778	30000	2			30000		other	0
+sub-06_2	26	Pulse	255	4496708	41929	0
+sub-06_2	26	Nothing	animo	4499779	45000	1			45000		other	0
+sub-06_2	26	Nothing	animo	4504778	50000	1			50000		other	0
+sub-06_2	26	Nothing	animo	4509779	55000	1			55000		other	0
+sub-06_2	26	Nothing	animo	4514778	60000	1			60000		other	0
+sub-06_2	26	Pulse	255	4516708	61929	0
+sub-06_2	26	Nothing	animo	4519778	65000	1			65000		other	0
+sub-06_2	26	Nothing	animo	4524778	70000	1			70000		other	0
+sub-06_2	26	Nothing	animo	4529779	75000	1			75000		other	0
+sub-06_2	26	Nothing	animo	4534779	80000	1			80000		other	0
+sub-06_2	26	Pulse	255	4536707	81928	0
+sub-06_2	26	Nothing	animo	4539779	85000	1			85000		other	0
+sub-06_2	26	Nothing	animo	4544778	90000	1			90000		other	0
+sub-06_2	26	Nothing	animo	4549779	95000	1			95000		other	0
+sub-06_2	26	Nothing	animo	4554778	100000	1			100000		other	0
+sub-06_2	26	Pulse	255	4556708	101930	0
+sub-06_2	26	Nothing	animo	4559778	105000	1			105000		other	0
+sub-06_2	26	Nothing	animo	4564778	110000	1			110000		other	0
+sub-06_2	26	Nothing	animo	4569778	115000	1			115000		other	0
+sub-06_2	26	Nothing	animo	4574778	120000	1			120000		other	0
+sub-06_2	26	Pulse	255	4576708	121929	0
+sub-06_2	26	Nothing	animo	4579779	125000	1			125000		other	0
+sub-06_2	26	Nothing	animo	4584778	130000	1			130000		other	0
+sub-06_2	26	Nothing	animo	4589778	135000	1			135000		other	0
+sub-06_2	26	Nothing	animo	4594778	140000	1			140000		other	0
+sub-06_2	26	Pulse	255	4596708	141929	0
+sub-06_2	26	Pulse	255	4616707	161929	0
+sub-06_2	27	Pulse	255	4636707	11376	0
+sub-06_2	27	Sound	start_sound	4655331	30000	2			30000		other	0
+sub-06_2	27	Pulse	255	4656707	31376	0
+sub-06_2	27	Nothing	rever	4670331	45000	1			45000		other	0
+sub-06_2	27	Nothing	rever	4675331	50000	1			50000		other	0
+sub-06_2	27	Pulse	255	4676707	51376	0
+sub-06_2	27	Nothing	rever	4680331	55000	1			55000		other	0
+sub-06_2	27	Nothing	rever	4685331	60000	1			60000		other	0
+sub-06_2	27	Nothing	rever	4690331	65000	1			65000		other	0
+sub-06_2	27	Nothing	rever	4695331	70000	1			70000		other	0
+sub-06_2	27	Pulse	255	4696708	71377	0
+sub-06_2	27	Nothing	rever	4700331	75000	1			75000		other	0
+sub-06_2	27	Nothing	rever	4705331	80000	1			80000		other	0
+sub-06_2	27	Nothing	rever	4710331	85000	1			85000		other	0
+sub-06_2	27	Nothing	rever	4715331	90000	1			90000		other	0
+sub-06_2	27	Pulse	255	4716707	91375	0
+sub-06_2	27	Nothing	rever	4720331	95000	1			95000		other	0
+sub-06_2	27	Nothing	rever	4725331	100000	1			100000		other	0
+sub-06_2	27	Nothing	rever	4730331	105000	1			105000		other	0
+sub-06_2	27	Nothing	rever	4735331	110000	1			110000		other	0
+sub-06_2	27	Pulse	255	4736708	111377	0
+sub-06_2	27	Nothing	rever	4740331	115000	1			115000		other	0
+sub-06_2	27	Nothing	rever	4745331	120000	1			120000		other	0
+sub-06_2	27	Nothing	rever	4750331	125000	1			125000		other	0
+sub-06_2	27	Nothing	rever	4755331	130000	1			130000		other	0
+sub-06_2	27	Pulse	255	4756708	131376	0
+sub-06_2	27	Nothing	rever	4760331	135000	1			135000		other	0
+sub-06_2	27	Nothing	rever	4765331	140000	1			140000		other	0
+sub-06_2	27	Pulse	255	4776708	151377	0
+sub-06_2	28	Pulse	255	4796708	824	0
+sub-06_2	28	Pulse	255	4816708	20825	0
+sub-06_2	28	Sound	start_sound	4825883	30000	2			30000		other	0
+sub-06_2	28	Pulse	255	4836708	40825	0
+sub-06_2	28	Nothing	alpha	4840883	45000	1			45000		other	0
+sub-06_2	28	Nothing	alpha	4845883	50000	1			50000		other	0
+sub-06_2	28	Nothing	alpha	4850883	55000	1			55000		other	0
+sub-06_2	28	Nothing	alpha	4855883	60000	1			60000		other	0
+sub-06_2	28	Pulse	255	4856709	60826	0
+sub-06_2	28	Nothing	alpha	4860883	65000	1			65000		other	0
+sub-06_2	28	Nothing	alpha	4865883	70000	1			70000		other	0
+sub-06_2	28	Nothing	alpha	4870883	75000	1			75000		other	0
+sub-06_2	28	Nothing	alpha	4875883	80000	1			80000		other	0
+sub-06_2	28	Pulse	255	4876709	80825	0
+sub-06_2	28	Nothing	alpha	4880883	85000	1			85000		other	0
+sub-06_2	28	Nothing	alpha	4885883	90000	1			90000		other	0
+sub-06_2	28	Nothing	alpha	4890883	95000	1			95000		other	0
+sub-06_2	28	Nothing	alpha	4895883	100000	1			100000		other	0
+sub-06_2	28	Pulse	255	4896708	100825	0
+sub-06_2	28	Nothing	alpha	4900883	105000	1			105000		other	0
+sub-06_2	28	Nothing	alpha	4905883	110000	1			110000		other	0
+sub-06_2	28	Nothing	alpha	4910883	115000	1			115000		other	0
+sub-06_2	28	Nothing	alpha	4915883	120000	1			120000		other	0
+sub-06_2	28	Pulse	255	4916708	120825	0
+sub-06_2	28	Nothing	alpha	4920883	125000	1			125000		other	0
+sub-06_2	28	Nothing	alpha	4925883	130000	1			130000		other	0
+sub-06_2	28	Nothing	alpha	4930883	135000	1			135000		other	0
+sub-06_2	28	Nothing	alpha	4935883	140000	1			140000		other	0
+sub-06_2	28	Pulse	255	4936709	140825	0
+sub-06_2	28	Pulse	255	4956708	160825	0
+sub-06_2	29	Pulse	255	4976709	10273	0
+sub-06_2	29	Sound	start_sound	4996436	30000	2			30000		other	0
+sub-06_2	29	Pulse	255	4996709	30274	0
+sub-06_2	29	Nothing	rires	5011436	45000	1			45000		other	0
+sub-06_2	29	Nothing	rires	5016436	50000	1			50000		other	0
+sub-06_2	29	Pulse	255	5016708	50273	0
+sub-06_2	29	Nothing	rires	5021436	55000	1			55000		other	0
+sub-06_2	29	Nothing	rires	5026436	60000	1			60000		other	0
+sub-06_2	29	Nothing	rires	5031436	65000	1			65000		other	0
+sub-06_2	29	Nothing	rires	5036436	70000	1			70000		other	0
+sub-06_2	29	Pulse	255	5036709	70273	0
+sub-06_2	29	Nothing	rires	5041436	75000	1			75000		other	0
+sub-06_2	29	Nothing	rires	5046436	80000	1			80000		other	0
+sub-06_2	29	Nothing	rires	5051436	85000	1			85000		other	0
+sub-06_2	29	Nothing	rires	5056436	90000	1			90000		other	0
+sub-06_2	29	Pulse	255	5056708	90273	0
+sub-06_2	29	Nothing	rires	5061436	95000	1			95000		other	0
+sub-06_2	29	Nothing	rires	5066436	100000	1			100000		other	0
+sub-06_2	29	Nothing	rires	5071436	105000	1			105000		other	0
+sub-06_2	29	Nothing	rires	5076436	110000	1			110000		other	0
+sub-06_2	29	Pulse	255	5076708	110273	0
+sub-06_2	29	Nothing	rires	5081436	115000	1			115000		other	0
+sub-06_2	29	Nothing	rires	5086436	120000	1			120000		other	0
+sub-06_2	29	Nothing	rires	5091436	125000	1			125000		other	0
+sub-06_2	29	Nothing	rires	5096436	130000	1			130000		other	0
+sub-06_2	29	Pulse	255	5096709	130273	0
+sub-06_2	29	Nothing	rires	5101436	135000	1			135000		other	0
+sub-06_2	29	Nothing	rires	5106436	140000	1			140000		other	0
+sub-06_2	29	Pulse	255	5116709	150273	0
+sub-06_2	29	Pulse	255	5136739	170303	0
+sub-06_2	30	Pulse	255	5156709	19720	0
+sub-06_2	30	Sound	start_sound	5166989	30000	2			30000		other	0
+sub-06_2	30	Pulse	255	5176709	39720	0
+sub-06_2	30	Nothing	animo	5181989	45000	1			45000		other	0
+sub-06_2	30	Nothing	animo	5186989	50000	1			50000		other	0
+sub-06_2	30	Nothing	animo	5191989	55000	1			55000		other	0
+sub-06_2	30	Pulse	255	5196708	59720	0
+sub-06_2	30	Nothing	animo	5196989	60000	1			60000		other	0
+sub-06_2	30	Nothing	animo	5201989	65000	1			65000		other	0
+sub-06_2	30	Nothing	animo	5206989	70000	1			70000		other	0
+sub-06_2	30	Nothing	animo	5211989	75000	1			75000		other	0
+sub-06_2	30	Pulse	255	5216709	79721	0
+sub-06_2	30	Nothing	animo	5216989	80000	1			80000		other	0
+sub-06_2	30	Nothing	animo	5221989	85000	1			85000		other	0
+sub-06_2	30	Nothing	animo	5226989	90000	1			90000		other	0
+sub-06_2	30	Nothing	animo	5231989	95000	1			95000		other	0
+sub-06_2	30	Pulse	255	5236709	99721	0
+sub-06_2	30	Nothing	animo	5236989	100000	1			100000		other	0
+sub-06_2	30	Nothing	animo	5241989	105000	1			105000		other	0
+sub-06_2	30	Nothing	animo	5246989	110000	1			110000		other	0
+sub-06_2	30	Nothing	animo	5251989	115000	1			115000		other	0
+sub-06_2	30	Pulse	255	5256709	119720	0
+sub-06_2	30	Nothing	animo	5256989	120000	1			120000		other	0
+sub-06_2	30	Nothing	animo	5261989	125000	1			125000		other	0
+sub-06_2	30	Nothing	animo	5266989	130000	1			130000		other	0
+sub-06_2	30	Nothing	animo	5271989	135000	1			135000		other	0
+sub-06_2	30	Pulse	255	5276709	139721	0
+sub-06_2	30	Nothing	animo	5276989	140000	1			140000		other	0
+sub-06_2	30	Pulse	255	5296709	159721	0
+sub-06_2	31	Pulse	255	5316709	9169	0
+sub-06_2	31	Pulse	255	5336709	29169	0
+sub-06_2	31	Sound	start_sound	5337540	30000	2			30000		other	0
+sub-06_2	31	Nothing	parol	5347540	40000	1			40000		other	0
+sub-06_2	31	Nothing	parol	5352540	45000	1			45000		other	0
+sub-06_2	31	Pulse	255	5356709	49169	0
+sub-06_2	31	Nothing	parol	5357540	50000	1			50000		other	0
+sub-06_2	31	Nothing	parol	5362540	55000	1			55000		other	0
+sub-06_2	31	Nothing	parol	5367540	60000	1			60000		other	0
+sub-06_2	31	Nothing	parol	5372540	65000	1			65000		other	0
+sub-06_2	31	Pulse	255	5376709	69169	0
+sub-06_2	31	Nothing	parol	5377540	70000	1			70000		other	0
+sub-06_2	31	Nothing	parol	5382540	75000	1			75000		other	0
+sub-06_2	31	Nothing	parol	5387540	80000	1			80000		other	0
+sub-06_2	31	Nothing	parol	5392540	85000	1			85000		other	0
+sub-06_2	31	Pulse	255	5396710	89170	0
+sub-06_2	31	Nothing	parol	5397540	90000	1			90000		other	0
+sub-06_2	31	Nothing	parol	5402540	95000	1			95000		other	0
+sub-06_2	31	Nothing	parol	5407540	100000	1			100000		other	0
+sub-06_2	31	Nothing	parol	5412540	105000	1			105000		other	0
+sub-06_2	31	Pulse	255	5416709	109170	0
+sub-06_2	31	Nothing	parol	5417540	110000	1			110000		other	0
+sub-06_2	31	Nothing	parol	5422540	115000	1			115000		other	0
+sub-06_2	31	Nothing	parol	5427540	120000	1			120000		other	0
+sub-06_2	31	Nothing	parol	5432540	125000	1			125000		other	0
+sub-06_2	31	Pulse	255	5436709	129169	0
+sub-06_2	31	Nothing	parol	5437540	130000	1			130000		other	0
+sub-06_2	31	Nothing	parol	5442540	135000	1			135000		other	0
+sub-06_2	31	Pulse	255	5456710	149171	0
+sub-06_2	32	Pulse	255	5476710	3618	0
+sub-06_2	32	Pulse	255	5496709	23617	0
+sub-06_2	32	Sound	start_sound	5503093	30000	2			30000		other	0
+sub-06_2	32	Pulse	255	5516710	43617	0
+sub-06_2	32	Nothing	yawny	5518093	45000	1			45000		other	0
+sub-06_2	32	Nothing	yawny	5523093	50000	1			50000		other	0
+sub-06_2	32	Nothing	yawny	5528093	55000	1			55000		other	0
+sub-06_2	32	Nothing	yawny	5533093	60000	1			60000		other	0
+sub-06_2	32	Pulse	255	5536710	63617	0
+sub-06_2	32	Nothing	yawny	5538093	65000	1			65000		other	0
+sub-06_2	32	Nothing	yawny	5543093	70000	1			70000		other	0
+sub-06_2	32	Nothing	yawny	5548093	75000	1			75000		other	0
+sub-06_2	32	Nothing	yawny	5553093	80000	1			80000		other	0
+sub-06_2	32	Pulse	255	5556710	83618	0
+sub-06_2	32	Nothing	yawny	5558093	85000	1			85000		other	0
+sub-06_2	32	Nothing	yawny	5563093	90000	1			90000		other	0
+sub-06_2	32	Nothing	yawny	5568093	95000	1			95000		other	0
+sub-06_2	32	Nothing	yawny	5573093	100000	1			100000		other	0
+sub-06_2	32	Pulse	255	5576709	103617	0
+sub-06_2	32	Nothing	yawny	5578093	105000	1			105000		other	0
+sub-06_2	32	Nothing	yawny	5583093	110000	1			110000		other	0
+sub-06_2	32	Nothing	yawny	5588093	115000	1			115000		other	0
+sub-06_2	32	Nothing	yawny	5593093	120000	1			120000		other	0
+sub-06_2	32	Pulse	255	5596710	123617	0
+sub-06_2	32	Nothing	yawny	5598093	125000	1			125000		other	0
+sub-06_2	32	Nothing	yawny	5603093	130000	1			130000		other	0
+sub-06_2	32	Nothing	yawny	5608093	135000	1			135000		other	0
+sub-06_2	32	Nothing	yawny	5613093	140000	1			140000		other	0
+sub-06_2	32	Pulse	255	5616711	143618	0
+sub-06_2	32	Pulse	255	5636710	163617	0
+sub-06_2	33	Pulse	255	5656711	13065	0
+sub-06_2	33	Sound	start_sound	5673646	30000	2			30000		other	0
+sub-06_2	33	Pulse	255	5676711	33065	0
+sub-06_2	33	Nothing	envir	5688646	45000	1			45000		other	0
+sub-06_2	33	Nothing	envir	5693646	50000	1			50000		other	0
+sub-06_2	33	Pulse	255	5696710	53064	0
+sub-06_2	33	Nothing	envir	5698646	55000	1			55000		other	0
+sub-06_2	33	Nothing	envir	5703646	60000	1			60000		other	0
+sub-06_2	33	Nothing	envir	5708646	65000	1			65000		other	0
+sub-06_2	33	Nothing	envir	5713646	70000	1			70000		other	0
+sub-06_2	33	Pulse	255	5716710	73064	0
+sub-06_2	33	Nothing	envir	5718646	75000	1			75000		other	0
+sub-06_2	33	Nothing	envir	5723646	80000	1			80000		other	0
+sub-06_2	33	Nothing	envir	5728646	85000	1			85000		other	0
+sub-06_2	33	Nothing	envir	5733646	90000	1			90000		other	0
+sub-06_2	33	Pulse	255	5736711	93065	0
+sub-06_2	33	Nothing	envir	5738646	95000	1			95000		other	0
+sub-06_2	33	Nothing	envir	5743646	100000	1			100000		other	0
+sub-06_2	33	Nothing	envir	5748646	105000	1			105000		other	0
+sub-06_2	33	Nothing	envir	5753646	110000	1			110000		other	0
+sub-06_2	33	Pulse	255	5756710	113065	0
+sub-06_2	33	Nothing	envir	5758646	115000	1			115000		other	0
+sub-06_2	33	Nothing	envir	5763646	120000	1			120000		other	0
+sub-06_2	33	Nothing	envir	5768646	125000	1			125000		other	0
+sub-06_2	33	Nothing	envir	5773646	130000	1			130000		other	0
+sub-06_2	33	Pulse	255	5776711	133065	0
+sub-06_2	33	Nothing	envir	5778646	135000	1			135000		other	0
+sub-06_2	33	Nothing	envir	5783646	140000	1			140000		other	0
+sub-06_2	33	Pulse	255	5796710	153064	0
+sub-06_2	34	Picture	Bfix	5814265	0	1	60323	1	0	60000	other	0
+sub-06_2	34	Pulse	255	5816710	2445	0
+sub-06_2	34	Pulse	255	5836710	22445	0
+sub-06_2	34	Pulse	255	5856711	42446	0
+sub-06_2	35	Pulse	255	5876711	2350	0
+sub-06_2	35	Pulse	255	5896711	22350	0
+sub-06_2	35	Sound	start_sound	5904361	30000	2			30000		other	0
+sub-06_2	35	Pulse	255	5916711	42350	0
+sub-06_2	35	Nothing	music	5919361	45000	1			45000		other	0
+sub-06_2	35	Nothing	music	5924361	50000	1			50000		other	0
+sub-06_2	35	Nothing	music	5929361	55000	1			55000		other	0
+sub-06_2	35	Nothing	music	5934361	60000	1			60000		other	0
+sub-06_2	35	Pulse	255	5936711	62349	0
+sub-06_2	35	Nothing	music	5939361	65000	1			65000		other	0
+sub-06_2	35	Nothing	music	5944361	70000	1			70000		other	0
+sub-06_2	35	Nothing	music	5949361	75000	1			75000		other	0
+sub-06_2	35	Nothing	music	5954361	80000	1			80000		other	0
+sub-06_2	35	Pulse	255	5956710	82349	0
+sub-06_2	35	Nothing	music	5959361	85000	1			85000		other	0
+sub-06_2	35	Nothing	music	5964361	90000	1			90000		other	0
+sub-06_2	35	Nothing	music	5969361	95000	1			95000		other	0
+sub-06_2	35	Nothing	music	5974361	100000	1			100000		other	0
+sub-06_2	35	Pulse	255	5976711	102350	0
+sub-06_2	35	Nothing	music	5979361	105000	1			105000		other	0
+sub-06_2	35	Nothing	music	5984361	110000	1			110000		other	0
+sub-06_2	35	Nothing	music	5989361	115000	1			115000		other	0
+sub-06_2	35	Nothing	music	5994361	120000	1			120000		other	0
+sub-06_2	35	Pulse	255	5996710	122349	0
+sub-06_2	35	Nothing	music	5999361	125000	1			125000		other	0
+sub-06_2	35	Nothing	music	6004361	130000	1			130000		other	0
+sub-06_2	35	Nothing	music	6009361	135000	1			135000		other	0
+sub-06_2	35	Nothing	music	6014361	140000	1			140000		other	0
+sub-06_2	35	Pulse	255	6016700	142339	0
+sub-06_2	35	Pulse	255	6036702	162340	0
+sub-06_2	36	Pulse	255	6056702	11787	0
+sub-06_2	36	Sound	start_sound	6074914	30000	2			30000		other	0
+sub-06_2	36	Pulse	255	6076702	31787	0
+sub-06_2	36	Nothing	parol	6084914	40000	1			40000		other	0
+sub-06_2	36	Nothing	parol	6089914	45000	1			45000		other	0
+sub-06_2	36	Nothing	parol	6094914	50000	1			50000		other	0
+sub-06_2	36	Pulse	255	6096701	51786	0
+sub-06_2	36	Nothing	parol	6099914	55000	1			55000		other	0
+sub-06_2	36	Nothing	parol	6104914	60000	1			60000		other	0
+sub-06_2	36	Nothing	parol	6109914	65000	1			65000		other	0
+sub-06_2	36	Nothing	parol	6114914	70000	1			70000		other	0
+sub-06_2	36	Pulse	255	6116701	71787	0
+sub-06_2	36	Nothing	parol	6119914	75000	1			75000		other	0
+sub-06_2	36	Nothing	parol	6124914	80000	1			80000		other	0
+sub-06_2	36	Nothing	parol	6129914	85000	1			85000		other	0
+sub-06_2	36	Nothing	parol	6134914	90000	1			90000		other	0
+sub-06_2	36	Pulse	255	6136701	91787	0
+sub-06_2	36	Nothing	parol	6139914	95000	1			95000		other	0
+sub-06_2	36	Nothing	parol	6144914	100000	1			100000		other	0
+sub-06_2	36	Nothing	parol	6149914	105000	1			105000		other	0
+sub-06_2	36	Nothing	parol	6154914	110000	1			110000		other	0
+sub-06_2	36	Pulse	255	6156702	111787	0
+sub-06_2	36	Nothing	parol	6159914	115000	1			115000		other	0
+sub-06_2	36	Nothing	parol	6164914	120000	1			120000		other	0
+sub-06_2	36	Nothing	parol	6169914	125000	1			125000		other	0
+sub-06_2	36	Nothing	parol	6174914	130000	1			130000		other	0
+sub-06_2	36	Pulse	255	6176701	131786	0
+sub-06_2	36	Nothing	parol	6179914	135000	1			135000		other	0
+sub-06_2	36	Pulse	255	6196701	151786	0
+sub-06_2	37	Pulse	255	6216702	6235	0
+sub-06_2	37	Pulse	255	6236702	26235	0
+sub-06_2	37	Sound	start_sound	6240467	30000	2			30000		other	0
+sub-06_2	37	Nothing	yawny	6255467	45000	1			45000		other	0
+sub-06_2	37	Pulse	255	6256701	46235	0
+sub-06_2	37	Nothing	yawny	6260467	50000	1			50000		other	0
+sub-06_2	37	Nothing	yawny	6265467	55000	1			55000		other	0
+sub-06_2	37	Nothing	yawny	6270467	60000	1			60000		other	0
+sub-06_2	37	Nothing	yawny	6275467	65000	1			65000		other	0
+sub-06_2	37	Pulse	255	6276701	66235	0
+sub-06_2	37	Nothing	yawny	6280467	70000	1			70000		other	0
+sub-06_2	37	Nothing	yawny	6285467	75000	1			75000		other	0
+sub-06_2	37	Nothing	yawny	6290467	80000	1			80000		other	0
+sub-06_2	37	Nothing	yawny	6295467	85000	1			85000		other	0
+sub-06_2	37	Pulse	255	6296703	86236	0
+sub-06_2	37	Nothing	yawny	6300467	90000	1			90000		other	0
+sub-06_2	37	Nothing	yawny	6305467	95000	1			95000		other	0
+sub-06_2	37	Nothing	yawny	6310467	100000	1			100000		other	0
+sub-06_2	37	Nothing	yawny	6315467	105000	1			105000		other	0
+sub-06_2	37	Pulse	255	6316702	106235	0
+sub-06_2	37	Nothing	yawny	6320467	110000	1			110000		other	0
+sub-06_2	37	Nothing	yawny	6325467	115000	1			115000		other	0
+sub-06_2	37	Nothing	yawny	6330467	120000	1			120000		other	0
+sub-06_2	37	Nothing	yawny	6335467	125000	1			125000		other	0
+sub-06_2	37	Pulse	255	6336702	126236	0
+sub-06_2	37	Nothing	yawny	6340467	130000	1			130000		other	0
+sub-06_2	37	Nothing	yawny	6345467	135000	1			135000		other	0
+sub-06_2	37	Nothing	yawny	6350467	140000	1			140000		other	0
+sub-06_2	37	Pulse	255	6356702	146236	0
+sub-06_2	37	Pulse	255	6376702	166235	0
+sub-06_2	38	Pulse	255	6396702	15682	0
+sub-06_2	38	Sound	start_sound	6411019	30000	2			30000		other	0
+sub-06_2	38	Pulse	255	6416703	35683	0
+sub-06_2	38	Nothing	rever	6426019	45000	1			45000		other	0
+sub-06_2	38	Nothing	rever	6431019	50000	1			50000		other	0
+sub-06_2	38	Nothing	rever	6436019	55000	1			55000		other	0
+sub-06_2	38	Pulse	255	6436702	55683	0
+sub-06_2	38	Nothing	rever	6441019	60000	1			60000		other	0
+sub-06_2	38	Nothing	rever	6446019	65000	1			65000		other	0
+sub-06_2	38	Nothing	rever	6451019	70000	1			70000		other	0
+sub-06_2	38	Nothing	rever	6456019	75000	1			75000		other	0
+sub-06_2	38	Pulse	255	6456702	75683	0
+sub-06_2	38	Nothing	rever	6461019	80000	1			80000		other	0
+sub-06_2	38	Nothing	rever	6466019	85000	1			85000		other	0
+sub-06_2	38	Nothing	rever	6471019	90000	1			90000		other	0
+sub-06_2	38	Nothing	rever	6476019	95000	1			95000		other	0
+sub-06_2	38	Pulse	255	6476702	95683	0
+sub-06_2	38	Nothing	rever	6481019	100000	1			100000		other	0
+sub-06_2	38	Nothing	rever	6486019	105000	1			105000		other	0
+sub-06_2	38	Nothing	rever	6491019	110000	1			110000		other	0
+sub-06_2	38	Nothing	rever	6496019	115000	1			115000		other	0
+sub-06_2	38	Pulse	255	6496702	115683	0
+sub-06_2	38	Nothing	rever	6501019	120000	1			120000		other	0
+sub-06_2	38	Nothing	rever	6506019	125000	1			125000		other	0
+sub-06_2	38	Nothing	rever	6511019	130000	1			130000		other	0
+sub-06_2	38	Nothing	rever	6516019	135000	1			135000		other	0
+sub-06_2	38	Pulse	255	6516703	135683	0
+sub-06_2	38	Nothing	rever	6521019	140000	1			140000		other	0
+sub-06_2	38	Pulse	255	6536703	155684	0
+sub-06_2	39	Pulse	255	6556702	5130	0
+sub-06_2	39	Pulse	255	6576702	25130	0
+sub-06_2	39	Sound	start_sound	6581572	30000	2			30000		other	0
+sub-06_2	39	Nothing	envir	6596572	45000	1			45000		other	0
+sub-06_2	39	Pulse	255	6596702	45130	0
+sub-06_2	39	Nothing	envir	6601572	50000	1			50000		other	0
+sub-06_2	39	Nothing	envir	6606572	55000	1			55000		other	0
+sub-06_2	39	Nothing	envir	6611572	60000	1			60000		other	0
+sub-06_2	39	Nothing	envir	6616572	65000	1			65000		other	0
+sub-06_2	39	Pulse	255	6616702	65130	0
+sub-06_2	39	Nothing	envir	6621572	70000	1			70000		other	0
+sub-06_2	39	Nothing	envir	6626572	75000	1			75000		other	0
+sub-06_2	39	Nothing	envir	6631572	80000	1			80000		other	0
+sub-06_2	39	Nothing	envir	6636572	85000	1			85000		other	0
+sub-06_2	39	Pulse	255	6636703	85131	0
+sub-06_2	39	Nothing	envir	6641572	90000	1			90000		other	0
+sub-06_2	39	Nothing	envir	6646572	95000	1			95000		other	0
+sub-06_2	39	Nothing	envir	6651572	100000	1			100000		other	0
+sub-06_2	39	Nothing	envir	6656572	105000	1			105000		other	0
+sub-06_2	39	Pulse	255	6656703	105131	0
+sub-06_2	39	Nothing	envir	6661572	110000	1			110000		other	0
+sub-06_2	39	Nothing	envir	6666572	115000	1			115000		other	0
+sub-06_2	39	Nothing	envir	6671572	120000	1			120000		other	0
+sub-06_2	39	Nothing	envir	6676572	125000	1			125000		other	0
+sub-06_2	39	Pulse	255	6676703	125131	0
+sub-06_2	39	Nothing	envir	6681572	130000	1			130000		other	0
+sub-06_2	39	Nothing	envir	6686572	135000	1			135000		other	0
+sub-06_2	39	Nothing	envir	6691572	140000	1			140000		other	0
+sub-06_2	39	Pulse	255	6696703	145131	0
+sub-06_2	39	Pulse	255	6716702	165130	0
+sub-06_2	40	Pulse	255	6736703	14579	0
+sub-06_2	40	Sound	start_sound	6752124	30000	2			30000		other	0
+sub-06_2	40	Pulse	255	6756703	34579	0
+sub-06_2	40	Nothing	suomi	6767124	45000	1			45000		other	0
+sub-06_2	40	Nothing	suomi	6772124	50000	1			50000		other	0
+sub-06_2	40	Pulse	255	6776702	54578	0
+sub-06_2	40	Nothing	suomi	6777124	55000	1			55000		other	0
+sub-06_2	40	Nothing	suomi	6782124	60000	1			60000		other	0
+sub-06_2	40	Nothing	suomi	6787124	65000	1			65000		other	0
+sub-06_2	40	Nothing	suomi	6792124	70000	1			70000		other	0
+sub-06_2	40	Pulse	255	6796703	74579	0
+sub-06_2	40	Nothing	suomi	6797124	75000	1			75000		other	0
+sub-06_2	40	Nothing	suomi	6802124	80000	1			80000		other	0
+sub-06_2	40	Nothing	suomi	6807124	85000	1			85000		other	0
+sub-06_2	40	Nothing	suomi	6812124	90000	1			90000		other	0
+sub-06_2	40	Pulse	255	6816703	94579	0
+sub-06_2	40	Nothing	suomi	6817124	95000	1			95000		other	0
+sub-06_2	40	Nothing	suomi	6822124	100000	1			100000		other	0
+sub-06_2	40	Nothing	suomi	6827124	105000	1			105000		other	0
+sub-06_2	40	Nothing	suomi	6832124	110000	1			110000		other	0
+sub-06_2	40	Pulse	255	6836703	114579	0
+sub-06_2	40	Nothing	suomi	6837124	115000	1			115000		other	0
+sub-06_2	40	Nothing	suomi	6842124	120000	1			120000		other	0
+sub-06_2	40	Nothing	suomi	6847124	125000	1			125000		other	0
+sub-06_2	40	Nothing	suomi	6852124	130000	1			130000		other	0
+sub-06_2	40	Pulse	255	6856703	134579	0
+sub-06_2	40	Nothing	suomi	6857124	135000	1			135000		other	0
+sub-06_2	40	Nothing	suomi	6862124	140000	1			140000		other	0
+sub-06_2	40	Pulse	255	6876703	154579	0
+sub-06_2	41	Pulse	255	6896703	4027	0
+sub-06_2	41	Pulse	255	6916703	24027	0
+sub-06_2	41	Sound	start_sound	6922676	30000	2			30000		other	0
+sub-06_2	41	Pulse	255	6936703	44027	0
+sub-06_2	41	Nothing	silen	6937676	45000	1			45000		other	0
+sub-06_2	41	Nothing	silen	6942676	50000	1			50000		other	0
+sub-06_2	41	Nothing	silen	6947676	55000	1			55000		other	0
+sub-06_2	41	Nothing	silen	6952676	60000	1			60000		other	0
+sub-06_2	41	Pulse	255	6956703	64027	0
+sub-06_2	41	Nothing	silen	6957676	65000	1			65000		other	0
+sub-06_2	41	Nothing	silen	6962676	70000	1			70000		other	0
+sub-06_2	41	Nothing	silen	6967676	75000	1			75000		other	0
+sub-06_2	41	Nothing	silen	6972676	80000	1			80000		other	0
+sub-06_2	41	Pulse	255	6976703	84027	0
+sub-06_2	41	Nothing	silen	6977676	85000	1			85000		other	0
+sub-06_2	41	Nothing	silen	6982676	90000	1			90000		other	0
+sub-06_2	41	Nothing	silen	6987676	95000	1			95000		other	0
+sub-06_2	41	Nothing	silen	6992676	100000	1			100000		other	0
+sub-06_2	41	Pulse	255	6996703	104027	0
+sub-06_2	41	Nothing	silen	6997676	105000	1			105000		other	0
+sub-06_2	41	Nothing	silen	7002676	110000	1			110000		other	0
+sub-06_2	41	Nothing	silen	7007676	115000	1			115000		other	0
+sub-06_2	41	Nothing	silen	7012676	120000	1			120000		other	0
+sub-06_2	41	Pulse	255	7016704	124028	0
+sub-06_2	41	Nothing	silen	7017676	125000	1			125000		other	0
+sub-06_2	41	Nothing	silen	7022676	130000	1			130000		other	0
+sub-06_2	41	Nothing	silen	7027676	135000	1			135000		other	0
+sub-06_2	41	Nothing	silen	7032676	140000	1			140000		other	0
+sub-06_2	41	Pulse	255	7036704	144028	0
+sub-06_2	41	Pulse	255	7056703	164027	0
+sub-06_2	42	Pulse	255	7076704	13477	0
+sub-06_2	42	Sound	start_sound	7093227	30000	2			30000		other	0
+sub-06_2	42	Pulse	255	7096704	33477	0
+sub-06_2	42	Nothing	pleur	7108227	45000	1			45000		other	0
+sub-06_2	42	Nothing	pleur	7113227	50000	1			50000		other	0
+sub-06_2	42	Pulse	255	7116704	53477	0
+sub-06_2	42	Nothing	pleur	7118227	55000	1			55000		other	0
+sub-06_2	42	Nothing	pleur	7123227	60000	1			60000		other	0
+sub-06_2	42	Nothing	pleur	7128227	65000	1			65000		other	0
+sub-06_2	42	Nothing	pleur	7133227	70000	1			70000		other	0
+sub-06_2	42	Pulse	255	7136703	73476	0
+sub-06_2	42	Nothing	pleur	7138227	75000	1			75000		other	0
+sub-06_2	42	Nothing	pleur	7143227	80000	1			80000		other	0
+sub-06_2	42	Nothing	pleur	7148227	85000	1			85000		other	0
+sub-06_2	42	Nothing	pleur	7153227	90000	1			90000		other	0
+sub-06_2	42	Pulse	255	7156704	93477	0
+sub-06_2	42	Nothing	pleur	7158227	95000	1			95000		other	0
+sub-06_2	42	Nothing	pleur	7163227	100000	1			100000		other	0
+sub-06_2	42	Nothing	pleur	7168227	105000	1			105000		other	0
+sub-06_2	42	Nothing	pleur	7173227	110000	1			110000		other	0
+sub-06_2	42	Pulse	255	7176704	113477	0
+sub-06_2	42	Nothing	pleur	7178227	115000	1			115000		other	0
+sub-06_2	42	Nothing	pleur	7183227	120000	1			120000		other	0
+sub-06_2	42	Nothing	pleur	7188227	125000	1			125000		other	0
+sub-06_2	42	Nothing	pleur	7193227	130000	1			130000		other	0
+sub-06_2	42	Pulse	255	7196705	133477	0
+sub-06_2	42	Nothing	pleur	7198227	135000	1			135000		other	0
+sub-06_2	42	Nothing	pleur	7203227	140000	1			140000		other	0
+sub-06_2	42	Pulse	255	7216704	153477	0
+sub-06_2	43	Pulse	255	7236704	2926	0
+sub-06_2	43	Pulse	255	7256704	22926	0
+sub-06_2	43	Sound	start_sound	7263778	30000	2			30000		other	0
+sub-06_2	43	Pulse	255	7276705	42926	0
+sub-06_2	43	Nothing	alpha	7278778	45000	1			45000		other	0
+sub-06_2	43	Nothing	alpha	7283778	50000	1			50000		other	0
+sub-06_2	43	Nothing	alpha	7288778	55000	1			55000		other	0
+sub-06_2	43	Nothing	alpha	7293778	60000	1			60000		other	0
+sub-06_2	43	Pulse	255	7296704	62926	0
+sub-06_2	43	Nothing	alpha	7298778	65000	1			65000		other	0
+sub-06_2	43	Nothing	alpha	7303778	70000	1			70000		other	0
+sub-06_2	43	Nothing	alpha	7308778	75000	1			75000		other	0
+sub-06_2	43	Nothing	alpha	7313778	80000	1			80000		other	0
+sub-06_2	43	Pulse	255	7316704	82926	0
+sub-06_2	43	Nothing	alpha	7318778	85000	1			85000		other	0
+sub-06_2	43	Nothing	alpha	7323778	90000	1			90000		other	0
+sub-06_2	43	Nothing	alpha	7328778	95000	1			95000		other	0
+sub-06_2	43	Nothing	alpha	7333778	100000	1			100000		other	0
+sub-06_2	43	Pulse	255	7336705	102927	0
+sub-06_2	43	Nothing	alpha	7338778	105000	1			105000		other	0
+sub-06_2	43	Nothing	alpha	7343778	110000	1			110000		other	0
+sub-06_2	43	Nothing	alpha	7348778	115000	1			115000		other	0
+sub-06_2	43	Nothing	alpha	7353778	120000	1			120000		other	0
+sub-06_2	43	Pulse	255	7356705	122926	0
+sub-06_2	43	Nothing	alpha	7358778	125000	1			125000		other	0
+sub-06_2	43	Nothing	alpha	7363778	130000	1			130000		other	0
+sub-06_2	43	Nothing	alpha	7368778	135000	1			135000		other	0
+sub-06_2	43	Nothing	alpha	7373778	140000	1			140000		other	0
+sub-06_2	43	Pulse	255	7376705	142927	0
+sub-06_2	43	Pulse	255	7396705	162927	0
+sub-06_2	44	Picture	Bfix	7404398	0	1	60227	1	0	60000	other	0
+sub-06_2	44	Pulse	255	7416704	12307	0
+sub-06_2	44	Pulse	255	7436705	32307	0
+sub-06_2	44	Pulse	255	7456704	52306	0
+sub-06_2	45	Picture	Bfix	7464624	0	1	60226	1	0	60000	other	0
+sub-06_2	45	Pulse	255	7476705	12081	0
+sub-06_2	45	Pulse	255	7496705	32080	0
+
+The following output port codes were not sent because of a conflict on the port.
+Port	Code	Time(ms)
+1	6	63503.8

@@ -1,0 +1,100 @@
+array <int> i_help[20] = {1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2};
+
+
+sub
+	display_move(int i_left_right)
+begin
+	if (i_left_right == 1) then
+		t_left.present();
+	else
+		t_right.present();
+	end;
+end;
+
+/*loop until (pulse_manager.main_pulse_count() == 1)  #remove this line if you the scanner trigger is not set up to send it sync
+begin  #remove this line if you the scanner trigger is not set up to send it sync
+end;  #remove this line if you the scanner trigger is not set up to send it sync
+*/
+sub
+	display_trial(int i_condition)
+begin                        
+		
+	# i_condition = 10 : BRAS
+	# i_condition = 20 : INDEX
+	# i_condition = 30 : YEUX
+	# i_condition = 40 : TETE
+	# i_condition = 50 : JAMBE
+	# i_condition = 60 : BOUCHE
+	# i_condition = 70 : REPOS
+	# PRINCIPE DES CODES : 11 = MOUVEMENT DU BRAS GAUCHE, 12 = MOUVEMENT DU BRAS DROIT
+	# PRINCIPE DES CODES : 31 = MOUVEMENT DES YEUX VERS LA GAUCHE, 32 = MOUVEMENT DES YEUX VERS LA DROITE
+	
+	s_left.set_event_code(string(i_condition + 1));
+	s_left.set_port_code(i_condition + 1);
+	s_right.set_event_code(string(i_condition + 2));
+	s_right.set_port_code(i_condition + 2);
+
+	if (i_condition == 10) then
+		t_bras.present();
+	end;
+
+	if (i_condition == 20) then
+		t_index.present();
+	end;
+
+	if (i_condition == 30) then
+		t_yeux.present();
+	end;
+
+	/*if (i_condition == 40) then
+		t_tete.present();
+	end; */
+
+	if (i_condition == 50) then
+		t_jambe.present();
+	end;
+
+	if (i_condition == 60) then
+		t_bouche.present();
+	end;
+
+	if (i_condition == 70) then
+		t_repos.present();
+	end;
+
+
+	# then show the trials
+	loop
+		int i = 1
+	until
+		i > 20
+	begin
+		if (i_condition == 20) then
+			s_left.set_response_active(true);
+			s_right.set_response_active(true);
+		end;
+		
+		if (i_condition + i_help[i] == 21) then
+			s_left.set_target_button(1);
+			#s_left.set_response_active(true);
+		else 
+			s_left.set_target_button(0);
+		end;
+		
+		if (i_condition + i_help[i] == 22) then
+			s_right.set_target_button(2);
+			#s_right.set_response_active(true);
+		else 
+			s_right.set_target_button(0);
+		end;
+			
+		display_move(i_help[i]);
+		
+		i = i + 1;
+		
+	end;
+
+end;    
+
+
+

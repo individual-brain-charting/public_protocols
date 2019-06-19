@@ -1,0 +1,33 @@
+Scenario - loca_visu_version1_ts
+Logfile written - 11/21/2018 09:07:52
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+training	0	Pulse	255	36045	36045	0
+training	1	Nothing	cut	36111	0	1			0		other	0
+training	1	Nothing	cut	41111	5000	1			5000		other	0
+training	2	Picture	70	46256	0	1	2065	1	0	2000	other	0
+training	3	Picture	10	58720	0	1	2065	1	0	2000	other	0
+training	4	Picture	70	73017	0	1	2065	1	0	2000	other	0
+training	5	Picture	10	87481	0	1	2065	1	0	2000	other	0
+training	6	Picture	80	101944	0	1	2065	1	0	2000	other	0
+training	7	Picture	30	115408	0	1	2065	1	0	2000	other	0
+training	8	Picture	10	127872	0	1	2065	1	0	2000	other	0
+training	9	Picture	30	141335	0	1	2065	1	0	2000	other	0
+training	10	Picture	10	154799	0	1	2065	1	0	2000	other	0
+training	11	Picture	60	168096	0	1	2065	1	0	2000	other	0
+training	12	Picture	60	180393	0	1	2065	1	0	2000	other	0
+training	13	Picture	70	192690	0	1	2065	1	0	2000	other	0
+training	14	Picture	70	206987	0	1	2065	1	0	2000	other	0
+training	15	Picture	10	220451	0	1	2065	1	0	2000	other	0
+training	16	Picture	80	234915	0	1	2065	1	0	2000	other	0
+training	17	Picture	80	249378	0	1	2065	1	0	2000	other	0
+training	18	Picture	70	263675	0	1	2065	1	0	2000	other	0
+training	19	Picture	30	276139	0	1	2065	1	0	2000	other	0
+training	20	Picture	10	290603	0	1	2065	1	0	2000	other	0
+training	21	Picture	60	303899	0	1	2065	1	0	2000	other	0
+training	22	Picture	60	316197	0	1	2065	1	0	2000	other	0
+training	23	Picture	30	328660	0	1	2065	1	0	2000	other	0
+training	24	Picture	60	342957	0	1	2065	1	0	2000	other	0
+training	25	Picture	10	355421	0	1	2065	1	0	2000	other	0
+training	26	Picture	30	368051	0	1	2065	1	0	2000	other	0

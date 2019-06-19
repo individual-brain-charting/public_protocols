@@ -1,0 +1,358 @@
+Scenario - loca_lec2
+Logfile written - 04/26/2018 14:08:20
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+pilot1	0	Pulse	255	19170	19170	0
+pilot1	1	Nothing	cut	19238	0	1			0		other	0
+pilot1	1	Nothing	cut	24238	5000	1			5000		other	0
+pilot1	1	Nothing	cut	29238	10000	1			10000		other	0
+pilot1	2	Picture	20	29337	0	1	2065	1	0	2000	other	0
+pilot1	3	Picture	10	46634	0	1	2065	1	0	2000	other	0
+pilot1	4	Picture	10	71430	0	1	2065	1	0	2000	other	0
+pilot1	5	Picture	10	103726	0	1	2065	1	0	2000	other	0
+pilot1	6	Picture	20	121023	0	1	2065	1	0	2000	other	0
+pilot1	7	Picture	20	153319	0	1	2065	1	0	2000	other	0
+pilot1	8	Picture	20	185616	0	1	2065	1	0	2000	other	0
+pilot1	9	Picture	10	202913	0	1	2065	1	0	2000	other	0
+pilot1	10	Picture	20	220209	0	1	2065	1	0	2000	other	0
+pilot1	11	Picture	20	237506	0	1	2065	1	0	2000	other	0
+pilot1	12	Picture	10	269803	0	1	2065	1	0	2000	other	0
+pilot1	13	Picture	10	287100	0	1	2065	1	0	2000	other	0
+pilot1	14	Picture	20	319397	0	1	2065	1	0	2000	other	0
+pilot1	15	Picture	20	336693	0	1	2065	1	0	2000	other	0
+pilot1	16	Picture	10	361490	0	1	2065	1	0	2000	other	0
+pilot1	17	Picture	20	386287	0	1	2065	1	0	2000	other	0
+pilot1	18	Picture	10	403584	0	1	2065	1	0	2000	other	0
+pilot1	19	Picture	10	435881	0	1	2065	1	0	2000	other	0
+pilot1	20	Picture	10	460678	0	1	2065	1	0	2000	other	0
+pilot1	21	Picture	20	492975	0	1	2065	1	0	2000	other	0
+pilot1	22	Picture	10	517772	0	1	2065	1	0	2000	other	0
+pilot1	23	Picture	20	535069	0	1	2065	1	0	2000	other	0
+pilot1	24	Picture	10	552366	0	1	2065	1	0	2000	other	0
+pilot1	25	Picture	20	569663	0	1	2065	1	0	2000	other	0
+pilot1	26	Picture	10	586959	0	1	2065	1	0	2000	other	0
+pilot1	27	Picture	10	611756	0	1	2065	1	0	2000	other	0
+pilot1	28	Picture	20	629053	0	1	2065	1	0	2000	other	0
+pilot1	29	Picture	10	646350	0	1	2065	1	0	2000	other	0
+pilot1	30	Picture	20	671147	0	1	2065	1	0	2000	other	0
+pilot1	31	Picture	20	695944	0	1	2065	1	0	2000	other	0
+pilot1	32	Picture	20	713240	0	1	2065	1	0	2000	other	0
+pilot1	33	Picture	20	738037	0	1	2065	1	0	2000	other	0
+pilot1	34	Picture	20	762834	0	1	2065	1	0	2000	other	0
+pilot1	35	Picture	Bfix	780131	0	1	150240	1	0	150000	other	0
+pilot1	36	Picture	10	930371	0	1	2065	1	0	2000	other	0
+pilot1	37	Picture	10	947668	0	1	2065	1	0	2000	other	0
+pilot1	38	Picture	20	979965	0	1	2065	1	0	2000	other	0
+pilot1	39	Picture	20	1004762	0	1	2065	1	0	2000	other	0
+pilot1	40	Picture	10	1037059	0	1	2065	1	0	2000	other	0
+pilot1	41	Picture	20	1061856	0	1	2065	1	0	2000	other	0
+pilot1	42	Picture	10	1094153	0	1	2065	1	0	2000	other	0
+pilot1	43	Picture	20	1118950	0	1	2065	1	0	2000	other	0
+pilot1	44	Picture	10	1143747	0	1	2065	1	0	2000	other	0
+pilot1	45	Picture	10	1168544	0	1	2065	1	0	2000	other	0
+pilot1	46	Picture	20	1200841	0	1	2065	1	0	2000	other	0
+pilot1	47	Picture	20	1225638	0	1	2065	1	0	2000	other	0
+pilot1	48	Picture	10	1250435	0	1	2065	1	0	2000	other	0
+pilot1	49	Picture	10	1267731	0	1	2065	1	0	2000	other	0
+pilot1	50	Picture	20	1300028	0	1	2065	1	0	2000	other	0
+pilot1	51	Picture	10	1317325	0	1	2065	1	0	2000	other	0
+pilot1	52	Picture	20	1349622	0	1	2065	1	0	2000	other	0
+pilot1	53	Picture	20	1381919	0	1	2065	1	0	2000	other	0
+pilot1	54	Picture	10	1406716	0	1	2065	1	0	2000	other	0
+pilot1	55	Picture	20	1424012	0	1	2065	1	0	2000	other	0
+pilot1	56	Picture	10	1441309	0	1	2065	1	0	2000	other	0
+pilot1	57	Picture	20	1473606	0	1	2065	1	0	2000	other	0
+pilot1	58	Picture	20	1490903	0	1	2065	1	0	2000	other	0
+pilot1	59	Picture	10	1515700	0	1	2065	1	0	2000	other	0
+pilot1	60	Picture	20	1532997	0	1	2065	1	0	2000	other	0
+pilot1	61	Picture	20	1550293	0	1	2065	1	0	2000	other	0
+pilot1	62	Picture	20	1567590	0	1	2065	1	0	2000	other	0
+pilot1	63	Picture	10	1592387	0	1	2065	1	0	2000	other	0
+pilot1	64	Picture	20	1617184	0	1	2065	1	0	2000	other	0
+pilot1	65	Picture	10	1649481	0	1	2065	1	0	2000	other	0
+pilot1	66	Picture	20	1681778	0	1	2065	1	0	2000	other	0
+pilot1	67	Picture	20	1714075	0	1	2065	1	0	2000	other	0
+pilot1	68	Picture	10	1746372	0	1	2065	1	0	2000	other	0
+pilot1	69	Picture	Bfix	1763669	0	1	150065	1	0	150000	other	0
+pilot1	70	Picture	20	1913900	0	1	2065	1	0	2000	other	0
+pilot1	71	Picture	20	1946198	0	1	2065	1	0	2000	other	0
+pilot1	72	Picture	20	1978495	0	1	2065	1	0	2000	other	0
+pilot1	73	Picture	20	1995791	0	1	2065	1	0	2000	other	0
+pilot1	74	Picture	20	2013088	0	1	2065	1	0	2000	other	0
+pilot1	75	Picture	20	2030385	0	1	2065	1	0	2000	other	0
+pilot1	76	Picture	20	2055182	0	1	2065	1	0	2000	other	0
+pilot1	77	Picture	10	2072479	0	1	2065	1	0	2000	other	0
+pilot1	78	Picture	10	2104776	0	1	2065	1	0	2000	other	0
+pilot1	79	Picture	20	2137073	0	1	2065	1	0	2000	other	0
+pilot1	80	Picture	10	2169370	0	1	2065	1	0	2000	other	0
+pilot1	81	Picture	20	2194166	0	1	2065	1	0	2000	other	0
+pilot1	82	Picture	20	2218963	0	1	2065	1	0	2000	other	0
+pilot1	83	Picture	10	2251260	0	1	2065	1	0	2000	other	0
+pilot1	84	Picture	20	2276057	0	1	2065	1	0	2000	other	0
+pilot1	85	Picture	10	2300854	0	1	2065	1	0	2000	other	0
+pilot1	86	Picture	10	2318150	0	1	2065	1	0	2000	other	0
+pilot1	87	Picture	10	2350447	0	1	2065	1	0	2000	other	0
+pilot1	88	Picture	20	2367744	0	1	2065	1	0	2000	other	0
+pilot1	89	Picture	10	2392541	0	1	2065	1	0	2000	other	0
+pilot1	90	Picture	20	2409838	0	1	2065	1	0	2000	other	0
+pilot1	91	Picture	10	2442135	0	1	2065	1	0	2000	other	0
+pilot1	92	Picture	20	2474432	0	1	2065	1	0	2000	other	0
+pilot1	93	Picture	10	2491729	0	1	2065	1	0	2000	other	0
+pilot1	94	Picture	10	2509026	0	1	2065	1	0	2000	other	0
+pilot1	95	Picture	20	2526323	0	1	2065	1	0	2000	other	0
+pilot1	96	Picture	10	2551119	0	1	2065	1	0	2000	other	0
+pilot1	97	Picture	10	2583416	0	1	2065	1	0	2000	other	0
+pilot1	98	Picture	20	2600713	0	1	2065	1	0	2000	other	0
+pilot1	99	Picture	10	2625510	0	1	2065	1	0	2000	other	0
+pilot1	100	Picture	20	2657807	0	1	2065	1	0	2000	other	0
+pilot1	101	Picture	Bfix	2690104	0	1	150239	1	0	150000	other	0
+pilot1	102	Picture	20	2840343	0	1	2065	1	0	2000	other	0
+pilot1	103	Picture	10	2865139	0	1	2065	1	0	2000	other	0
+pilot1	104	Picture	20	2882436	0	1	2065	1	0	2000	other	0
+pilot1	105	Picture	10	2907233	0	1	2065	1	0	2000	other	0
+pilot1	106	Picture	20	2924530	0	1	2065	1	0	2000	other	0
+pilot1	107	Picture	20	2949327	0	1	2065	1	0	2000	other	0
+pilot1	108	Picture	20	2974124	0	1	2065	1	0	2000	other	0
+pilot1	109	Picture	10	3006421	0	1	2065	1	0	2000	other	0
+pilot1	110	Picture	10	3031218	0	1	2065	1	0	2000	other	0
+pilot1	111	Picture	20	3048515	0	1	2065	1	0	2000	other	0
+pilot1	112	Picture	20	3080812	0	1	2065	1	0	2000	other	0
+pilot1	113	Picture	10	3098108	0	1	2065	1	0	2000	other	0
+pilot1	114	Picture	20	3122905	0	1	2065	1	0	2000	other	0
+pilot1	115	Picture	20	3140202	0	1	2065	1	0	2000	other	0
+pilot1	116	Picture	10	3157499	0	1	2065	1	0	2000	other	0
+pilot1	117	Picture	20	3182296	0	1	2066	1	0	2000	other	0
+pilot1	118	Picture	20	3214594	0	1	2065	1	0	2000	other	0
+pilot1	119	Picture	10	3246890	0	1	2065	1	0	2000	other	0
+pilot1	120	Picture	20	3271687	0	1	2065	1	0	2000	other	0
+pilot1	121	Picture	20	3288984	0	1	2065	1	0	2000	other	0
+pilot1	122	Picture	10	3321281	0	1	2065	1	0	2000	other	0
+pilot1	123	Picture	20	3338578	0	1	2065	1	0	2000	other	0
+pilot1	124	Picture	20	3363374	0	1	2065	1	0	2000	other	0
+pilot1	125	Picture	20	3395671	0	1	2065	1	0	2000	other	0
+pilot1	126	Picture	10	3427968	0	1	2065	1	0	2000	other	0
+pilot1	127	Picture	10	3460265	0	1	2065	1	0	2000	other	0
+pilot1	128	Picture	20	3477563	0	1	2065	1	0	2000	other	0
+pilot1	129	Picture	10	3502359	0	1	2065	1	0	2000	other	0
+pilot1	130	Picture	20	3527156	0	1	2065	1	0	2000	other	0
+pilot1	131	Picture	10	3551953	0	1	2065	1	0	2000	other	0
+pilot1	132	Picture	20	3569250	0	1	2065	1	0	2000	other	0
+pilot1	133	Picture	20	3601547	0	1	2065	1	0	2000	other	0
+pilot1	134	Picture	Bfix	3633844	0	1	150065	1	0	150000	other	0
+pilot1	135	Picture	10	3784076	0	1	2065	1	0	2000	other	0
+pilot1	136	Picture	20	3808873	0	1	2065	1	0	2000	other	0
+pilot1	137	Picture	10	3841169	0	1	2065	1	0	2000	other	0
+pilot1	138	Picture	20	3873466	0	1	2065	1	0	2000	other	0
+pilot1	139	Picture	10	3890763	0	1	2065	1	0	2000	other	0
+pilot1	140	Picture	10	3908060	0	1	2065	1	0	2000	other	0
+pilot1	141	Picture	20	3932857	0	1	2065	1	0	2000	other	0
+pilot1	142	Picture	10	3950153	0	1	2065	1	0	2000	other	0
+pilot1	143	Picture	20	3974950	0	1	2065	1	0	2000	other	0
+pilot1	144	Picture	20	4007247	0	1	2065	1	0	2000	other	0
+pilot1	145	Picture	20	4032044	0	1	2065	1	0	2000	other	0
+pilot1	146	Picture	10	4064341	0	1	2065	1	0	2000	other	0
+pilot1	147	Picture	20	4096638	0	1	2065	1	0	2000	other	0
+pilot1	148	Picture	10	4113934	0	1	2065	1	0	2000	other	0
+pilot1	149	Picture	10	4138731	0	1	2065	1	0	2000	other	0
+pilot1	150	Picture	20	4156028	0	1	2065	1	0	2000	other	0
+pilot1	151	Picture	10	4188325	0	1	2065	1	0	2000	other	0
+pilot1	152	Picture	20	4220622	0	1	2065	1	0	2000	other	0
+pilot1	153	Picture	10	4245419	0	1	2065	1	0	2000	other	0
+pilot1	154	Picture	10	4270216	0	1	2065	1	0	2000	other	0
+pilot1	155	Picture	10	4287512	0	1	2065	1	0	2000	other	0
+pilot1	156	Picture	20	4319809	0	1	2065	1	0	2000	other	0
+pilot1	157	Picture	20	4352106	0	1	2065	1	0	2000	other	0
+pilot1	158	Picture	10	4376903	0	1	2065	1	0	2000	other	0
+pilot1	159	Picture	10	4409200	0	1	2065	1	0	2000	other	0
+pilot1	160	Picture	10	4441497	0	1	2065	1	0	2000	other	0
+pilot1	161	Picture	10	4466294	0	1	2065	1	0	2000	other	0
+pilot1	162	Picture	10	4491091	0	1	2065	1	0	2000	other	0
+pilot1	163	Picture	20	4523387	0	1	2065	1	0	2000	other	0
+pilot1	164	Picture	10	4540684	0	1	2065	1	0	2000	other	0
+pilot1	165	Picture	20	4557981	0	1	2065	1	0	2000	other	0
+pilot1	166	Picture	20	4582778	0	1	2065	1	0	2000	other	0
+pilot1	167	Picture	10	4615074	0	1	2065	1	0	2000	other	0
+pilot1	168	Picture	20	4639872	0	1	2065	1	0	2000	other	0
+pilot1	169	Picture	10	4664668	0	1	2065	1	0	2000	other	0
+pilot1	170	Picture	20	4681965	0	1	2065	1	0	2000	other	0
+pilot1	171	Picture	10	4706762	0	1	2065	1	0	2000	other	0
+pilot1	172	Picture	Suite	4731559	0	1	50065	1	0	50000	other	0
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+
+Nothing	cut	other				19238	1			0
+Nothing	cut	other				24238	1			5000
+Nothing	cut	other				29238	1			10000
+Picture	20	other				29337	1	2065	1	0	2000
+Picture	10	other				46634	1	2065	1	0	2000
+Picture	10	other				71430	1	2065	1	0	2000
+Picture	10	other				103726	1	2065	1	0	2000
+Picture	20	other				121023	1	2065	1	0	2000
+Picture	20	other				153319	1	2065	1	0	2000
+Picture	20	other				185616	1	2065	1	0	2000
+Picture	10	other				202913	1	2065	1	0	2000
+Picture	20	other				220209	1	2065	1	0	2000
+Picture	20	other				237506	1	2065	1	0	2000
+Picture	10	other				269803	1	2065	1	0	2000
+Picture	10	other				287100	1	2065	1	0	2000
+Picture	20	other				319397	1	2065	1	0	2000
+Picture	20	other				336693	1	2065	1	0	2000
+Picture	10	other				361490	1	2065	1	0	2000
+Picture	20	other				386287	1	2065	1	0	2000
+Picture	10	other				403584	1	2065	1	0	2000
+Picture	10	other				435881	1	2065	1	0	2000
+Picture	10	other				460678	1	2065	1	0	2000
+Picture	20	other				492975	1	2065	1	0	2000
+Picture	10	other				517772	1	2065	1	0	2000
+Picture	20	other				535069	1	2065	1	0	2000
+Picture	10	other				552366	1	2065	1	0	2000
+Picture	20	other				569663	1	2065	1	0	2000
+Picture	10	other				586959	1	2065	1	0	2000
+Picture	10	other				611756	1	2065	1	0	2000
+Picture	20	other				629053	1	2065	1	0	2000
+Picture	10	other				646350	1	2065	1	0	2000
+Picture	20	other				671147	1	2065	1	0	2000
+Picture	20	other				695944	1	2065	1	0	2000
+Picture	20	other				713240	1	2065	1	0	2000
+Picture	20	other				738037	1	2065	1	0	2000
+Picture	20	other				762834	1	2065	1	0	2000
+Picture	Bfix	other				780131	1	150240	1	0	150000
+Picture	10	other				930371	1	2065	1	0	2000
+Picture	10	other				947668	1	2065	1	0	2000
+Picture	20	other				979965	1	2065	1	0	2000
+Picture	20	other				1004762	1	2065	1	0	2000
+Picture	10	other				1037059	1	2065	1	0	2000
+Picture	20	other				1061856	1	2065	1	0	2000
+Picture	10	other				1094153	1	2065	1	0	2000
+Picture	20	other				1118950	1	2065	1	0	2000
+Picture	10	other				1143747	1	2065	1	0	2000
+Picture	10	other				1168544	1	2065	1	0	2000
+Picture	20	other				1200841	1	2065	1	0	2000
+Picture	20	other				1225638	1	2065	1	0	2000
+Picture	10	other				1250435	1	2065	1	0	2000
+Picture	10	other				1267731	1	2065	1	0	2000
+Picture	20	other				1300028	1	2065	1	0	2000
+Picture	10	other				1317325	1	2065	1	0	2000
+Picture	20	other				1349622	1	2065	1	0	2000
+Picture	20	other				1381919	1	2065	1	0	2000
+Picture	10	other				1406716	1	2065	1	0	2000
+Picture	20	other				1424012	1	2065	1	0	2000
+Picture	10	other				1441309	1	2065	1	0	2000
+Picture	20	other				1473606	1	2065	1	0	2000
+Picture	20	other				1490903	1	2065	1	0	2000
+Picture	10	other				1515700	1	2065	1	0	2000
+Picture	20	other				1532997	1	2065	1	0	2000
+Picture	20	other				1550293	1	2065	1	0	2000
+Picture	20	other				1567590	1	2065	1	0	2000
+Picture	10	other				1592387	1	2065	1	0	2000
+Picture	20	other				1617184	1	2065	1	0	2000
+Picture	10	other				1649481	1	2065	1	0	2000
+Picture	20	other				1681778	1	2065	1	0	2000
+Picture	20	other				1714075	1	2065	1	0	2000
+Picture	10	other				1746372	1	2065	1	0	2000
+Picture	Bfix	other				1763669	1	150065	1	0	150000
+Picture	20	other				1913900	1	2065	1	0	2000
+Picture	20	other				1946198	1	2065	1	0	2000
+Picture	20	other				1978495	1	2065	1	0	2000
+Picture	20	other				1995791	1	2065	1	0	2000
+Picture	20	other				2013088	1	2065	1	0	2000
+Picture	20	other				2030385	1	2065	1	0	2000
+Picture	20	other				2055182	1	2065	1	0	2000
+Picture	10	other				2072479	1	2065	1	0	2000
+Picture	10	other				2104776	1	2065	1	0	2000
+Picture	20	other				2137073	1	2065	1	0	2000
+Picture	10	other				2169370	1	2065	1	0	2000
+Picture	20	other				2194166	1	2065	1	0	2000
+Picture	20	other				2218963	1	2065	1	0	2000
+Picture	10	other				2251260	1	2065	1	0	2000
+Picture	20	other				2276057	1	2065	1	0	2000
+Picture	10	other				2300854	1	2065	1	0	2000
+Picture	10	other				2318150	1	2065	1	0	2000
+Picture	10	other				2350447	1	2065	1	0	2000
+Picture	20	other				2367744	1	2065	1	0	2000
+Picture	10	other				2392541	1	2065	1	0	2000
+Picture	20	other				2409838	1	2065	1	0	2000
+Picture	10	other				2442135	1	2065	1	0	2000
+Picture	20	other				2474432	1	2065	1	0	2000
+Picture	10	other				2491729	1	2065	1	0	2000
+Picture	10	other				2509026	1	2065	1	0	2000
+Picture	20	other				2526323	1	2065	1	0	2000
+Picture	10	other				2551119	1	2065	1	0	2000
+Picture	10	other				2583416	1	2065	1	0	2000
+Picture	20	other				2600713	1	2065	1	0	2000
+Picture	10	other				2625510	1	2065	1	0	2000
+Picture	20	other				2657807	1	2065	1	0	2000
+Picture	Bfix	other				2690104	1	150239	1	0	150000
+Picture	20	other				2840343	1	2065	1	0	2000
+Picture	10	other				2865139	1	2065	1	0	2000
+Picture	20	other				2882436	1	2065	1	0	2000
+Picture	10	other				2907233	1	2065	1	0	2000
+Picture	20	other				2924530	1	2065	1	0	2000
+Picture	20	other				2949327	1	2065	1	0	2000
+Picture	20	other				2974124	1	2065	1	0	2000
+Picture	10	other				3006421	1	2065	1	0	2000
+Picture	10	other				3031218	1	2065	1	0	2000
+Picture	20	other				3048515	1	2065	1	0	2000
+Picture	20	other				3080812	1	2065	1	0	2000
+Picture	10	other				3098108	1	2065	1	0	2000
+Picture	20	other				3122905	1	2065	1	0	2000
+Picture	20	other				3140202	1	2065	1	0	2000
+Picture	10	other				3157499	1	2065	1	0	2000
+Picture	20	other				3182296	1	2066	1	0	2000
+Picture	20	other				3214594	1	2065	1	0	2000
+Picture	10	other				3246890	1	2065	1	0	2000
+Picture	20	other				3271687	1	2065	1	0	2000
+Picture	20	other				3288984	1	2065	1	0	2000
+Picture	10	other				3321281	1	2065	1	0	2000
+Picture	20	other				3338578	1	2065	1	0	2000
+Picture	20	other				3363374	1	2065	1	0	2000
+Picture	20	other				3395671	1	2065	1	0	2000
+Picture	10	other				3427968	1	2065	1	0	2000
+Picture	10	other				3460265	1	2065	1	0	2000
+Picture	20	other				3477563	1	2065	1	0	2000
+Picture	10	other				3502359	1	2065	1	0	2000
+Picture	20	other				3527156	1	2065	1	0	2000
+Picture	10	other				3551953	1	2065	1	0	2000
+Picture	20	other				3569250	1	2065	1	0	2000
+Picture	20	other				3601547	1	2065	1	0	2000
+Picture	Bfix	other				3633844	1	150065	1	0	150000
+Picture	10	other				3784076	1	2065	1	0	2000
+Picture	20	other				3808873	1	2065	1	0	2000
+Picture	10	other				3841169	1	2065	1	0	2000
+Picture	20	other				3873466	1	2065	1	0	2000
+Picture	10	other				3890763	1	2065	1	0	2000
+Picture	10	other				3908060	1	2065	1	0	2000
+Picture	20	other				3932857	1	2065	1	0	2000
+Picture	10	other				3950153	1	2065	1	0	2000
+Picture	20	other				3974950	1	2065	1	0	2000
+Picture	20	other				4007247	1	2065	1	0	2000
+Picture	20	other				4032044	1	2065	1	0	2000
+Picture	10	other				4064341	1	2065	1	0	2000
+Picture	20	other				4096638	1	2065	1	0	2000
+Picture	10	other				4113934	1	2065	1	0	2000
+Picture	10	other				4138731	1	2065	1	0	2000
+Picture	20	other				4156028	1	2065	1	0	2000
+Picture	10	other				4188325	1	2065	1	0	2000
+Picture	20	other				4220622	1	2065	1	0	2000
+Picture	10	other				4245419	1	2065	1	0	2000
+Picture	10	other				4270216	1	2065	1	0	2000
+Picture	10	other				4287512	1	2065	1	0	2000
+Picture	20	other				4319809	1	2065	1	0	2000
+Picture	20	other				4352106	1	2065	1	0	2000
+Picture	10	other				4376903	1	2065	1	0	2000
+Picture	10	other				4409200	1	2065	1	0	2000
+Picture	10	other				4441497	1	2065	1	0	2000
+Picture	10	other				4466294	1	2065	1	0	2000
+Picture	10	other				4491091	1	2065	1	0	2000
+Picture	20	other				4523387	1	2065	1	0	2000
+Picture	10	other				4540684	1	2065	1	0	2000
+Picture	20	other				4557981	1	2065	1	0	2000
+Picture	20	other				4582778	1	2065	1	0	2000
+Picture	10	other				4615074	1	2065	1	0	2000
+Picture	20	other				4639872	1	2065	1	0	2000
+Picture	10	other				4664668	1	2065	1	0	2000
+Picture	20	other				4681965	1	2065	1	0	2000
+Picture	10	other				4706762	1	2065	1	0	2000
+Picture	Suite	other				4731559	1	50065	1	0	50000

@@ -1,0 +1,31 @@
+Scenario - loca_mcse_ts
+Logfile written - 05/29/2018 08:58:25
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+training_1	0	Pulse	255	22030	22030	0
+training_1	2	Picture	Bfix	32340	0	1	200561	1	0	200000	other	0
+training_1	3	Picture	11	242904	10000	1	25174	1	10000	25000	miss	0
+training_1	4	Picture	12	278749	10000	1	25174	1	10000	25000	miss	0
+training_1	5	Picture	11	314593	10000	1	25174	1	10000	25000	miss	0
+training_1	6	Picture	12	350437	10000	1	25174	1	10000	25000	miss	0
+training_1	7	Picture	11	386282	10000	1	25174	1	10000	25000	miss	0
+training_1	8	Picture	Bfix	411623	0	1	200561	1	0	200000	other	0
+training_1	9	Picture	61	622187	10000	1	25174	1	10000	25000	miss	0
+training_1	10	Picture	62	658031	10000	1	25174	1	10000	25000	miss	0
+training_1	11	Picture	61	693876	10000	1	25174	1	10000	25000	miss	0
+training_1	12	Picture	61	729720	10000	1	25174	1	10000	25000	miss	0
+training_1	13	Picture	61	765564	10000	1	25174	1	10000	25000	miss	0
+training_1	14	Picture	Bfix	790905	0	1	200561	1	0	200000	other	0
+training_1	15	Picture	11	1001470	10000	1	25174	1	10000	25000	miss	0
+training_1	16	Picture	11	1037314	10000	1	25174	1	10000	25000	miss	0
+training_1	17	Picture	11	1073158	10000	1	25174	1	10000	25000	miss	0
+training_1	18	Picture	12	1109003	10000	1	25174	1	10000	25000	miss	0
+training_1	19	Picture	11	1144847	10000	1	25174	1	10000	25000	miss	0
+training_1	20	Picture	Bfix	1170188	0	1	200061	1	0	200000	other	0
+training_1	21	Picture	61	1380919	10000	1	25174	1	10000	25000	miss	0
+training_1	22	Picture	62	1416763	10000	1	25174	1	10000	25000	miss	0
+training_1	23	Picture	61	1452608	10000	1	25174	1	10000	25000	miss	0
+training_1	24	Picture	61	1488452	10000	1	25174	1	10000	25000	miss	0
+training_1	25	Picture	62	1524296	10000	1	25174	1	10000	25000	miss	0
+training_1	26	Picture	Bfix	1549637	0	1	200061	1	0	200000	other	0

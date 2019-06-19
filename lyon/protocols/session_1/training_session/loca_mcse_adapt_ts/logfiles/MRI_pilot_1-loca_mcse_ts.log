@@ -1,0 +1,52 @@
+Scenario - loca_mcse_ts
+Logfile written - 05/17/2018 10:05:50
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+MRI_pilot_1	0	Response	2	988351	988351	1
+MRI_pilot_1	0	Pulse	255	1010715	1010715	0
+MRI_pilot_1	2	Picture	Bfix	1020864	0	1	201191	1	0	200000	other	0
+MRI_pilot_1	3	Picture	11	1231887	10000	1	25065	1	10000	25000	miss	0
+MRI_pilot_1	4	Response	2	1265282	7149	1
+MRI_pilot_1	4	Picture	12	1268133	10000	1	25065	1	10000	25000	incorrect	7
+MRI_pilot_1	4	Response	1	1286125	27992	1
+MRI_pilot_1	5	Picture	11	1304172	10000	1	25065	1	10000	25000	hit	9
+MRI_pilot_1	5	Response	2	1312257	18084	1
+MRI_pilot_1	6	Picture	12	1340746	10000	1	25065	1	10000	25000	incorrect	11
+MRI_pilot_1	6	Response	1	1347243	16497	1
+MRI_pilot_1	7	Picture	11	1377231	10000	1	25065	1	10000	25000	incorrect	13
+MRI_pilot_1	7	Response	1	1388718	21487	1
+MRI_pilot_1	8	Picture	Bfix	1402463	0	1	200944	1	0	200000	other	0
+MRI_pilot_1	9	Picture	61	1613240	10000	1	25065	1	10000	25000	hit	16
+MRI_pilot_1	9	Response	2	1631300	28060	1
+MRI_pilot_1	10	Picture	62	1649516	10000	1	25065	1	10000	25000	incorrect	18
+MRI_pilot_1	10	Response	1	1663259	23743	1
+MRI_pilot_1	11	Picture	61	1685859	10000	1	25065	1	10000	25000	incorrect	20
+MRI_pilot_1	11	Response	1	1699262	23403	1
+MRI_pilot_1	12	Picture	61	1722160	10000	1	25066	1	10000	25000	miss	0
+MRI_pilot_1	13	Response	2	1749569	873	1
+MRI_pilot_1	13	Picture	61	1758696	10000	1	25065	1	10000	25000	incorrect	24
+MRI_pilot_1	13	Response	1	1773624	24928	1
+MRI_pilot_1	14	Picture	Bfix	1783928	0	1	200065	1	0	200000	other	0
+MRI_pilot_1	15	Picture	11	1995253	10000	1	25065	1	10000	25000	hit	27
+MRI_pilot_1	15	Response	2	2011304	26051	1
+MRI_pilot_1	16	Picture	11	2031614	10000	1	25065	1	10000	25000	incorrect	29
+MRI_pilot_1	16	Response	1	2040629	19015	1
+MRI_pilot_1	17	Picture	11	2068090	10000	1	25065	1	10000	25000	hit	31
+MRI_pilot_1	17	Response	2	2075024	16934	1
+MRI_pilot_1	18	Picture	12	2104379	10000	1	25065	1	10000	25000	incorrect	33
+MRI_pilot_1	18	Response	1	2111522	17143	1
+MRI_pilot_1	19	Picture	11	2140854	10000	1	25065	1	10000	25000	incorrect	35
+MRI_pilot_1	19	Response	1	2151042	20189	1
+MRI_pilot_1	20	Picture	Bfix	2166085	0	1	201330	1	0	200000	other	0
+MRI_pilot_1	21	Picture	61	2377248	10000	1	25065	1	10000	25000	miss	0
+MRI_pilot_1	22	Response	1	2412896	9572	1
+MRI_pilot_1	22	Picture	62	2413324	10000	1	25065	1	10000	25000	incorrect	40
+MRI_pilot_1	22	Response	1	2423513	20189	1
+MRI_pilot_1	23	Picture	61	2449706	10000	1	25065	1	10000	25000	incorrect	42
+MRI_pilot_1	23	Response	1	2460155	20449	1
+MRI_pilot_1	24	Picture	61	2485961	10000	1	25065	1	10000	25000	incorrect	44
+MRI_pilot_1	24	Response	1	2497378	21418	1
+MRI_pilot_1	25	Picture	62	2522299	10000	1	25065	1	10000	25000	incorrect	46
+MRI_pilot_1	25	Response	1	2531733	19434	1
+MRI_pilot_1	26	Picture	Bfix	2547531	0	1	205679	1	0	200000	other	0

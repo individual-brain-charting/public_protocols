@@ -1,0 +1,95 @@
+int i_mean_isi = 3000;
+int i_var_isi = 0;
+int i_fix_duration;
+
+
+
+
+/*sub
+	display_question
+begin
+	t_question.present()
+end; */
+
+
+sub
+   display_trial(string a_wavfile, int s_code)
+begin
+	# first, set isi duration
+   i_fix_duration = (i_mean_isi + i_var_isi*(random(0,2)-1));
+	s_isi10.set_duration(i_fix_duration);
+	s_isi20.set_duration(i_fix_duration);
+	s_isi30.set_duration(i_fix_duration);
+	s_isi40.set_duration(i_fix_duration);
+	s_isi50.set_duration(i_fix_duration);
+	s_isi60.set_duration(i_fix_duration);
+	s_isi70.set_duration(i_fix_duration);
+	s_isi80.set_duration(i_fix_duration);
+	s_isi90.set_duration(i_fix_duration);
+	s_isi100.set_duration(i_fix_duration);
+	s_isi110.set_duration(i_fix_duration);
+	s_isi120.set_duration(i_fix_duration);
+	s_isi200.set_duration(i_fix_duration);
+
+	
+# pourrait aussi, plutôt que de rajouter un isi, faire varier la trial duration définie dans le sdl
+	#int isi_test = 15000 + random(0,3000);
+	#t_trial_50.set_duration(i_fix_duration);
+	
+	# la formule (i_mean_isi + i_var_isi*(random(0,2)-1)) fait varier l'isi de i_mean_isi + i_var_isi*radomly, (tout entier entre 0 et 2) -1,
+	# cad -1 (0-1), 0 (1-1), et 1 (2-1). Donc si i_mean_isi = 3000 et i_var_isi = 1500, isi = 1500 ou 3000 ou 4500.
+	# pour rallonger isi de n'importe quel chiffre entre 0 et i_var_isi, écrit : (i_mean_isi + random(0,i_var_isi))
+	
+   # first, you change the wave file and load it
+   
+	w_mywave.set_filename( a_wavfile );
+	w_mywave.load();
+
+	# displays trial, depending on code
+   if (s_code==10) then
+		t_trial_10.present();
+   end;
+   if (s_code==20) then
+		t_trial_20.present();
+   end;
+   if (s_code==30) then
+		t_trial_30.present();
+   end;
+   if (s_code==40) then
+		t_trial_40.present();
+   end;
+   if (s_code==50) then
+		t_trial_50.present();
+   end;
+   if (s_code==60) then
+		t_trial_60.present();
+   end;
+   if (s_code==70) then
+		t_trial_70.present();
+   end;
+   if (s_code==80) then
+		t_trial_80.present();
+   end;
+   if (s_code==90) then
+		t_trial_90.present();
+   end;
+   if (s_code==100) then
+		t_trial_100.present();
+   end;
+   if (s_code==110) then
+		t_trial_110.present();
+   end;
+   if (s_code==120) then
+		t_trial_120.present();
+   end;
+   if (s_code==200) then
+		t_trial_200.present();
+   end;
+   
+   #unload wav file
+	w_mywave.unload();
+
+end;
+
+
+

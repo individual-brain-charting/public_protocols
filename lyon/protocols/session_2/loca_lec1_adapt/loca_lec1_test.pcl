@@ -1,0 +1,37 @@
+eye_tracker EyeLink = new eye_tracker("eyelink");
+EyeLink.calibrate(et_calibrate_default, 0.0, 0.0, 0.0);
+EyeLink.send_command("open_data_file " + "lec1.edf"); 
+EyeLink.start_tracking();
+
+include "loca_lec1_first.pcl"
+
+int i_score;
+
+display_diapo(1);
+# block1 de test
+t_cut.present();
+display_change(20,i_score);
+display_trial("glufi",20,1,i_score);
+display_trial("bonju",20,1,i_score);
+display_trial("mhoun",20,2,i_score);
+display_trial("puic",20,2,i_score);
+display_trial("dralan",20,1,i_score);
+display_score(i_score);
+display_change(10,i_score);
+display_trial("bol",10,2,i_score);
+display_trial("café",10,2,i_score);
+display_trial("souris",10,1,i_score);
+display_trial("plante",10,1,i_score);
+display_trial("maison",10,2,i_score);
+display_score(i_score);
+display_change(30,i_score);
+display_trial("ldrnd",30,2,i_score);
+display_trial("MZTGR",30,1,i_score);
+display_trial("NCHTF",30,1,i_score);
+display_trial("mwndr",30,2,i_score);
+display_trial("PRZTD",30,1,i_score);
+display_score(i_score);
+display_pause();
+
+EyeLink.stop_tracking();                     
+EyeLink.send_command("receive_data_file " + "lec1.edf" + " " + "lec1.edf"); 

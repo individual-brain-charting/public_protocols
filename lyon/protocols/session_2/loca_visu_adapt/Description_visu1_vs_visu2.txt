@@ -1,0 +1,2 @@
+VISU 1  = houses - animals - letters - pseudowords
+VISU 2 = scene - face - tool - scramble

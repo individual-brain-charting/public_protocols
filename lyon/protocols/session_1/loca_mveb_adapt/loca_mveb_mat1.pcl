@@ -1,0 +1,47 @@
+include "loca_mveb_first.pcl";
+
+TTL_fix.present();
+
+loop until (pulse_manager.main_pulse_count() == 1)
+  begin
+ end;
+
+t_startup.present();
+
+
+display_trial("# K # # F #","K",2,0, 2000);
+display_trial("K T # # M N","R",4,0, 1500);
+display_trial("T # N # # #","T",2,0, 2000);
+display_trial("N C # K D #","D",4,0, 3000);
+display_trial("V V V V V V","V",6,1, 4000);
+display_trial("# K R M # N","K",4,0, 4000);
+display_trial("# # # R # S","F",2,0, 3500);
+display_trial("S # S S # S","S",4,1, 3000);
+display_trial("# F C # # #","C",2,0, 1000);
+display_trial("# # # N # N","N",2,1, 2000);
+display_trial("C C # # C C","C",4,1, 2000);
+display_trial("# F # # F #","R",2,1, 1500);
+display_trial("V V V V V V","K",6,1, 5000);
+display_trial("# # # N # N","N",2,1, 3000);
+display_trial("F T D N R C","C",6,0, 2000);
+display_trial("D D D D # #","T",4,1, 3000);
+display_trial("C C C C C C","C",6,1, 1500);
+display_trial("R M K V F C","V",6,0, 1500);
+display_trial("# N # # # N","C",2,1, 2000);
+display_trial("K K K K K K","M",6,1, 1500);
+display_trial("# S # M T V","F",4,0, 1500);
+display_trial("D T N S M V","N",6,0, 1000);
+display_trial("D D D D D D","D",6,1, 3000);
+display_trial("T M S V F K","D",6,0, 2000);
+display_trial("# F C # T V","T",4,0, 2000);
+display_trial("# # # S S #","S",2,1, 4000);
+display_trial("T T T T T T","S",6,1, 3000);
+display_trial("V # D N # R","K",4,0, 4000);
+display_trial("F # # # F #","S",2,1, 1500);
+display_trial("V V # V V #","T",4,1, 2000);
+display_trial("# F F F F #","F",4,1, 1500);
+display_trial("N N # # N N","T",4,1, 3500);
+display_trial("R D F N K M","C",6,0, 2000);
+display_trial("K # # # S #","R",2,1, 1500);
+display_trial("# # # F # C","F",2,0, 2000);
+display_trial("T N V D C S","R",6,1, 4000);

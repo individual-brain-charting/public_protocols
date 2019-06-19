@@ -1,0 +1,194 @@
+include "loca_mcse_first.pcl";
+
+TTL_fix.present();
+
+loop until (pulse_manager.main_pulse_count() == 1)  #remove this line if you the scanner trigger is not set up to send it sync
+begin  #remove this line if you the scanner trigger is not set up to send it sync
+end;  #remove this line if you the scanner trigger is not set up to send it sync
+
+
+#t_cut.present();
+baselinefix.present();
+
+display_trial("onel_012.jpg", 11);                        
+display_trial("oner_001.jpg", 12);                        
+display_trial("oner_021.jpg", 12);                        
+display_trial("onel_016.jpg", 11);                        
+display_trial("oner_008.jpg", 12);                        
+display_trial("oner_006.jpg", 12);                        
+display_trial("oner_015.jpg", 12);                        
+display_trial("onel_030.jpg", 11);                        
+display_trial("onel_023.jpg", 11);                        
+display_trial("onel_004.jpg", 11);                        
+
+baselinefix.present() ;
+
+display_trial("alll_016.jpg", 61);                        
+display_trial("allr_014.jpg", 62);                        
+display_trial("alll_023.jpg", 61);                        
+display_trial("allr_002.jpg", 62);                        
+display_trial("alll_026.jpg", 61);                        
+display_trial("alll_028.jpg", 61);                        
+display_trial("allr_028.jpg", 62);                        
+display_trial("alll_021.jpg", 61);                        
+display_trial("allr_015.jpg", 62);                        
+display_trial("allr_006.jpg", 62);                        
+
+baselinefix.present();
+
+display_trial("onel_011.jpg", 11);                        
+display_trial("oner_013.jpg", 12);                        
+display_trial("oner_026.jpg", 12);                        
+display_trial("oner_002.jpg", 12);                        
+display_trial("onel_010.jpg", 11);                        
+display_trial("oner_028.jpg", 12);                        
+display_trial("onel_014.jpg", 11);                        
+display_trial("oner_018.jpg", 12);                        
+display_trial("oner_012.jpg", 12);                        
+display_trial("onel_006.jpg", 11);                        
+
+baselinefix.present();
+
+display_trial("allr_018.jpg", 62);                        
+display_trial("allr_001.jpg", 62);                        
+display_trial("allr_021.jpg", 62);                        
+display_trial("allr_008.jpg", 62);                        
+display_trial("allr_011.jpg", 62);                        
+display_trial("allr_003.jpg", 62);                        
+display_trial("allr_004.jpg", 62);                        
+display_trial("alll_030.jpg", 61);                        
+display_trial("alll_029.jpg", 61);                        
+display_trial("alll_025.jpg", 61);                        
+
+baselinefix.present();
+
+display_trial("onel_015.jpg", 11);                        
+display_trial("oner_024.jpg", 12);                        
+display_trial("oner_023.jpg", 12);                        
+display_trial("oner_004.jpg", 12);                        
+display_trial("oner_011.jpg", 12);                        
+display_trial("oner_010.jpg", 12);                        
+display_trial("onel_007.jpg", 11);                        
+display_trial("onel_024.jpg", 11);                        
+display_trial("onel_005.jpg", 11);                        
+display_trial("oner_003.jpg", 12);                        
+
+baselinefix.present();
+
+display_trial("alll_022.jpg", 61);                        
+display_trial("alll_019.jpg", 61);                        
+display_trial("allr_013.jpg", 62);                        
+display_trial("allr_030.jpg", 62);                        
+display_trial("alll_007.jpg", 61);                        
+display_trial("alll_014.jpg", 61);                        
+display_trial("allr_019.jpg", 62);                        
+display_trial("alll_015.jpg", 61);                        
+display_trial("alll_002.jpg", 61);                        
+display_trial("allr_007.jpg", 62);                        
+
+baselinefix.present();
+	
+
+
+
+/*
+loop
+	int i_block = 1
+until
+	i_block > 8
+begin
+	
+	loop
+		int i = 1
+	until
+		i > 12
+	begin
+	
+		i_tool = i_help[i];
+		if (i_tool > 40) then
+			s_file = "allt_" + string(i_tool - 40 + 3*(i_block-1)) + ".jpg";
+		else
+			if (i_tool > 30) then
+				s_file = "allb_" + string(i_tool - 30 + 3*(i_block-1)) + ".jpg";
+			else
+				if (i_tool > 20) then
+					s_file = "onet_" + string(i_tool - 20 + 3*(i_block-1)) + ".jpg";
+				else
+					if (i_tool > 10) then
+						s_file = "oneb_" + string(i_tool - 10 + 3*(i_block-1)) + ".jpg";
+					end;
+				end;
+			end;
+		end;
+	
+		display_trial(s_file,ix_reaction_time);
+		f_debug.print(string(i_tool) + " " + string(ix_reaction_time));
+		f_debug.print("\n");
+		i = i+1;
+	end;
+
+
+	i_block = i_block + 1;
+
+end;
+
+f_debug.close();
+
+###############
+# EXPLICATION #
+###############
+
+loop
+	int i_block = 1
+until
+	i_block > 8
+begin 
+	
+	> Nous avons ici une boucle, i_block, allant de 1 à 8. A l'intérieur de cette boucle, nous avons une autre boucle...
+	
+	i_help.shuffle();
+	> fonction qui shuffle i_help càd va piocher ses éléments aléatoirement
+
+	loop
+		int i = 1
+	until
+		i > 12
+	begin
+		
+		i_tool = i_help[i];
+
+	> ... où i_help est un array de 12 éléments que nous allons utiliser l'un après l'autre.
+	> Les éléments de i_help sont définis plus haut : array <int> i_help[12] = {11,12,13,21,22,23,31,32,33,41,42,43};
+	> Ces éléments vont âtre appelés i_tool
+	
+	if (i_tool > 40) then
+			s_file = "allt_" + string(i_tool - 40 + 3*(i_block-1)) + ".jpg";
+		else
+
+	> si i_tool est supérieur à 40, alors le nom du fichier à loader sera
+	> allt , 41, 42 ou 43 - 40 + 3*0,1,2,3,4,5,6 ou 7.jpg
+	> donc allt 1,2,3...24.jpg
+	
+			if (i_tool > 30) then
+				s_file = "allb_" + string(i_tool - 30 + 3*(i_block-1)) + ".jpg";
+			else
+
+	> si i_tool est supérieur à 30, alors le nom du fichier à loader sera
+	> allb , 31,32,33 - 30 + 3*0,1,2,3,4,5,6 ou 7.jpg
+	> donc allb 1,2,3...24.jpg
+	
+	> cette ligne ne s'occupe pas de 41,42 et 43 car ces valeurs là sont déjà traités par le premier "if" et envoyés directement au "end"
+	> donc, tous les nombres qui arrivent plus bas sont inférieurs à 40.
+	> idem pour chaque étape
+	
+				if (i_tool > 20) then
+					s_file = "onet_" + string(i_tool - 20 + 3*(i_block-1)) + ".jpg";
+				else
+				
+	> idem
+					if (i_tool > 10) then
+						s_file = "oneb_" + string(i_tool - 10 + 3*(i_block-1)) + ".jpg";
+					end;
+				end;
+			end;
+	

@@ -1,0 +1,10 @@
+Scenario - loca_lec2
+Logfile written - 06/11/2018 16:47:30
+
+Subject	Pulse	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+phantom_time	0	Quit		864420	864420	NA
+
+
+Event Type	Code	Type	Response	RT	RT Uncertainty	Time	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur
+

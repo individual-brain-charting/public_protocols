@@ -1,0 +1,225 @@
+Scenario - loca_mvis
+Logfile written - 04/27/2018 13:06:30
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+pilot2	0	Pulse	255	18115	18115	0
+pilot2	1	Picture	p_startup	18180	0	1	88065	1	0	88000	other	0
+pilot2	2	Picture	grid	106412	0	1	4065	1	0	4000	other	0
+pilot2	2	Picture	60	110476	4065	1	15065	1	4000	15000	other	0
+pilot2	2	Picture	maintenance	125541	19130	1	30065	1	19000	30000	other	0
+pilot2	2	Nothing	65	155412	49000	1			49000		other	0
+pilot2	2	Picture	test	170476	64065	1	10065	1	64000	10000	hit	8
+pilot2	2	Response	2	179094	72682	1
+pilot2	3	Picture	grid	180708	0	1	4065	1	0	4000	other	0
+pilot2	3	Picture	21	184773	4065	1	15065	1	4000	15000	other	0
+pilot2	3	Picture	maintenance	199838	19130	1	30065	1	19000	30000	other	0
+pilot2	3	Nothing	90	229708	49000	1			49000		other	0
+pilot2	3	Picture	test	244773	64065	1	20065	1	64000	20000	hit	14
+pilot2	3	Response	2	252577	71869	1
+pilot2	4	Picture	grid	265005	0	1	4065	1	0	4000	other	0
+pilot2	4	Picture	20	269070	4065	1	15065	1	4000	15000	other	0
+pilot2	4	Picture	maintenance	284135	19130	1	30065	1	19000	30000	other	0
+pilot2	4	Nothing	25	314005	49000	1			49000		other	0
+pilot2	4	Picture	test	329070	64065	1	30065	1	64000	30000	hit	20
+pilot2	4	Response	1	334389	69384	1
+pilot2	5	Picture	grid	359302	0	1	4065	1	0	4000	other	0
+pilot2	5	Picture	40	363367	4065	1	15065	1	4000	15000	other	0
+pilot2	5	Picture	maintenance	378432	19130	1	30065	1	19000	30000	other	0
+pilot2	5	Nothing	45	408302	49000	1			49000		other	0
+pilot2	5	Picture	test	423367	64065	1	20065	1	64000	20000	hit	26
+pilot2	5	Response	1	430130	70828	1
+pilot2	6	Picture	grid	443599	0	1	4065	1	0	4000	other	0
+pilot2	6	Picture	61	447664	4065	1	15065	1	4000	15000	other	0
+pilot2	6	Picture	maintenance	462729	19130	1	30065	1	19000	30000	other	0
+pilot2	6	Nothing	90	492599	49000	1			49000		other	0
+pilot2	6	Picture	test	507664	64065	1	15065	1	64000	15000	miss	0
+pilot2	6	Response	2	518977	75378	1
+pilot2	7	Picture	grid	522896	0	1	4065	1	0	4000	other	0
+pilot2	7	Picture	40	526961	4065	1	15065	1	4000	15000	other	0
+pilot2	7	Picture	maintenance	542026	19130	1	30065	1	19000	30000	other	0
+pilot2	7	Nothing	45	571896	49000	1			49000		other	0
+pilot2	7	Picture	test	586961	64065	1	10065	1	64000	10000	hit	38
+pilot2	7	Response	2	593418	70522	1
+pilot2	8	Picture	grid	597193	0	1	4065	1	0	4000	other	0
+pilot2	8	Picture	41	601258	4065	1	15065	1	4000	15000	other	0
+pilot2	8	Picture	maintenance	616323	19130	1	30065	1	19000	30000	other	0
+pilot2	8	Nothing	90	646193	49000	1			49000		other	0
+pilot2	8	Picture	test	661258	64065	1	15065	1	64000	15000	hit	44
+pilot2	8	Response	1	670364	73172	1
+pilot2	9	Picture	grid	676490	0	1	4065	1	0	4000	other	0
+pilot2	9	Picture	61	680555	4065	1	15065	1	4000	15000	other	0
+pilot2	9	Picture	maintenance	695620	19130	1	30065	1	19000	30000	other	0
+pilot2	9	Nothing	90	725490	49000	1			49000		other	0
+pilot2	9	Picture	test	740555	64065	1	25065	1	64000	25000	hit	50
+pilot2	9	Response	2	749868	73379	1
+pilot2	10	Picture	grid	765787	0	1	4065	1	0	4000	other	0
+pilot2	10	Picture	41	769852	4065	1	15065	1	4000	15000	other	0
+pilot2	10	Picture	maintenance	784917	19130	1	30065	1	19000	30000	other	0
+pilot2	10	Nothing	90	814787	49000	1			49000		other	0
+pilot2	10	Picture	test	829852	64065	1	35065	1	64000	35000	hit	56
+pilot2	10	Response	2	837835	72048	1
+pilot2	11	Picture	grid	865084	0	1	4065	1	0	4000	other	0
+pilot2	11	Picture	61	869149	4065	1	15065	1	4000	15000	other	0
+pilot2	11	Picture	maintenance	884214	19130	1	30065	1	19000	30000	other	0
+pilot2	11	Nothing	90	914084	49000	1			49000		other	0
+pilot2	11	Picture	test	929149	64065	1	45065	1	64000	45000	hit	62
+pilot2	11	Response	2	936535	71451	1
+pilot2	12	Picture	grid	974381	0	1	4065	1	0	4000	other	0
+pilot2	12	Picture	20	978446	4065	1	15065	1	4000	15000	other	0
+pilot2	12	Picture	maintenance	993511	19130	1	30065	1	19000	30000	other	0
+pilot2	12	Nothing	25	1023381	49000	1			49000		other	0
+pilot2	12	Picture	test	1038446	64065	1	15065	1	64000	15000	hit	68
+pilot2	12	Response	2	1045635	71255	1
+pilot2	13	Picture	grid	1053678	0	1	4065	1	0	4000	other	0
+pilot2	13	Picture	40	1057743	4065	1	15065	1	4000	15000	other	0
+pilot2	13	Picture	maintenance	1072808	19130	1	30065	1	19000	30000	other	0
+pilot2	13	Nothing	45	1102678	49000	1			49000		other	0
+pilot2	13	Picture	test	1117743	64065	1	30065	1	64000	30000	hit	74
+pilot2	13	Response	1	1125048	71370	1
+pilot2	14	Picture	grid	1147975	0	1	4065	1	0	4000	other	0
+pilot2	14	Picture	41	1152040	4065	1	15065	1	4000	15000	other	0
+pilot2	14	Picture	maintenance	1167105	19130	1	30065	1	19000	30000	other	0
+pilot2	14	Nothing	90	1196975	49000	1			49000		other	0
+pilot2	14	Picture	test	1212040	64065	1	20065	1	64000	20000	hit	80
+pilot2	14	Response	1	1222124	74150	1
+pilot2	15	Picture	grid	1232271	0	1	4065	1	0	4000	other	0
+pilot2	15	Picture	60	1236336	4065	1	15065	1	4000	15000	other	0
+pilot2	15	Picture	maintenance	1251402	19130	1	30065	1	19000	30000	other	0
+pilot2	15	Nothing	65	1281271	49000	1			49000		other	0
+pilot2	15	Picture	test	1296336	64065	1	15065	1	64000	15000	hit	86
+pilot2	15	Response	2	1304633	72362	1
+pilot2	16	Picture	grid	1311568	0	1	4065	1	0	4000	other	0
+pilot2	16	Picture	20	1315633	4065	1	15065	1	4000	15000	other	0
+pilot2	16	Picture	maintenance	1330698	19130	1	30065	1	19000	30000	other	0
+pilot2	16	Nothing	25	1360568	49000	1			49000		other	0
+pilot2	16	Picture	test	1375633	64065	1	40065	1	64000	40000	hit	92
+pilot2	16	Response	2	1381343	69775	1
+pilot2	17	Picture	grid	1415865	0	1	4065	1	0	4000	other	0
+pilot2	17	Picture	21	1419930	4065	1	15065	1	4000	15000	other	0
+pilot2	17	Picture	maintenance	1434995	19130	1	30065	1	19000	30000	other	0
+pilot2	17	Nothing	90	1464865	49000	1			49000		other	0
+pilot2	17	Picture	test	1479930	64065	1	20065	1	64000	20000	hit	98
+pilot2	17	Response	2	1486150	70285	1
+pilot2	18	Picture	grid	1500162	0	1	4065	1	0	4000	other	0
+pilot2	18	Picture	20	1504227	4065	1	15065	1	4000	15000	other	0
+pilot2	18	Picture	maintenance	1519292	19130	1	30065	1	19000	30000	other	0
+pilot2	18	Nothing	25	1549162	49000	1			49000		other	0
+pilot2	18	Picture	test	1564227	64065	1	30065	1	64000	30000	hit	104
+pilot2	18	Response	1	1570797	70635	1
+pilot2	19	Picture	grid	1594459	0	1	4065	1	0	4000	other	0
+pilot2	19	Picture	60	1598524	4065	1	15065	1	4000	15000	other	0
+pilot2	19	Picture	maintenance	1613589	19130	1	30065	1	19000	30000	other	0
+pilot2	19	Nothing	65	1643459	49000	1			49000		other	0
+pilot2	19	Picture	test	1658524	64065	1	10065	1	64000	10000	hit	110
+pilot2	19	Response	1	1665665	71206	1
+pilot2	20	Picture	grid	1668756	0	1	4065	1	0	4000	other	0
+pilot2	20	Picture	20	1672821	4065	1	15065	1	4000	15000	other	0
+pilot2	20	Picture	maintenance	1687886	19130	1	30065	1	19000	30000	other	0
+pilot2	20	Response	2	1695295	26540	1
+pilot2	20	Nothing	25	1717756	49000	1			49000		other	0
+pilot2	20	Picture	test	1732821	64065	1	35065	1	64000	35000	hit	117
+pilot2	20	Response	2	1749669	80914	1
+pilot2	21	Picture	grid	1768053	0	1	4065	1	0	4000	other	0
+pilot2	21	Picture	20	1772118	4065	1	15065	1	4000	15000	other	0
+pilot2	21	Picture	maintenance	1787183	19130	1	30065	1	19000	30000	other	0
+pilot2	21	Nothing	25	1817053	49000	1			49000		other	0
+pilot2	21	Picture	test	1832118	64065	1	25065	1	64000	25000	hit	123
+pilot2	21	Response	1	1839131	71078	1
+pilot2	22	Picture	grid	1857350	0	1	4065	1	0	4000	other	0
+pilot2	22	Picture	41	1861415	4065	1	15065	1	4000	15000	other	0
+pilot2	22	Picture	maintenance	1876480	19130	1	30065	1	19000	30000	other	0
+pilot2	22	Nothing	90	1906350	49000	1			49000		other	0
+pilot2	22	Picture	test	1921415	64065	1	55065	1	64000	55000	hit	129
+pilot2	22	Response	2	1922872	65523	1
+pilot2	22	Response	2	1937609	80260	1
+pilot2	23	Picture	grid	1976647	0	1	4065	1	0	4000	other	0
+pilot2	23	Picture	40	1980712	4065	1	15065	1	4000	15000	other	0
+pilot2	23	Picture	maintenance	1995777	19131	1	30065	1	19000	30000	other	0
+pilot2	23	Nothing	45	2025647	49000	1			49000		other	0
+pilot2	23	Picture	test	2040712	64065	1	15065	1	64000	15000	hit	136
+pilot2	23	Response	2	2048434	71787	1
+pilot2	24	Picture	grid	2055943	0	1	4065	1	0	4000	other	0
+pilot2	24	Picture	61	2060008	4065	1	15065	1	4000	15000	other	0
+pilot2	24	Picture	maintenance	2075073	19130	1	30065	1	19000	30000	other	0
+pilot2	24	Nothing	90	2104943	49000	1			49000		other	0
+pilot2	24	Picture	test	2120008	64065	1	50065	1	64000	50000	hit	142
+pilot2	24	Response	2	2132268	76325	1
+pilot2	25	Picture	grid	2170240	0	1	4065	1	0	4000	other	0
+pilot2	25	Picture	60	2174305	4065	1	15065	1	4000	15000	other	0
+pilot2	25	Picture	maintenance	2189370	19130	1	30065	1	19000	30000	other	0
+pilot2	25	Nothing	65	2219240	49000	1			49000		other	0
+pilot2	25	Picture	test	2234305	64065	1	60065	1	64000	60000	hit	148
+pilot2	25	Response	2	2250263	80022	1
+pilot2	26	Picture	grid	2294537	0	1	4065	1	0	4000	other	0
+pilot2	26	Picture	41	2298602	4065	1	15065	1	4000	15000	other	0
+pilot2	26	Picture	maintenance	2313667	19130	1	30065	1	19000	30000	other	0
+pilot2	26	Nothing	90	2343537	49000	1			49000		other	0
+pilot2	26	Picture	test	2358602	64065	1	20065	1	64000	20000	hit	154
+pilot2	26	Response	2	2367553	73016	1
+pilot2	27	Picture	grid	2378834	0	1	4065	1	0	4000	other	0
+pilot2	27	Picture	21	2382899	4065	1	15065	1	4000	15000	other	0
+pilot2	27	Picture	maintenance	2397964	19130	1	30065	1	19000	30000	other	0
+pilot2	27	Nothing	90	2427834	49000	1			49000		other	0
+pilot2	27	Picture	test	2442899	64065	1	15065	1	64000	15000	hit	160
+pilot2	27	Response	1	2448968	70134	1
+pilot2	28	Picture	grid	2458131	0	1	4065	1	0	4000	other	0
+pilot2	28	Picture	60	2462196	4065	1	15065	1	4000	15000	other	0
+pilot2	28	Picture	maintenance	2477261	19130	1	30065	1	19000	30000	other	0
+pilot2	28	Nothing	65	2507131	49000	1			49000		other	0
+pilot2	28	Picture	test	2522196	64065	1	40065	1	64000	40000	hit	166
+pilot2	28	Response	1	2530562	72431	1
+pilot2	29	Picture	grid	2562428	0	1	4065	1	0	4000	other	0
+pilot2	29	Picture	61	2566493	4065	1	15065	1	4000	15000	other	0
+pilot2	29	Picture	maintenance	2581558	19130	1	30065	1	19000	30000	other	0
+pilot2	29	Nothing	90	2611428	49000	1			49000		other	0
+pilot2	29	Picture	test	2626493	64065	1	60065	1	64000	60000	hit	172
+pilot2	29	Response	1	2634608	72180	1
+pilot2	30	Picture	grid	2686725	0	1	4065	1	0	4000	other	0
+pilot2	30	Picture	40	2690790	4065	1	15065	1	4000	15000	other	0
+pilot2	30	Picture	maintenance	2705855	19130	1	30065	1	19000	30000	other	0
+pilot2	30	Nothing	45	2735725	49000	1			49000		other	0
+pilot2	30	Picture	test	2750790	64065	1	30065	1	64000	30000	hit	178
+pilot2	30	Response	2	2757048	70323	1
+pilot2	31	Picture	grid	2781022	0	1	4065	1	0	4000	other	0
+pilot2	31	Picture	60	2785087	4065	1	15065	1	4000	15000	other	0
+pilot2	31	Picture	maintenance	2800152	19130	1	30065	1	19000	30000	other	0
+pilot2	31	Nothing	65	2830022	49000	1			49000		other	0
+pilot2	31	Picture	test	2845087	64065	1	40065	1	64000	40000	hit	184
+pilot2	31	Response	1	2856302	75281	1
+pilot2	32	Picture	grid	2885319	0	1	4065	1	0	4000	other	0
+pilot2	32	Picture	21	2889384	4065	1	15065	1	4000	15000	other	0
+pilot2	32	Picture	maintenance	2904449	19130	1	30065	1	19000	30000	other	0
+pilot2	32	Nothing	90	2934319	49000	1			49000		other	0
+pilot2	32	Picture	test	2949384	64065	1	35065	1	64000	35000	hit	190
+pilot2	32	Response	2	2958223	72904	1
+pilot2	33	Picture	grid	2984616	0	1	4065	1	0	4000	other	0
+pilot2	33	Picture	21	2988681	4065	1	15065	1	4000	15000	other	0
+pilot2	33	Picture	maintenance	3003746	19130	1	30065	1	19000	30000	other	0
+pilot2	33	Nothing	90	3033616	49000	1			49000		other	0
+pilot2	33	Picture	test	3048681	64065	1	15065	1	64000	15000	hit	196
+pilot2	33	Response	1	3056425	71809	1
+pilot2	34	Picture	grid	3063913	0	1	4065	1	0	4000	other	0
+pilot2	34	Picture	41	3067978	4065	1	15065	1	4000	15000	other	0
+pilot2	34	Picture	maintenance	3083043	19130	1	30065	1	19000	30000	other	0
+pilot2	34	Nothing	90	3112913	49000	1			49000		other	0
+pilot2	34	Picture	test	3127978	64065	1	20065	1	64000	20000	hit	202
+pilot2	34	Response	1	3141478	77565	1
+pilot2	35	Picture	grid	3148210	0	1	4065	1	0	4000	other	0
+pilot2	35	Picture	21	3152275	4065	1	15065	1	4000	15000	other	0
+pilot2	35	Picture	maintenance	3167340	19130	1	30065	1	19000	30000	other	0
+pilot2	35	Nothing	90	3197210	49000	1			49000		other	0
+pilot2	35	Picture	test	3212275	64065	1	55065	1	64000	55000	hit	208
+pilot2	35	Response	1	3216954	68745	1
+pilot2	36	Picture	grid	3267507	0	1	4065	1	0	4000	other	0
+pilot2	36	Picture	20	3271572	4065	1	15065	1	4000	15000	other	0
+pilot2	36	Picture	maintenance	3286637	19130	1	30065	1	19000	30000	other	0
+pilot2	36	Nothing	25	3316507	49000	1			49000		other	0
+pilot2	36	Picture	test	3331572	64065	1	60065	1	64000	60000	hit	214
+pilot2	36	Response	1	3336992	69485	1
+pilot2	37	Picture	grid	3391804	0	1	4065	1	0	4000	other	0
+pilot2	37	Picture	61	3395869	4065	1	15065	1	4000	15000	other	0
+pilot2	37	Picture	maintenance	3410934	19130	1	30065	1	19000	30000	other	0
+pilot2	37	Nothing	90	3440804	49000	1			49000		other	0
+pilot2	37	Picture	test	3455869	64065	1	30065	1	64000	30000	hit	220
+pilot2	37	Response	1	3462285	70481	1

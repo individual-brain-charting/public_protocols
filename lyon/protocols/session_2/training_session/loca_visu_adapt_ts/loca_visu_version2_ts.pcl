@@ -1,0 +1,70 @@
+include "loca_visu_first_ts.pcl";
+
+loop until (pulse_manager.main_pulse_count() == 1)
+  begin
+ end;
+
+####
+#                     code
+# V = visage           20
+# H = house            10
+# T = tool             50
+# AA = animal          30
+# SCEE = scene         40
+# hgfjh = characters   70
+# tambulo = pseudoword 60
+# F = target fruit     80
+# SCR = scrambled      90
+# pauses 500ms         100
+
+
+t_cut.present();
+
+#84*5=420 --- 420/2=210 --- 210/5=42
+#l'ordre des images a été défini avec optseq
+
+##########
+# BLOC 1 #
+##########
+#1
+#baselinefix.present();
+display_trial( "T29", 50);
+display_trial( "V29", 20);
+display_trial( "F02", 80);##############
+display_trial( "SCR17", 90);
+display_trial( "F03", 80);########
+
+#2
+#baselinefix.present();
+display_trial( "F03", 80);##############
+display_trial( "SCR01", 90);
+display_trial( "SCEE47", 40);
+display_trial( "SCR02", 90);
+display_trial( "SCR03", 90);
+
+
+#3
+#baselinefix.present();
+display_trial( "SCR05", 90);
+display_trial( "SCR07", 90);
+display_trial( "V10", 20);
+display_trial( "T12", 50);
+display_trial( "SCEE36", 40);
+
+
+#4
+#baselinefix.present();
+display_trial( "SCEE01", 40);
+display_trial( "SCEE02", 40);
+display_trial( "T36", 50);
+display_trial( "SCEE07", 40);
+display_trial( "SCR06", 90);
+
+
+#5
+#baselinefix.present();
+display_trial( "T37", 50);
+display_trial( "SCEE05", 40);
+display_trial( "F04", 80);########
+display_trial( "T44", 50);
+display_trial( "T07", 50);

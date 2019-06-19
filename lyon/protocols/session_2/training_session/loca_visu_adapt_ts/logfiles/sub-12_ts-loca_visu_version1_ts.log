@@ -1,0 +1,34 @@
+Scenario - loca_visu_version1_ts
+Logfile written - 06/26/2018 09:07:07
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+sub-12_ts	0	Pulse	255	19140	19140	0
+sub-12_ts	1	Nothing	cut	19206	0	1			0		other	0
+sub-12_ts	1	Nothing	cut	24206	5000	1			5000		other	0
+sub-12_ts	1	Nothing	cut	29206	10000	1			10000		other	0
+sub-12_ts	2	Picture	70	29349	0	1	2065	1	0	2000	other	0
+sub-12_ts	3	Picture	10	41979	0	1	2065	1	0	2000	other	0
+sub-12_ts	4	Picture	70	56275	0	1	2065	1	0	2000	other	0
+sub-12_ts	5	Picture	10	69737	0	1	2065	1	0	2000	other	0
+sub-12_ts	6	Picture	80	82367	0	1	2065	1	0	2000	other	0
+sub-12_ts	7	Picture	30	96163	0	1	2065	1	0	2000	other	0
+sub-12_ts	8	Picture	10	109792	0	1	2065	1	0	2000	other	0
+sub-12_ts	9	Picture	30	123589	0	1	2065	1	0	2000	other	0
+sub-12_ts	10	Picture	10	138218	0	1	2065	1	0	2000	other	0
+sub-12_ts	11	Picture	60	150514	0	1	2065	1	0	2000	other	0
+sub-12_ts	12	Picture	60	164810	0	1	2065	1	0	2000	other	0
+sub-12_ts	13	Picture	70	177106	0	1	2065	1	0	2000	other	0
+sub-12_ts	14	Picture	70	190402	0	1	2065	1	0	2000	other	0
+sub-12_ts	15	Picture	10	202865	0	1	2065	1	0	2000	other	0
+sub-12_ts	16	Picture	80	216494	0	1	2065	1	0	2000	other	0
+sub-12_ts	17	Picture	80	231123	0	1	2065	1	0	2000	other	0
+sub-12_ts	18	Picture	70	245419	0	1	2065	1	0	2000	other	0
+sub-12_ts	19	Picture	30	260049	0	1	2065	1	0	2000	other	0
+sub-12_ts	20	Picture	10	273679	0	1	2065	1	0	2000	other	0
+sub-12_ts	21	Picture	60	285975	0	1	2065	1	0	2000	other	0
+sub-12_ts	22	Picture	60	298271	0	1	2065	1	0	2000	other	0
+sub-12_ts	23	Picture	30	310901	0	1	2065	1	0	2000	other	0
+sub-12_ts	24	Picture	60	324197	0	1	2065	1	0	2000	other	0
+sub-12_ts	25	Picture	10	337827	0	1	2065	1	0	2000	other	0
+sub-12_ts	26	Picture	30	352457	0	1	2065	1	0	2000	other	0

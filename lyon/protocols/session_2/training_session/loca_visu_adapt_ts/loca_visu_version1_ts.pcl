@@ -1,0 +1,75 @@
+include "loca_visu_first_ts.pcl";
+
+p_fix.present();
+
+loop until (pulse_manager.main_pulse_count() == 1)
+  begin
+ end;
+
+
+####
+#                     code
+# V = visage           20
+# H = house            10
+# T = tool             50
+# AA = animal          30
+# SCEE = scene         40
+# hgfjh = characters   70
+# tambulo = pseudoword 60
+# F = target fruit     80
+# SCR = scrambled      90
+# pauses 500ms         100
+
+
+t_cut.present();
+
+#84*5=420 --- 420/2=210 --- 210/5=42
+#l'ordre des images a été défini avec optseq
+
+
+##########
+# BLOC 1 #
+##########
+#1
+#baselinefix.present();
+display_trial( "trtplss", 70);
+display_trial( "H35", 10);
+display_trial( "spbmklrt", 70);
+display_trial( "H41", 10);
+display_trial( "F01", 80);##########"
+
+
+#2
+#baselinefix.present();
+display_trial( "AA32", 30);
+display_trial( "H26", 10);
+display_trial( "AA07", 30);
+display_trial( "H33", 10);
+display_trial( "chempan", 60);
+
+
+#3
+#baselinefix.present();
+display_trial( "veunip", 60);
+display_trial( "njpkmtd", 70);
+display_trial( "pztrgv", 70);
+display_trial( "H05", 10);
+display_trial( "F05", 80);########
+
+
+#4
+#baselinefix.present();
+display_trial( "F02", 80);##########"
+display_trial( "dfgkpz", 70);
+display_trial( "AA10", 30);
+display_trial( "H46", 10);
+display_trial( "speroze", 60);
+
+
+#5
+#baselinefix.present();
+display_trial( "trutoner", 60);
+display_trial( "AA09", 30);
+display_trial( "trasbof", 60);
+display_trial( "H50", 10);
+display_trial( "AA38", 30);

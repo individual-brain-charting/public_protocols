@@ -1,0 +1,40 @@
+string s_filename;
+int i_mean_isi = 1000;
+int i_var_isi = 0;
+int i_fix_duration;
+stimulus_data stim;
+int i_resp_type;
+
+sub
+	display_trial(string s_string,int i_code)
+begin	
+
+
+	if (i_code == 11) then
+		se_array.set_target_button(1);
+		se_array.set_response_active(true);	
+		end ;
+	if (i_code == 12) then
+		se_array.set_target_button(2);
+		se_array.set_response_active(true);	
+		end ;
+	if (i_code == 61) then
+		se_array.set_target_button(1);
+		se_array.set_response_active(true);	
+		end ;
+	if (i_code == 62) then
+		se_array.set_target_button(2);
+		se_array.set_response_active(true);	
+		end ;	
+	
+		b_array.unload();
+		s_filename = s_string;
+		b_array.set_filename(s_filename);
+		b_array.load();
+		se_array.set_event_code(string(i_code));
+		se_array.set_port_code(i_code);
+		t_trial.present();
+
+end;
+
+

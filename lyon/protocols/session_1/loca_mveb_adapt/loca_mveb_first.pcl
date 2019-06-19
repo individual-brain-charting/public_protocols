@@ -1,0 +1,57 @@
+string st_filename_verbal_memory;
+int i_found;
+int i_code_stim;
+int i_code_maint;
+
+sub
+	display_trial(string st_pic, string st_resp, int i_load, int i_controle, int i_time)
+begin                        
+   
+   c_pic.set_caption(st_pic);
+   c_pic.redraw();
+   c_response.set_caption(st_resp);
+   c_response.redraw();
+   
+
+   
+  # s_blank2.set_duration(1000 + 500*random(0,2));
+
+	i_code_stim = 10*i_load + i_controle;
+	
+	if (i_controle > 0) then
+		i_code_maint = 90;
+	else
+		i_code_maint = 10*i_load + 5;
+	end;
+
+
+   s_pic.set_port_code(i_code_stim);
+   s_pic.set_event_code(string(i_code_stim));
+   
+	# adjust the codes of the nothing stimuli during the maintenance period at 1500 2000 and 2500 ms
+   se_no1.set_event_code(string(i_code_maint));
+   se_no1.set_port_code(i_code_maint);
+
+
+   
+
+	#if st_resp is among the letters of st_pic, then the expected response is 'yes' (1)
+   i_found = st_pic.find(st_resp);
+   if (i_found>0) then
+		s_response.set_target_button(1);
+   else
+		s_response.set_target_button(2);
+   end;
+   
+   s_blank2.set_duration(i_time);
+   t_trial.present();
+
+end;    
+
+
+sub
+	display_pause
+begin
+	t_pause.present()
+end;
+

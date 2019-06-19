@@ -1,0 +1,59 @@
+int i_max_rt = 1200; # maximum time to provide a response to targets
+string s_filename;
+int i_mean_isi = 1100;
+int i_var_isi = 100;
+int i_fix_duration;
+stimulus_data stim;
+int i_resp_type;
+
+
+
+sub
+	display_trial(string s_string,int i_code)
+begin	
+
+	# set the duration of the isi for this trial (actually : duration of fixation cross)
+
+   i_fix_duration = (i_mean_isi + i_var_isi*(random(0,2)-1));
+	s_isi1.set_duration(i_fix_duration);
+	s_isi2.set_duration(i_fix_duration);
+
+	# if stimulus is a target then we associate a response button
+	if (i_code == 80) then
+		s_isi1.set_target_button(1);
+		s_isi1.set_response_active(true);	
+		s_isi1.set_stimulus_time_in(0);   
+		s_isi1.set_stimulus_time_out(i_max_rt);
+	else
+		s_isi2.set_target_button(0);
+		s_isi2.set_response_active(true);	
+		s_isi2.set_stimulus_time_in(0);   
+		s_isi2.set_stimulus_time_out(i_max_rt);
+		s_isi1.set_target_button(0);
+		s_isi1.set_response_active(true);	
+		s_isi1.set_stimulus_time_in(0);   
+		s_isi1.set_stimulus_time_out(i_max_rt);
+	end;	
+
+	# adjust stimulus and display the trial
+	if(i_code==60 || i_code==70)then # if it's a string
+		c_string.set_caption(s_string);
+		c_string.redraw();
+		s_pic2.set_event_code(string(i_code));
+		s_pic2.set_port_code(i_code);
+		t_trial2.present();
+	else
+		b_pic1.unload();
+		s_filename = s_string + ".jpg";
+		b_pic1.set_filename(s_filename);
+		b_pic1.load();
+		s_pic1.set_event_code(string(i_code));
+		s_pic1.set_port_code(i_code);
+		t_trial1.present();
+	end;
+
+	
+
+end;
+
+

@@ -1,0 +1,228 @@
+int s_step_x = 200;
+int s_step_y = 200;
+int s_alpha = 250;
+int i_carolina = 1;
+int i_load; # will contain number of dots in the initial display
+int i_code_probe; # will contain the code for the probe
+int i_code_maint; # will contain the code for the maintenance period
+
+int i_pt = 200;
+int i_2pt = 400;
+int i_mt = -200;
+int i_2mt = -400;
+
+int i_min_isi = 1000;
+int i_var_isi = 500;
+int i_fix_duration;
+
+array <int> dot_color[3] = { 150, 150, 150};
+array <int> bkg_color[3] = { 200, 200, 200}; # should be the same as background color in sce file
+
+
+array <int> xx[16] = { -150, -50, 50, 150 , -150, -50, 50, 150 , -150, -50, 50, 150 , -150, -50, 50, 150 };
+array <int> yy[16] = { 150,150,150,150,50,50,50,50,-50,-50,-50,-50,-150,-150,-150,-150};
+
+sub
+	display_trial(int i_d1,int i_d2,int i_d3,int i_d4,int i_d5,int i_d6,int i_target, int i_controle, int i_yesno, int i_time)
+begin                        
+   
+	# i_d1 to i_d6 indicate the locations of the dots in the probe display
+	# if one of them is 0, it is not shown
+	# numbers go from 1 to 16, same as reading order : left to right, then top to bottom
+	# i_controle : if different from 0, one of the previous dot gets special processing (1 to 16 : same)
+	# i_target : 1 to 16 : where the target dot will appear
+	# i_code = code of the event : 
+	# 10 = load of 1; 20 = load of 2, 30 = load = 4, ...., 60 = load of 6 (probe presentation)
+	# 15 = load of 1 maintenance period; 65 = load of 6, maintenance period
+	# 90 = controle (any load) : maintenance period.
+	# 11 = controle load of 1; 21 = control load of 2; .... ; 61 = control load of 6 . (probe presentation)
+
+   i_fix_duration = (i_min_isi + i_var_isi*(random(0,4)));
+	#se_probe.set_duration(i_fix_duration);
+	
+	# first thing is to adjust the location of the dots (and color)
+	if (i_d1>0) then
+		p_probe.set_part_x(2,xx[i_d1]);
+		p_probe.set_part_y(2,yy[i_d1]);
+		el_d1.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+		el_d1.redraw();
+		i_load = 1;
+	else
+		# make it disappear
+		p_probe.set_part_x(2,3*s_step_x); # out of the array
+		p_probe.set_part_y(2,0);
+		el_d1.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # same as background
+		el_d1.redraw();
+	end;
+	
+	 #same for other dots
+	if (i_d2>0) then
+		p_probe.set_part_x(3,xx[i_d2]);
+		p_probe.set_part_y(3,yy[i_d2]);
+		el_d2.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+		el_d2.redraw();
+		i_load = 2;
+	else
+		# make it disappear
+		p_probe.set_part_x(3,3*s_step_x); # out of the array
+		p_probe.set_part_y(3,0);
+		el_d2.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # same as background
+		el_d2.redraw();
+	end;
+	 
+	if (i_d3>0) then
+		p_probe.set_part_x(4,xx[i_d3]);
+		p_probe.set_part_y(4,yy[i_d3]);
+		el_d3.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+		el_d3.redraw();
+		i_load = 3;
+	else
+		# make it disappear
+		p_probe.set_part_x(4,3*s_step_x); # out of the array
+		p_probe.set_part_y(4,0);
+		el_d3.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # same as background
+		el_d3.redraw();
+	end;
+
+	if (i_d4>0) then
+		p_probe.set_part_x(5,xx[i_d4]);
+		p_probe.set_part_y(5,yy[i_d4]);
+		el_d4.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+		el_d4.redraw();
+		i_load = 4;
+	else
+		# make it disappear
+		p_probe.set_part_x(5,3*s_step_x); # out of the array
+		p_probe.set_part_y(5,0);
+		el_d4.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # same as background
+		el_d4.redraw();
+	end;
+
+	if (i_d5>0) then
+		p_probe.set_part_x(6,xx[i_d5]);
+		p_probe.set_part_y(6,yy[i_d5]);
+		el_d5.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+		el_d5.redraw();
+		i_load = 5;
+	else
+		# make it disappear
+		p_probe.set_part_x(6,3*s_step_x); # out of the array
+		p_probe.set_part_y(6,0);
+		el_d5.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # same as background
+		el_d5.redraw();
+	end;
+
+	if (i_d6>0) then
+		p_probe.set_part_x(7,xx[i_d6]);
+		p_probe.set_part_y(7,yy[i_d6]);
+		el_d6.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+		el_d6.redraw();
+		i_load = 6;
+	else
+		# make it disappear
+		p_probe.set_part_x(7,3*s_step_x); # out of the array
+		p_probe.set_part_y(7,0);
+		el_d6.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # same as background
+		el_d6.redraw();
+	end;
+	 
+	if (i_controle>0) then
+		if (i_carolina == 1) then
+			p_probe.set_part_x(8,xx[i_controle]);
+			p_probe.set_part_y(8,yy[i_controle]);
+			el_controle.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle.set_background_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+			el_controle.redraw();
+		else
+
+			p_probe.set_part_x(8,3*s_step_x);
+			p_probe.set_part_y(8,0);
+			el_controle.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle.set_background_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle.redraw();
+
+			p_probe2.set_part_x(2,xx[i_controle]);
+			p_probe2.set_part_y(2,yy[i_controle]);
+			el_controle2.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+			el_controle2.set_background_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle2.redraw();
+		end;
+	else
+		if (i_carolina == 1) then
+			p_probe.set_part_x(8,3*s_step_x);
+			p_probe.set_part_y(8,0);
+			el_controle.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle.set_background_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle.redraw();
+		else
+			p_probe.set_part_x(8,3*s_step_x);
+			p_probe.set_part_y(8,0);
+			el_controle.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle.set_background_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle.redraw();
+
+			p_probe2.set_part_x(2,3*s_step_x);
+			p_probe2.set_part_y(2,0);
+			el_controle2.set_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle2.set_background_color(bkg_color[1],bkg_color[2],bkg_color[3],s_alpha); # check
+			el_controle2.redraw();
+		end;	
+	end;
+	# adjust timing of t_probe
+	
+	# adjust port codes
+	i_code_probe = 10*i_load;
+	if (i_controle > 0) then
+		i_code_probe = i_code_probe+1;
+	end;
+	 
+	if (i_controle > 0) then
+		i_code_maint = 90;
+	else
+		i_code_maint = 10*i_load + 5;
+	end;
+	 
+	# now prepare the third display
+	p_test.set_part_x(2,xx[i_target]);
+	p_test.set_part_y(2,yy[i_target]);
+	el_test.set_color(dot_color[1],dot_color[2],dot_color[3],s_alpha); # check
+	el_test.redraw();
+	 	
+	
+	# adjust the code of the probe display
+	se_probe.set_event_code(string(i_code_probe));
+	se_probe.set_port_code(i_code_probe);
+	
+	# adjust the codes of the nothing stimuli during the maintenance period at 1500 2000 and 2500 ms
+   se_no1.set_event_code(string(i_code_maint));
+   se_no1.set_port_code(i_code_maint);
+  
+	#se_no1.set_duration(i_time);
+
+	se_test.set_duration(i_time);
+
+	
+	# set target button for test stimulus
+	if (i_yesno == 1) then # if a response is expected
+		se_test.set_target_button(1);
+	else
+		se_test.set_target_button(2);
+	end;	
+
+	# then prepare the test display
+#	t_probe.present();
+#	if (i_carolina == 0) then
+#		t_probe2.present();
+#	end;
+
+	# finally show test trial
+	t_test.present();
+
+end;    
+
+
+sub
+	display_pause
+begin
+	t_pause.present()
+end;

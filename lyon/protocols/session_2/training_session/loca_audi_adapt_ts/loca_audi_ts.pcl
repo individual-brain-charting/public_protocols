@@ -1,0 +1,20 @@
+include "loca_audi_ts_first.pcl"
+
+fix_pic.present();
+
+loop until (pulse_manager.main_pulse_count() == 1)
+  begin
+  end;
+  
+t_cut.present();
+display_trial("human_s3.wav",50);
+display_trial("music_s2.wav",100);
+display_trial("parol_s3.wav",10);
+display_trial("yawny_s2.wav",80);
+display_trial("rever_s3.wav",20);
+display_trial("envir_s2.wav",110);
+display_trial("suomi_s3.wav",30);
+display_trial("silen_s1.wav",200);
+display_trial("pleur_s2.wav",60);
+display_trial("alpha_s3.wav",40);
+t_baselinefix.present();

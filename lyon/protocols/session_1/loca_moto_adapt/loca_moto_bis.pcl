@@ -1,0 +1,49 @@
+include "loca_moto_first.pcl";
+
+TTL_fix.present();
+
+
+loop until (pulse_manager.main_pulse_count() == 1)
+  begin
+  end;
+
+	# i_condition = 10 : BRAS
+	# i_condition = 20 : INDEX
+	# i_condition = 30 : YEUX
+	# i_condition = 40 : TETE
+	# i_condition = 50 : JAMBE
+	# i_condition = 60 : BOUCHE
+	# i_condition = 70 : REPOS
+	# PRINCIPE DES CODES : 11 = MOUVEMENT DU BRAS GAUCHE, 12 = MOUVEMENT DU BRAS DROIT
+	# PRINCIPE DES CODES : 31 = MOUVEMENT DES YEUX VERS LA GAUCHE, 32 = MOUVEMENT DES YEUX VERS LA DROITE
+
+#t_cut.present();
+
+display_trial(70);
+baselinefix.present();
+display_trial(60);
+baselinefix.present(); 
+display_trial(50);
+baselinefix.present();
+#display_trial(40);
+display_trial(30);
+baselinefix.present();
+display_trial(20);
+baselinefix.present();
+display_trial(10);
+
+baselinefix.present();
+display_trial(70);
+baselinefix.present();
+display_trial(60);
+baselinefix.present(); 
+display_trial(50);
+baselinefix.present();
+#display_trial(40);
+display_trial(30);
+baselinefix.present();
+display_trial(20);
+baselinefix.present();
+display_trial(10);
+
+finalfix.present();

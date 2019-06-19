@@ -1,0 +1,218 @@
+include "loca_visu_first.pcl";
+
+TTL_fix.present();
+
+loop until (pulse_manager.main_pulse_count() == 1)
+  begin
+ end;
+
+####
+#                     code
+# V = visage           20
+# H = house            10
+# T = tool             50
+# AA = animal          30
+# SCEE = scene         40
+# hgfjh = characters   70
+# tambulo = pseudoword 60
+# F = target fruit     80
+# SCR = scrambled      90
+# pauses 500ms         100
+
+
+#t_cut.present();
+
+#84*5=420 --- 420/2=210 --- 210/5=42
+#l'ordre des images a été défini avec optseq
+
+##########
+# BLOC 1 #
+##########
+#1
+baselinefix.present();
+display_trial( "SCEE23", 40);
+display_trial( "V21", 20);
+display_trial( "T27", 50);
+display_trial( "V12", 20);
+display_trial( "SCEE22", 40);
+
+#2
+#baselinefix.present();
+display_trial( "F03", 80);##############
+display_trial( "SCR01", 90);
+display_trial( "SCEE47", 40);
+display_trial( "SCR02", 90);
+display_trial( "SCR03", 90);
+
+
+#3
+#baselinefix.present();
+display_trial( "SCR05", 90);
+display_trial( "SCR07", 90);
+display_trial( "V10", 20);
+display_trial( "T12", 50);
+display_trial( "SCEE36", 40);
+
+
+#4
+#baselinefix.present();
+display_trial( "SCEE01", 40);
+display_trial( "SCEE02", 40);
+display_trial( "T36", 50);
+display_trial( "SCEE07", 40);
+display_trial( "SCR06", 90);
+
+
+#5
+#baselinefix.present();
+display_trial( "SCEE30", 40);
+display_trial( "V23", 20);
+display_trial( "V50", 20);
+display_trial( "SCR08", 90);
+display_trial( "T47", 50);
+
+##########
+# BLOC 2 #
+##########
+#6
+baselinefix.present();
+display_trial( "SCR09", 90);
+display_trial( "T10", 50);
+display_trial( "V06", 20);
+display_trial( "SCR10", 90);
+display_trial( "SCR11", 90);
+
+#7
+#baselinefix.present();
+display_trial( "SCR12", 90);
+display_trial( "T14", 50);
+display_trial( "SCEE50", 40);
+display_trial( "SCR04", 90);
+display_trial( "SCEE21", 40);
+
+#8
+#baselinefix.present();
+display_trial( "SCEE08", 40);
+display_trial( "SCR15", 90);
+display_trial( "V46", 20);
+display_trial( "F05", 80);##############
+display_trial( "T28", 50);
+
+
+#9
+#baselinefix.present();
+display_trial( "T29", 50);
+display_trial( "V29", 20);
+display_trial( "F02", 80);##############
+display_trial( "SCR17", 90);
+display_trial( "F03", 80);########
+
+
+#10
+#baselinefix.present();
+display_trial( "SCR16", 90);
+display_trial( "V48", 20);
+display_trial( "SCEE29", 40);
+display_trial( "T48", 50);
+display_trial( "SCR14", 90);
+
+##########
+# BLOC 3 #
+##########
+#11
+baselinefix.present();
+display_trial( "SCEE19", 40);
+display_trial( "V09", 20);
+display_trial( "SCEE27", 40);
+display_trial( "V36", 20);
+display_trial( "V32", 20);
+
+
+#12
+#baselinefix.present();
+display_trial( "T33", 50);
+display_trial( "V11", 20);
+display_trial( "V27", 20);
+display_trial( "SCEE48", 40);
+display_trial( "SCEE25", 40);
+
+#13
+#baselinefix.present();
+display_trial( "SCR25", 90);
+display_trial( "T17", 50);
+display_trial( "T50", 50);
+display_trial( "SCEE11", 40);
+display_trial( "SCR26", 90);
+
+
+#14
+#baselinefix.present();
+display_trial( "SCEE31", 40);
+display_trial( "SCEE03", 40);
+display_trial( "T09", 50);
+display_trial( "V20", 20);
+display_trial( "SCR23", 90);
+
+#15
+#baselinefix.present();
+display_trial( "V24", 20);
+display_trial( "V04", 20);
+display_trial( "T04", 50);
+display_trial( "T16", 50);
+display_trial( "T46", 50);
+
+##########
+# BLOC 4 #
+##########
+#16
+baselinefix.present();
+display_trial( "SCEE14", 40);
+display_trial( "T43", 50);
+display_trial( "V13", 20);
+display_trial( "SCR18", 90);
+display_trial( "SCEE32", 40);
+
+#17
+#baselinefix.present();
+display_trial( "V22", 20);
+display_trial( "T31", 50);
+display_trial( "SCR20", 90);
+display_trial( "SCR19", 90);
+display_trial( "T06", 50);
+
+
+#18
+#baselinefix.present();
+display_trial( "SCR21", 90);
+display_trial( "V38", 20);
+display_trial( "V31", 20);
+display_trial( "T08", 50);
+display_trial( "SCR27", 90);
+
+#19
+#baselinefix.present();
+display_trial( "T11", 50);
+display_trial( "SCEE06", 40);
+display_trial( "SCR24", 90);
+display_trial( "T26", 50);
+display_trial( "SCEE43", 40);
+
+##########
+# BLOC 5 #
+##########
+#20
+baselinefix.present();
+display_trial( "SCR22", 90);
+display_trial( "SCEE17", 40);
+display_trial( "V35", 20);
+display_trial( "SCR13", 90);
+display_trial( "V39", 20);
+
+
+#21
+#baselinefix.present();
+display_trial( "T37", 50);
+display_trial( "SCEE05", 40);
+display_trial( "F04", 80);########
+display_trial( "T44", 50);
+display_trial( "T07", 50);

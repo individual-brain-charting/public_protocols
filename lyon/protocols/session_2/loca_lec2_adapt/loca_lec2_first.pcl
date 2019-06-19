@@ -1,0 +1,40 @@
+#int i_max_rt = 1200; # maximum time to provide a response to targets
+#string s_filename;
+#stimulus_data stim;
+#int i_resp_type;
+
+int i_fix_duration;
+int i_mean_isi = 1000;
+int i_var_isi = 100;
+
+sub
+   display_trial(string a_string, int i_code)
+begin
+
+	i_fix_duration = (i_mean_isi + i_var_isi*(random(0,2)-1));
+	s_isi.set_duration(i_fix_duration);
+
+	# i_code = 10 : attended. i_code = 20 : unattended.
+	
+   # first, you change the character string and its color
+   c_string.set_caption(a_string);
+   if (i_code==10) then # words are shown in dark = low contrast
+		c_string.set_font_color(0,0,0);
+	end;
+   if (i_code==20) then # words are shown in bright = high contrast
+		c_string.set_font_color(255,255,255);
+	end;
+   c_string.redraw();
+
+	
+   # second, you change the codes
+   s_string.set_event_code(string(i_code));
+   s_string.set_port_code(i_code);
+   #EyeLink.send_string(string(i_code));
+   
+	t_trial.present();
+	
+end;
+
+
+
