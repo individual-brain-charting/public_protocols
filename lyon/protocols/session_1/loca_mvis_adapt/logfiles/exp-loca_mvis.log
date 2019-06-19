@@ -1,8 +1,0 @@
-Scenario - loca_mvis
-Logfile written - 11/27/2018 19:30:02
-
-Subject	Pulse	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
-
-exp	1	Pulse	255	28604	28604	0
-exp	1	Picture	p_startup	28671	28671	1	73452	1	0	88000	other	0
-exp	1	Quit		96926	96926	NA
