@@ -1,0 +1,62 @@
+
+
+
+<html>
+<head>
+	<meta charset="UTF-8"> 
+
+	<title>Experiment: Keep Page Open</title>
+
+	<link rel="stylesheet" href="static/css/default_style.css" />
+	<style>
+	    
+	    .multi-parent {
+            position:relative;
+            text-align:center;
+        }
+
+	    .instruction-text {
+          width:650;
+          text-align:justify;
+          margin: 0 auto;
+          margin-bottom: 1em;
+        }
+
+	</style>
+</head>
+
+<body>
+
+	<!-- Only one page here, depending on whether we are in preview mode or not what actually gets displayed will be changed. You can use the class 'noprev' to get rid of things in preview mode. -->
+	<div class="multi-parent">
+		<p> </p>
+		<img src="{{ server_location }}/static/images/logo.png" alt="Stanford University" width = "45%" height = "30%">
+		<p> </p>
+		<p class="instruction-text noprev">Thank you for your interest in our experiment!</p>
+		<p class="instruction-text noprev">This is a large experiment with many different tasks for you to do. Each time you accept the HIT you will be given a different set of tasks that will take 30-60 minutes to complete, with most HITs lasting around 30 minutes. We encourage you to repeat the HIT multiple times until you complete all of the tasks, which should take around 10 repeats. If you complete all the HITs you will receive a $10 bonus.</p>
+		<p class="instruction-text noprev">Most of these tasks require that you press keys and sometimes we'll ask you to respond quickly. It is very important that you follow all the instructions and never mindlessly press the keys to finish the HIT more quickly! Not only will this hurt our research, but all of the tasks are designed to take around the same amount of time no matter how quickly you respond. The tasks will be more interesting to you and useful for us if you follow the instructions and try your best on all of the tasks.</p>
+		<p class="instruction-text noprev">If you accept the hit you will see a start button. After you press start you will be shown a new screen  outlining the tasks you will perform in this HIT.</p>
+
+        {% if assignmentid == "ASSIGNMENT_ID_NOT_AVAILABLE" %}
+        
+        {% else %}
+        <script>
+            function buttonClick() {
+            popup = window.open('{{ server_location }}/exp?hitId={{ hitid }}&assignmentId={{ assignmentid }}&workerId={{ workerid }}','Popup','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width='+1024+',height='+768+'');
+            popup.onunload = function() { location.reload(true) }
+            }
+        </script>
+        <button id="startButton" type="button" onclick="buttonClick();">Start</button>
+        {% endif %}
+
+		<p class="instruction-text noprev" id="legal">Legal information: By answering the following questions, you are participating in a study being performed by cognitive scientists in the Stanford Department of Psychology. If you have questions about this research, please contact Ian Eisenberg at <a href="mailto:ieisenbe@stanford.edu">ieisenbe@stanford.edu</a>. You must be  at least 18 years old to participate. Your participation in this research is voluntary. You may decline to answer any or all of the following questions. You may decline further participation, at any time, without adverse consequences. Your anonymity is assured; the researchers who have requested your participation will not receive any personal information about you.</p>
+	</div>
+</body>
+</html>
+
+
+
+
+
+
+

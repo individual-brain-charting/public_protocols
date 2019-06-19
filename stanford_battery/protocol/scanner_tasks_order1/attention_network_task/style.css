@@ -1,0 +1,52 @@
+.ANT_up {
+  height: 7vw;
+  width: 50vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(-50%,-200%);
+}
+
+.ANT_down {
+  height: 7vw;
+  width: 50vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(-50%,100%);
+}
+
+.ANT_text {
+  text-align: center;
+  font-size: 80px;
+  position: relative;
+  top: 50%; 
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+}
+
+.ANT_centercue_text {
+  text-align: center;
+  font-size: 80px;
+  position: relative;
+  top: 50%; 
+  transform: translateY(-40%);
+  -webkit-transform: translateY(-40%);
+}
+
+/*
+.responded {
+  visibility: hidden;
+}
+*/
+
+.first {
+  padding-left:9% !important;
+}
+
+.ANT_img {
+  max-width: 14%;
+  padding-left:3%;
+}

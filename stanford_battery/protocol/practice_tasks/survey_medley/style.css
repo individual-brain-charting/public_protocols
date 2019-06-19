@@ -1,0 +1,36 @@
+.centerbox {
+  width: 70vw;
+  height: 60vh;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(-50%,-50%);
+}
+
+.item-text {
+  width:100%;
+  height 100vw;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 5em;
+  margin-bottom: 1em;
+  font-size: 50px;
+  line-height: 120%;
+}
+
+.response-text {
+  width:100%;
+  height 100vw;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 40em;
+}
+
+.response-item {
+  display: inline-block;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 50px;
+  font-weight: bold;
+}

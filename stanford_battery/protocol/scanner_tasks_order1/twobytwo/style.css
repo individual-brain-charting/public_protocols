@@ -1,0 +1,41 @@
+.upperbox {
+  width:35vw;
+  height: 20vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(-50%, -100%);
+}
+
+.lowerbox {
+  width:35vw;
+  height: 20vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(-50%, -25%);
+}
+
+.promptbox {
+  width:35vw;
+  height: 20vw;
+  position:absolute;
+  top:50%;
+  left:50%;
+  margin-right:-50%;
+  transform: translate(-50%, 60%);
+  text-align: center;
+}
+
+.stim-text {
+  text-align:center;
+  font-size: 100px;
+  line-height: 80px;
+  position: relative;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
