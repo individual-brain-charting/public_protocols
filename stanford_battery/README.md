@@ -25,9 +25,9 @@ If you are using anaconda, you can find an environment file in this directory
 called 'environment.yml'. This file is the environment we used to run the tasks,
 and can be installed with: 
 
-    conda env create -f environment.yml
+    conda env create -f stan27.yml
     
-With this, the tasks should open and work without problems. If you are not familia with
+With this, the tasks should open and work without problems. If you are not familiar with
 virtual environments, please refer to [this handy guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
 from the Anaconda documentation.
 
@@ -42,7 +42,7 @@ of the packages and versions used in the scripts of this directory:
 
 This battery was divided in 3 sessions, with 3 tasks for each session, for a total of 9
 tasks. If you want to run the tasks differently, please check [Changing the session structure](#Changing the session structure).
-To run the tasks, navigate to this directory in a terminal and run:
+To run the tasks, navigate to the protocol directory in a terminal and run:
 
     $ python run_session.py
     
@@ -52,7 +52,7 @@ Of course, it is also possible to run it in ipython, in which case your command 
     
 Either way, a prompt will appear and you will have to fill some parameters. First you
 will be asked for the participant number. Here we used a naming convention that needs
-to be preserver in order for other scripts to work, using the following structure:
+to be preserved in order for other scripts to work, using the following structure:
 
     sub-[sub_number]_ses-[session_number]_[run_number]
 
@@ -154,8 +154,8 @@ different for training and main tasks:
  have as many logfiles with the same name as tasks you run per session. As a result, you will have duplicate names
  and no way of knowing which file corresponds to this task. 
  
- After setting up the file with the path to your downloads folder, you can run logfile_parser.py with
- the following command:
+ After setting up the file with the path to your downloads folder, you can go to the
+ paradigm_descriptors folder and run logfile_parser.py with the following command:
  
      $ python logfile_parser.py -t [sub_type] -n [sub_number] -s [ses_number]
      
@@ -170,7 +170,7 @@ different for training and main tasks:
  be able to use it, please check [Changing the name conventions](#Changing the naming conventions).
  
  Once the script is run, the logfiles for that participant will be moved from your downloadas folder
- to the logfiles folder (located in this directory). These are the logfiles as they come from expfactory, with
+ to the logfiles folder (located in the same directory). These are the logfiles as they come from expfactory, with
  names for the task they contain info from.
  
  In our case, we use BIDS-compliant event files for our analysis. The script logfiles_to_BIDS.py will take
