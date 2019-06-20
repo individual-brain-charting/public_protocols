@@ -45,6 +45,30 @@ The `vstm_enumeration` directory contains the protocols of:
 * _Visual Short-Term Memory_ task  
 * _Enumeration_ task  
 
+The `lyon` directory contains the protocols of:  
+* _Lyon Moto_ task in the `localizers/session_1/loca_moto_adapt`
+* _Lyon MCSE_ task in the `localizers/session_1/loca_mcse_adapt`
+* _Lyon MVIS_ task in the `localizers/session_1/loca_mvis_adapt`
+* _Lyon MVEB_ task in the `localizers/session_1/loca_mveb_adapt`
+* _Lyon AUDI_ task in the `localizers/session_2/loca_audi_adapt`
+* _Lyon VISU_ task in the `localizers/session_2/loca_visu_adapt`
+* _Lyon LEC1_ task in the `localizers/session_2/loca_lec1_adapt`
+* _Lyon LEC2_ task in the `localizers/session_2/loca_lec2_adapt`
+
+The `tonotopy` directory contains the protocol employed for the *Tonotopy* task.
+
+The `stanford_battery` directory contains the protocols of:
+* _Attention network_ task
+* _Columbia card_ task
+* _Discount fixed_ task
+* _Dot Pattern Expectancy_ task
+* _Stop signal_ task
+* _Motor selective stop signal_ task
+* _Stroop_ task
+* _Two by two_ task
+* _Ward and allport_ task
+
+
 ## Notes
 Because these protocols were implemented for native-french speakers, please notice that text stimuli as well as instructions to the participants are written in french. Nevertheless, all the information pertaining the usage and adaptation of the protocols in other experimental settings are provided in english.
 
