@@ -61,12 +61,12 @@ The `stanford_battery` directory contains the protocols of:
 * _Attention network_ task
 * _Columbia card_ task
 * _Discount fixed_ task
-* _Dot Pattern Expectancy_ task
+* _Dot pattern expectancy_ task
 * _Stop signal_ task
 * _Motor selective stop signal_ task
 * _Stroop_ task
 * _Two-by-two_ task
-* _Ward and allport_ task
+* _Ward and Allport_ task
 
 
 ## Notes
