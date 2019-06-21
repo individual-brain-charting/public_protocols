@@ -65,7 +65,7 @@ The `stanford_battery` directory contains the protocols of:
 * _Stop signal_ task
 * _Motor selective stop signal_ task
 * _Stroop_ task
-* _Two by two_ task
+* _Two-by-two_ task
 * _Ward and allport_ task
 
 
