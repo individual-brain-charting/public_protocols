@@ -33,7 +33,9 @@ try:
 
 except IndexError as err:
 
-    raise IndexError("Acquisition number not provided. Please input 1 for first session or 2 for the second.") from err
+    raise IndexError("Acquisition number not provided. "
+                     "Please input 1 for first session or "
+                     "2 for the second.") from err
 
 # Sets used for each acquisition: first list of each key indicates the sets
 # and second list indicates the prerand number
@@ -62,7 +64,8 @@ try:
 
 except KeyError as e:
 
-    raise Exception("The acquisition number does not match the existing sessions. Please input 1 or 2.") from e
+    raise Exception("The acquisition number does not match the existing "
+                    "sessions. Please input 1 or 2.") from e
 
 else:
 
@@ -146,7 +149,8 @@ while True:
     sb = ti.get('0')
     # If string is empty
     if not sb:
-        warning_message1 = stimuli.TextLine("Please enter a number between 0 and 5",
+        msg = "Please enter a number between 0 and 5"
+        warning_message1 = stimuli.TextLine(msg,
                                             text_size=24,
                                             text_colour=colors["red"])
         warning_message1.present()
@@ -266,7 +270,8 @@ for b, block in enumerate(exp.blocks[start_block:]):
 
         # Add data to the data file
         condition = 'sound_presentation'
-        exp.data.add([block.name, trial.id, sound_onset, sound_dur, condition, key, rt])
+        exp.data.add([block.name, trial.id, sound_onset, sound_dur,
+                      condition, key, rt])
 
         exp.clock.wait(10)
 
@@ -278,11 +283,13 @@ for b, block in enumerate(exp.blocks[start_block:]):
         # Wait certain number of TRs
         #exp.clock.wait(isi_list[t])
 
-        # This block registers up to 3 TTLs during the total duration of isi_list[t].
-        # We used it for testing purposes due to technical problems with our scanner,
-        # but it can be removed or commented if this is not necessary
+        # This block registers up to 3 TTLs during the total duration of
+        # isi_list[t]. We used it for testing purposes due to technical
+        # problems with our scanner, but it can be removed or commented if
+        # this is not necessary
 
-        key, rt = exp.keyboard.wait(keys=[misc.constants.K_t], duration=isi_list[t])
+        key, rt = exp.keyboard.wait(keys=[misc.constants.K_t],
+                                    duration=isi_list[t])
         
         if rt is not None:
         
@@ -292,7 +299,8 @@ for b, block in enumerate(exp.blocks[start_block:]):
         
             remaining_isi = isi_list[t] - rt
             print(rt, remaining_isi)
-            key, rt2 = exp.keyboard.wait(keys=[misc.constants.K_t], duration=remaining_isi)
+            key, rt2 = exp.keyboard.wait(keys=[misc.constants.K_t],
+                                         duration=remaining_isi)
         
             if rt2 is not None:
         
@@ -302,13 +310,15 @@ for b, block in enumerate(exp.blocks[start_block:]):
         
                 remaining_isi -= rt2
                 print(rt2, remaining_isi)
-                key, rt3 = exp.keyboard.wait(keys=[misc.constants.K_t], duration=remaining_isi)
+                key, rt3 = exp.keyboard.wait(keys=[misc.constants.K_t],
+                                             duration=remaining_isi)
         
                 if rt3 is not None:
         
                     # Add TTL3 data to the logfile
                     TTL3_onset = t0.time
-                    exp.data.add([block.name, trial.id, TTL3_onset, '-', 'TTL3'])
+                    exp.data.add([block.name, trial.id, TTL3_onset,
+                                  '-', 'TTL3'])
         
                     remaining_isi -= rt3
                     print(rt3, remaining_isi)

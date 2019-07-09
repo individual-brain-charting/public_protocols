@@ -52,26 +52,28 @@ def concatenate_logfiles(path, first, last):
           directory where the logfiles are stored
 
     first: int
-           number corresponding to the first file (inclusive) desired in the output
-           dataframe
+           number corresponding to the first file (inclusive) desired in
+           the output dataframe
 
     last: int
-          number corresponding to the last file (inclusive) desured in the output
-          dataframe
+          number corresponding to the last file (inclusive) desured in
+          the output dataframe
 
     Returns
     -------
 
     concat_logfile: DataFrame
-                    pd.DataFrame containing informations of all the files provided,
-                    concatenated in order
+                    pd.DataFrame containing informations of all the files
+                    provided, concatenated in order
     """
 
-    glob_list = [os.path.join(path, 'formisano_protocol_' + str(_) + '*') for _ in range(int(first), (int(last) + 1))]
+    glob_list = [os.path.join(path, 'formisano_protocol_' + str(_) + '*')
+                 for _ in range(int(first), (int(last) + 1))]
 
     path_list = [glob.glob(card)[0] for card in glob_list]
 
-    concat_df = pd.concat(pd.read_csv(path, sep= ',', skiprows= 40) for path in path_list)
+    concat_df = pd.concat(pd.read_csv(path, sep= ',', skiprows= 40)
+                          for path in path_list)
 
     return concat_df
 
@@ -123,21 +125,25 @@ for idx, file in enumerate(all_logfiles):
         # Take only acquisition periods
         output_df = raw_df[raw_df['trial_type'] != 'sound_presentation']
 
-        output_df['trial_type'] = output_df['trial_type'].map(lambda x: x.lstrip('_'))
+        output_df['trial_type'] = output_df['trial_type'].map(
+            lambda x: x.lstrip('_'))
 
-        output_df = output_df[(output_df['trial_type'] != 'TTL1') & (output_df['trial_type'] != 'TTL2')]
+        output_df = output_df[(output_df['trial_type'] != 'TTL1') &
+                              (output_df['trial_type'] != 'TTL2')]
 
         # Save the logfile
 
         if idx > 0:
 
             save_path = os.path.join(output_path,
-                                     sub_type + sub + '-' + str(idx) + '_ses-' + ses_num + '_task-formisano_run' +
+                                     sub_type + sub + '-' + str(idx) + '_ses-'
+                                     + ses_num + '_task-formisano_run' +
                                      str(int(run[3]) + 1) + '_events.tsv')
         else:
 
             save_path = os.path.join(output_path,
-                                     sub_type + sub + '_ses-' + ses_num + '_task-formisano_run' +
+                                     sub_type + sub + '_ses-' + ses_num +
+                                     '_task-formisano_run' +
                                      str(run_idx + 1) + '_events.tsv')
 
         output_df.to_csv(save_path, sep='\t', index=False)

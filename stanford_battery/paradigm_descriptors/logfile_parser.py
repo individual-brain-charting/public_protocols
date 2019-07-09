@@ -1,5 +1,6 @@
 """
-File to move and rename the logfiles generated and downloaded from expfactory-python
+File to move and rename the logfiles generated and downloaded from
+expfactory-python
 
 Author: Juan Jesus Torre Tresols
 Mail: juanjesustorre@gmail.com
@@ -13,12 +14,17 @@ import shutil
 import pandas as pd
 
 parser = argparse.ArgumentParser(description='Parameters for the logfiles')
-parser.add_argument('-t', '--type', metavar='SubjectType', default='sub', choices=['sub', 'pilot'],
-                    help="Subject type. It can only be 'pilot' or 'sub'. Choices: %(choices)s. Default: %(default)s")
+parser.add_argument('-t', '--type', metavar='SubjectType', default='sub',
+                    choices=['sub', 'pilot'],
+                    help="Subject type. It can only be 'pilot' or 'sub'. "
+                         "Choices: %(choices)s. Default: %(default)s")
 parser.add_argument('-n', '--number', metavar='SubjectNum', type=int,
-                    help="Subject number. It will be formatted as a 2-digit number (Max. 99)")
-parser.add_argument('-s', '--session', metavar='SessionNum', type=int, default=1, choices=[1, 2, 3],
-                    help="Session number. Choices: %(choices)s. Default: %(default)s")
+                    help="Subject number. It will be formatted as "
+                         "a 2-digit number (Max. 99)")
+parser.add_argument('-s', '--session', metavar='SessionNum', type=int,
+                    default=1, choices=[1, 2, 3],
+                    help="Session number. Choices: %(choices)s. "
+                         "Default: %(default)s")
 
 args = parser.parse_args()
 sub_type = args.type
@@ -39,14 +45,16 @@ output_path = os.path.join(os.getcwd(),
 
 def logfile_mover(sub_id: str, origin: str, destination: str) -> None:
     """
-    Get logfiles according to some parameters and move them to the corresponding folder.
+    Get logfiles according to some parameters and move them to the
+    corresponding folder.
 
     Parameters
     ----------
 
     sub_id: str
-            String to find the logfiles corresponding to the participant. It should be a wildcard
-            so glob can use it to find all the corresponding files
+            String to find the logfiles corresponding to the participant.
+            It should be a wildcard so glob can use it to find all the
+            corresponding files
 
     origin: str
             Path where the program is going to look for the logfiles
@@ -100,7 +108,8 @@ def _get_new_name(logfile: str):
     elif 'dot_pattern_expectancy' in log_df.exp_id.values:
         task = 'DotPatternExpectancy'
     else:
-        raise ValueError("The logfile provided do not seem to be part of this battery of experiments.")
+        raise ValueError("The logfile provided do not seem to be part of "
+                         "this battery of experiments.")
 
     base_name = os.path.basename(logfile).replace(".csv", "").split("(")[0]
 
@@ -117,8 +126,9 @@ def logfile_renamer(sub_id: str, logfile_path: str) -> None:
     ----------
 
     sub_id: str
-        String to find the logfiles corresponding to the participant. It should be a wildcard
-        so glob can use it to find all the corresponding files
+        String to find the logfiles corresponding to the participant. It
+        should be a wildcard so glob can use it to find all the corresponding
+        files
 
 
     logfile_path: str

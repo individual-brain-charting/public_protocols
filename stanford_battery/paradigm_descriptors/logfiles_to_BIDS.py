@@ -13,12 +13,17 @@ import numpy as np
 import pandas as pd
 
 parser = argparse.ArgumentParser(description='Parameters for the logfiles')
-parser.add_argument('-t', '--type', metavar='SubjectType', default='sub', choices=['sub', 'pilot'],
-                    help="Subject type. It can only be 'pilot' or 'sub'. Choices: %(choices)s. Default: %(default)s")
+parser.add_argument('-t', '--type', metavar='SubjectType', default='sub',
+                    choices=['sub', 'pilot'],
+                    help="Subject type. It can only be 'pilot' or 'sub'. "
+                         "Choices: %(choices)s. Default: %(default)s")
 parser.add_argument('-n', '--number', metavar='SubjectNum', type=int,
-                    help="Subject number. It will be formatted as a 2-digit number (Max. 99)")
-parser.add_argument('-s', '--session', metavar='SessionNum', type=int, default=1, choices=[1, 2, 3],
-                    help="Session number. Choices: %(choices)s. Default: %(default)s")
+                    help="Subject number. It will be formatted as a "
+                         "2-digit number (Max. 99)")
+parser.add_argument('-s', '--session', metavar='SessionNum', type=int,
+                    default=1, choices=[1, 2, 3],
+                    help="Session number. Choices: %(choices)s. "
+                         "Default: %(default)s")
 
 args = parser.parse_args()
 sub_type = args.type
@@ -109,9 +114,11 @@ class StanConverter:
         conv_df = self.convert_task(task_df, task)
 
         if task == 'DiscountFixed':
-            columns = ["onset", "duration", "trial_type", "large_amount", "later_delay"]
+            columns = ["onset", "duration", "trial_type",
+                       "large_amount", "later_delay"]
         elif task == 'CardTaskHot':
-            columns = ["onset", "duration", "trial_type", "gain_amount", "loss_amount", "num_loss_cards"]
+            columns = ["onset", "duration", "trial_type",
+                       "gain_amount", "loss_amount", "num_loss_cards"]
         else:
             columns = ["onset", "duration", "trial_type"]
 
@@ -163,7 +170,8 @@ class StanConverter:
         """Converter for the attention_network_task"""
 
         logfile['trial_type'] = np.where(logfile['trial_id'] == 'stim',
-                                         logfile['cue'] + "_" + logfile['flanker_type'],
+                                         logfile['cue'] + "_" +
+                                         logfile['flanker_type'],
                                          logfile['trial_id'])
 
         return logfile
@@ -173,7 +181,8 @@ class StanConverter:
         """Converter for the twobytwo task"""
 
         logfile['trial_type'] = np.where(logfile['trial_id'] == 'stim',
-                                         "task" + logfile['task_switch'] + "_cue" + logfile['cue_switch'],
+                                         "task" + logfile['task_switch'] +
+                                         "_cue" + logfile['cue_switch'],
                                          logfile['trial_id'])
 
         return logfile
@@ -214,10 +223,12 @@ class StanConverter:
     def _convert_towertask(logfile):
         """Converter for towertask"""
 
-        condition = np.logical_or(logfile['trial_id'] == 'to_hand', logfile['trial_id'] == 'to_board')
+        condition = np.logical_or(logfile['trial_id'] == 'to_hand',
+                                  logfile['trial_id'] == 'to_board')
         logfile['trial_type'] = np.where(condition,
                                          logfile['condition'],
-                                         np.where(logfile['trial_id'] == 'feedback',
+                                         np.where(logfile['trial_id']
+                                                  == 'feedback',
                                                   'trial_end_and_next_start',
                                                   logfile['trial_id']))
 
@@ -239,9 +250,11 @@ class StanConverter:
     def _convert_dpx(logfile):
         """Converter for dot_pattern_expectancy"""
 
-        condition = np.logical_or(logfile['trial_id'] == 'cue', logfile['trial_id'] == 'probe')
+        condition = np.logical_or(logfile['trial_id'] == 'cue',
+                                  logfile['trial_id'] == 'probe')
         logfile['trial_type'] = np.where(condition,
-                                         logfile['trial_id'] + "_" + logfile['condition'],
+                                         logfile['trial_id'] + "_" +
+                                         logfile['condition'],
                                          logfile['trial_id'])
 
         return logfile
@@ -250,7 +263,9 @@ class StanConverter:
         """Saves the logfile as .tsv"""
 
         log_pieces = os.path.basename(path).replace('.csv', '').split('_')
-        log_name = log_pieces[0] + "_task-" + log_pieces[-1] + "_run" + log_pieces[-2] + "_events.tsv"
+        log_name = log_pieces[0] + "_task-" + \
+                   log_pieces[-1] + "_run" + \
+                   log_pieces[-2] + "_events.tsv"
         df.to_csv(os.path.join(self.out_path, log_name), index=False, sep='\t')
 
 
@@ -259,7 +274,8 @@ input_path = os.path.join(base_path, 'logfiles')
 output_path = os.path.join(base_path, 'events_files')
 
 glob_string = sub_type + "-" + sub_num + "_ses-" + session + "*"
-logfiles = [LogFile(logfile) for logfile in glob.glob(os.path.join(input_path, glob_string))]
+logfiles = [LogFile(logfile) for logfile
+            in glob.glob(os.path.join(input_path, glob_string))]
 
 converter = StanConverter(output_path)
 
