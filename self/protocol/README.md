@@ -1,7 +1,9 @@
 ## Script of the *Self-Reference Effect* protocol 
 
-Author of the protocol: Ana Luisa Pinho ## email: ana.pinho@inria.fr
-Author of the task: Sarah Genon
+Author of the protocol: Ana Luisa Pinho 
+email: ana.pinho@inria.fr  
+
+Author of the task: Sarah Genon  
 
 Compatibility: Python 2.7 / Expyriment 0.7.0 (Revision 7a6b73d) or older
 Preset resolution of the screen: 1024x768
