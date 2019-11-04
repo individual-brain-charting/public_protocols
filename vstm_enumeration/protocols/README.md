@@ -1,4 +1,4 @@
-## Scripts for the *Visual Short-term Memory* and *Enumeration* tasks
+## Protocols of the *Visual Short-term Memory* and *Enumeration* task battery
 
 Author of the original protocols: André Knops  
 
