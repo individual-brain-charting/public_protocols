@@ -1,4 +1,4 @@
-## Script of the Mental Time Travel protocol  
+## Protocol of the Mental-Time Travel task  
 
 Authors: Ana Luisa Pinho, Baptiste Gauthier  
 email: ana.pinho@inria.fr
