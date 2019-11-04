@@ -1,6 +1,6 @@
 ## Script of the *Self-Reference Effect* protocol 
 
-Author of the protocol: Ana Luisa Pinho 
+Author of the protocol: Ana Luisa Pinho   
 email: ana.pinho@inria.fr  
 
 Author of the task: Sarah Genon  
