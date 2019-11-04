@@ -1,4 +1,4 @@
-## Protocols of the *Preference* task battery
+## Protocol of the *Preference* task battery
 
 Authors of the original protocol: Nicolas Clairis and Mathias Pessiglione  
 
