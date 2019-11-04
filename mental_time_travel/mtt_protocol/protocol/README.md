@@ -1,4 +1,4 @@
-## Protocol of the Mental-Time Travel task  
+## Protocol of the Mental-Time Travel battery  
 
 Authors: Ana Luisa Pinho, Baptiste Gauthier  
 email: ana.pinho@inria.fr
