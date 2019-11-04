@@ -1,4 +1,4 @@
-## Notes about video annotations of the *Bang* task  
+## Notes about video annotation of the *Bang* task  
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr
