@@ -1,4 +1,4 @@
-## Protocols of the *Theory-of-Mind* battery
+## Protocols of the *Theory-of-Mind* task battery
 
 Author of the original protocols: Rebecca Saxe & collaborators  
 
