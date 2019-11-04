@@ -34,7 +34,7 @@ The `rsvp_language` directory contains the protocol employed for the *RSVP Langu
 
 The `mental_time_travel` directory contains the protocol employed for the *Mental Time Travel* task.  
 
-The `positive_incentive_value` directory contains the protocol employed for the *Positive-incentive Value* task.  
+The `preference` directory contains the protocol employed for the *Preference* task.  
 
 The `tom` directory contains the protocols of:  
 * _Theory-of-Mind Localizer_ task in the `tom_localizer` folder
@@ -44,6 +44,10 @@ The `tom` directory contains the protocols of:
 The `vstm_enumeration` directory contains the protocols of:  
 * _Visual Short-Term Memory_ task  
 * _Enumeration_ task  
+
+The `self` directory contains the protocol employed for the *Self* task.  
+
+The `bang` directory contains the protocol employed for the *Bang* task.
 
 The `lyon` directory contains the protocols of:  
 * _Lyon Moto_ task in the `localizers/session_1/loca_moto_adapt`
