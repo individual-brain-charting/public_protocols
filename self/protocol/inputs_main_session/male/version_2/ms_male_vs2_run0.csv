@@ -1,0 +1,123 @@
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,0,E1
+débraillé,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E1
+émotionnel,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E1
+peureux,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E1
+énergique,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E1
+immature,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E1
+malchanceux,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E1
+«Gad est-il?»,0,instructions,0,Exercice:,,0,0,E1
+sombre,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E1
+frustré,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E1
+bienveillant,positive,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E1
+turbulent,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E1
+aggressif,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E1
+sympathique,neutral,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E1
++,0,rest_pre,0,0,0,0,0,E1-R1
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,0,R1
+turbulent,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+peureux,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+puissant,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+émotionnel,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+aggressif,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+économe,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+sympathique,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+amical,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+cruel,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+énergique,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+débraillé,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+désordonné,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+malin,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+immature,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+arrogant,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+compréhensif,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+éveillé,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+frustré,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+sombre,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+soigneux,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+bienveillant,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
+impatient,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+entreprenant,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R1
+malchanceux,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R1
++,0,rest_post,0,0,0,0,0,R1-E2
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,0,E2
+hautain,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E2
+séducteur,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E2
+pétillant,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E2
+intellectuel,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E2
+pessimiste,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E2
+plaintif,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E2
+«Gad est-il?»,0,instructions,0,Exercice:,0,0,0,E2
+agréable,positive,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E2
+satisfait,positive,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E2
+protecteur,positive,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E2
+fainéant,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E2
+lunatique,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E2
+dissipé,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E2
++,0,rest_pre,0,0,0,0,0,E2-R2
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,0,R2
+objectif,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+séducteur,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+dévoué,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+intellectuel,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+précis,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+agréable,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+fainéant,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+pathétique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+tendu,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+respectable,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+lunatique,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+satisfait,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+autonome,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+plaintif,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+dissipé,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+bourgeois,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+obstiné,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+protecteur,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+pétillant,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+instruit,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+fatiguant,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+paresseux,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R2
+pessimiste,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
+hautain,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R2
++,0,rest_post,0,0,0,0,0,R2-E3
+«Gad est-il?»,0,instructions,0,Exercice:,0,0,0,E3
+lent,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E3
+valide,positive,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E3
+respecté,neutral,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E3
+juste,positive,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E3
+farfelu,negative,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E3
+affectueux,positive,encoding,other,'Gad est-il?’,OUI(gauche)            NON(droite),0,0,E3
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,0,E3
+borné,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E3
+négligent,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E3
+indiscret,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E3
+sarcastique,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E3
+polisson,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E3
+impassible,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,0,E3
++,0,rest_pre,0,0,0,0,0,E3-R3
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,0,R3
+pacifique,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+respecté,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+négligent,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+polisson,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+minutieux,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+borné,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+juste,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+farfelu,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+apathique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+ponctuel,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+gêné,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+valide,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+sensé,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+impassible,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+affectueux,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+irrationnel,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+sarcastique,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+adroit,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+brillant,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+lent,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
+alerte,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+sociable,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+envahissant,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,4,R3
+indiscret,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,2,R3
++,0,rest_post,0,0,0,0,0,R3-END

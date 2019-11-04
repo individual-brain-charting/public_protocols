@@ -1,0 +1,164 @@
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E1
+artiste,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+hilarante,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+joueuse,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+aigrie,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+coquette,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+modérée,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+«Marion est-elle?»,0,instructions,0,Exercice:,  ,0,E1
+méchante,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E1
+rationnelle,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E1
+compétitive,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E1
+ingénieuse,neutral,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E1
+conformiste,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E1
+convaincante,neutral,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E1
++,0,rest_pre,0,0,0,0,E1-R1
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R1
+joueuse,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+équilibrée,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+artiste,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+hilarante,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+convaincante,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+imprudente,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+méchante,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+coquette,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+comique,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+théâtrale,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+aigrie,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+honnête,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+conformiste,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+ingénieuse,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+optimiste,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+angoissée,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+modérée,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+odieuse,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+sadique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+polie,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+compétitive,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+privilégiée,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+productive,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+rationnelle,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
++,0,rest_post,0,0,0,0,R1-E2
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E2
+inoffensive,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+scientifique,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+rusée,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+casse-pied,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+méticuleuse,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+fouineuse,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+«Marion est-elle?»,0,instructions,0,Exercice:,0,0,E2
+simple,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E2
+dynamique,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E2
+violente,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E2
+obéissante,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E2
+téméraire,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E2
+prudente,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E2
++,0,rest_pre,0,0,0,0,E2-R2
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R2
+casse-pied,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+seule,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+méticuleuse,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+fouineuse,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+austère,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+inoffensive,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+prudente,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+grincheuse,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+tyrannique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+téméraire,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+dynamique,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+bête,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+simple,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+scientifique,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+roublarde,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+vulgaire,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+violente,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+mauvaise,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+déçue,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+égoïste,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+rusée,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+désagréable,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+empotée,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+obéissante,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
++,0,rest_post,0,0,0,0,R2-E3
+«Marion est-elle?»,0,instructions,0,Exercice:,0,0,E3
+exceptionnelle,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E3
+gracieuse,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E3
+irresponsable,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E3
+conservatrice,neutral,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E3
+culottée,neutral,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E3
+rebelle,neutral,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E3
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E3
+stricte,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+banale,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+exacte,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+silencieuse,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+ambitieuse,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+plaisante,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
++,0,rest_pre,0,0,0,0,E3-R3
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R3
+gracieuse,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+vaniteuse,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+insultante,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+provoquante,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+ambitieuse,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+exceptionnelle,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+irresponsable,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+philosophe,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+orgueilleuse,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+exacte,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+tranquille,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+imprévisible,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+silencieuse,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+stricte,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+intègre,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+rebelle,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+enjouée,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+désespérée,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+culottée,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+banale,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+imperturbable,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+conservateuse,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+plaisante,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+réconfortante,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
++,0,rest_post,0,0,0,0,R3-E4
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E4
+insolente,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+inintéressante,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+héroïque,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+respectueuse,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+fougueuse,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+inefficace,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+«Marion est-elle?»,0,instructions,0,Exercice:,0,0,E4
+étourdie,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E4
+soumise,negative,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E4
+terrifiante,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E4
+créative,positive,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E4
+ferme,neutral,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E4
+sceptique,neutral,encoding,other,'Marion est-elle?’,OUI(gauche)            NON(droite),0,E4
++,0,rest_pre,0,0,0,0,E4-R4
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R4
+étourdie,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+malheureuse,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+altruiste,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+héroïque,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+organisée,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+terrifiante,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+perfectionniste,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+fougueuse,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+sceptique,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+détendue,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+inefficace,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+créative,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+propre,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+soumise,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+renfermée,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+respectueuse,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+costaude,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+inintéressante,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+insouciante,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+insolente,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+fière,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+ferme,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+amusante,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+mélancolique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
++,0,rest_post,0,0,0,0,R4-END

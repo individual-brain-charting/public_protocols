@@ -1,0 +1,164 @@
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E1
+artiste,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+hilarant,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+joueur,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+aigri,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+coquet,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+modéré,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E1
+«Zidane est-il?»,0,instructions,0,Exercice:,0,0,E1
+méchant,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E1
+rationnel,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E1
+compétitif,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E1
+ingénieux,neutral,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E1
+conformiste,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E1
+convaincant,neutral,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E1
++,0,rest_pre,0,0,0,0,E1-R1
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R1
+comique,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+artiste,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+méchant,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+productif,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+inutile,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+ingénieux,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+rationnel,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+angoissé,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+joueur,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+odieux,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+honnête,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+conformiste,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+équilibré,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+convaincant,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+coquet,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+individualiste,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+optimiste,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+compétitif,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+modéré,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+égocentrique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+vantard,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
+hilarant,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+aigri,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R1
+théâtral,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R1
++,0,rest_post,0,0,0,0,R1-E2
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E2
+inoffensif,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+scientifique,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+rusé,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+casse-pied,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+méticuleux,neutral,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+fouineur,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E2
+«Zidane est-il?»,0,instructions,0,Exercice:,0,0,E2
+simple,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E2
+dynamique,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E2
+violent,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E2
+obéissant,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E2
+téméraire,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E2
+prudent,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E2
++,0,rest_pre,0,0,0,0,E2-R2
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R2
+sportif,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+grincheux,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+inoffensif,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+prudent,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+fouineur,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+mature,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+scientifique,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+austère,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+mauvais,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+simple,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+rusé,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+dynamique,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+tyrannique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+violent,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+égoïste,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+vulgaire,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+téméraire,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+sensible,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+obéissant,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+bête,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+attentif,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+casse-pied,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
+déçu,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R2
+méticuleux,neutral,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R2
++,0,rest_post,0,0,0,0,R2-E3
+«Zidane est-il?»,0,instructions,0,Exercice:,0,0,E3
+exceptionnel,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E3
+gracieux,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E3
+irresponsable,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E3
+conservateur,neutral,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E3
+culotté,neutral,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E3
+rebelle,neutral,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E3
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E3
+strict,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+banal,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+exact,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+silencieux,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+ambitieux,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
+plaisant,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E3
++,0,rest_pre,0,0,0,0,E3-R3
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R3
+banal,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+provoquant,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+ambitieux,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+fuyant,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+irresponsable,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+vaniteux,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+heureux,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+exceptionnel,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+culotté,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+exact,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+déterminé,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+tranquille,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+silencieux,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+plaisant,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+imprévisible,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+philosophe,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+rebelle,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+strict,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+conservateur,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+désespéré,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+orgueilleux,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+gracieux,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R3
+conquérant,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
+insultant,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R3
++,0,rest_post,0,0,0,0,R3-E4
+«Zidane est-il?»,0,instructions,0,Exercice:,0,0,E4
+étourdi,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E4
+soumis,negative,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E4
+terrifiant,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E4
+créatif,positive,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E4
+ferme,neutral,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E4
+sceptique,neutral,encoding,other,'Zidane est-il?’,OUI(gauche)            NON(droite),0,E4
+«Êtes-vous?»,0,instructions,0,Exercice:,0,0,E4
+insolent,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+inintéressant,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+héroïque,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+respectueux,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+fougueux,positive,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
+inefficace,negative,encoding,self,'Êtes-vous?’,OUI(gauche)            NON(droite),0,E4
++,0,rest_pre,0,0,0,0,E4-R4
+«Avez-vous vu?»,0,instructions,0,Exercice:,0,0,R4
+soumis,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+ferme,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+renfermé,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+inintéressant,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+fier,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+sceptique,neutral,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+altruiste,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+créatif,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+respectueux,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+détendu,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+terrifiant,positive,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+propre,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+étourdi,negative,recognition,other,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+héroïque,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+costaud,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+organisé,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+fougueux,positive,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+mélancolique,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+insouciant,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+insolent,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+malheureux,negative,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+inefficace,negative,recognition,self,'Avez-vous vu?’,OUI(gauche)            NON(droite),old,R4
+perfectionniste,neutral,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
+compétent,positive,recognition,0,'Avez-vous vu?’,OUI(gauche)            NON(droite),new,R4
++,0,rest_post,0,0,0,0,R4-END
