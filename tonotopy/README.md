@@ -1,4 +1,4 @@
-# About this protocol
+# Protocol of the *Tonotopy* task
 The experimental protocol presented here has been adapted from Santoro 
 et al. (2017), for the analysis of sound processing using fMRI.
 
