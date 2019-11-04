@@ -1,7 +1,7 @@
 ## Protocol of the *Bang* task   
 
-## Author: Ana Luisa Pinho  
-## email: ana.pinho@inria.fr  
+Author: Ana Luisa Pinho  
+email: ana.pinho@inria.fr  
 
 Compatibility: Expyriment 0.9.0 or newer / Python 2.7  
 Preset resolution of the screen: 1024x768  
