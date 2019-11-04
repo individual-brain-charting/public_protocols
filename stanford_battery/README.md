@@ -1,4 +1,4 @@
-# Standford self-regulation fMRI battery
+# Scrips of protocols for the *Stanford self-regulation* task battery
 
 This file contains information on the required software to run the tasks and get
 logfiles to use for posterior analysis, as well as instructions and clarifications
