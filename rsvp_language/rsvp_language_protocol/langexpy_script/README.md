@@ -1,4 +1,4 @@
-## Script of the *RSVP Language* protocol  
+## Protocol of the *RSVP Language* task  
 
 Authors: Ana Luisa Pinho, Christophe Pallier  
 e-mail: ana.pinho@inria.fr  
