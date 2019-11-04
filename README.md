@@ -32,7 +32,7 @@ The `hcp` directory contains the protocols of:
 
 The `rsvp_language` directory contains the protocol employed for the *RSVP Language* task.  
 
-The `mental_time_travel` directory contains the protocol employed for the *Mental Time Travel* task.  
+The `mtt` directory contains the protocol employed for the *Mental Time Travel* task.  
 
 The `preference` directory contains the protocol employed for the *Preference* task.  
 
