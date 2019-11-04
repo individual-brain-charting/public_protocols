@@ -8,7 +8,7 @@ Author of the task: Sarah Genon
 Compatibility: Python 2.7 / Expyriment 0.7.0 (Revision 7a6b73d) or older
 Preset resolution of the screen: 1024x768
 
-To launch the protocol, please run the script `self_ref.py`, as follows: 
+To launch the protocol, please run the script `self_ref.py`, as follows:   
 `$ python self_ref.py <str_arg_for_gender> <str_arg_for_vs>`
 
 Example:
