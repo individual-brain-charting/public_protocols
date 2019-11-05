@@ -1,6 +1,8 @@
 ## Protocol of the *Clips* task
 
-Author of the protocol: Ana Luisa Pinho   
+Authors of the protocol: The Gallant lab - UCB, USA (2012)
+
+Adaptations made by: Ana Luisa Pinho   
 email: ana.pinho@inria.fr  
 
 
