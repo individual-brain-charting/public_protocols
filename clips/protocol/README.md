@@ -9,7 +9,7 @@ email: ana.pinho@inria.fr
 To run, typewrite in the terminal under the directory containing all scripts:
 > `python play.py <arg1> <arg2>`
 
-arg1 --> session number = [1,3]
+arg1 --> session number = [1,3]  
 arg2 --> sequence type = [1,8]
 
 The sequence type depends on the images that are loaded and the sequence pre-defined.
