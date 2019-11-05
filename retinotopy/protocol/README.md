@@ -7,23 +7,25 @@ email: ana.pinho@inria.fr
 
 Retinotopy protocols:
 To run them, typewrite:
-> `python retinoto.py 1 #first wedge clock video`  
-> `python retinoto.py 2 #first wedge anti-clock video`  
-> `python retinoto.py 3 #first ring expanding video`  
-> `python retinoto.py 4 #first ring contracting video`  
-> `python retinoto.py 5 #second wedge clock video`  
-> `python retinoto.py 6 #second wedge anti-clock video`  
-> `python retinoto.py 7 #second ring expanding video`  
-> `python retinoto.py 8 #second ring contracting video`  
+> `python retinoto.py` 1 #first wedge clock video  
+> `python retinoto.py` 2 #first wedge anti-clock video  
+> `python retinoto.py` 3 #first ring expanding video   
+> `python retinoto.py` 4 #first ring contracting video   
+> `python retinoto.py` 5 #second wedge clock video  
+> `python retinoto.py` 6 #second wedge anti-clock video   
+> `python retinoto.py` 7 #second ring expanding video  
+> `python retinoto.py` 8 #second ring contracting video
 
 ________________________________________________________________________________________________________
 In order to generate the videos:
 > `python retinoto.py 1  --precalculate`  
+
 This generates "retino_wedge.npz" and "retino_wing.npz". Do not push the videos to github.
 
 ________________________________________________________________________________________________________
 In order to generate the ".csv" files, run in the parent directory the following:
-> `python utils.py`
+> `python utils.py`  
+
 And then, it will generate 8 "retino_fixation_*.csv" files:
 "retino_fixation_1.csv" – for the wedge  
 "retino_fixation_2.csv" - for the wedge  
