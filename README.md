@@ -74,7 +74,7 @@ The `stanford_battery` directory contains the protocols of:
 
 
 ## Notes
-Because these protocols were implemented for native-french speakers, please notice that text stimuli as well as instructions to the participants are written in french. Nevertheless, all the information pertaining the usage and adaptation of the protocols in other experimental settings are provided in english.
+Because these protocols were implemented for native-french speakers, the text stimuli as well as instructions to the participants are written in french. Nevertheless, all the information pertaining the usage and adaptation of the protocols in other experimental settings are provided in english.
 
 ## Future work
 More protocols will be made available following the releases of the IBC dataset on neuroimaging data.
