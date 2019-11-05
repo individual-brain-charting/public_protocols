@@ -49,6 +49,12 @@ The `self` directory contains the protocol employed for the *Self* task.
 
 The `bang` directory contains the protocol employed for the *Bang* task.
 
+The `clips` directory contains the protocol employed for the *Clips* task.
+
+The `retinotopy` directory contains the protocol employed for the *Retinotopy* task.
+
+The `raiders` directory contains the protocol employed for the *Raiders* task.
+
 The `lyon` directory contains the protocols of:  
 * _Lyon Moto_ task in the `localizers/session_1/loca_moto_adapt`
 * _Lyon MCSE_ task in the `localizers/session_1/loca_mcse_adapt`
