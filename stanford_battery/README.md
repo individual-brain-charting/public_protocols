@@ -1,4 +1,4 @@
-# Scrips of protocols for the *Stanford Self-Regulation* task battery
+# Stanford self-regulation fMRI battery
 
 This file contains information on the required software to run the tasks and get
 logfiles to use for posterior analysis, as well as instructions and clarifications
@@ -22,10 +22,10 @@ needed for the tasks to run. Also, it is important to note that the package is d
 work with **Python 2.7**.
 
 If you are using anaconda, you can find an environment file in this directory
-called 'environment.yml'. This file is the environment we used to run the tasks,
+called 'stan27.yml'. This file is the environment we used to run the tasks,
 and can be installed with: 
 
-    conda env create -f stan27.yml
+    conda env create -f environment.yml
     
 With this, the tasks should open and work without problems. If you are not familiar with
 virtual environments, please refer to [this handy guide](https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#creating-an-environment-from-an-environment-yml-file)
@@ -42,7 +42,7 @@ of the packages and versions used in the scripts of this directory:
 
 This battery was divided in 3 sessions, with 3 tasks for each session, for a total of 9
 tasks. If you want to run the tasks differently, please check [Changing the session structure](#Changing the session structure).
-To run the tasks, navigate to the protocol directory in a terminal and run:
+To run the tasks, navigate to this directory in a terminal and run:
 
     $ python run_session.py
     
@@ -52,7 +52,7 @@ Of course, it is also possible to run it in ipython, in which case your command 
     
 Either way, a prompt will appear and you will have to fill some parameters. First you
 will be asked for the participant number. Here we used a naming convention that needs
-to be preserved in order for other scripts to work, using the following structure:
+to be preserver in order for other scripts to work, using the following structure:
 
     sub-[sub_number]_ses-[session_number]_[run_number]
 
@@ -105,7 +105,7 @@ different for training and main tasks:
  After that, almost all the tasks will include a short training in which the participant will receive feedback for
  their performance. Note that this part is intended to be done **before** starting the scanning sequence.
  
- The length of the training is variable, and will finish when the participant reachs a certain number of correct responses.
+ The length of the training is variable, and will finish when the participant reaches a certain number of correct responses.
  After that, a message saying 'Scanner Setup' will appear on screen. When you press spacebar, a red fixation cross
  will appear on the center of the screen. This indicates that the task is waiting for a scanner pulse to commence. In our case,
  this was done receiving the scanner pulse as a keypress of the key 'T'.
@@ -154,8 +154,8 @@ different for training and main tasks:
  have as many logfiles with the same name as tasks you run per session. As a result, you will have duplicate names
  and no way of knowing which file corresponds to this task. 
  
- After setting up the file with the path to your downloads folder, you can go to the
- paradigm_descriptors folder and run logfile_parser.py with the following command:
+ After setting up the file with the path to your downloads folder, you can run logfile_parser.py with
+ the following command:
  
      $ python logfile_parser.py -t [sub_type] -n [sub_number] -s [ses_number]
      
@@ -169,8 +169,8 @@ different for training and main tasks:
  If you changed the naming conventions, you can adapt the script to adjust to yours or otherwise you won't
  be able to use it, please check [Changing the name conventions](#Changing the naming conventions).
  
- Once the script is run, the logfiles for that participant will be moved from your downloadas folder
- to the logfiles folder (located in the same directory). These are the logfiles as they come from expfactory, with
+ Once the script is run, the logfiles for that participant will be moved from your downloads folder
+ to the logfiles folder (located in this directory). These are the logfiles as they come from expfactory, with
  names for the task they contain info from.
  
  In our case, we use BIDS-compliant event files for our analysis. The script logfiles_to_BIDS.py will take
@@ -209,7 +209,7 @@ the code too (e.g., in line 129 of logfile_parser.py).
 ### Setting up the logfile parser
 
 The code in logfile_parser.py is done to automatically look for the default path that Windows and Ubuntu uses.
-If, for whatever reason, you have your downloads elsewhere, you can go and put your parth in the file.
+If, for whatever reason, you have your downloads elsewhere, you can go and put your path in the file.
 
 You can find said parameter in line 28 of logfile_parser.py, being assigned to the 'file_path' variable. If you are in
 Linux, navigate to your Downloads folder in a terminal and type 'pwd', then press enter. You can copy/paste what you get
@@ -217,7 +217,7 @@ into the program (line 30) like:
 
     file_path = r"whatever/pwd/gives/you"
     
-Quotes or doublequotes are important. If you are on windows, you can go to your downloads folder, click on the path on 
+Quotes or double quotes are important. If you are on windows, you can go to your downloads folder, click on the path on 
 upper part of your file manager, and copy/paste it on line 34. Remove all what there is to the left of the equal sign 
 and paste your path so it looks like this:
 
