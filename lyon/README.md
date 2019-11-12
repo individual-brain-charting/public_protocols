@@ -1,4 +1,4 @@
-# Lyon battery
+# Protocol of the Preference task battery
 
 This file contains information on the required software to run the tasks and get
 logfiles to use for posterior analysis, as well as instructions and clarifications
