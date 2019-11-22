@@ -132,7 +132,7 @@ for participant in participant_list:
                             name.append('new_no_response')
                         else:
                             name.append('old_' + datum[6] + '_no_response')
-        # Stack onset, duration and trial_type vectors
+        # Stack onset, duration and trial_type arrays
         pd_table = []
         pd_table = stack_descriptors(onset, duration, name)
         # Set pathway of output file for the present run
