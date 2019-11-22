@@ -1,9 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Script for paradigm descriptors' extraction on the Mental Time Travel protocol
+Script for paradigm descriptors' extraction on the Mental-Time-Travel protocol
+for both models
 
 author: Ana Luisa Pinho
 e-mail: ana.pinho@inria.fr
+
+Last update: November 2019
+
+Compatibility: Python 3.5
 
 """
 import os
@@ -13,16 +18,6 @@ import numpy as np
 
 # %%
 # ========================== GENERAL PARAMETERS ===============================
-# Which file to load? (numbering starts from 0)
-input_no = 0
-# Sessions's ID (numbering starts from 0)
-first_sess = 0
-last_sess = 2
-# Number of trials
-ntrials = 20
-# Labels for the headers in the paradigm descriptor's files
-HEADERS = ['onset', 'duration', 'trial_type', 'response_time', 'key']
-HEADERS_SH = ['onset', 'duration', 'trial_type']
 
 REFERENCES_WE = ['lermite_observe', 'debit_reduit',
                  'les_animaux_broutent', 'premiere_rencontre',
@@ -36,33 +31,131 @@ CUES_SPACE = ['sud_ou_nord', 'sud_ou_nord', 'ouest_ou_est', 'ouest_ou_est']
 
 CUES_TIME = ['avant_ou_apres', 'avant_ou_apres']
 
-# Type of list
-# pilot_list = []
-subject_list = [15]
 
-# folder's name
-# fname_prefix = "pilot"
-fname_prefix = "sub"
-
-# Pilot or subject?
-participant_list = subject_list
+# *****************************************************************************
 
 # Island story
 island = 'we'
+# Participants' list
+participant_list = [1, 4, 5, 7, 8, 9, 12, 13, 14]
+# Which file to load? (numbering starts from 0)
+input_no = 0
+# Sessions's ID (numbering starts from 0)
+first_sess = 0
+last_sess = 2
+
+'''
+Exceptions for IBC participants of island "we":
+Participant: input_no, first_sess, last_sess
+sub-06: 0, 0, 0
+sub-06: 1, 1, 2
+sub-11: 0, 0, 1
+sub-11: 1, 2, 2
+sub-15: 0, 0, 0 (very incomplete)
+sub-15: 1, 1, 2
+'''
+# # Island story
+# island = 'we'
+# # Participants' list
+# participant_list = [6]
+# # Which file to load? (numbering starts from 0)
+# input_no = 1
+# # Sessions's ID (numbering starts from 0)
+# first_sess = 1
+# last_sess = 2
+
+# # Island story
+# island = 'sn'
+# # Participants' list
+# participant_list = [1, 4, 5, 6, 7, 9, 11, 12, 13, 14]
+# # Which file to load? (numbering starts from 0)
+# input_no = 0
+# # Sessions's ID (numbering starts from 0)
+# first_sess = 0
+# last_sess = 2
+
+'''
+Exceptions for IBC participants of island "sn":
+sub-15: no run
+'''
+
+# *****************************************************************************
+
+# #### DEFINE PATHWAYS ####
+# Parent directory
+main_dir = '../../../../analysis_pipeline/ibc_main/neurospin_data/info'
+# Subject folder
+# fname_prefix = 'pilot'
+fname_prefix = 'sub'
+# Name of the task protocol
+protocol = 'mtt'
+# fname of folder with log_files
+raw_fname = 'log_' + island
+
+# %%
+# ============================== FUNCTIONS ====================================
+
+
+def create_new_dir(dir_path):
+    """
+    Creates directory of output files
+    """
+    if not os.path.exists(dir_path):
+        os.makedirs(dir_path)
+
+
+def load_log_file(input_dir, prefix, subject, task, logdir, no):
+    """
+    Load the log files
+    """
+    filename_participant_id = prefix + "-" + "%02d" % subject
+    # Set the pathway of the input files
+    inputs_path = os.path.join(input_dir, filename_participant_id, task,
+                               logdir)
+    inputs = glob.glob(os.path.join(inputs_path, "*.xpd"))
+    inputs.sort()
+    fname = inputs[no]
+    # Load the file
+    inlist = []
+    inlist = [line for line in csv.reader(open(fname), delimiter=',')]
+    return inlist
+
+
+def stack_descriptors(onsets, durations, names):
+    """
+    Create table of paradigm descriptors
+    """
+    # Headers of the paradigm descriptors' files according to BIDS
+    header = ['onset', 'duration', 'trial_type']
+    table = np.vstack((header, np.vstack((onsets, durations, names)).T))
+    return table
+
+
+def save_output(file_path, liste):
+    """
+    Save output file
+    """
+    with open(file_path, 'w') as fp:
+        a = csv.writer(fp, delimiter='\t')
+        a.writerows(liste)
+
+
+# %%
+# ============================== PARSER =======================================
 
 # %%
 # Create a file for each participant and ...
 for participant in participant_list:
-    filename_participant_id = fname_prefix + "-" + "%02d" % participant
-    raw_fname = 'log_' + island
-    # Set the pathway of the input files
-    inputs_path = os.path.abspath(filename_participant_id + '/' + raw_fname)
-    inputs = glob.glob(os.path.join(inputs_path, "*.xpd"))
-    inputs.sort()
-    fname = inputs[input_no]
-    # Load the file
-    input_list = []
-    input_list = [line for line in csv.reader(open(fname), delimiter=',')]
+    # Clean or create output folders
+    path1 = os.path.join(main_dir, fname_prefix + '-' + '%02d' % participant,
+                         protocol, 'absolute_model_' + island)
+    path2 = os.path.join(main_dir, fname_prefix + '-' + '%02d' % participant,
+                         protocol, 'relative_model_' + island)
+    create_new_dir(path1)
+    create_new_dir(path2)
+    # Load input files
+    input_list = load_log_file(main_dir, fname_prefix, participant, protocol,
+                               raw_fname, input_no)
     # Parse the necessary information
     for r, row in enumerate(input_list):
         if row[0] == str(participant):
@@ -84,96 +177,74 @@ for participant in participant_list:
                 break
         data_list.append(data_block)
         continue
-    # ...per block
+    # ... for every block
     for n, data in enumerate(data_list):
         # Read the table
-        name = []
         onset = []
         duration = []
-        rt = []
-        key = []
+        name_abs = []
+        name_relat = []
         for datum in data:
+            if participant == 15 and datum[1] == '0' and datum[2] != '0' and \
+               island == 'we':
+                print(datum[8])
+                break
             datum = datum[4:]
+            # Onsets and durations of conditions
             onset.append(float(datum[5]) / 1000)
             duration.append(float(datum[6]) / 1000)
+            # Names of conditions for both models
+            # Beginning of a trial
             if datum[4] in REFERENCES_WE + REFERENCES_SN:
-                name.append('r' + datum[0] + '_' + datum[1] + '_' + datum[2])
-                rt.append('None')
-                key.append('None')
+                # References of relative model
+                name_relat.append(datum[0] + '_all_reference')
             elif datum[4] in CUES_SPACE:
-                lcue = 'space'
-                name.append('c' + datum[0] + '_' + lcue + '_' + datum[3])
-                rt.append('None')
-                key.append('None')
+                # References of absolute model for space
+                name_abs.append(datum[0] + '_' + datum[1] + '_reference')
+                # Space cues
+                name_abs.append(datum[0] + '_all_reference_space_cue')
+                name_relat.append(datum[0] + '_all_space_cue')
             elif datum[4] in CUES_TIME:
-                lcue = 'time'
-                name.append('c' + datum[0] + '_' + lcue + '_' + datum[3])
-                rt.append('None')
-                key.append('None')
-            else:
-                key.append(datum[8])
-                if datum[7] == 'None':
-                    rt.append(datum[7])
+                # References of absolute model for time
+                name_abs.append(datum[0] + '_' + datum[2] + '_reference')
+                # Time cues
+                name_abs.append(datum[0] + '_all_reference_time_cue')
+                name_relat.append(datum[0] + '_all_time_cue')
+            elif datum[4] == 'response':
+                # Events of the relative model...
+                # ... for time
+                if datum[9] in ['before', 'after']:
+                    name_abs.append(datum[0] + '_' + datum[2] + \
+                                    '_reference_' + datum[3] + '_event')
+                    name_relat.append(datum[0] + '_' + datum[9] + '_' + \
+                                      datum[3] + '_event')
+                # ... for space
                 else:
-                    rt.append(float(datum[7]) / 1000)
-                if datum[4] == 'response':
-                    name.append('response_' + datum[0] + '_' + datum[1] + '_' +
-                                datum[2] + '_' + lcue + '_' + datum[3])
-                else:
-                    name.append('e' + datum[0] + '_' + datum[1] + '_' +
-                                datum[2] + '_' + lcue + '_' + datum[3])
-
-        # Create short version lists
-        # ... for onsets
-        onset_sh = [onset[ost*10:ost*10 + 3] for ost in np.arange(len(onset))]
-        onset_sh = np.concatenate(onset_sh).tolist()
-        # ... for durations
-        duration_eventsum = [round(np.sum(duration[m*10 + 2:m * 10 + 10]), 2)
-                             for m in np.arange(len(duration)/10)]
-        duration_sh = [duration[k*10:k*10 + 2]
-                       for k in np.arange(len(duration))]
-        duration_sh = np.concatenate(duration_sh).tolist()
-        duration_new = []
-        count_sh = 0
-        count_eventsum = 0
-        for entry in np.arange(len(duration_eventsum) + len(duration_sh)):
-            if entry in np.arange(len(duration_eventsum) +
-                                  len(duration_sh))[2::3]:
-                duration_new.append(duration_eventsum[count_eventsum])
-                count_eventsum = count_eventsum + 1
+                    name_abs.append(datum[0] + '_' + datum[1] + \
+                                    '_reference_' + datum[3] + '_event')
+                    name_relat.append(datum[0] + '_' + datum[9] + 'side_' + \
+                                      datum[3] + '_event')
+                # Responses for both models
+                name_abs.append(datum[0] + '_all_reference_response')
+                name_relat.append(datum[0] + '_all_event_response')
+            # Events of the absolute model
             else:
-                duration_new.append(duration_sh[count_sh])
-                count_sh = count_sh + 1
-        # ... for names
-        name_sh = [name[ns*10:ns*10 + 3] for ns in np.arange(len(name))]
-        name_sh = np.concatenate(name_sh).tolist()
-
-        # Stack onset, duration and trial_type vectors
-#        liste = np.vstack((HEADERS, np.vstack((onset, duration, name, rt,
-#                                                  key)).T))
-
-        liste = np.vstack((HEADERS_SH, np.vstack((onset, duration, name)).T))
-
-        liste_sh = np.vstack((HEADERS_SH, np.vstack((onset_sh, duration_new,
-                                                     name_sh)).T))
-        # Set the output file and its pathway
-        filename_output = ('paradigm_descriptors' + '_mtt_' + island + '_' +
-                           filename_participant_id + '_run%d.csv' %
-                           (n + first_sess))
-
-        filename_output_sh = ('paradigm_descriptors' + '_sh_mtt_' + island +
-                              '_' + filename_participant_id + '_run%d.csv' %
-                              (n + first_sess))
-
-        path_output = os.path.join(filename_participant_id, filename_output)
-        path_output_sh = os.path.join(filename_participant_id,
-                                      filename_output_sh)
-
-        # Save new_list in output file
-        with open(path_output, 'w') as fp:
-            a = csv.writer(fp, delimiter='\t')
-            a.writerows(liste)
-
-        with open(path_output_sh, 'w') as fp:
-            a = csv.writer(fp, delimiter='\t')
-            a.writerows(liste_sh)
+                continue
+        # Stack onset, duration and trial_type arrays
+        abs_descriptors = stack_descriptors(onset, duration, name_abs)
+        relat_descriptors = stack_descriptors(onset, duration, name_relat)
+        # Output files
+        abs_fname = 'paradigm_descriptors_mtt_absolute-model' + '_' + \
+                    island + '_' + fname_prefix + '-' + \
+                    '%02d' % participant + '_run' + \
+                    '%01d' % (n + first_sess) + '.tsv'
+        relat_fname = 'paradigm_descriptors_mtt_relative-model' + '_' + \
+                      island + '_' + fname_prefix + '-' + \
+                      '%02d' % participant + '_run' + \
+                      '%01d' % (n + first_sess) + '.tsv'
+        output1 = os.path.join(path1, abs_fname)
+        output2 = os.path.join(path2, relat_fname)
+        print(output1, output2)
+        # Save files
+        save_output(output1, abs_descriptors)
+        save_output(output2, relat_descriptors)
