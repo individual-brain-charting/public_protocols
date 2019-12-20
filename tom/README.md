@@ -22,11 +22,11 @@ To launch the protocol of the *Theory-of-Mind Localizer*, go to the `tom_localiz
 
 1. For the main session:  
 
-`tom_localizer.m`
+`tom_localizer('subject_id',<run_number>)`
 
 2. For the training session:  
 
-`tom_localizer_ts.m`  
+`tom_localizer_ts('subject_id',<run_number>)`  
 
 #### Paradigm descriptors extraction
 
@@ -45,11 +45,11 @@ To launch the protocol of the *Theory-of-Mind and Pain Matrix Narrative Localize
 
 1. For the main session:  
 
-`ep_localizer.m`
+`ep_localizer('subject_id',<run_number>)`
 
 2. For the training session:  
 
-`ep_localizer_ts.m`  
+`ep_localizer_ts('subject_id',<run_number>)`  
 
 #### Paradigm descriptors extraction
 
