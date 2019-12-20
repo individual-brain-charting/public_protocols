@@ -26,7 +26,9 @@ To launch the protocol of the *Theory-of-Mind Localizer*, go to the `tom_localiz
 
 2. For the training session:  
 
-`tom_localizer_ts('subject_id',<run_number>)`  
+`tom_localizer_ts('subject_id',<run_number>)` 
+
+The protocol starts with a short set of instructions about the stimuli. The participant is asked to press 'y' if TRUE or 'g' if FALSE.
 
 #### Paradigm descriptors extraction
 
@@ -51,6 +53,8 @@ To launch the protocol of the *Theory-of-Mind and Pain Matrix Narrative Localize
 
 `ep_localizer_ts('subject_id',<run_number>)`  
 
+The protocol starts with a short set of instructions about the stimuli. The participant is asked to press 'b' if NO_PAIN, 'y' if LITTLE_PAIN, 'g' if MODERATE_PAIN or 'r' if STRONG_PAIN.
+
 #### Paradigm descriptors extraction
 
 To edit the stimuli of this task, create/edit the `.txt` files in the folder `stim*` and run:
@@ -72,7 +76,7 @@ The inputs are stored in the folder `behavioural`; they have been created in the
 
 To launch the protocol of the *Theory-of-Mind and Pain Matrix Movie Localizer*, go to the `mov_localizer` folder and run in the command window of Octave/MATLAB:  
 
-`mov_localizer.m`  
+`mov_localizer('subject_id')`  
 
 #### Paradigm descriptors extraction
 
