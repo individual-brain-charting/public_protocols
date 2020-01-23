@@ -34,15 +34,19 @@ CUES_TIME = ['avant_ou_apres', 'avant_ou_apres']
 
 # *****************************************************************************
 
-# Island story
-island = 'we'
-# Participants' list
-participant_list = [1, 4, 5, 7, 8, 9, 12, 13, 14]
-# Which file to load? (numbering starts from 0)
-input_no = 0
-# Sessions's ID (numbering starts from 0)
-first_sess = 0
-last_sess = 2
+# #######################################################
+
+# # Island story
+# island = 'we'
+# # Participants' list
+# participant_list = [1, 4, 5, 7, 8, 9, 12, 13, 14]
+# # Which file to load? (numbering starts from 0)
+# input_no = 0
+# # Sessions's ID (numbering starts from 0)
+# first_sess = 0
+# last_sess = 2
+
+# #######################################################
 
 '''
 Exceptions for IBC participants of island "we":
@@ -54,15 +58,18 @@ sub-11: 1, 2, 2
 sub-15: 0, 0, 0 (very incomplete)
 sub-15: 1, 1, 2
 '''
+
 # # Island story
 # island = 'we'
 # # Participants' list
-# participant_list = [6]
+# participant_list = [06]
 # # Which file to load? (numbering starts from 0)
-# input_no = 1
+# input_no = 0
 # # Sessions's ID (numbering starts from 0)
-# first_sess = 1
-# last_sess = 2
+# first_sess = 0
+# last_sess = 0
+
+# #######################################################
 
 # # Island story
 # island = 'sn'
@@ -76,8 +83,10 @@ sub-15: 1, 1, 2
 
 '''
 Exceptions for IBC participants of island "sn":
-sub-15: no run
+sub-15: no runs
 '''
+
+# #######################################################
 
 # *****************************************************************************
 
