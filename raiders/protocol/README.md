@@ -22,7 +22,7 @@ Attention: Do not kill the process with __Ctrl+C__! Otherwise the log files are 
 
 _________________________________________________________________________________________________  
 
-Due to storage limitation, we were unable to make available herein the video stimuli. Each run corresponded to the contiguous display of one chapter of the 2009 DVD edition of the movie *Raiders of the Lost Ark* dubbed into french. The onset time of each chapter is provided next:  
+The video stimuli of each run corresponded to the contiguous display of one chapter of the 2009 DVD edition of the movie *Raiders of the Lost Ark* dubbed into french. The onset time of each chapter is provided next:  
 
 Chapter 1 - 00:00  
 Chapter 2 - 12:29  
