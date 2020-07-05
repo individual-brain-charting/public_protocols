@@ -1,4 +1,4 @@
-## Notes about video annotation of the *Raiders* task  
+## Notes about video annotations of the *Raiders* task  
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr
