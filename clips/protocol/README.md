@@ -60,7 +60,7 @@ Create directory 'log' to store log files of each session.
 
 _________________________________________________________________________________________________
 
-The folders containing the images, i.e. trn*/ and val*/, are stored on github under the tab `Releases` with the tags "clips\_trn0*\_*\_v1.0" and "clips\_val00*\_v1.0", respectively. The folder words/ is not stored on github, either.
+The folders containing the images, i.e. trn*/ and val*/, are stored on github under the tab `Releases` with the tags "clips\_trn0*\_*\_v1.0" and "clips\_val00*\_v1.0", respectively. Note that images from part 1 and 2 of a given training session shall be stored under the same folder.
 
 _________________________________________________________________________________________________
 
