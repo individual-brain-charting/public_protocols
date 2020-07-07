@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,Des bibliothèques de chaque cible ont le mauvais squelette.
+10000,redtext,empty,True,+
+10350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+42000,sound,bip,True,bip_court.wav
+42350,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,arithprin,false,50_arithprin_34_false_vide_nombreauquel.wav
+58000,redtext,empty,True,+
+58350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+66000,redtext,empty,True,+
+66350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+74000,text,empty,True,+
+79000,redtext,empty,True,+
+79350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+87000,sound,bip,True,bip_court.wav
+87350,sound,general,false,6_general_21_false_vide_papillons.wav
+95000,sound,bip,True,bip_court.wav
+95350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+103000,sound,bip,True,bip_court.wav
+103350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+111000,sound,bip,True,bip_court.wav
+111350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+119000,redtext,empty,True,+
+119350,rsvp,general,true,Le calendrier grégorien est utilisé dans la plupart des pays occidentaux.
+127000,sound,bip,True,bip_court.wav
+127350,sound,geomfact,true,95_geomfact_01_true_vide_carrefigure.wav
+135000,text,empty,True,+
+142000,sound,bip,True,bip_court.wav
+142350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+150000,sound,bip,True,bip_court.wav
+150350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+158000,sound,bip,True,bip_court.wav
+158350,sound,tom,false,232_tom_29_false_vrai_pournapoleon.wav
+166000,sound,bip,True,bip_court.wav
+166350,sound,general,true,266_general_16_true_vide_larose.wav
+174000,redtext,empty,True,+
+174350,rsvp,colorlessg,false,En vérité tous les gouvernements doivent retrouver à l'année.
+182000,redtext,empty,True,+
+182350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+190000,text,empty,True,+
+196000,sound,bip,True,bip_court.wav
+196350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+204000,redtext,empty,True,+
+204350,rsvp,control,false,Période histoire visage pleine côté conditions jamais.
+212000,sound,bip,True,bip_court.wav
+212350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+220000,sound,bip,True,bip_court.wav
+220350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+228000,redtext,empty,True,+
+228350,rsvp,colorlessg,false,Dans les chiens imperceptibles le poivre est laid.
+236000,redtext,empty,True,+
+236350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+244000,sound,bip,True,bip_court.wav
+244350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+252000,text,empty,True,+
+259000,redtext,empty,True,+
+259350,rsvp,context,true,A Londres les autobus ont des étages.
+267000,redtext,empty,True,+
+267350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+275000,redtext,empty,True,+
+275350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+283000,redtext,empty,True,+
+283350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+291000,redtext,empty,True,+
+291350,rsvp,control,false,Est le une tandis comme sans te pour mais dans cependant.
+299000,text,empty,True,+
+307000,sound,bip,True,bip_court.wav
+307350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+315000,redtext,empty,True,+
+315350,rsvp,tom,false,D'après Mère Teresa la haine est une émotion positive.
+323000,sound,bip,True,bip_court.wav
+323350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+331000,sound,bip,True,bip_court.wav
+331350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+339000,sound,bip,True,bip_court.wav
+339350,sound,context,true,3_context_08_true_vrai_australie.wav
+347000,redtext,empty,True,+
+347350,rsvp,arithprin,false,Le carré d'un nombre négatif est négatif.
+355000,redtext,empty,True,+
+355350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+363000,text,empty,True,+
+369000,redtext,empty,True,+
+369350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+377000,sound,bip,True,bip_court.wav
+377350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+385000,redtext,empty,True,+
+385350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+393000,redtext,empty,True,+
+393350,rsvp,tom,true,Selon Greenpeace la déforestation en Amazonie est une catastrophe.
+401000,text,empty,True,+
+406000,sound,bip,True,bip_court.wav
+406350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+414000,redtext,empty,True,+
+414350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+422000,sound,bip,True,bip_court.wav
+422350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+430000,sound,bip,True,bip_court.wav
+430350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+438000,sound,bip,True,bip_court.wav
+438350,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+446000,text,empty,True,+
+454000,redtext,empty,True,+
+454350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+462000,redtext,empty,True,+
+462350,rsvp,context,true,A New York les immeubles sont de hauts bâtiments modernes.
+470000,redtext,empty,True,+
+470350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+478000,sound,bip,True,bip_court.wav
+478350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+486000,redtext,empty,True,+
+486350,rsvp,arithprin,true,Tous les nombres entiers sont divisibles par un.
+494000,sound,bip,True,bip_court.wav
+494350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+502000,sound,bip,True,bip_court.wav
+502350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+510000,redtext,empty,True,+
+510350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+518000,redtext,empty,True,+
+518350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+526000,redtext,empty,True,+
+526350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+534000,sound,bip,True,bip_court.wav
+534350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+542000,sound,bip,True,bip_court.wav
+542350,sound,general,true,101_general_10_true_vide_noyauatome.wav
+550000,sound,bip,True,bip_court.wav
+550350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+558000,redtext,empty,True,+
+558350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+566000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+10000,redtext,empty,True,+
+10350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+18000,sound,bip,True,bip_court.wav
+18350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+26000,redtext,empty,True,+
+26350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+34000,redtext,empty,True,+
+34350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+42000,redtext,empty,True,+
+42350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+50000,redtext,empty,True,+
+50350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+58000,text,empty,True,+
+63000,sound,bip,True,bip_court.wav
+63350,sound,control,false,305_control_40_false_vide_campagnelangage.wav
+71000,redtext,empty,True,+
+71350,rsvp,context,false,En Inde le dinar est la monnaie courante.
+79000,sound,bip,True,bip_court.wav
+79350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+87000,redtext,empty,True,+
+87350,rsvp,control,false,Est le une tandis comme sans te pour mais dans cependant.
+95000,redtext,empty,True,+
+95350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+103000,redtext,empty,True,+
+103350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+111000,sound,bip,True,bip_court.wav
+111350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+119000,redtext,empty,True,+
+119350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+127000,text,empty,True,+
+134000,sound,bip,True,bip_court.wav
+134350,sound,geomfact,false,118_geomfact_22_false_vide_hexagone.wav
+142000,sound,bip,True,bip_court.wav
+142350,sound,general,true,281_general_02_true_vide_latulipe.wav
+150000,redtext,empty,True,+
+150350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+158000,sound,bip,True,bip_court.wav
+158350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+166000,redtext,empty,True,+
+166350,rsvp,geomfact,false,Un rectangle a un seul axe de symétrie.
+174000,sound,bip,True,bip_court.wav
+174350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+182000,text,empty,True,+
+190000,sound,bip,True,bip_court.wav
+190350,sound,tom,false,232_tom_29_false_vrai_pournapoleon.wav
+198000,sound,bip,True,bip_court.wav
+198350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+206000,redtext,empty,True,+
+206350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+214000,redtext,empty,True,+
+214350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+222000,redtext,empty,True,+
+222350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+230000,text,empty,True,+
+235000,sound,bip,True,bip_court.wav
+235350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+243000,redtext,empty,True,+
+243350,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+251000,sound,bip,True,bip_court.wav
+251350,sound,context,false,97_context_40_false_faux_japon.wav
+259000,redtext,empty,True,+
+259350,rsvp,control,false,Demain manger solution guerre couleur boire chambre bruit.
+267000,sound,bip,True,bip_court.wav
+267350,sound,arithfact,true,119_arithfact_05_true_vide_nombrevingtsept.wav
+275000,redtext,empty,True,+
+275350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+283000,sound,bip,True,bip_court.wav
+283350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+291000,sound,bip,True,bip_court.wav
+291350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+299000,text,empty,True,+
+303000,sound,bip,True,bip_court.wav
+303350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+311000,sound,bip,True,bip_court.wav
+311350,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+319000,redtext,empty,True,+
+319350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+327000,sound,bip,True,bip_court.wav
+327350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+335000,sound,bip,True,bip_court.wav
+335350,sound,general,false,91_general_23_false_vide_alguesvertes.wav
+343000,text,empty,True,+
+348000,sound,bip,True,bip_court.wav
+348350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+356000,sound,bip,True,bip_court.wav
+356350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+364000,sound,bip,True,bip_court.wav
+364350,sound,context,true,189_context_10_true_vrai_auxantilles.wav
+372000,redtext,empty,True,+
+372350,rsvp,tom,false,D'après les humoristes rire est mauvais pour la santé.
+380000,sound,bip,True,bip_court.wav
+380350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+388000,text,empty,True,+
+396000,redtext,empty,True,+
+396350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+404000,redtext,empty,True,+
+404350,rsvp,context,true,A New York les immeubles sont de hauts bâtiments modernes.
+412000,redtext,empty,True,+
+412350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+420000,redtext,empty,True,+
+420350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+428000,redtext,empty,True,+
+428350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+436000,sound,bip,True,bip_court.wav
+436350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+444000,sound,bip,True,bip_court.wav
+444350,sound,control,false,171_control_32_false_vide_souventete.wav
+452000,redtext,empty,True,+
+452350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+460000,sound,bip,True,bip_court.wav
+460350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+468000,redtext,empty,True,+
+468350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+476000,text,empty,True,+
+480000,redtext,empty,True,+
+480350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+488000,redtext,empty,True,+
+488350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+496000,redtext,empty,True,+
+496350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+504000,sound,bip,True,bip_court.wav
+504350,sound,colorlessg,false,304_colorlessg_25_false_vide_unefemmedetraction.wav
+512000,redtext,empty,True,+
+512350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+520000,redtext,empty,True,+
+520350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+528000,sound,bip,True,bip_court.wav
+528350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+536000,sound,bip,True,bip_court.wav
+536350,sound,general,true,170_general_18_true_vide_calendriergregorien.wav
+544000,sound,bip,True,bip_court.wav
+544350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+552000,sound,bip,True,bip_court.wav
+552350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+560000,text,empty,True,+

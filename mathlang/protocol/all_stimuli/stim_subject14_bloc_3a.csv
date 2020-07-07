@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+10000,redtext,empty,True,+
+10350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+18000,redtext,empty,True,+
+18350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+26000,sound,bip,True,bip_court.wav
+26350,sound,control,false,17_control_20_false_vide_etresont.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+42000,redtext,empty,True,+
+42350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+50000,redtext,empty,True,+
+50350,rsvp,context,true,Au Japon manger bruyamment est une forme de politesse.
+58000,text,empty,True,+
+62000,redtext,empty,True,+
+62350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+70000,sound,bip,True,bip_court.wav
+70350,sound,general,true,124_general_17_true_vide_fevrier.wav
+78000,sound,bip,True,bip_court.wav
+78350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+86000,sound,bip,True,bip_court.wav
+86350,sound,geomfact,false,118_geomfact_22_false_vide_hexagone.wav
+94000,sound,bip,True,bip_court.wav
+94350,sound,control,false,171_control_32_false_vide_souventete.wav
+102000,redtext,empty,True,+
+102350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+110000,text,empty,True,+
+118000,redtext,empty,True,+
+118350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+126000,redtext,empty,True,+
+126350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+134000,redtext,empty,True,+
+134350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+142000,sound,bip,True,bip_court.wav
+142350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+150000,redtext,empty,True,+
+150350,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+158000,text,empty,True,+
+166000,sound,bip,True,bip_court.wav
+166350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+174000,sound,bip,True,bip_court.wav
+174350,sound,colorlessg,false,62_colorlessg_27_false_vide_toutebase.wav
+182000,sound,bip,True,bip_court.wav
+182350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+190000,redtext,empty,True,+
+190350,rsvp,control,false,Période histoire visage pleine côté conditions jamais.
+198000,redtext,empty,True,+
+198350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+206000,sound,bip,True,bip_court.wav
+206350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+214000,redtext,empty,True,+
+214350,rsvp,geomfact,false,Un carré peut se diviser en triangles équilatéraux.
+222000,sound,bip,True,bip_court.wav
+222350,sound,tom,true,94_tom_01_true_vrai_darwin.wav
+230000,text,empty,True,+
+234000,sound,bip,True,bip_court.wav
+234350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+242000,redtext,empty,True,+
+242350,rsvp,tom,false,Selon Christophe Colomb la terre est plate.
+250000,redtext,empty,True,+
+250350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+258000,redtext,empty,True,+
+258350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+266000,sound,bip,True,bip_court.wav
+266350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+274000,redtext,empty,True,+
+274350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+282000,sound,bip,True,bip_court.wav
+282350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+290000,sound,bip,True,bip_court.wav
+290350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+298000,sound,bip,True,bip_court.wav
+298350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+306000,text,empty,True,+
+313000,redtext,empty,True,+
+313350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+321000,sound,bip,True,bip_court.wav
+321350,sound,arithprin,false,275_arithprin_27_false_vide_leresultatduneaddition.wav
+329000,redtext,empty,True,+
+329350,rsvp,tom,true,Selon Greenpeace la déforestation en Amazonie est une catastrophe.
+337000,redtext,empty,True,+
+337350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+345000,sound,bip,True,bip_court.wav
+345350,sound,general,false,83_general_40_false_vide_laterre.wav
+353000,sound,bip,True,bip_court.wav
+353350,sound,context,false,13_context_33_false_faux_afriquedusud.wav
+361000,text,empty,True,+
+368000,redtext,empty,True,+
+368350,rsvp,control,false,Est le une tandis comme sans te pour mais dans cependant.
+376000,sound,bip,True,bip_court.wav
+376350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+384000,sound,bip,True,bip_court.wav
+384350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+392000,sound,bip,True,bip_court.wav
+392350,sound,context,true,157_context_04_true_vrai_anewyork.wav
+400000,sound,bip,True,bip_court.wav
+400350,sound,general,false,1_general_26_false_vide_jupiter.wav
+408000,sound,bip,True,bip_court.wav
+408350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+416000,redtext,empty,True,+
+416350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+424000,redtext,empty,True,+
+424350,rsvp,arithprin,false,Un nombre multiplié par un est égal à zéro.
+432000,sound,bip,True,bip_court.wav
+432350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+440000,text,empty,True,+
+447000,sound,bip,True,bip_court.wav
+447350,sound,general,true,174_general_12_true_vide_uneencyclopedie.wav
+455000,redtext,empty,True,+
+455350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+463000,redtext,empty,True,+
+463350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+471000,sound,bip,True,bip_court.wav
+471350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+479000,text,empty,True,+
+484000,sound,bip,True,bip_court.wav
+484350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+492000,redtext,empty,True,+
+492350,rsvp,general,false,Le veau est le petit de la chèvre.
+500000,sound,bip,True,bip_court.wav
+500350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+508000,redtext,empty,True,+
+508350,rsvp,tom,false,Pour Hitler les juifs sont des hommes comme les autres.
+516000,sound,bip,True,bip_court.wav
+516350,sound,context,false,126_context_24_false_vrai_burundi.wav
+524000,redtext,empty,True,+
+524350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+532000,redtext,empty,True,+
+532350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+540000,redtext,empty,True,+
+540350,rsvp,colorlessg,false,Le pompier d'ailes se brise lentement sur les chiens.
+548000,redtext,empty,True,+
+548350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+556000,redtext,empty,True,+
+556350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+564000,text,empty,True,+

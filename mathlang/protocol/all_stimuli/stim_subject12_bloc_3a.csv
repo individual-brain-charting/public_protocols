@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,true,104_geomfact_07_true_vide_losanges.wav
+26000,redtext,empty,True,+
+26350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+42000,redtext,empty,True,+
+42350,rsvp,arithfact,false,Sept fois sept est plus grand que le chiffre cinquante quatre.
+50000,text,empty,True,+
+54000,sound,bip,True,bip_court.wav
+54350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+62000,redtext,empty,True,+
+62350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+70000,redtext,empty,True,+
+70350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+78000,redtext,empty,True,+
+78350,rsvp,arithprin,true,La multiplication est le contraire de la division.
+86000,redtext,empty,True,+
+86350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+94000,sound,bip,True,bip_court.wav
+94350,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+102000,sound,bip,True,bip_court.wav
+102350,sound,general,false,37_general_25_false_vide_primevere.wav
+110000,sound,bip,True,bip_court.wav
+110350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+118000,text,empty,True,+
+124000,redtext,empty,True,+
+124350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+132000,sound,bip,True,bip_court.wav
+132350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+140000,redtext,empty,True,+
+140350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+148000,sound,bip,True,bip_court.wav
+148350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+156000,redtext,empty,True,+
+156350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+164000,sound,bip,True,bip_court.wav
+164350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+172000,redtext,empty,True,+
+172350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+180000,sound,bip,True,bip_court.wav
+180350,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+188000,redtext,empty,True,+
+188350,rsvp,control,false,Aux les qui duquel les sont que selon ce le dans.
+196000,text,empty,True,+
+202000,redtext,empty,True,+
+202350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+210000,sound,bip,True,bip_court.wav
+210350,sound,general,true,302_general_04_true_vide_leaugele.wav
+218000,sound,bip,True,bip_court.wav
+218350,sound,geomfact,false,118_geomfact_22_false_vide_hexagone.wav
+226000,text,empty,True,+
+231000,redtext,empty,True,+
+231350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+239000,sound,bip,True,bip_court.wav
+239350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+247000,sound,bip,True,bip_court.wav
+247350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+255000,redtext,empty,True,+
+255350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+263000,sound,bip,True,bip_court.wav
+263350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+271000,sound,bip,True,bip_court.wav
+271350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+279000,redtext,empty,True,+
+279350,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+287000,redtext,empty,True,+
+287350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+295000,redtext,empty,True,+
+295350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+303000,text,empty,True,+
+307000,redtext,empty,True,+
+307350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+315000,redtext,empty,True,+
+315350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+323000,sound,bip,True,bip_court.wav
+323350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+331000,sound,bip,True,bip_court.wav
+331350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+339000,text,empty,True,+
+343000,redtext,empty,True,+
+343350,rsvp,general,true,Les flocons de neige ont des formes très variées.
+351000,sound,bip,True,bip_court.wav
+351350,sound,geomfact,true,204_geomfact_15_true_vide_diametrecercle.wav
+359000,redtext,empty,True,+
+359350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+367000,sound,bip,True,bip_court.wav
+367350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+375000,sound,bip,True,bip_court.wav
+375350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+383000,text,empty,True,+
+391000,redtext,empty,True,+
+391350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+399000,sound,bip,True,bip_court.wav
+399350,sound,control,false,110_control_03_false_vide_quileestun.wav
+407000,sound,bip,True,bip_court.wav
+407350,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+415000,sound,bip,True,bip_court.wav
+415350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+423000,sound,bip,True,bip_court.wav
+423350,sound,control,false,58_control_13_false_vide_plusensuite.wav
+431000,redtext,empty,True,+
+431350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+439000,sound,bip,True,bip_court.wav
+439350,sound,arithprin,true,161_arithprin_18_true_vide_unefraction.wav
+447000,text,empty,True,+
+454000,redtext,empty,True,+
+454350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+462000,redtext,empty,True,+
+462350,rsvp,geomfact,false,Des lignes sont perpendiculaires quand elles forment un angle aigu.
+470000,redtext,empty,True,+
+470350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+478000,sound,bip,True,bip_court.wav
+478350,sound,general,true,111_general_20_true_vide_mitose.wav
+486000,redtext,empty,True,+
+486350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+494000,redtext,empty,True,+
+494350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+502000,redtext,empty,True,+
+502350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+510000,redtext,empty,True,+
+510350,rsvp,geomfact,false,Un triangle équilatéral est formé uniquement d'angles droits.
+518000,sound,bip,True,bip_court.wav
+518350,sound,arithprin,false,165_arithprin_39_false_vide_lordreselonlequel.wav
+526000,sound,bip,True,bip_court.wav
+526350,sound,context,true,90_context_09_true_vrai_himalaya.wav
+534000,sound,bip,True,bip_court.wav
+534350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+542000,sound,bip,True,bip_court.wav
+542350,sound,colorlessg,false,57_colorlessg_04_false_vide_selonlebois.wav
+550000,redtext,empty,True,+
+550350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+558000,text,empty,True,+

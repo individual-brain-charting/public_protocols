@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+10000,redtext,empty,True,+
+10350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+26000,redtext,empty,True,+
+26350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+34000,sound,bip,True,bip_court.wav
+34350,sound,control,false,224_control_21_false_vide_sombremanteau.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+50000,redtext,empty,True,+
+50350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+58000,redtext,empty,True,+
+58350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+66000,text,empty,True,+
+70000,redtext,empty,True,+
+70350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+78000,sound,bip,True,bip_court.wav
+78350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+86000,text,empty,True,+
+92000,sound,bip,True,bip_court.wav
+92350,sound,general,true,51_general_09_true_vide_flocons.wav
+100000,sound,bip,True,bip_court.wav
+100350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+108000,sound,bip,True,bip_court.wav
+108350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+116000,text,empty,True,+
+120000,sound,bip,True,bip_court.wav
+120350,sound,colorlessg,false,304_colorlessg_25_false_vide_unefemmedetraction.wav
+128000,redtext,empty,True,+
+128350,rsvp,tom,true,D'après Newton les objets sont soumis à l'attraction terrestre.
+136000,redtext,empty,True,+
+136350,rsvp,colorlessg,false,Le pompier d'ailes se brise lentement sur les chiens.
+144000,redtext,empty,True,+
+144350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+152000,text,empty,True,+
+157000,redtext,empty,True,+
+157350,rsvp,arithfact,true,Deux fois vingt quatre a comme résultat quarante huit.
+165000,sound,bip,True,bip_court.wav
+165350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+173000,sound,bip,True,bip_court.wav
+173350,sound,general,true,54_general_07_true_vide_soleil.wav
+181000,sound,bip,True,bip_court.wav
+181350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+189000,redtext,empty,True,+
+189350,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+197000,redtext,empty,True,+
+197350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+205000,sound,bip,True,bip_court.wav
+205350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+213000,text,empty,True,+
+218000,redtext,empty,True,+
+218350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+226000,sound,bip,True,bip_court.wav
+226350,sound,general,false,38_general_34_false_vide_hiver.wav
+234000,redtext,empty,True,+
+234350,rsvp,tom,false,Selon Christophe Colomb la terre est plate.
+242000,redtext,empty,True,+
+242350,rsvp,arithprin,false,Le résultat d'une soustraction est toujours négatif.
+250000,sound,bip,True,bip_court.wav
+250350,sound,geomfact,false,118_geomfact_22_false_vide_hexagone.wav
+258000,sound,bip,True,bip_court.wav
+258350,sound,control,false,171_control_32_false_vide_souventete.wav
+266000,redtext,empty,True,+
+266350,rsvp,arithprin,true,Un nombre positif fois un nombre négatif donne un nombre négatif.
+274000,sound,bip,True,bip_court.wav
+274350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+282000,redtext,empty,True,+
+282350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+290000,text,empty,True,+
+294000,sound,bip,True,bip_court.wav
+294350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+302000,redtext,empty,True,+
+302350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+310000,redtext,empty,True,+
+310350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+318000,redtext,empty,True,+
+318350,rsvp,context,true,A Londres les autobus ont des étages.
+326000,redtext,empty,True,+
+326350,rsvp,geomfact,true,Tous les points d'un cercle sont à égale distance du centre.
+334000,redtext,empty,True,+
+334350,rsvp,tom,true,Pour les créationnistes Dieu est à l'origine de la vie.
+342000,sound,bip,True,bip_court.wav
+342350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+350000,sound,bip,True,bip_court.wav
+350350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+358000,text,empty,True,+
+362000,sound,bip,True,bip_court.wav
+362350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+370000,redtext,empty,True,+
+370350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+378000,sound,bip,True,bip_court.wav
+378350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+386000,redtext,empty,True,+
+386350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+394000,sound,bip,True,bip_court.wav
+394350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+402000,sound,bip,True,bip_court.wav
+402350,sound,context,true,26_context_17_true_faux_londres.wav
+410000,redtext,empty,True,+
+410350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+418000,sound,bip,True,bip_court.wav
+418350,sound,tom,true,222_tom_02_true_vrai_dapresgalilee.wav
+426000,text,empty,True,+
+431000,sound,bip,True,bip_court.wav
+431350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+439000,sound,bip,True,bip_court.wav
+439350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+447000,redtext,empty,True,+
+447350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+455000,redtext,empty,True,+
+455350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+463000,redtext,empty,True,+
+463350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+471000,sound,bip,True,bip_court.wav
+471350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+479000,sound,bip,True,bip_court.wav
+479350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+487000,sound,bip,True,bip_court.wav
+487350,sound,context,true,189_context_10_true_vrai_auxantilles.wav
+495000,redtext,empty,True,+
+495350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+503000,redtext,empty,True,+
+503350,rsvp,control,false,Période histoire visage pleine côté conditions jamais.
+511000,sound,bip,True,bip_court.wav
+511350,sound,tom,true,121_tom_11_true_faux_pourlesgrecs.wav
+519000,redtext,empty,True,+
+519350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+527000,sound,bip,True,bip_court.wav
+527350,sound,context,false,308_context_26_false_vrai_enequateur.wav
+535000,redtext,empty,True,+
+535350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+543000,sound,bip,True,bip_court.wav
+543350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+551000,text,empty,True,+

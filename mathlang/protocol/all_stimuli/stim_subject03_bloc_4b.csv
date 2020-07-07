@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+10000,redtext,empty,True,+
+10350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+18000,sound,bip,True,bip_court.wav
+18350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+42000,redtext,empty,True,+
+42350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+50000,redtext,empty,True,+
+50350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+58000,redtext,empty,True,+
+58350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+66000,sound,bip,True,bip_court.wav
+66350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+74000,text,empty,True,+
+81000,redtext,empty,True,+
+81350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+89000,sound,bip,True,bip_court.wav
+89350,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+97000,sound,bip,True,bip_court.wav
+97350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+105000,redtext,empty,True,+
+105350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+113000,redtext,empty,True,+
+113350,rsvp,context,false,Au Kenya les lacs des plaines gèlent régulièrement.
+121000,redtext,empty,True,+
+121350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+129000,sound,bip,True,bip_court.wav
+129350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+137000,redtext,empty,True,+
+137350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+145000,text,empty,True,+
+152000,redtext,empty,True,+
+152350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+160000,redtext,empty,True,+
+160350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+168000,sound,bip,True,bip_court.wav
+168350,sound,arithfact,true,119_arithfact_05_true_vide_nombrevingtsept.wav
+176000,sound,bip,True,bip_court.wav
+176350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+184000,sound,bip,True,bip_court.wav
+184350,sound,control,false,230_control_34_false_vide_membresinterieur.wav
+192000,sound,bip,True,bip_court.wav
+192350,sound,geomfact,false,21_geomfact_29_false_vide_figures.wav
+200000,text,empty,True,+
+205000,sound,bip,True,bip_court.wav
+205350,sound,arithfact,true,53_arithfact_13_true_vide_unquartdecent.wav
+213000,sound,bip,True,bip_court.wav
+213350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+221000,sound,bip,True,bip_court.wav
+221350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+229000,redtext,empty,True,+
+229350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+237000,redtext,empty,True,+
+237350,rsvp,geomfact,false,Plus un triangle est grand
+245000,redtext,empty,True,+
+245350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+253000,sound,bip,True,bip_court.wav
+253350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+261000,text,empty,True,+
+269000,redtext,empty,True,+
+269350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+277000,sound,bip,True,bip_court.wav
+277350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+285000,redtext,empty,True,+
+285350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+293000,sound,bip,True,bip_court.wav
+293350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+301000,text,empty,True,+
+307000,sound,bip,True,bip_court.wav
+307350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+315000,sound,bip,True,bip_court.wav
+315350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+323000,sound,bip,True,bip_court.wav
+323350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+331000,redtext,empty,True,+
+331350,rsvp,tom,true,Selon Greenpeace la déforestation en Amazonie est une catastrophe.
+339000,redtext,empty,True,+
+339350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+347000,text,empty,True,+
+351000,redtext,empty,True,+
+351350,rsvp,geomfact,true,Les angles d'un polygone régulier sont de la même taille.
+359000,redtext,empty,True,+
+359350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+367000,sound,bip,True,bip_court.wav
+367350,sound,tom,true,59_tom_07_true_vrai_vulcanologues.wav
+375000,sound,bip,True,bip_court.wav
+375350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+383000,sound,bip,True,bip_court.wav
+383350,sound,context,false,212_context_37_false_faux_surmars.wav
+391000,sound,bip,True,bip_court.wav
+391350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+399000,redtext,empty,True,+
+399350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+407000,text,empty,True,+
+414000,redtext,empty,True,+
+414350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+422000,sound,bip,True,bip_court.wav
+422350,sound,colorlessg,false,140_colorlessg_36_false_vide_bibliotheques.wav
+430000,sound,bip,True,bip_court.wav
+430350,sound,control,false,58_control_13_false_vide_plusensuite.wav
+438000,sound,bip,True,bip_court.wav
+438350,sound,geomfact,true,307_geomfact_05_true_vide_lignesparalleles.wav
+446000,sound,bip,True,bip_court.wav
+446350,sound,general,true,34_general_01_true_vide_chameau.wav
+454000,text,empty,True,+
+460000,sound,bip,True,bip_court.wav
+460350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+468000,sound,bip,True,bip_court.wav
+468350,sound,context,true,317_context_16_true_faux_aujapon.wav
+476000,sound,bip,True,bip_court.wav
+476350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+484000,sound,bip,True,bip_court.wav
+484350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+492000,redtext,empty,True,+
+492350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+500000,redtext,empty,True,+
+500350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+508000,sound,bip,True,bip_court.wav
+508350,sound,general,false,216_general_32_false_vide_lavapeurdeau.wav
+516000,redtext,empty,True,+
+516350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+524000,redtext,empty,True,+
+524350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+532000,redtext,empty,True,+
+532350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+540000,redtext,empty,True,+
+540350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+548000,redtext,empty,True,+
+548350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+556000,redtext,empty,True,+
+556350,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+564000,text,empty,True,+

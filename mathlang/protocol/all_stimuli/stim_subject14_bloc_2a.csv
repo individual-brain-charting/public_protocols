@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,general,true,302_general_04_true_vide_leaugele.wav
+10000,redtext,empty,True,+
+10350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+18000,redtext,empty,True,+
+18350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+26000,redtext,empty,True,+
+26350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+34000,redtext,empty,True,+
+34350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+42000,redtext,empty,True,+
+42350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+50000,sound,bip,True,bip_court.wav
+50350,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+58000,sound,bip,True,bip_court.wav
+58350,sound,general,true,34_general_01_true_vide_chameau.wav
+66000,sound,bip,True,bip_court.wav
+66350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+74000,redtext,empty,True,+
+74350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+82000,text,empty,True,+
+88000,sound,bip,True,bip_court.wav
+88350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+96000,redtext,empty,True,+
+96350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+104000,sound,bip,True,bip_court.wav
+104350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+112000,redtext,empty,True,+
+112350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+120000,sound,bip,True,bip_court.wav
+120350,sound,arithprin,false,96_arithprin_40_false_vide_nombrenonnul.wav
+128000,redtext,empty,True,+
+128350,rsvp,arithprin,true,Un nombre positif fois un nombre négatif donne un nombre négatif.
+136000,text,empty,True,+
+143000,redtext,empty,True,+
+143350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+151000,sound,bip,True,bip_court.wav
+151350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+159000,sound,bip,True,bip_court.wav
+159350,sound,general,false,152_general_22_false_vide_petitvache.wav
+167000,sound,bip,True,bip_court.wav
+167350,sound,context,false,251_context_27_false_vrai_parisvoielactee.wav
+175000,sound,bip,True,bip_court.wav
+175350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+183000,redtext,empty,True,+
+183350,rsvp,context,false,Au Kenya les lacs des plaines gèlent régulièrement.
+191000,redtext,empty,True,+
+191350,rsvp,tom,true,Pour les créationnistes Dieu est à l'origine de la vie.
+199000,text,empty,True,+
+207000,redtext,empty,True,+
+207350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+215000,redtext,empty,True,+
+215350,rsvp,colorlessg,false,Dans les chiens imperceptibles le poivre est laid.
+223000,redtext,empty,True,+
+223350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+231000,sound,bip,True,bip_court.wav
+231350,sound,control,false,224_control_21_false_vide_sombremanteau.wav
+239000,text,empty,True,+
+247000,redtext,empty,True,+
+247350,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+255000,redtext,empty,True,+
+255350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+263000,sound,bip,True,bip_court.wav
+263350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+271000,sound,bip,True,bip_court.wav
+271350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+279000,sound,bip,True,bip_court.wav
+279350,sound,arithprin,false,50_arithprin_34_false_vide_nombreauquel.wav
+287000,redtext,empty,True,+
+287350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+295000,text,empty,True,+
+303000,sound,bip,True,bip_court.wav
+303350,sound,tom,true,59_tom_07_true_vrai_vulcanologues.wav
+311000,redtext,empty,True,+
+311350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+319000,sound,bip,True,bip_court.wav
+319350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+327000,sound,bip,True,bip_court.wav
+327350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+335000,sound,bip,True,bip_court.wav
+335350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+343000,text,empty,True,+
+350000,sound,bip,True,bip_court.wav
+350350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+358000,redtext,empty,True,+
+358350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+366000,redtext,empty,True,+
+366350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+374000,sound,bip,True,bip_court.wav
+374350,sound,control,false,131_control_22_false_vide_devantdecide.wav
+382000,sound,bip,True,bip_court.wav
+382350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+390000,redtext,empty,True,+
+390350,rsvp,arithfact,true,Soustraire trois du nombre vingt donne dix sept.
+398000,redtext,empty,True,+
+398350,rsvp,control,false,Histoire jours frère société café armée saint états.
+406000,redtext,empty,True,+
+406350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+414000,sound,bip,True,bip_court.wav
+414350,sound,context,true,189_context_10_true_vrai_auxantilles.wav
+422000,sound,bip,True,bip_court.wav
+422350,sound,arithfact,true,183_arithfact_19_true_vide_quarantedeuxmoins.wav
+430000,text,empty,True,+
+438000,sound,bip,True,bip_court.wav
+438350,sound,control,false,305_control_40_false_vide_campagnelangage.wav
+446000,redtext,empty,True,+
+446350,rsvp,arithfact,true,Quarante cinq est le résultat de quinze fois trois.
+454000,sound,bip,True,bip_court.wav
+454350,sound,arithprin,true,244_arithprin_17_true_vide_additionnerfractions.wav
+462000,text,empty,True,+
+466000,redtext,empty,True,+
+466350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+474000,sound,bip,True,bip_court.wav
+474350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+482000,sound,bip,True,bip_court.wav
+482350,sound,geomfact,false,12_geomfact_38_false_vide_losange.wav
+490000,sound,bip,True,bip_court.wav
+490350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+498000,redtext,empty,True,+
+498350,rsvp,geomfact,true,Tous les points d'un cercle sont à égale distance du centre.
+506000,redtext,empty,True,+
+506350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+514000,redtext,empty,True,+
+514350,rsvp,general,false,La vapeur d'eau se condense uniquement sur les arbres.
+522000,redtext,empty,True,+
+522350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+530000,redtext,empty,True,+
+530350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+538000,sound,bip,True,bip_court.wav
+538350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+546000,sound,bip,True,bip_court.wav
+546350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+554000,sound,bip,True,bip_court.wav
+554350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+562000,redtext,empty,True,+
+562350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+570000,text,empty,True,+

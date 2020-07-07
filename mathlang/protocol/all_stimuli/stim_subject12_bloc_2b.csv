@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,tom,true,121_tom_11_true_faux_pourlesgrecs.wav
+10000,redtext,empty,True,+
+10350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+18000,sound,bip,True,bip_court.wav
+18350,sound,context,false,226_context_21_false_vrai_eninde.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+34000,redtext,empty,True,+
+34350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+42000,redtext,empty,True,+
+42350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+50000,redtext,empty,True,+
+50350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+58000,sound,bip,True,bip_court.wav
+58350,sound,tom,false,232_tom_29_false_vrai_pournapoleon.wav
+66000,sound,bip,True,bip_court.wav
+66350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+74000,redtext,empty,True,+
+74350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+82000,text,empty,True,+
+88000,redtext,empty,True,+
+88350,rsvp,colorlessg,false,La décoration se déduit grâce à l'espoir moléculaire.
+96000,sound,bip,True,bip_court.wav
+96350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+104000,redtext,empty,True,+
+104350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+112000,sound,bip,True,bip_court.wav
+112350,sound,general,true,34_general_01_true_vide_chameau.wav
+120000,sound,bip,True,bip_court.wav
+120350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+128000,redtext,empty,True,+
+128350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+136000,sound,bip,True,bip_court.wav
+136350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+144000,sound,bip,True,bip_court.wav
+144350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+152000,sound,bip,True,bip_court.wav
+152350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+160000,redtext,empty,True,+
+160350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+168000,sound,bip,True,bip_court.wav
+168350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+176000,redtext,empty,True,+
+176350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+184000,redtext,empty,True,+
+184350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+192000,text,empty,True,+
+196000,sound,bip,True,bip_court.wav
+196350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+204000,redtext,empty,True,+
+204350,rsvp,colorlessg,false,Le drapeau est une vieille analyse à froid de façon.
+212000,redtext,empty,True,+
+212350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+220000,sound,bip,True,bip_court.wav
+220350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+228000,sound,bip,True,bip_court.wav
+228350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+236000,redtext,empty,True,+
+236350,rsvp,arithfact,true,La racine carrée de trente six est plus grand que cinq.
+244000,sound,bip,True,bip_court.wav
+244350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+252000,redtext,empty,True,+
+252350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+260000,text,empty,True,+
+267000,sound,bip,True,bip_court.wav
+267350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+275000,redtext,empty,True,+
+275350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+283000,sound,bip,True,bip_court.wav
+283350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+291000,sound,bip,True,bip_court.wav
+291350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+299000,sound,bip,True,bip_court.wav
+299350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+307000,text,empty,True,+
+315000,sound,bip,True,bip_court.wav
+315350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+323000,sound,bip,True,bip_court.wav
+323350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+331000,redtext,empty,True,+
+331350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+339000,redtext,empty,True,+
+339350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+347000,redtext,empty,True,+
+347350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+355000,sound,bip,True,bip_court.wav
+355350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+363000,sound,bip,True,bip_court.wav
+363350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+371000,redtext,empty,True,+
+371350,rsvp,arithfact,false,Dix sept est la racine carrée de cent quatre vingt dix.
+379000,redtext,empty,True,+
+379350,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+387000,redtext,empty,True,+
+387350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+395000,text,empty,True,+
+401000,redtext,empty,True,+
+401350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+409000,sound,bip,True,bip_court.wav
+409350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+417000,sound,bip,True,bip_court.wav
+417350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+425000,text,empty,True,+
+430000,redtext,empty,True,+
+430350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+438000,sound,bip,True,bip_court.wav
+438350,sound,control,false,314_control_37_false_vide_nombrevoie.wav
+446000,redtext,empty,True,+
+446350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+454000,text,empty,True,+
+462000,sound,bip,True,bip_court.wav
+462350,sound,general,false,38_general_34_false_vide_hiver.wav
+470000,sound,bip,True,bip_court.wav
+470350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+478000,sound,bip,True,bip_court.wav
+478350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+486000,sound,bip,True,bip_court.wav
+486350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+494000,redtext,empty,True,+
+494350,rsvp,general,true,Le calendrier grégorien est utilisé dans la plupart des pays occidentaux.
+502000,redtext,empty,True,+
+502350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+510000,text,empty,True,+
+514000,redtext,empty,True,+
+514350,rsvp,control,false,Poile choisis forêt vertes saison canapé doivent.
+522000,redtext,empty,True,+
+522350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+530000,redtext,empty,True,+
+530350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+538000,redtext,empty,True,+
+538350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+546000,redtext,empty,True,+
+546350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+554000,sound,bip,True,bip_court.wav
+554350,sound,context,false,13_context_33_false_faux_afriquedusud.wav
+562000,text,empty,True,+

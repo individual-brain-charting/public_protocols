@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+10000,redtext,empty,True,+
+10350,rsvp,tom,false,Pour Céline Dion jouer de la musique est un hobby.
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+26000,redtext,empty,True,+
+26350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Pour les lions la voile est une bouteille pensive.
+42000,sound,bip,True,bip_court.wav
+42350,sound,general,false,83_general_40_false_vide_laterre.wav
+50000,text,empty,True,+
+58000,sound,bip,True,bip_court.wav
+58350,sound,context,false,130_context_38_false_faux_kenya.wav
+66000,redtext,empty,True,+
+66350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+74000,redtext,empty,True,+
+74350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+82000,redtext,empty,True,+
+82350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+90000,redtext,empty,True,+
+90350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+98000,sound,bip,True,bip_court.wav
+98350,sound,general,true,124_general_17_true_vide_fevrier.wav
+106000,redtext,empty,True,+
+106350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+114000,redtext,empty,True,+
+114350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+122000,redtext,empty,True,+
+122350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+130000,text,empty,True,+
+137000,sound,bip,True,bip_court.wav
+137350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+145000,redtext,empty,True,+
+145350,rsvp,context,true,En France le homard est un aliment raffiné.
+153000,redtext,empty,True,+
+153350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+161000,sound,bip,True,bip_court.wav
+161350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+169000,sound,bip,True,bip_court.wav
+169350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+177000,sound,bip,True,bip_court.wav
+177350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+185000,text,empty,True,+
+190000,sound,bip,True,bip_court.wav
+190350,sound,arithfact,true,119_arithfact_05_true_vide_nombrevingtsept.wav
+198000,sound,bip,True,bip_court.wav
+198350,sound,general,false,52_general_31_false_vide_veau.wav
+206000,sound,bip,True,bip_court.wav
+206350,sound,colorlessg,false,19_colorlessg_16_false_vide_artiste.wav
+214000,redtext,empty,True,+
+214350,rsvp,control,false,Compte production éléments demander courant amour fruits.
+222000,sound,bip,True,bip_court.wav
+222350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+230000,sound,bip,True,bip_court.wav
+230350,sound,control,false,224_control_21_false_vide_sombremanteau.wav
+238000,sound,bip,True,bip_court.wav
+238350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+246000,text,empty,True,+
+250000,sound,bip,True,bip_court.wav
+250350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+258000,redtext,empty,True,+
+258350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+266000,sound,bip,True,bip_court.wav
+266350,sound,context,true,3_context_08_true_vrai_australie.wav
+274000,sound,bip,True,bip_court.wav
+274350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+282000,redtext,empty,True,+
+282350,rsvp,geomfact,false,Des lignes perpendiculaires forment un angle aigu.
+290000,text,empty,True,+
+294000,redtext,empty,True,+
+294350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+302000,redtext,empty,True,+
+302350,rsvp,control,false,Faux geler obligés semaine proposer doux carré fois.
+310000,redtext,empty,True,+
+310350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+318000,sound,bip,True,bip_court.wav
+318350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+326000,sound,bip,True,bip_court.wav
+326350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+334000,redtext,empty,True,+
+334350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+342000,sound,bip,True,bip_court.wav
+342350,sound,control,false,298_control_35_false_vide_demainmanger.wav
+350000,sound,bip,True,bip_court.wav
+350350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+358000,redtext,empty,True,+
+358350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+366000,text,empty,True,+
+372000,redtext,empty,True,+
+372350,rsvp,general,true,Le noyau de l'atome d'hydrogène est composé d'un seul proton.
+380000,redtext,empty,True,+
+380350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+388000,sound,bip,True,bip_court.wav
+388350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+396000,redtext,empty,True,+
+396350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+404000,redtext,empty,True,+
+404350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+412000,redtext,empty,True,+
+412350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+420000,redtext,empty,True,+
+420350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+428000,sound,bip,True,bip_court.wav
+428350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+436000,sound,bip,True,bip_court.wav
+436350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+444000,text,empty,True,+
+451000,sound,bip,True,bip_court.wav
+451350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+459000,sound,bip,True,bip_court.wav
+459350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+467000,sound,bip,True,bip_court.wav
+467350,sound,arithfact,true,53_arithfact_13_true_vide_unquartdecent.wav
+475000,text,empty,True,+
+480000,redtext,empty,True,+
+480350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+488000,redtext,empty,True,+
+488350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+496000,sound,bip,True,bip_court.wav
+496350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+504000,sound,bip,True,bip_court.wav
+504350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+512000,redtext,empty,True,+
+512350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+520000,redtext,empty,True,+
+520350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+528000,sound,bip,True,bip_court.wav
+528350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+536000,sound,bip,True,bip_court.wav
+536350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+544000,sound,bip,True,bip_court.wav
+544350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+552000,sound,bip,True,bip_court.wav
+552350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+560000,text,empty,True,+

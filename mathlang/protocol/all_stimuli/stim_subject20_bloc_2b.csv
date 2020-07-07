@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+10000,redtext,empty,True,+
+10350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,7_control_07_false_vide_dapres.wav
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+34000,sound,bip,True,bip_court.wav
+34350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+42000,redtext,empty,True,+
+42350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+50000,text,empty,True,+
+55000,sound,bip,True,bip_court.wav
+55350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+63000,redtext,empty,True,+
+63350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+71000,redtext,empty,True,+
+71350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+79000,text,empty,True,+
+87000,redtext,empty,True,+
+87350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+95000,sound,bip,True,bip_court.wav
+95350,sound,context,false,212_context_37_false_faux_surmars.wav
+103000,redtext,empty,True,+
+103350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+111000,sound,bip,True,bip_court.wav
+111350,sound,colorlessg,false,20_colorlessg_17_false_vide_intermediaire.wav
+119000,sound,bip,True,bip_court.wav
+119350,sound,control,false,17_control_20_false_vide_etresont.wav
+127000,sound,bip,True,bip_court.wav
+127350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+135000,sound,bip,True,bip_court.wav
+135350,sound,general,true,177_general_05_true_vide_labaleine.wav
+143000,redtext,empty,True,+
+143350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+151000,redtext,empty,True,+
+151350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+159000,text,empty,True,+
+163000,redtext,empty,True,+
+163350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+171000,sound,bip,True,bip_court.wav
+171350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+179000,sound,bip,True,bip_court.wav
+179350,sound,control,false,314_control_37_false_vide_nombrevoie.wav
+187000,sound,bip,True,bip_court.wav
+187350,sound,tom,false,32_tom_23_false_vrai_julesverne.wav
+195000,sound,bip,True,bip_court.wav
+195350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+203000,sound,bip,True,bip_court.wav
+203350,sound,arithfact,true,318_arithfact_09_true_vide_quarantecinqest.wav
+211000,text,empty,True,+
+219000,sound,bip,True,bip_court.wav
+219350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+227000,sound,bip,True,bip_court.wav
+227350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+235000,redtext,empty,True,+
+235350,rsvp,control,false,Période histoire visage pleine côté conditions jamais.
+243000,sound,bip,True,bip_court.wav
+243350,sound,general,false,37_general_25_false_vide_primevere.wav
+251000,sound,bip,True,bip_court.wav
+251350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+259000,sound,bip,True,bip_court.wav
+259350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+267000,sound,bip,True,bip_court.wav
+267350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+275000,sound,bip,True,bip_court.wav
+275350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+283000,redtext,empty,True,+
+283350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+291000,text,empty,True,+
+295000,redtext,empty,True,+
+295350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+303000,redtext,empty,True,+
+303350,rsvp,context,true,A San Francisco les températures sont clémentes.
+311000,sound,bip,True,bip_court.wav
+311350,sound,general,false,286_general_38_false_vide_levietnam.wav
+319000,redtext,empty,True,+
+319350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+327000,text,empty,True,+
+332000,sound,bip,True,bip_court.wav
+332350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+340000,redtext,empty,True,+
+340350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+348000,redtext,empty,True,+
+348350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+356000,sound,bip,True,bip_court.wav
+356350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+364000,text,empty,True,+
+368000,redtext,empty,True,+
+368350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+376000,redtext,empty,True,+
+376350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+384000,sound,bip,True,bip_court.wav
+384350,sound,control,false,230_control_34_false_vide_membresinterieur.wav
+392000,sound,bip,True,bip_court.wav
+392350,sound,arithprin,true,161_arithprin_18_true_vide_unefraction.wav
+400000,sound,bip,True,bip_court.wav
+400350,sound,context,false,126_context_24_false_vrai_burundi.wav
+408000,sound,bip,True,bip_court.wav
+408350,sound,context,true,157_context_04_true_vrai_anewyork.wav
+416000,text,empty,True,+
+421000,redtext,empty,True,+
+421350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+429000,redtext,empty,True,+
+429350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+437000,sound,bip,True,bip_court.wav
+437350,sound,general,true,101_general_10_true_vide_noyauatome.wav
+445000,sound,bip,True,bip_court.wav
+445350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+453000,redtext,empty,True,+
+453350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+461000,redtext,empty,True,+
+461350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+469000,redtext,empty,True,+
+469350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+477000,redtext,empty,True,+
+477350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+485000,redtext,empty,True,+
+485350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+493000,sound,bip,True,bip_court.wav
+493350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+501000,redtext,empty,True,+
+501350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+509000,redtext,empty,True,+
+509350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+517000,redtext,empty,True,+
+517350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+525000,redtext,empty,True,+
+525350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+533000,redtext,empty,True,+
+533350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+541000,sound,bip,True,bip_court.wav
+541350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+549000,sound,bip,True,bip_court.wav
+549350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+557000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+10000,sound,bip,True,bip_court.wav
+10350,sound,context,true,189_context_10_true_vrai_auxantilles.wav
+18000,redtext,empty,True,+
+18350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+26000,redtext,empty,True,+
+26350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+34000,redtext,empty,True,+
+34350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+42000,sound,bip,True,bip_court.wav
+42350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,colorlessg,false,316_colorlessg_23_false_vide_touslescafes.wav
+58000,redtext,empty,True,+
+58350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+66000,redtext,empty,True,+
+66350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+74000,sound,bip,True,bip_court.wav
+74350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+82000,text,empty,True,+
+88000,sound,bip,True,bip_court.wav
+88350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+96000,redtext,empty,True,+
+96350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+104000,redtext,empty,True,+
+104350,rsvp,geomfact,false,Un triangle équilatéral est formé uniquement d'angles droits.
+112000,redtext,empty,True,+
+112350,rsvp,colorlessg,false,Le pompier d'ailes se brise lentement sur les chiens.
+120000,sound,bip,True,bip_court.wav
+120350,sound,general,true,266_general_16_true_vide_larose.wav
+128000,redtext,empty,True,+
+128350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+136000,sound,bip,True,bip_court.wav
+136350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+144000,redtext,empty,True,+
+144350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+152000,redtext,empty,True,+
+152350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+160000,redtext,empty,True,+
+160350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+168000,text,empty,True,+
+176000,sound,bip,True,bip_court.wav
+176350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+184000,redtext,empty,True,+
+184350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+192000,sound,bip,True,bip_court.wav
+192350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+200000,text,empty,True,+
+208000,redtext,empty,True,+
+208350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+216000,sound,bip,True,bip_court.wav
+216350,sound,context,false,192_context_32_false_faux_enallemagne.wav
+224000,redtext,empty,True,+
+224350,rsvp,tom,false,Pour Hitler les juifs sont des hommes comme les autres.
+232000,sound,bip,True,bip_court.wav
+232350,sound,colorlessg,false,304_colorlessg_25_false_vide_unefemmedetraction.wav
+240000,sound,bip,True,bip_court.wav
+240350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+248000,redtext,empty,True,+
+248350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+256000,text,empty,True,+
+260000,sound,bip,True,bip_court.wav
+260350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+268000,sound,bip,True,bip_court.wav
+268350,sound,arithfact,false,295_arithfact_26_false_vide_trenteseptestlamoitie.wav
+276000,sound,bip,True,bip_court.wav
+276350,sound,tom,false,88_tom_27_false_vrai_donaldtrump.wav
+284000,sound,bip,True,bip_court.wav
+284350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+292000,redtext,empty,True,+
+292350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+300000,redtext,empty,True,+
+300350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+308000,sound,bip,True,bip_court.wav
+308350,sound,general,false,38_general_34_false_vide_hiver.wav
+316000,text,empty,True,+
+324000,sound,bip,True,bip_court.wav
+324350,sound,arithfact,true,8_arithfact_02_true_vide_soixantedixneuf.wav
+332000,sound,bip,True,bip_court.wav
+332350,sound,context,true,317_context_16_true_faux_aujapon.wav
+340000,sound,bip,True,bip_court.wav
+340350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+348000,redtext,empty,True,+
+348350,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+356000,redtext,empty,True,+
+356350,rsvp,arithfact,true,Soustraire trois du nombre vingt donne dix sept.
+364000,text,empty,True,+
+370000,redtext,empty,True,+
+370350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+378000,redtext,empty,True,+
+378350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+386000,redtext,empty,True,+
+386350,rsvp,geomfact,false,Plus un triangle est grand
+394000,sound,bip,True,bip_court.wav
+394350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+402000,redtext,empty,True,+
+402350,rsvp,tom,false,Selon Christophe Colomb la terre est plate.
+410000,text,empty,True,+
+418000,sound,bip,True,bip_court.wav
+418350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+426000,sound,bip,True,bip_court.wav
+426350,sound,arithprin,false,96_arithprin_40_false_vide_nombrenonnul.wav
+434000,redtext,empty,True,+
+434350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+442000,sound,bip,True,bip_court.wav
+442350,sound,context,false,126_context_24_false_vrai_burundi.wav
+450000,redtext,empty,True,+
+450350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+458000,redtext,empty,True,+
+458350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+466000,redtext,empty,True,+
+466350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+474000,redtext,empty,True,+
+474350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+482000,sound,bip,True,bip_court.wav
+482350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+490000,text,empty,True,+
+494000,sound,bip,True,bip_court.wav
+494350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+502000,sound,bip,True,bip_court.wav
+502350,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+510000,redtext,empty,True,+
+510350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+518000,sound,bip,True,bip_court.wav
+518350,sound,general,false,91_general_23_false_vide_alguesvertes.wav
+526000,redtext,empty,True,+
+526350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+534000,sound,bip,True,bip_court.wav
+534350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+542000,sound,bip,True,bip_court.wav
+542350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+550000,sound,bip,True,bip_court.wav
+550350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+558000,sound,bip,True,bip_court.wav
+558350,sound,general,true,125_general_14_true_vide_chenilles.wav
+566000,text,empty,True,+

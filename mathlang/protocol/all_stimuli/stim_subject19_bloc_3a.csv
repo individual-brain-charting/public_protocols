@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,false,306_arithfact_21_false_vide_quarantedivisepardeux.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+18000,redtext,empty,True,+
+18350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+34000,text,empty,True,+
+41000,redtext,empty,True,+
+41350,rsvp,arithprin,true,Tous les nombres entiers sont divisibles par un.
+49000,redtext,empty,True,+
+49350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+57000,redtext,empty,True,+
+57350,rsvp,context,false,Au Kenya les lacs des plaines gèlent régulièrement.
+65000,text,empty,True,+
+71000,redtext,empty,True,+
+71350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+79000,sound,bip,True,bip_court.wav
+79350,sound,general,false,52_general_31_false_vide_veau.wav
+87000,sound,bip,True,bip_court.wav
+87350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+95000,redtext,empty,True,+
+95350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+103000,redtext,empty,True,+
+103350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+111000,sound,bip,True,bip_court.wav
+111350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+119000,redtext,empty,True,+
+119350,rsvp,arithprin,true,Un nombre positif fois un nombre négatif donne un nombre négatif.
+127000,sound,bip,True,bip_court.wav
+127350,sound,tom,true,94_tom_01_true_vrai_darwin.wav
+135000,sound,bip,True,bip_court.wav
+135350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+143000,text,empty,True,+
+147000,sound,bip,True,bip_court.wav
+147350,sound,tom,false,193_tom_22_false_vrai_johnnyhallyday.wav
+155000,redtext,empty,True,+
+155350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+163000,sound,bip,True,bip_court.wav
+163350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+171000,redtext,empty,True,+
+171350,rsvp,context,true,Dans la mer les mammifères ont des nageoires et un évent.
+179000,sound,bip,True,bip_court.wav
+179350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+187000,sound,bip,True,bip_court.wav
+187350,sound,geomfact,true,307_geomfact_05_true_vide_lignesparalleles.wav
+195000,sound,bip,True,bip_court.wav
+195350,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+203000,text,empty,True,+
+207000,sound,bip,True,bip_court.wav
+207350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+215000,redtext,empty,True,+
+215350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+223000,redtext,empty,True,+
+223350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+231000,sound,bip,True,bip_court.wav
+231350,sound,arithfact,true,318_arithfact_09_true_vide_quarantecinqest.wav
+239000,redtext,empty,True,+
+239350,rsvp,arithfact,true,Le double du nombre neuf est le nombre dix huit.
+247000,text,empty,True,+
+254000,sound,bip,True,bip_court.wav
+254350,sound,context,true,18_context_19_true_faux_irlande.wav
+262000,redtext,empty,True,+
+262350,rsvp,context,true,En France le homard est un aliment raffiné.
+270000,redtext,empty,True,+
+270350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+278000,redtext,empty,True,+
+278350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+286000,redtext,empty,True,+
+286350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+294000,sound,bip,True,bip_court.wav
+294350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+302000,redtext,empty,True,+
+302350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+310000,sound,bip,True,bip_court.wav
+310350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+318000,text,empty,True,+
+326000,redtext,empty,True,+
+326350,rsvp,tom,false,Pour Donald Trump les mexicains sont bienvenus aux Etats Unis.
+334000,sound,bip,True,bip_court.wav
+334350,sound,context,true,90_context_09_true_vrai_himalaya.wav
+342000,redtext,empty,True,+
+342350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+350000,sound,bip,True,bip_court.wav
+350350,sound,general,true,281_general_02_true_vide_latulipe.wav
+358000,redtext,empty,True,+
+358350,rsvp,control,false,Sans pour est dont un lorsque de dedans celle ou puisque.
+366000,redtext,empty,True,+
+366350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+374000,sound,bip,True,bip_court.wav
+374350,sound,control,false,7_control_07_false_vide_dapres.wav
+382000,redtext,empty,True,+
+382350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+390000,sound,bip,True,bip_court.wav
+390350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+398000,redtext,empty,True,+
+398350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+406000,sound,bip,True,bip_court.wav
+406350,sound,arithprin,false,275_arithprin_27_false_vide_leresultatduneaddition.wav
+414000,text,empty,True,+
+418000,sound,bip,True,bip_court.wav
+418350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+426000,redtext,empty,True,+
+426350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+434000,sound,bip,True,bip_court.wav
+434350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+442000,redtext,empty,True,+
+442350,rsvp,general,false,La vapeur d'eau se condense uniquement sur les arbres.
+450000,sound,bip,True,bip_court.wav
+450350,sound,geomfact,true,104_geomfact_07_true_vide_losanges.wav
+458000,sound,bip,True,bip_court.wav
+458350,sound,control,false,17_control_20_false_vide_etresont.wav
+466000,text,empty,True,+
+471000,redtext,empty,True,+
+471350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+479000,redtext,empty,True,+
+479350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+487000,redtext,empty,True,+
+487350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+495000,sound,bip,True,bip_court.wav
+495350,sound,arithprin,true,312_arithprin_08_true_vide_unnombredivise.wav
+503000,redtext,empty,True,+
+503350,rsvp,general,true,Le calendrier grégorien est utilisé dans la plupart des pays occidentaux.
+511000,redtext,empty,True,+
+511350,rsvp,colorlessg,false,Le pompier d'ailes se brise lentement sur les chiens.
+519000,sound,bip,True,bip_court.wav
+519350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+527000,sound,bip,True,bip_court.wav
+527350,sound,context,false,13_context_33_false_faux_afriquedusud.wav
+535000,sound,bip,True,bip_court.wav
+535350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+543000,redtext,empty,True,+
+543350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+551000,sound,bip,True,bip_court.wav
+551350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+559000,text,empty,True,+

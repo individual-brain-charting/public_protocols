@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+10000,redtext,empty,True,+
+10350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+18000,text,empty,True,+
+22000,redtext,empty,True,+
+22350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+30000,redtext,empty,True,+
+30350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+38000,sound,bip,True,bip_court.wav
+38350,sound,context,false,188_context_23_false_vrai_auvatican.wav
+46000,sound,bip,True,bip_court.wav
+46350,sound,general,false,277_general_28_false_vide_lesdinosauressont.wav
+54000,sound,bip,True,bip_court.wav
+54350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+62000,sound,bip,True,bip_court.wav
+62350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+70000,text,empty,True,+
+78000,sound,bip,True,bip_court.wav
+78350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+86000,sound,bip,True,bip_court.wav
+86350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+94000,sound,bip,True,bip_court.wav
+94350,sound,general,true,177_general_05_true_vide_labaleine.wav
+102000,redtext,empty,True,+
+102350,rsvp,control,false,Chaque dès duquel de en tous eux mais ou ont celle.
+110000,sound,bip,True,bip_court.wav
+110350,sound,arithfact,false,306_arithfact_21_false_vide_quarantedivisepardeux.wav
+118000,redtext,empty,True,+
+118350,rsvp,context,true,A Londres les autobus ont des étages.
+126000,sound,bip,True,bip_court.wav
+126350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+134000,text,empty,True,+
+142000,redtext,empty,True,+
+142350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+150000,redtext,empty,True,+
+150350,rsvp,general,true,Les flocons de neige ont des formes très variées.
+158000,sound,bip,True,bip_court.wav
+158350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+166000,text,empty,True,+
+174000,redtext,empty,True,+
+174350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+182000,sound,bip,True,bip_court.wav
+182350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+190000,redtext,empty,True,+
+190350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+198000,sound,bip,True,bip_court.wav
+198350,sound,geomfact,false,12_geomfact_38_false_vide_losange.wav
+206000,text,empty,True,+
+210000,sound,bip,True,bip_court.wav
+210350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+218000,redtext,empty,True,+
+218350,rsvp,tom,true,Selon les vulcanologues l'Etna est toujours en activité.
+226000,redtext,empty,True,+
+226350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+234000,sound,bip,True,bip_court.wav
+234350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+242000,sound,bip,True,bip_court.wav
+242350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+250000,sound,bip,True,bip_court.wav
+250350,sound,arithfact,true,318_arithfact_09_true_vide_quarantecinqest.wav
+258000,sound,bip,True,bip_court.wav
+258350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+266000,redtext,empty,True,+
+266350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+274000,redtext,empty,True,+
+274350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+282000,sound,bip,True,bip_court.wav
+282350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+290000,redtext,empty,True,+
+290350,rsvp,control,false,Lui eux puis chaque pour si d'après pourtant d'un sitôt est.
+298000,text,empty,True,+
+302000,redtext,empty,True,+
+302350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+310000,redtext,empty,True,+
+310350,rsvp,arithfact,false,Sept fois sept est plus grand que le chiffre cinquante quatre.
+318000,redtext,empty,True,+
+318350,rsvp,colorlessg,false,Un poulet est un cercle de chiffres internationales.
+326000,sound,bip,True,bip_court.wav
+326350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+334000,redtext,empty,True,+
+334350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+342000,redtext,empty,True,+
+342350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+350000,sound,bip,True,bip_court.wav
+350350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+358000,sound,bip,True,bip_court.wav
+358350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+366000,redtext,empty,True,+
+366350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+374000,sound,bip,True,bip_court.wav
+374350,sound,general,true,54_general_07_true_vide_soleil.wav
+382000,sound,bip,True,bip_court.wav
+382350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+390000,text,empty,True,+
+397000,sound,bip,True,bip_court.wav
+397350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+405000,redtext,empty,True,+
+405350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+413000,sound,bip,True,bip_court.wav
+413350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+421000,redtext,empty,True,+
+421350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+429000,redtext,empty,True,+
+429350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+437000,redtext,empty,True,+
+437350,rsvp,geomfact,false,Des lignes sont perpendiculaires quand elles forment un angle aigu.
+445000,sound,bip,True,bip_court.wav
+445350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+453000,sound,bip,True,bip_court.wav
+453350,sound,control,false,294_control_02_false_vide_unmependant.wav
+461000,redtext,empty,True,+
+461350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+469000,sound,bip,True,bip_court.wav
+469350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+477000,text,empty,True,+
+481000,redtext,empty,True,+
+481350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+489000,redtext,empty,True,+
+489350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+497000,redtext,empty,True,+
+497350,rsvp,general,false,Jupiter est la plus petite planète du système solaire.
+505000,sound,bip,True,bip_court.wav
+505350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+513000,redtext,empty,True,+
+513350,rsvp,colorlessg,false,D'après les compagnies la collectivité a la vache d'une terre.
+521000,sound,bip,True,bip_court.wav
+521350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+529000,sound,bip,True,bip_court.wav
+529350,sound,context,true,317_context_16_true_faux_aujapon.wav
+537000,redtext,empty,True,+
+537350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+545000,redtext,empty,True,+
+545350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+553000,redtext,empty,True,+
+553350,rsvp,geomfact,false,Les points d'un carré sont à égale distance de son centre.
+561000,text,empty,True,+

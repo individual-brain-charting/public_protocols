@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+26000,redtext,empty,True,+
+26350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+34000,redtext,empty,True,+
+34350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+42000,text,empty,True,+
+47000,redtext,empty,True,+
+47350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+55000,sound,bip,True,bip_court.wav
+55350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+63000,sound,bip,True,bip_court.wav
+63350,sound,arithfact,true,8_arithfact_02_true_vide_soixantedixneuf.wav
+71000,redtext,empty,True,+
+71350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+79000,sound,bip,True,bip_court.wav
+79350,sound,context,false,308_context_26_false_vrai_enequateur.wav
+87000,sound,bip,True,bip_court.wav
+87350,sound,general,true,125_general_14_true_vide_chenilles.wav
+95000,sound,bip,True,bip_court.wav
+95350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+103000,text,empty,True,+
+108000,sound,bip,True,bip_court.wav
+108350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+116000,redtext,empty,True,+
+116350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+124000,sound,bip,True,bip_court.wav
+124350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+132000,sound,bip,True,bip_court.wav
+132350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+140000,text,empty,True,+
+147000,sound,bip,True,bip_court.wav
+147350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+155000,sound,bip,True,bip_court.wav
+155350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+163000,redtext,empty,True,+
+163350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+171000,redtext,empty,True,+
+171350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+179000,redtext,empty,True,+
+179350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+187000,text,empty,True,+
+195000,sound,bip,True,bip_court.wav
+195350,sound,arithprin,false,96_arithprin_40_false_vide_nombrenonnul.wav
+203000,redtext,empty,True,+
+203350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+211000,redtext,empty,True,+
+211350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+219000,redtext,empty,True,+
+219350,rsvp,general,false,La terre tourne autour de la planète Venus.
+227000,text,empty,True,+
+233000,sound,bip,True,bip_court.wav
+233350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+241000,sound,bip,True,bip_court.wav
+241350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+249000,redtext,empty,True,+
+249350,rsvp,colorlessg,false,Le pompier d'ailes se brise lentement sur les chiens.
+257000,redtext,empty,True,+
+257350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+265000,text,empty,True,+
+269000,sound,bip,True,bip_court.wav
+269350,sound,general,false,152_general_22_false_vide_petitvache.wav
+277000,redtext,empty,True,+
+277350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+285000,redtext,empty,True,+
+285350,rsvp,general,true,Février est le mois de l'année le plus court.
+293000,sound,bip,True,bip_court.wav
+293350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+301000,sound,bip,True,bip_court.wav
+301350,sound,general,true,46_general_11_true_vide_photosynthese.wav
+309000,sound,bip,True,bip_court.wav
+309350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+317000,redtext,empty,True,+
+317350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+325000,redtext,empty,True,+
+325350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+333000,sound,bip,True,bip_court.wav
+333350,sound,tom,true,321_tom_14_true_faux_president.wav
+341000,redtext,empty,True,+
+341350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+349000,sound,bip,True,bip_court.wav
+349350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+357000,sound,bip,True,bip_court.wav
+357350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+365000,text,empty,True,+
+373000,redtext,empty,True,+
+373350,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+381000,sound,bip,True,bip_court.wav
+381350,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+389000,sound,bip,True,bip_court.wav
+389350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+397000,sound,bip,True,bip_court.wav
+397350,sound,arithprin,true,244_arithprin_17_true_vide_additionnerfractions.wav
+405000,redtext,empty,True,+
+405350,rsvp,arithfact,true,Le double du nombre neuf est le nombre dix huit.
+413000,sound,bip,True,bip_court.wav
+413350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+421000,text,empty,True,+
+427000,redtext,empty,True,+
+427350,rsvp,arithprin,false,Un nombre multiplié par un est égal à zéro.
+435000,redtext,empty,True,+
+435350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+443000,redtext,empty,True,+
+443350,rsvp,geomfact,false,Un triangle équilatéral est formé uniquement d'angles droits.
+451000,sound,bip,True,bip_court.wav
+451350,sound,context,false,97_context_40_false_faux_japon.wav
+459000,redtext,empty,True,+
+459350,rsvp,general,false,Jupiter est la plus petite planète du système solaire.
+467000,redtext,empty,True,+
+467350,rsvp,geomfact,true,Un carré est un rectangle aux côtés égaux.
+475000,redtext,empty,True,+
+475350,rsvp,colorlessg,false,Une mélancolie offre de piloter le pouvoir à ses savons chauds.
+483000,redtext,empty,True,+
+483350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+491000,redtext,empty,True,+
+491350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+499000,sound,bip,True,bip_court.wav
+499350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+507000,redtext,empty,True,+
+507350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+515000,redtext,empty,True,+
+515350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+523000,sound,bip,True,bip_court.wav
+523350,sound,context,true,191_context_01_true_vrai_apekin.wav
+531000,redtext,empty,True,+
+531350,rsvp,context,true,A Londres les autobus ont des étages.
+539000,redtext,empty,True,+
+539350,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+547000,sound,bip,True,bip_court.wav
+547350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+555000,sound,bip,True,bip_court.wav
+555350,sound,control,false,186_control_23_false_vide_douceurpoisson.wav
+563000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithprin,false,96_arithprin_40_false_vide_nombrenonnul.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+18000,redtext,empty,True,+
+18350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+26000,sound,bip,True,bip_court.wav
+26350,sound,general,true,54_general_07_true_vide_soleil.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+42000,text,empty,True,+
+49000,redtext,empty,True,+
+49350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+57000,sound,bip,True,bip_court.wav
+57350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+65000,sound,bip,True,bip_court.wav
+65350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+73000,sound,bip,True,bip_court.wav
+73350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+81000,redtext,empty,True,+
+81350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+89000,sound,bip,True,bip_court.wav
+89350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+97000,text,empty,True,+
+101000,sound,bip,True,bip_court.wav
+101350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+109000,sound,bip,True,bip_court.wav
+109350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+117000,sound,bip,True,bip_court.wav
+117350,sound,context,true,26_context_17_true_faux_londres.wav
+125000,redtext,empty,True,+
+125350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+133000,redtext,empty,True,+
+133350,rsvp,colorlessg,false,D'après les compagnies la collectivité a la vache d'une terre.
+141000,redtext,empty,True,+
+141350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+149000,sound,bip,True,bip_court.wav
+149350,sound,general,true,266_general_16_true_vide_larose.wav
+157000,redtext,empty,True,+
+157350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+165000,redtext,empty,True,+
+165350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+173000,redtext,empty,True,+
+173350,rsvp,arithfact,true,Deux fois vingt quatre a comme résultat quarante huit.
+181000,redtext,empty,True,+
+181350,rsvp,context,true,A New York les immeubles sont de hauts bâtiments modernes.
+189000,text,empty,True,+
+197000,sound,bip,True,bip_court.wav
+197350,sound,colorlessg,false,57_colorlessg_04_false_vide_selonlebois.wav
+205000,redtext,empty,True,+
+205350,rsvp,geomfact,false,Des lignes sont perpendiculaires quand elles forment un angle aigu.
+213000,sound,bip,True,bip_court.wav
+213350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+221000,text,empty,True,+
+225000,redtext,empty,True,+
+225350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+233000,redtext,empty,True,+
+233350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+241000,sound,bip,True,bip_court.wav
+241350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+249000,text,empty,True,+
+253000,redtext,empty,True,+
+253350,rsvp,geomfact,true,Un point peut être traversé par un nombre infini de lignes.
+261000,redtext,empty,True,+
+261350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+269000,redtext,empty,True,+
+269350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+277000,sound,bip,True,bip_court.wav
+277350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+285000,sound,bip,True,bip_court.wav
+285350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+293000,text,empty,True,+
+298000,redtext,empty,True,+
+298350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+306000,redtext,empty,True,+
+306350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+314000,sound,bip,True,bip_court.wav
+314350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+322000,sound,bip,True,bip_court.wav
+322350,sound,context,false,226_context_21_false_vrai_eninde.wav
+330000,sound,bip,True,bip_court.wav
+330350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+338000,sound,bip,True,bip_court.wav
+338350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+346000,sound,bip,True,bip_court.wav
+346350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+354000,text,empty,True,+
+360000,sound,bip,True,bip_court.wav
+360350,sound,geomfact,true,247_geomfact_14_true_vide_toutpolygone.wav
+368000,sound,bip,True,bip_court.wav
+368350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+376000,sound,bip,True,bip_court.wav
+376350,sound,colorlessg,false,316_colorlessg_23_false_vide_touslescafes.wav
+384000,redtext,empty,True,+
+384350,rsvp,context,true,Dans les îles volcaniques le sable est noir.
+392000,redtext,empty,True,+
+392350,rsvp,general,true,Le calendrier grégorien est utilisé dans la plupart des pays occidentaux.
+400000,redtext,empty,True,+
+400350,rsvp,tom,false,Pour Johnny Hallyday chanter est un hobby.
+408000,redtext,empty,True,+
+408350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+416000,redtext,empty,True,+
+416350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+424000,text,empty,True,+
+432000,redtext,empty,True,+
+432350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+440000,redtext,empty,True,+
+440350,rsvp,general,true,La tragédie classique est fondée sur une unité de lieu.
+448000,sound,bip,True,bip_court.wav
+448350,sound,general,false,216_general_32_false_vide_lavapeurdeau.wav
+456000,redtext,empty,True,+
+456350,rsvp,control,false,La après est de des le d'un mon le de pendant il outre.
+464000,redtext,empty,True,+
+464350,rsvp,colorlessg,false,L’espoir d’oignon lisse et brun fait joli et gras.
+472000,redtext,empty,True,+
+472350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+480000,sound,bip,True,bip_court.wav
+480350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+488000,redtext,empty,True,+
+488350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+496000,sound,bip,True,bip_court.wav
+496350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+504000,redtext,empty,True,+
+504350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+512000,sound,bip,True,bip_court.wav
+512350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+520000,sound,bip,True,bip_court.wav
+520350,sound,arithprin,false,275_arithprin_27_false_vide_leresultatduneaddition.wav
+528000,sound,bip,True,bip_court.wav
+528350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+536000,sound,bip,True,bip_court.wav
+536350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+544000,redtext,empty,True,+
+544350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+552000,redtext,empty,True,+
+552350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+560000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+10000,redtext,empty,True,+
+10350,rsvp,colorlessg,false,Dans les chiens imperceptibles le poivre est laid.
+18000,redtext,empty,True,+
+18350,rsvp,geomfact,false,Un triangle équilatéral est formé uniquement d'angles droits.
+26000,sound,bip,True,bip_court.wav
+26350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+34000,redtext,empty,True,+
+34350,rsvp,arithprin,false,Un nombre auquel on soustrait zéro reste égal à lui même.
+42000,redtext,empty,True,+
+42350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+50000,redtext,empty,True,+
+50350,rsvp,tom,false,Pour Céline Dion jouer de la musique est un hobby.
+58000,redtext,empty,True,+
+58350,rsvp,context,true,A San Francisco les températures sont clémentes.
+66000,text,empty,True,+
+70000,sound,bip,True,bip_court.wav
+70350,sound,general,true,177_general_05_true_vide_labaleine.wav
+78000,redtext,empty,True,+
+78350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+86000,redtext,empty,True,+
+86350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+94000,redtext,empty,True,+
+94350,rsvp,tom,false,D'après Mère Teresa la haine est une émotion positive.
+102000,sound,bip,True,bip_court.wav
+102350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+110000,text,empty,True,+
+116000,sound,bip,True,bip_court.wav
+116350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+124000,sound,bip,True,bip_court.wav
+124350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+132000,text,empty,True,+
+140000,redtext,empty,True,+
+140350,rsvp,general,false,Le veau est le petit de la chèvre.
+148000,sound,bip,True,bip_court.wav
+148350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+156000,sound,bip,True,bip_court.wav
+156350,sound,geomfact,true,248_geomfact_02_true_vide_cotesduntriangle.wav
+164000,text,empty,True,+
+168000,sound,bip,True,bip_court.wav
+168350,sound,context,true,317_context_16_true_faux_aujapon.wav
+176000,redtext,empty,True,+
+176350,rsvp,colorlessg,false,Des bibliothèques de chaque cible ont le mauvais squelette.
+184000,sound,bip,True,bip_court.wav
+184350,sound,tom,false,88_tom_27_false_vrai_donaldtrump.wav
+192000,sound,bip,True,bip_court.wav
+192350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+200000,redtext,empty,True,+
+200350,rsvp,arithfact,true,Quarante cinq est le résultat de quinze fois trois.
+208000,sound,bip,True,bip_court.wav
+208350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+216000,redtext,empty,True,+
+216350,rsvp,control,false,Demain manger solution guerre couleur boire chambre bruit.
+224000,redtext,empty,True,+
+224350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+232000,sound,bip,True,bip_court.wav
+232350,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+240000,redtext,empty,True,+
+240350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+248000,text,empty,True,+
+253000,sound,bip,True,bip_court.wav
+253350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+261000,sound,bip,True,bip_court.wav
+261350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+269000,sound,bip,True,bip_court.wav
+269350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+277000,redtext,empty,True,+
+277350,rsvp,geomfact,false,Un triangle peut avoir plusieurs angles droits.
+285000,sound,bip,True,bip_court.wav
+285350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+293000,redtext,empty,True,+
+293350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+301000,sound,bip,True,bip_court.wav
+301350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+309000,sound,bip,True,bip_court.wav
+309350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+317000,text,empty,True,+
+323000,redtext,empty,True,+
+323350,rsvp,general,false,Jupiter est la plus petite planète du système solaire.
+331000,sound,bip,True,bip_court.wav
+331350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+339000,sound,bip,True,bip_court.wav
+339350,sound,general,true,101_general_10_true_vide_noyauatome.wav
+347000,sound,bip,True,bip_court.wav
+347350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+355000,redtext,empty,True,+
+355350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+363000,redtext,empty,True,+
+363350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+371000,sound,bip,True,bip_court.wav
+371350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+379000,sound,bip,True,bip_court.wav
+379350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+387000,redtext,empty,True,+
+387350,rsvp,arithprin,false,Tout nombre réel peut être écrit comme une fraction.
+395000,text,empty,True,+
+400000,redtext,empty,True,+
+400350,rsvp,arithprin,true,Ajouter zéro ne change pas un nombre.
+408000,redtext,empty,True,+
+408350,rsvp,geomfact,true,Les losanges et les carrés ont des côtés égaux.
+416000,redtext,empty,True,+
+416350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+424000,redtext,empty,True,+
+424350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+432000,sound,bip,True,bip_court.wav
+432350,sound,control,false,110_control_03_false_vide_quileestun.wav
+440000,sound,bip,True,bip_court.wav
+440350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+448000,text,empty,True,+
+455000,sound,bip,True,bip_court.wav
+455350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+463000,sound,bip,True,bip_court.wav
+463350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+471000,redtext,empty,True,+
+471350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+479000,redtext,empty,True,+
+479350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+487000,sound,bip,True,bip_court.wav
+487350,sound,general,false,31_general_33_false_vide_lapleinelune.wav
+495000,redtext,empty,True,+
+495350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+503000,redtext,empty,True,+
+503350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+511000,sound,bip,True,bip_court.wav
+511350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+519000,sound,bip,True,bip_court.wav
+519350,sound,geomfact,false,114_geomfact_33_false_vide_cotesdunlosange.wav
+527000,sound,bip,True,bip_court.wav
+527350,sound,context,true,189_context_10_true_vrai_auxantilles.wav
+535000,redtext,empty,True,+
+535350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+543000,redtext,empty,True,+
+543350,rsvp,control,false,Membres intérieur venir gros faisant papier dents.
+551000,redtext,empty,True,+
+551350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+559000,text,empty,True,+

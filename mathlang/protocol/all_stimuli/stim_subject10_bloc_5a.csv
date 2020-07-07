@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,colorlessg,false,156_colorlessg_38_false_vide_pitiedebitee.wav
+10000,redtext,empty,True,+
+10350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+26000,redtext,empty,True,+
+26350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+34000,redtext,empty,True,+
+34350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+42000,sound,bip,True,bip_court.wav
+42350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+50000,text,empty,True,+
+58000,sound,bip,True,bip_court.wav
+58350,sound,general,true,125_general_14_true_vide_chenilles.wav
+66000,sound,bip,True,bip_court.wav
+66350,sound,arithfact,false,211_arithfact_30_false_vide_trentecinqmoins.wav
+74000,redtext,empty,True,+
+74350,rsvp,arithfact,true,Soustraire trois du nombre vingt donne dix sept.
+82000,sound,bip,True,bip_court.wav
+82350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+90000,text,empty,True,+
+96000,redtext,empty,True,+
+96350,rsvp,general,true,La photosynthèse se produit grâce à l'énergie lumineuse.
+104000,sound,bip,True,bip_court.wav
+104350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+112000,sound,bip,True,bip_court.wav
+112350,sound,control,false,7_control_07_false_vide_dapres.wav
+120000,sound,bip,True,bip_court.wav
+120350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+128000,sound,bip,True,bip_court.wav
+128350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+136000,redtext,empty,True,+
+136350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+144000,sound,bip,True,bip_court.wav
+144350,sound,general,false,37_general_25_false_vide_primevere.wav
+152000,sound,bip,True,bip_court.wav
+152350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+160000,sound,bip,True,bip_court.wav
+160350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+168000,text,empty,True,+
+176000,redtext,empty,True,+
+176350,rsvp,context,true,Au Japon manger bruyamment est une forme de politesse.
+184000,sound,bip,True,bip_court.wav
+184350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+192000,sound,bip,True,bip_court.wav
+192350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+200000,sound,bip,True,bip_court.wav
+200350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+208000,sound,bip,True,bip_court.wav
+208350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+216000,redtext,empty,True,+
+216350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+224000,redtext,empty,True,+
+224350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+232000,text,empty,True,+
+240000,redtext,empty,True,+
+240350,rsvp,arithfact,false,Le nombre soixante quatorze est plus grand que cent.
+248000,redtext,empty,True,+
+248350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+256000,redtext,empty,True,+
+256350,rsvp,control,false,Chaque dès duquel de en tous eux mais ou ont celle.
+264000,redtext,empty,True,+
+264350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+272000,redtext,empty,True,+
+272350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+280000,sound,bip,True,bip_court.wav
+280350,sound,control,false,16_control_29_false_vide_insigne.wav
+288000,redtext,empty,True,+
+288350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+296000,redtext,empty,True,+
+296350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+304000,text,empty,True,+
+310000,redtext,empty,True,+
+310350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+318000,redtext,empty,True,+
+318350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+326000,sound,bip,True,bip_court.wav
+326350,sound,general,false,286_general_38_false_vide_levietnam.wav
+334000,redtext,empty,True,+
+334350,rsvp,control,false,Demain manger solution guerre couleur boire chambre bruit.
+342000,sound,bip,True,bip_court.wav
+342350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+350000,text,empty,True,+
+355000,sound,bip,True,bip_court.wav
+355350,sound,geomfact,true,104_geomfact_07_true_vide_losanges.wav
+363000,sound,bip,True,bip_court.wav
+363350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+371000,redtext,empty,True,+
+371350,rsvp,colorlessg,false,Un poulet est un cercle de chiffres internationales.
+379000,redtext,empty,True,+
+379350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+387000,sound,bip,True,bip_court.wav
+387350,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+395000,text,empty,True,+
+403000,redtext,empty,True,+
+403350,rsvp,arithprin,true,Ajouter zéro ne change pas un nombre.
+411000,redtext,empty,True,+
+411350,rsvp,general,false,La vapeur d'eau se condense uniquement sur les arbres.
+419000,redtext,empty,True,+
+419350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+427000,sound,bip,True,bip_court.wav
+427350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+435000,redtext,empty,True,+
+435350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+443000,redtext,empty,True,+
+443350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+451000,text,empty,True,+
+455000,redtext,empty,True,+
+455350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+463000,sound,bip,True,bip_court.wav
+463350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+471000,sound,bip,True,bip_court.wav
+471350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+479000,redtext,empty,True,+
+479350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+487000,redtext,empty,True,+
+487350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+495000,redtext,empty,True,+
+495350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+503000,sound,bip,True,bip_court.wav
+503350,sound,colorlessg,false,140_colorlessg_36_false_vide_bibliotheques.wav
+511000,sound,bip,True,bip_court.wav
+511350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+519000,sound,bip,True,bip_court.wav
+519350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+527000,sound,bip,True,bip_court.wav
+527350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+535000,redtext,empty,True,+
+535350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+543000,sound,bip,True,bip_court.wav
+543350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+551000,redtext,empty,True,+
+551350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+559000,sound,bip,True,bip_court.wav
+559350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+567000,text,empty,True,+

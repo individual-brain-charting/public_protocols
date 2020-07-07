@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,geomfact,true,Les angles d'un polygone régulier sont de la même taille.
+10000,sound,bip,True,bip_court.wav
+10350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+18000,redtext,empty,True,+
+18350,rsvp,general,true,Une encyclopédie permet de diffuser le savoir à de nombreux lecteurs.
+26000,sound,bip,True,bip_court.wav
+26350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+34000,redtext,empty,True,+
+34350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+42000,sound,bip,True,bip_court.wav
+42350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+50000,text,empty,True,+
+58000,redtext,empty,True,+
+58350,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+66000,sound,bip,True,bip_court.wav
+66350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+74000,sound,bip,True,bip_court.wav
+74350,sound,colorlessg,false,209_colorlessg_29_false_vide_lelapindemal.wav
+82000,redtext,empty,True,+
+82350,rsvp,context,true,En Irlande avoir les cheveux roux est assez courant.
+90000,sound,bip,True,bip_court.wav
+90350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+98000,sound,bip,True,bip_court.wav
+98350,sound,control,false,314_control_37_false_vide_nombrevoie.wav
+106000,text,empty,True,+
+114000,sound,bip,True,bip_court.wav
+114350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+122000,sound,bip,True,bip_court.wav
+122350,sound,context,false,207_context_39_false_faux_enindedinar.wav
+130000,sound,bip,True,bip_court.wav
+130350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+138000,sound,bip,True,bip_court.wav
+138350,sound,tom,true,15_tom_16_true_faux_creationistes.wav
+146000,sound,bip,True,bip_court.wav
+146350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+154000,sound,bip,True,bip_court.wav
+154350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+162000,sound,bip,True,bip_court.wav
+162350,sound,control,false,131_control_22_false_vide_devantdecide.wav
+170000,sound,bip,True,bip_court.wav
+170350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+178000,text,empty,True,+
+183000,sound,bip,True,bip_court.wav
+183350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+191000,sound,bip,True,bip_court.wav
+191350,sound,tom,true,222_tom_02_true_vrai_dapresgalilee.wav
+199000,redtext,empty,True,+
+199350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+207000,text,empty,True,+
+211000,redtext,empty,True,+
+211350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+219000,sound,bip,True,bip_court.wav
+219350,sound,general,false,286_general_38_false_vide_levietnam.wav
+227000,redtext,empty,True,+
+227350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+235000,sound,bip,True,bip_court.wav
+235350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+243000,redtext,empty,True,+
+243350,rsvp,control,false,Poile choisis forêt vertes saison canapé doivent.
+251000,sound,bip,True,bip_court.wav
+251350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+259000,redtext,empty,True,+
+259350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+267000,sound,bip,True,bip_court.wav
+267350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+275000,text,empty,True,+
+279000,redtext,empty,True,+
+279350,rsvp,tom,false,D'après les humoristes rire est mauvais pour la santé.
+287000,redtext,empty,True,+
+287350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+295000,redtext,empty,True,+
+295350,rsvp,colorlessg,false,La décoration se déduit grâce à l'espoir moléculaire.
+303000,sound,bip,True,bip_court.wav
+303350,sound,general,true,111_general_20_true_vide_mitose.wav
+311000,redtext,empty,True,+
+311350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+319000,text,empty,True,+
+325000,redtext,empty,True,+
+325350,rsvp,tom,true,D'après Newton les objets sont soumis à l'attraction terrestre.
+333000,redtext,empty,True,+
+333350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+341000,redtext,empty,True,+
+341350,rsvp,colorlessg,false,L'intermédiaire de l'armée d'oxygène est doublé d'un programme véritable.
+349000,redtext,empty,True,+
+349350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+357000,text,empty,True,+
+362000,sound,bip,True,bip_court.wav
+362350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+370000,redtext,empty,True,+
+370350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+378000,redtext,empty,True,+
+378350,rsvp,control,false,D'après où dans ils les d'une toute cependant et sans.
+386000,redtext,empty,True,+
+386350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+394000,redtext,empty,True,+
+394350,rsvp,geomfact,false,Un triangle isocèle a plusieurs axes de symétrie.
+402000,redtext,empty,True,+
+402350,rsvp,geomfact,true,Les diagonales d'un losange sont ses axes de symétrie.
+410000,redtext,empty,True,+
+410350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+418000,text,empty,True,+
+423000,sound,bip,True,bip_court.wav
+423350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+431000,sound,bip,True,bip_court.wav
+431350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+439000,sound,bip,True,bip_court.wav
+439350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+447000,redtext,empty,True,+
+447350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+455000,sound,bip,True,bip_court.wav
+455350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+463000,redtext,empty,True,+
+463350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+471000,redtext,empty,True,+
+471350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+479000,sound,bip,True,bip_court.wav
+479350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+487000,sound,bip,True,bip_court.wav
+487350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+495000,redtext,empty,True,+
+495350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+503000,redtext,empty,True,+
+503350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+511000,sound,bip,True,bip_court.wav
+511350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+519000,sound,bip,True,bip_court.wav
+519350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+527000,redtext,empty,True,+
+527350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+535000,redtext,empty,True,+
+535350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+543000,sound,bip,True,bip_court.wav
+543350,sound,general,true,124_general_17_true_vide_fevrier.wav
+551000,redtext,empty,True,+
+551350,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+559000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,tom,true,222_tom_02_true_vrai_dapresgalilee.wav
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+26000,redtext,empty,True,+
+26350,rsvp,arithfact,false,Le triple de quinze est plus grand que deux cent soixante.
+34000,redtext,empty,True,+
+34350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+42000,redtext,empty,True,+
+42350,rsvp,colorlessg,false,Le colis de l'ombre matérielle est toujours gratuit.
+50000,redtext,empty,True,+
+50350,rsvp,arithprin,true,Pour additionner des fractions les dénominateurs doivent être égaux.
+58000,redtext,empty,True,+
+58350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+66000,text,empty,True,+
+74000,redtext,empty,True,+
+74350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+82000,sound,bip,True,bip_court.wav
+82350,sound,tom,false,231_tom_35_false_faux_martinlutherking.wav
+90000,redtext,empty,True,+
+90350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+98000,redtext,empty,True,+
+98350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+106000,text,empty,True,+
+112000,redtext,empty,True,+
+112350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+120000,sound,bip,True,bip_court.wav
+120350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+128000,redtext,empty,True,+
+128350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+136000,sound,bip,True,bip_court.wav
+136350,sound,colorlessg,false,209_colorlessg_29_false_vide_lelapindemal.wav
+144000,sound,bip,True,bip_court.wav
+144350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+152000,redtext,empty,True,+
+152350,rsvp,general,false,La vapeur d'eau se condense uniquement sur les arbres.
+160000,text,empty,True,+
+167000,sound,bip,True,bip_court.wav
+167350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+175000,sound,bip,True,bip_court.wav
+175350,sound,geomfact,true,247_geomfact_14_true_vide_toutpolygone.wav
+183000,redtext,empty,True,+
+183350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+191000,sound,bip,True,bip_court.wav
+191350,sound,arithprin,false,175_arithprin_31_false_vide_ladifference.wav
+199000,redtext,empty,True,+
+199350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+207000,redtext,empty,True,+
+207350,rsvp,control,false,Compte production éléments demander courant amour fruits.
+215000,redtext,empty,True,+
+215350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+223000,redtext,empty,True,+
+223350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+231000,sound,bip,True,bip_court.wav
+231350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+239000,sound,bip,True,bip_court.wav
+239350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+247000,text,empty,True,+
+255000,sound,bip,True,bip_court.wav
+255350,sound,general,true,180_general_08_true_vide_lesperles.wav
+263000,redtext,empty,True,+
+263350,rsvp,geomfact,false,Un triangle peut avoir plusieurs angles droits.
+271000,text,empty,True,+
+277000,sound,bip,True,bip_court.wav
+277350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+285000,sound,bip,True,bip_court.wav
+285350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+293000,redtext,empty,True,+
+293350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+301000,redtext,empty,True,+
+301350,rsvp,tom,false,Pour Céline Dion jouer de la musique est un hobby.
+309000,redtext,empty,True,+
+309350,rsvp,geomfact,true,Les angles d'un polygone régulier sont de la même taille.
+317000,redtext,empty,True,+
+317350,rsvp,control,false,Membres intérieur venir gros faisant papier dents.
+325000,sound,bip,True,bip_court.wav
+325350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+333000,sound,bip,True,bip_court.wav
+333350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+341000,text,empty,True,+
+345000,sound,bip,True,bip_court.wav
+345350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+353000,redtext,empty,True,+
+353350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+361000,sound,bip,True,bip_court.wav
+361350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+369000,sound,bip,True,bip_court.wav
+369350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+377000,sound,bip,True,bip_court.wav
+377350,sound,control,false,264_control_19_false_vide_cependantaauquel.wav
+385000,redtext,empty,True,+
+385350,rsvp,geomfact,false,Les points d'un carré sont à égale distance de son centre.
+393000,sound,bip,True,bip_court.wav
+393350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+401000,text,empty,True,+
+405000,sound,bip,True,bip_court.wav
+405350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+413000,redtext,empty,True,+
+413350,rsvp,control,false,La après est de des le d'un mon le de pendant il outre.
+421000,sound,bip,True,bip_court.wav
+421350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+429000,sound,bip,True,bip_court.wav
+429350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+437000,redtext,empty,True,+
+437350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+445000,redtext,empty,True,+
+445350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+453000,sound,bip,True,bip_court.wav
+453350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+461000,text,empty,True,+
+469000,redtext,empty,True,+
+469350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+477000,redtext,empty,True,+
+477350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+485000,sound,bip,True,bip_court.wav
+485350,sound,geomfact,false,225_geomfact_36_false_vide_untriangleaplus.wav
+493000,redtext,empty,True,+
+493350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+501000,redtext,empty,True,+
+501350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+509000,sound,bip,True,bip_court.wav
+509350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+517000,sound,bip,True,bip_court.wav
+517350,sound,colorlessg,false,203_colorlessg_11_false_vide_auxchampsbleus.wav
+525000,sound,bip,True,bip_court.wav
+525350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+533000,sound,bip,True,bip_court.wav
+533350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+541000,redtext,empty,True,+
+541350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+549000,sound,bip,True,bip_court.wav
+549350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+557000,sound,bip,True,bip_court.wav
+557350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+565000,text,empty,True,+

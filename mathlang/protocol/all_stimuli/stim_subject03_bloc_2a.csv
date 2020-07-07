@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+10000,redtext,empty,True,+
+10350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+18000,redtext,empty,True,+
+18350,rsvp,control,false,Compte production éléments demander courant amour fruits.
+26000,sound,bip,True,bip_court.wav
+26350,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+42000,text,empty,True,+
+50000,sound,bip,True,bip_court.wav
+50350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+58000,redtext,empty,True,+
+58350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+66000,redtext,empty,True,+
+66350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+74000,sound,bip,True,bip_court.wav
+74350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+82000,redtext,empty,True,+
+82350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+90000,redtext,empty,True,+
+90350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+98000,redtext,empty,True,+
+98350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+106000,text,empty,True,+
+112000,redtext,empty,True,+
+112350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+120000,sound,bip,True,bip_court.wav
+120350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+128000,redtext,empty,True,+
+128350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+136000,redtext,empty,True,+
+136350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+144000,text,empty,True,+
+149000,redtext,empty,True,+
+149350,rsvp,context,true,Dans les îles volcaniques le sable est noir.
+157000,redtext,empty,True,+
+157350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+165000,sound,bip,True,bip_court.wav
+165350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+173000,sound,bip,True,bip_court.wav
+173350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+181000,sound,bip,True,bip_court.wav
+181350,sound,control,false,16_control_29_false_vide_insigne.wav
+189000,text,empty,True,+
+193000,redtext,empty,True,+
+193350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+201000,sound,bip,True,bip_court.wav
+201350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+209000,sound,bip,True,bip_court.wav
+209350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+217000,sound,bip,True,bip_court.wav
+217350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+225000,text,empty,True,+
+231000,redtext,empty,True,+
+231350,rsvp,tom,true,Selon les écrivains l'Odyssée est un chef d'oeuvre littéraire.
+239000,redtext,empty,True,+
+239350,rsvp,arithfact,false,Sept fois sept est plus grand que le chiffre cinquante quatre.
+247000,sound,bip,True,bip_court.wav
+247350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+255000,sound,bip,True,bip_court.wav
+255350,sound,arithfact,false,115_arithfact_27_false_vide_multiplicationquatre.wav
+263000,text,empty,True,+
+268000,redtext,empty,True,+
+268350,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+276000,sound,bip,True,bip_court.wav
+276350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+284000,sound,bip,True,bip_court.wav
+284350,sound,general,true,124_general_17_true_vide_fevrier.wav
+292000,redtext,empty,True,+
+292350,rsvp,geomfact,false,Un carré peut se diviser en triangles équilatéraux.
+300000,redtext,empty,True,+
+300350,rsvp,general,true,La photosynthèse se produit grâce à l'énergie lumineuse.
+308000,redtext,empty,True,+
+308350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+316000,sound,bip,True,bip_court.wav
+316350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+324000,sound,bip,True,bip_court.wav
+324350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+332000,redtext,empty,True,+
+332350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+340000,sound,bip,True,bip_court.wav
+340350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+348000,redtext,empty,True,+
+348350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+356000,redtext,empty,True,+
+356350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+364000,text,empty,True,+
+372000,sound,bip,True,bip_court.wav
+372350,sound,geomfact,true,248_geomfact_02_true_vide_cotesduntriangle.wav
+380000,redtext,empty,True,+
+380350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+388000,redtext,empty,True,+
+388350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+396000,redtext,empty,True,+
+396350,rsvp,arithprin,true,Pour additionner des fractions les dénominateurs doivent être égaux.
+404000,sound,bip,True,bip_court.wav
+404350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+412000,redtext,empty,True,+
+412350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+420000,text,empty,True,+
+426000,sound,bip,True,bip_court.wav
+426350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+434000,sound,bip,True,bip_court.wav
+434350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+442000,sound,bip,True,bip_court.wav
+442350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+450000,redtext,empty,True,+
+450350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+458000,sound,bip,True,bip_court.wav
+458350,sound,general,false,1_general_26_false_vide_jupiter.wav
+466000,sound,bip,True,bip_court.wav
+466350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+474000,sound,bip,True,bip_court.wav
+474350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+482000,sound,bip,True,bip_court.wav
+482350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+490000,sound,bip,True,bip_court.wav
+490350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+498000,redtext,empty,True,+
+498350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+506000,sound,bip,True,bip_court.wav
+506350,sound,general,true,180_general_08_true_vide_lesperles.wav
+514000,sound,bip,True,bip_court.wav
+514350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+522000,redtext,empty,True,+
+522350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+530000,sound,bip,True,bip_court.wav
+530350,sound,context,true,45_context_11_true_faux_londres.wav
+538000,sound,bip,True,bip_court.wav
+538350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+546000,redtext,empty,True,+
+546350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+554000,redtext,empty,True,+
+554350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+562000,text,empty,True,+

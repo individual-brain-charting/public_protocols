@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+26000,redtext,empty,True,+
+26350,rsvp,context,false,En Amazonie les araignées sont des animaux sans danger.
+34000,sound,bip,True,bip_court.wav
+34350,sound,context,false,226_context_21_false_vrai_eninde.wav
+42000,redtext,empty,True,+
+42350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+50000,redtext,empty,True,+
+50350,rsvp,arithfact,true,Le double du nombre neuf est le nombre dix huit.
+58000,text,empty,True,+
+65000,sound,bip,True,bip_court.wav
+65350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+73000,redtext,empty,True,+
+73350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+81000,redtext,empty,True,+
+81350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+89000,sound,bip,True,bip_court.wav
+89350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+97000,sound,bip,True,bip_court.wav
+97350,sound,general,true,54_general_07_true_vide_soleil.wav
+105000,text,empty,True,+
+112000,redtext,empty,True,+
+112350,rsvp,tom,false,D'après les humoristes rire est mauvais pour la santé.
+120000,sound,bip,True,bip_court.wav
+120350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+128000,redtext,empty,True,+
+128350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+136000,redtext,empty,True,+
+136350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+144000,redtext,empty,True,+
+144350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+152000,redtext,empty,True,+
+152350,rsvp,general,false,Jupiter est la plus petite planète du système solaire.
+160000,text,empty,True,+
+166000,redtext,empty,True,+
+166350,rsvp,tom,true,Selon Pasteur la rage est une maladie mortelle.
+174000,sound,bip,True,bip_court.wav
+174350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+182000,redtext,empty,True,+
+182350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+190000,sound,bip,True,bip_court.wav
+190350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+198000,sound,bip,True,bip_court.wav
+198350,sound,general,true,281_general_02_true_vide_latulipe.wav
+206000,sound,bip,True,bip_court.wav
+206350,sound,general,false,152_general_22_false_vide_petitvache.wav
+214000,redtext,empty,True,+
+214350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+222000,redtext,empty,True,+
+222350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+230000,text,empty,True,+
+235000,redtext,empty,True,+
+235350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+243000,redtext,empty,True,+
+243350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+251000,redtext,empty,True,+
+251350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+259000,redtext,empty,True,+
+259350,rsvp,geomfact,false,Des lignes sont perpendiculaires quand elles forment un angle aigu.
+267000,sound,bip,True,bip_court.wav
+267350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+275000,sound,bip,True,bip_court.wav
+275350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+283000,sound,bip,True,bip_court.wav
+283350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+291000,sound,bip,True,bip_court.wav
+291350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+299000,text,empty,True,+
+306000,sound,bip,True,bip_court.wav
+306350,sound,geomfact,true,247_geomfact_14_true_vide_toutpolygone.wav
+314000,redtext,empty,True,+
+314350,rsvp,control,false,Membres intérieur venir gros faisant papier dents.
+322000,sound,bip,True,bip_court.wav
+322350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+330000,redtext,empty,True,+
+330350,rsvp,arithfact,true,Soustraire trois du nombre vingt donne dix sept.
+338000,redtext,empty,True,+
+338350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+346000,sound,bip,True,bip_court.wav
+346350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+354000,sound,bip,True,bip_court.wav
+354350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+362000,redtext,empty,True,+
+362350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+370000,redtext,empty,True,+
+370350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+378000,text,empty,True,+
+384000,sound,bip,True,bip_court.wav
+384350,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+392000,redtext,empty,True,+
+392350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+400000,redtext,empty,True,+
+400350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+408000,redtext,empty,True,+
+408350,rsvp,tom,true,Selon les chrétiens fondamentalistes Adam est notre ancêtre.
+416000,text,empty,True,+
+420000,redtext,empty,True,+
+420350,rsvp,colorlessg,false,Le drapeau est une vieille analyse à froid de façon.
+428000,sound,bip,True,bip_court.wav
+428350,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+436000,redtext,empty,True,+
+436350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+444000,sound,bip,True,bip_court.wav
+444350,sound,arithprin,false,175_arithprin_31_false_vide_ladifference.wav
+452000,sound,bip,True,bip_court.wav
+452350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+460000,text,empty,True,+
+465000,sound,bip,True,bip_court.wav
+465350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+473000,redtext,empty,True,+
+473350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+481000,sound,bip,True,bip_court.wav
+481350,sound,general,false,37_general_25_false_vide_primevere.wav
+489000,redtext,empty,True,+
+489350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+497000,sound,bip,True,bip_court.wav
+497350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+505000,sound,bip,True,bip_court.wav
+505350,sound,geomfact,false,114_geomfact_33_false_vide_cotesdunlosange.wav
+513000,sound,bip,True,bip_court.wav
+513350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+521000,redtext,empty,True,+
+521350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+529000,sound,bip,True,bip_court.wav
+529350,sound,context,true,22_context_20_true_faux_danslamer.wav
+537000,redtext,empty,True,+
+537350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+545000,sound,bip,True,bip_court.wav
+545350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+553000,sound,bip,True,bip_court.wav
+553350,sound,context,false,13_context_33_false_faux_afriquedusud.wav
+561000,text,empty,True,+

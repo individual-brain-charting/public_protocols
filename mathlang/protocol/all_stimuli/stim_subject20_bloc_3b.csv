@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,general,false,152_general_22_false_vide_petitvache.wav
+10000,redtext,empty,True,+
+10350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+18000,redtext,empty,True,+
+18350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+26000,redtext,empty,True,+
+26350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+34000,redtext,empty,True,+
+34350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+42000,redtext,empty,True,+
+42350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+50000,text,empty,True,+
+54000,redtext,empty,True,+
+54350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+62000,redtext,empty,True,+
+62350,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+70000,sound,bip,True,bip_court.wav
+70350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+78000,sound,bip,True,bip_court.wav
+78350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+86000,redtext,empty,True,+
+86350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+94000,redtext,empty,True,+
+94350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+102000,sound,bip,True,bip_court.wav
+102350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+110000,sound,bip,True,bip_court.wav
+110350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+118000,sound,bip,True,bip_court.wav
+118350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+126000,text,empty,True,+
+131000,redtext,empty,True,+
+131350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+139000,redtext,empty,True,+
+139350,rsvp,geomfact,true,Tous les points d'un cercle sont à égale distance du centre.
+147000,redtext,empty,True,+
+147350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+155000,sound,bip,True,bip_court.wav
+155350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+163000,redtext,empty,True,+
+163350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+171000,redtext,empty,True,+
+171350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+179000,text,empty,True,+
+184000,redtext,empty,True,+
+184350,rsvp,tom,true,D'après Newton les objets sont soumis à l'attraction terrestre.
+192000,redtext,empty,True,+
+192350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+200000,sound,bip,True,bip_court.wav
+200350,sound,tom,true,321_tom_14_true_faux_president.wav
+208000,sound,bip,True,bip_court.wav
+208350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+216000,sound,bip,True,bip_court.wav
+216350,sound,geomfact,false,12_geomfact_38_false_vide_losange.wav
+224000,redtext,empty,True,+
+224350,rsvp,general,false,Le veau est le petit de la chèvre.
+232000,redtext,empty,True,+
+232350,rsvp,geomfact,true,Les angles d'un polygone régulier sont de la même taille.
+240000,sound,bip,True,bip_court.wav
+240350,sound,general,true,281_general_02_true_vide_latulipe.wav
+248000,redtext,empty,True,+
+248350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+256000,text,empty,True,+
+260000,redtext,empty,True,+
+260350,rsvp,colorlessg,false,Des bibliothèques de chaque cible ont le mauvais squelette.
+268000,sound,bip,True,bip_court.wav
+268350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+276000,sound,bip,True,bip_court.wav
+276350,sound,control,false,166_control_28_false_vide_voiliertigres.wav
+284000,sound,bip,True,bip_court.wav
+284350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+292000,redtext,empty,True,+
+292350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+300000,sound,bip,True,bip_court.wav
+300350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+308000,sound,bip,True,bip_court.wav
+308350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+316000,text,empty,True,+
+324000,sound,bip,True,bip_court.wav
+324350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+332000,redtext,empty,True,+
+332350,rsvp,general,true,Une encyclopédie permet de diffuser le savoir à de nombreux lecteurs.
+340000,sound,bip,True,bip_court.wav
+340350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+348000,sound,bip,True,bip_court.wav
+348350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+356000,sound,bip,True,bip_court.wav
+356350,sound,colorlessg,false,316_colorlessg_23_false_vide_touslescafes.wav
+364000,redtext,empty,True,+
+364350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+372000,sound,bip,True,bip_court.wav
+372350,sound,control,false,186_control_23_false_vide_douceurpoisson.wav
+380000,text,empty,True,+
+384000,redtext,empty,True,+
+384350,rsvp,control,false,Demain manger solution guerre couleur boire chambre bruit.
+392000,sound,bip,True,bip_court.wav
+392350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+400000,sound,bip,True,bip_court.wav
+400350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+408000,text,empty,True,+
+414000,sound,bip,True,bip_court.wav
+414350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+422000,sound,bip,True,bip_court.wav
+422350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+430000,sound,bip,True,bip_court.wav
+430350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+438000,text,empty,True,+
+443000,sound,bip,True,bip_court.wav
+443350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+451000,redtext,empty,True,+
+451350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+459000,redtext,empty,True,+
+459350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+467000,redtext,empty,True,+
+467350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+475000,sound,bip,True,bip_court.wav
+475350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+483000,redtext,empty,True,+
+483350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+491000,redtext,empty,True,+
+491350,rsvp,colorlessg,false,Le colis de l'ombre matérielle est toujours gratuit.
+499000,sound,bip,True,bip_court.wav
+499350,sound,context,false,97_context_40_false_faux_japon.wav
+507000,redtext,empty,True,+
+507350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+515000,redtext,empty,True,+
+515350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+523000,sound,bip,True,bip_court.wav
+523350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+531000,sound,bip,True,bip_court.wav
+531350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+539000,redtext,empty,True,+
+539350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+547000,sound,bip,True,bip_court.wav
+547350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+555000,text,empty,True,+

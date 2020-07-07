@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+26000,redtext,empty,True,+
+26350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+34000,sound,bip,True,bip_court.wav
+34350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+42000,redtext,empty,True,+
+42350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+50000,redtext,empty,True,+
+50350,rsvp,arithprin,true,La multiplication est le contraire de la division.
+58000,sound,bip,True,bip_court.wav
+58350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+66000,text,empty,True,+
+74000,redtext,empty,True,+
+74350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+82000,redtext,empty,True,+
+82350,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+90000,redtext,empty,True,+
+90350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+98000,sound,bip,True,bip_court.wav
+98350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+106000,text,empty,True,+
+114000,redtext,empty,True,+
+114350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+122000,sound,bip,True,bip_court.wav
+122350,sound,general,false,37_general_25_false_vide_primevere.wav
+130000,sound,bip,True,bip_court.wav
+130350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+138000,sound,bip,True,bip_court.wav
+138350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+146000,sound,bip,True,bip_court.wav
+146350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+154000,sound,bip,True,bip_court.wav
+154350,sound,general,true,281_general_02_true_vide_latulipe.wav
+162000,redtext,empty,True,+
+162350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+170000,sound,bip,True,bip_court.wav
+170350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+178000,text,empty,True,+
+186000,redtext,empty,True,+
+186350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+194000,redtext,empty,True,+
+194350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+202000,sound,bip,True,bip_court.wav
+202350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+210000,sound,bip,True,bip_court.wav
+210350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+218000,redtext,empty,True,+
+218350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+226000,redtext,empty,True,+
+226350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+234000,redtext,empty,True,+
+234350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+242000,text,empty,True,+
+248000,sound,bip,True,bip_court.wav
+248350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+256000,redtext,empty,True,+
+256350,rsvp,general,false,La terre tourne autour de la planète Venus.
+264000,sound,bip,True,bip_court.wav
+264350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+272000,sound,bip,True,bip_court.wav
+272350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+280000,redtext,empty,True,+
+280350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+288000,sound,bip,True,bip_court.wav
+288350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+296000,sound,bip,True,bip_court.wav
+296350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+304000,redtext,empty,True,+
+304350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+312000,redtext,empty,True,+
+312350,rsvp,geomfact,false,Plus un triangle est grand
+320000,sound,bip,True,bip_court.wav
+320350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+328000,redtext,empty,True,+
+328350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+336000,redtext,empty,True,+
+336350,rsvp,arithprin,false,Une somme de fractions est toujours un nombre entier.
+344000,sound,bip,True,bip_court.wav
+344350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+352000,text,empty,True,+
+356000,sound,bip,True,bip_court.wav
+356350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+364000,sound,bip,True,bip_court.wav
+364350,sound,tom,false,232_tom_29_false_vrai_pournapoleon.wav
+372000,text,empty,True,+
+380000,redtext,empty,True,+
+380350,rsvp,colorlessg,false,La décoration se déduit grâce à l'espoir moléculaire.
+388000,redtext,empty,True,+
+388350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+396000,redtext,empty,True,+
+396350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+404000,redtext,empty,True,+
+404350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+412000,redtext,empty,True,+
+412350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+420000,text,empty,True,+
+424000,redtext,empty,True,+
+424350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+432000,sound,bip,True,bip_court.wav
+432350,sound,context,false,212_context_37_false_faux_surmars.wav
+440000,redtext,empty,True,+
+440350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+448000,redtext,empty,True,+
+448350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+456000,sound,bip,True,bip_court.wav
+456350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+464000,sound,bip,True,bip_court.wav
+464350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+472000,text,empty,True,+
+477000,redtext,empty,True,+
+477350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+485000,redtext,empty,True,+
+485350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+493000,sound,bip,True,bip_court.wav
+493350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+501000,redtext,empty,True,+
+501350,rsvp,tom,true,Pour les créationnistes Dieu est à l'origine de la vie.
+509000,redtext,empty,True,+
+509350,rsvp,arithfact,true,La racine carrée de trente six est plus grand que cinq.
+517000,sound,bip,True,bip_court.wav
+517350,sound,general,true,51_general_09_true_vide_flocons.wav
+525000,sound,bip,True,bip_court.wav
+525350,sound,tom,true,81_tom_15_true_faux_ronaldo.wav
+533000,sound,bip,True,bip_court.wav
+533350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+541000,sound,bip,True,bip_court.wav
+541350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+549000,redtext,empty,True,+
+549350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+557000,sound,bip,True,bip_court.wav
+557350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+565000,text,empty,True,+

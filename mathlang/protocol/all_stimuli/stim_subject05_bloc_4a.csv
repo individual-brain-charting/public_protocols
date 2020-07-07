@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,Le colis de l'ombre matérielle est toujours gratuit.
+10000,sound,bip,True,bip_court.wav
+10350,sound,context,true,22_context_20_true_faux_danslamer.wav
+18000,redtext,empty,True,+
+18350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+26000,redtext,empty,True,+
+26350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+34000,text,empty,True,+
+41000,redtext,empty,True,+
+41350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+49000,redtext,empty,True,+
+49350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+57000,sound,bip,True,bip_court.wav
+57350,sound,control,false,322_control_11_false_vide_selonalors.wav
+65000,sound,bip,True,bip_court.wav
+65350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+73000,redtext,empty,True,+
+73350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+81000,redtext,empty,True,+
+81350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+89000,redtext,empty,True,+
+89350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+97000,redtext,empty,True,+
+97350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+105000,sound,bip,True,bip_court.wav
+105350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+113000,redtext,empty,True,+
+113350,rsvp,arithprin,true,Pour additionner des fractions les dénominateurs doivent être égaux.
+121000,text,empty,True,+
+129000,redtext,empty,True,+
+129350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+137000,sound,bip,True,bip_court.wav
+137350,sound,context,false,251_context_27_false_vrai_parisvoielactee.wav
+145000,redtext,empty,True,+
+145350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+153000,sound,bip,True,bip_court.wav
+153350,sound,geomfact,false,241_geomfact_32_false_vide_unrectanglenecomprend.wav
+161000,sound,bip,True,bip_court.wav
+161350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+169000,sound,bip,True,bip_court.wav
+169350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+177000,sound,bip,True,bip_court.wav
+177350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+185000,text,empty,True,+
+191000,redtext,empty,True,+
+191350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+199000,redtext,empty,True,+
+199350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+207000,text,empty,True,+
+215000,sound,bip,True,bip_court.wav
+215350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+223000,redtext,empty,True,+
+223350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+231000,redtext,empty,True,+
+231350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+239000,sound,bip,True,bip_court.wav
+239350,sound,arithfact,true,183_arithfact_19_true_vide_quarantedeuxmoins.wav
+247000,sound,bip,True,bip_court.wav
+247350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+255000,text,empty,True,+
+262000,sound,bip,True,bip_court.wav
+262350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+270000,sound,bip,True,bip_court.wav
+270350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+278000,redtext,empty,True,+
+278350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+286000,sound,bip,True,bip_court.wav
+286350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+294000,sound,bip,True,bip_court.wav
+294350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+302000,redtext,empty,True,+
+302350,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+310000,sound,bip,True,bip_court.wav
+310350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+318000,sound,bip,True,bip_court.wav
+318350,sound,tom,false,32_tom_23_false_vrai_julesverne.wav
+326000,redtext,empty,True,+
+326350,rsvp,general,false,La primevère est une plante vénéneuse et épineuse.
+334000,redtext,empty,True,+
+334350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+342000,text,empty,True,+
+346000,redtext,empty,True,+
+346350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+354000,sound,bip,True,bip_court.wav
+354350,sound,context,true,90_context_09_true_vrai_himalaya.wav
+362000,redtext,empty,True,+
+362350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+370000,sound,bip,True,bip_court.wav
+370350,sound,tom,false,184_tom_34_false_faux_poutine.wav
+378000,sound,bip,True,bip_court.wav
+378350,sound,arithfact,true,119_arithfact_05_true_vide_nombrevingtsept.wav
+386000,redtext,empty,True,+
+386350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+394000,text,empty,True,+
+399000,redtext,empty,True,+
+399350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+407000,sound,bip,True,bip_court.wav
+407350,sound,colorlessg,false,304_colorlessg_25_false_vide_unefemmedetraction.wav
+415000,redtext,empty,True,+
+415350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+423000,sound,bip,True,bip_court.wav
+423350,sound,general,false,152_general_22_false_vide_petitvache.wav
+431000,sound,bip,True,bip_court.wav
+431350,sound,arithprin,false,165_arithprin_39_false_vide_lordreselonlequel.wav
+439000,sound,bip,True,bip_court.wav
+439350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+447000,text,empty,True,+
+451000,sound,bip,True,bip_court.wav
+451350,sound,general,false,91_general_23_false_vide_alguesvertes.wav
+459000,redtext,empty,True,+
+459350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+467000,redtext,empty,True,+
+467350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+475000,sound,bip,True,bip_court.wav
+475350,sound,tom,true,81_tom_15_true_faux_ronaldo.wav
+483000,redtext,empty,True,+
+483350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+491000,redtext,empty,True,+
+491350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+499000,redtext,empty,True,+
+499350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+507000,sound,bip,True,bip_court.wav
+507350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+515000,redtext,empty,True,+
+515350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+523000,sound,bip,True,bip_court.wav
+523350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+531000,sound,bip,True,bip_court.wav
+531350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+539000,redtext,empty,True,+
+539350,rsvp,colorlessg,false,Le drapeau est une vieille analyse à froid de façon.
+547000,sound,bip,True,bip_court.wav
+547350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+555000,sound,bip,True,bip_court.wav
+555350,sound,general,true,122_general_15_true_vide_arbresperdent.wav
+563000,text,empty,True,+

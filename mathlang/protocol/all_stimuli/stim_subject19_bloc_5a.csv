@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+10000,redtext,empty,True,+
+10350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+18000,redtext,empty,True,+
+18350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+26000,sound,bip,True,bip_court.wav
+26350,sound,context,false,212_context_37_false_faux_surmars.wav
+34000,text,empty,True,+
+41000,sound,bip,True,bip_court.wav
+41350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+49000,sound,bip,True,bip_court.wav
+49350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+57000,redtext,empty,True,+
+57350,rsvp,arithprin,true,Ajouter zéro ne change pas un nombre.
+65000,sound,bip,True,bip_court.wav
+65350,sound,control,false,294_control_02_false_vide_unmependant.wav
+73000,sound,bip,True,bip_court.wav
+73350,sound,general,false,91_general_23_false_vide_alguesvertes.wav
+81000,redtext,empty,True,+
+81350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+89000,redtext,empty,True,+
+89350,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+97000,text,empty,True,+
+103000,sound,bip,True,bip_court.wav
+103350,sound,colorlessg,false,33_colorlessg_02_false_vide_grimace.wav
+111000,sound,bip,True,bip_court.wav
+111350,sound,context,false,126_context_24_false_vrai_burundi.wav
+119000,sound,bip,True,bip_court.wav
+119350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+127000,sound,bip,True,bip_court.wav
+127350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+135000,redtext,empty,True,+
+135350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+143000,sound,bip,True,bip_court.wav
+143350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+151000,sound,bip,True,bip_court.wav
+151350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+159000,sound,bip,True,bip_court.wav
+159350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+167000,redtext,empty,True,+
+167350,rsvp,general,true,Février est le mois de l'année le plus court.
+175000,redtext,empty,True,+
+175350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+183000,text,empty,True,+
+190000,sound,bip,True,bip_court.wav
+190350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+198000,redtext,empty,True,+
+198350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+206000,redtext,empty,True,+
+206350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+214000,sound,bip,True,bip_court.wav
+214350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+222000,sound,bip,True,bip_court.wav
+222350,sound,arithfact,true,8_arithfact_02_true_vide_soixantedixneuf.wav
+230000,redtext,empty,True,+
+230350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+238000,redtext,empty,True,+
+238350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+246000,text,empty,True,+
+251000,sound,bip,True,bip_court.wav
+251350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+259000,sound,bip,True,bip_court.wav
+259350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+267000,redtext,empty,True,+
+267350,rsvp,general,false,Le Vietnam est appelé le pays du soleil levant.
+275000,redtext,empty,True,+
+275350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+283000,sound,bip,True,bip_court.wav
+283350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+291000,text,empty,True,+
+295000,redtext,empty,True,+
+295350,rsvp,geomfact,true,Un point peut être traversé par un nombre infini de lignes.
+303000,sound,bip,True,bip_court.wav
+303350,sound,general,true,111_general_20_true_vide_mitose.wav
+311000,redtext,empty,True,+
+311350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+319000,sound,bip,True,bip_court.wav
+319350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+327000,text,empty,True,+
+333000,redtext,empty,True,+
+333350,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+341000,sound,bip,True,bip_court.wav
+341350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+349000,sound,bip,True,bip_court.wav
+349350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+357000,sound,bip,True,bip_court.wav
+357350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+365000,redtext,empty,True,+
+365350,rsvp,tom,true,Selon les vulcanologues l'Etna est toujours en activité.
+373000,redtext,empty,True,+
+373350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+381000,redtext,empty,True,+
+381350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+389000,text,empty,True,+
+396000,sound,bip,True,bip_court.wav
+396350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+404000,sound,bip,True,bip_court.wav
+404350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+412000,sound,bip,True,bip_court.wav
+412350,sound,colorlessg,false,304_colorlessg_25_false_vide_unefemmedetraction.wav
+420000,redtext,empty,True,+
+420350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+428000,sound,bip,True,bip_court.wav
+428350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+436000,sound,bip,True,bip_court.wav
+436350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+444000,sound,bip,True,bip_court.wav
+444350,sound,general,true,125_general_14_true_vide_chenilles.wav
+452000,redtext,empty,True,+
+452350,rsvp,control,false,Histoire jours frère société café armée saint états.
+460000,redtext,empty,True,+
+460350,rsvp,control,false,Aux les qui duquel les sont que selon ce le dans.
+468000,redtext,empty,True,+
+468350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+476000,redtext,empty,True,+
+476350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+484000,redtext,empty,True,+
+484350,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+492000,text,empty,True,+
+499000,sound,bip,True,bip_court.wav
+499350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+507000,redtext,empty,True,+
+507350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+515000,sound,bip,True,bip_court.wav
+515350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+523000,redtext,empty,True,+
+523350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+531000,redtext,empty,True,+
+531350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+539000,redtext,empty,True,+
+539350,rsvp,colorlessg,false,D'après les compagnies la collectivité a la vache d'une terre.
+547000,sound,bip,True,bip_court.wav
+547350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+555000,redtext,empty,True,+
+555350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+563000,text,empty,True,+

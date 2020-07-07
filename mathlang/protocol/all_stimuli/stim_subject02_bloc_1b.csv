@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+10000,redtext,empty,True,+
+10350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+18000,sound,bip,True,bip_court.wav
+18350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+50000,redtext,empty,True,+
+50350,rsvp,geomfact,true,Un carré est un rectangle aux côtés égaux.
+58000,sound,bip,True,bip_court.wav
+58350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+66000,redtext,empty,True,+
+66350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+74000,sound,bip,True,bip_court.wav
+74350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+82000,text,empty,True,+
+87000,sound,bip,True,bip_court.wav
+87350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+95000,sound,bip,True,bip_court.wav
+95350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+103000,sound,bip,True,bip_court.wav
+103350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+111000,redtext,empty,True,+
+111350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+119000,sound,bip,True,bip_court.wav
+119350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+127000,redtext,empty,True,+
+127350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+135000,text,empty,True,+
+141000,sound,bip,True,bip_court.wav
+141350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+149000,sound,bip,True,bip_court.wav
+149350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+157000,redtext,empty,True,+
+157350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+165000,sound,bip,True,bip_court.wav
+165350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+173000,redtext,empty,True,+
+173350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+181000,text,empty,True,+
+188000,redtext,empty,True,+
+188350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+196000,redtext,empty,True,+
+196350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+204000,redtext,empty,True,+
+204350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+212000,redtext,empty,True,+
+212350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+220000,text,empty,True,+
+228000,redtext,empty,True,+
+228350,rsvp,geomfact,false,Des lignes perpendiculaires forment un angle aigu.
+236000,sound,bip,True,bip_court.wav
+236350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+244000,redtext,empty,True,+
+244350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+252000,sound,bip,True,bip_court.wav
+252350,sound,tom,true,15_tom_16_true_faux_creationistes.wav
+260000,redtext,empty,True,+
+260350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+268000,sound,bip,True,bip_court.wav
+268350,sound,general,false,31_general_33_false_vide_lapleinelune.wav
+276000,text,empty,True,+
+284000,redtext,empty,True,+
+284350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+292000,redtext,empty,True,+
+292350,rsvp,control,false,Est le une tandis comme sans te pour mais dans cependant.
+300000,sound,bip,True,bip_court.wav
+300350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+308000,sound,bip,True,bip_court.wav
+308350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+316000,redtext,empty,True,+
+316350,rsvp,context,false,Au Kenya les lacs des plaines gèlent régulièrement.
+324000,text,empty,True,+
+331000,redtext,empty,True,+
+331350,rsvp,arithprin,false,Une somme de fractions est toujours un nombre entier.
+339000,redtext,empty,True,+
+339350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+347000,sound,bip,True,bip_court.wav
+347350,sound,context,false,212_context_37_false_faux_surmars.wav
+355000,sound,bip,True,bip_court.wav
+355350,sound,context,true,45_context_11_true_faux_londres.wav
+363000,redtext,empty,True,+
+363350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+371000,redtext,empty,True,+
+371350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+379000,sound,bip,True,bip_court.wav
+379350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+387000,redtext,empty,True,+
+387350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+395000,text,empty,True,+
+402000,redtext,empty,True,+
+402350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+410000,sound,bip,True,bip_court.wav
+410350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+418000,sound,bip,True,bip_court.wav
+418350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+426000,text,empty,True,+
+431000,redtext,empty,True,+
+431350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+439000,sound,bip,True,bip_court.wav
+439350,sound,context,false,126_context_24_false_vrai_burundi.wav
+447000,sound,bip,True,bip_court.wav
+447350,sound,general,true,116_general_06_true_vide_canari.wav
+455000,sound,bip,True,bip_court.wav
+455350,sound,arithprin,false,175_arithprin_31_false_vide_ladifference.wav
+463000,redtext,empty,True,+
+463350,rsvp,arithprin,false,Le carré d'un nombre négatif est négatif.
+471000,sound,bip,True,bip_court.wav
+471350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+479000,redtext,empty,True,+
+479350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+487000,redtext,empty,True,+
+487350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+495000,redtext,empty,True,+
+495350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+503000,redtext,empty,True,+
+503350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+511000,redtext,empty,True,+
+511350,rsvp,general,false,Jupiter est la plus petite planète du système solaire.
+519000,sound,bip,True,bip_court.wav
+519350,sound,arithfact,true,318_arithfact_09_true_vide_quarantecinqest.wav
+527000,redtext,empty,True,+
+527350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+535000,sound,bip,True,bip_court.wav
+535350,sound,context,true,191_context_01_true_vrai_apekin.wav
+543000,sound,bip,True,bip_court.wav
+543350,sound,general,true,177_general_05_true_vide_labaleine.wav
+551000,sound,bip,True,bip_court.wav
+551350,sound,arithfact,true,119_arithfact_05_true_vide_nombrevingtsept.wav
+559000,redtext,empty,True,+
+559350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+567000,text,empty,True,+

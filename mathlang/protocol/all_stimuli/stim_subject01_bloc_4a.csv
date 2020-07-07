@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+10000,redtext,empty,True,+
+10350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+18000,sound,bip,True,bip_court.wav
+18350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,arithprin,true,244_arithprin_17_true_vide_additionnerfractions.wav
+58000,sound,bip,True,bip_court.wav
+58350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+66000,text,empty,True,+
+70000,sound,bip,True,bip_court.wav
+70350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+78000,redtext,empty,True,+
+78350,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+86000,sound,bip,True,bip_court.wav
+86350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+94000,sound,bip,True,bip_court.wav
+94350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+102000,text,empty,True,+
+110000,sound,bip,True,bip_court.wav
+110350,sound,context,false,251_context_27_false_vrai_parisvoielactee.wav
+118000,redtext,empty,True,+
+118350,rsvp,general,false,La terre tourne autour de la planète Venus.
+126000,sound,bip,True,bip_court.wav
+126350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+134000,redtext,empty,True,+
+134350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+142000,redtext,empty,True,+
+142350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+150000,sound,bip,True,bip_court.wav
+150350,sound,general,false,216_general_32_false_vide_lavapeurdeau.wav
+158000,text,empty,True,+
+163000,redtext,empty,True,+
+163350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+171000,redtext,empty,True,+
+171350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+179000,sound,bip,True,bip_court.wav
+179350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+187000,redtext,empty,True,+
+187350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+195000,sound,bip,True,bip_court.wav
+195350,sound,geomfact,true,204_geomfact_15_true_vide_diametrecercle.wav
+203000,sound,bip,True,bip_court.wav
+203350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+211000,sound,bip,True,bip_court.wav
+211350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+219000,sound,bip,True,bip_court.wav
+219350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+227000,redtext,empty,True,+
+227350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+235000,redtext,empty,True,+
+235350,rsvp,tom,false,Pour Hitler les juifs sont des hommes comme les autres.
+243000,text,empty,True,+
+248000,redtext,empty,True,+
+248350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+256000,sound,bip,True,bip_court.wav
+256350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+264000,text,empty,True,+
+268000,redtext,empty,True,+
+268350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+276000,redtext,empty,True,+
+276350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+284000,sound,bip,True,bip_court.wav
+284350,sound,context,true,217_context_15_true_faux_enchine.wav
+292000,sound,bip,True,bip_court.wav
+292350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+300000,sound,bip,True,bip_court.wav
+300350,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+308000,sound,bip,True,bip_court.wav
+308350,sound,control,false,230_control_34_false_vide_membresinterieur.wav
+316000,redtext,empty,True,+
+316350,rsvp,context,true,En France le homard est un aliment raffiné.
+324000,redtext,empty,True,+
+324350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+332000,text,empty,True,+
+336000,redtext,empty,True,+
+336350,rsvp,tom,true,Pour Mowgli la panthère noire est un animal affectueux.
+344000,sound,bip,True,bip_court.wav
+344350,sound,context,false,212_context_37_false_faux_surmars.wav
+352000,redtext,empty,True,+
+352350,rsvp,control,false,Faux geler obligés semaine proposer doux carré fois.
+360000,redtext,empty,True,+
+360350,rsvp,geomfact,false,Un triangle isocèle a plusieurs axes de symétrie.
+368000,redtext,empty,True,+
+368350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+376000,sound,bip,True,bip_court.wav
+376350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+384000,redtext,empty,True,+
+384350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+392000,text,empty,True,+
+398000,redtext,empty,True,+
+398350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+406000,sound,bip,True,bip_court.wav
+406350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+414000,redtext,empty,True,+
+414350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+422000,redtext,empty,True,+
+422350,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+430000,sound,bip,True,bip_court.wav
+430350,sound,arithfact,true,183_arithfact_19_true_vide_quarantedeuxmoins.wav
+438000,sound,bip,True,bip_court.wav
+438350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+446000,redtext,empty,True,+
+446350,rsvp,arithfact,false,Sept fois sept est plus grand que le chiffre cinquante quatre.
+454000,text,empty,True,+
+459000,sound,bip,True,bip_court.wav
+459350,sound,general,true,177_general_05_true_vide_labaleine.wav
+467000,sound,bip,True,bip_court.wav
+467350,sound,arithprin,false,165_arithprin_39_false_vide_lordreselonlequel.wav
+475000,redtext,empty,True,+
+475350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+483000,sound,bip,True,bip_court.wav
+483350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+491000,sound,bip,True,bip_court.wav
+491350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+499000,redtext,empty,True,+
+499350,rsvp,arithprin,true,Tous les nombres entiers sont divisibles par un.
+507000,redtext,empty,True,+
+507350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+515000,redtext,empty,True,+
+515350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+523000,redtext,empty,True,+
+523350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+531000,sound,bip,True,bip_court.wav
+531350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+539000,redtext,empty,True,+
+539350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+547000,redtext,empty,True,+
+547350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+555000,text,empty,True,+

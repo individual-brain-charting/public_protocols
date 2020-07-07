@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+10000,sound,bip,True,bip_court.wav
+10350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+18000,redtext,empty,True,+
+18350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+26000,sound,bip,True,bip_court.wav
+26350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+34000,redtext,empty,True,+
+34350,rsvp,tom,false,D'après Mère Teresa la haine est une émotion positive.
+42000,redtext,empty,True,+
+42350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+50000,redtext,empty,True,+
+50350,rsvp,context,true,En Irlande avoir les cheveux roux est assez courant.
+58000,text,empty,True,+
+66000,sound,bip,True,bip_court.wav
+66350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+74000,redtext,empty,True,+
+74350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+82000,redtext,empty,True,+
+82350,rsvp,control,false,Poile choisis forêt vertes saison canapé doivent.
+90000,sound,bip,True,bip_court.wav
+90350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+98000,redtext,empty,True,+
+98350,rsvp,tom,true,Selon les écrivains l'Odyssée est un chef d'oeuvre littéraire.
+106000,sound,bip,True,bip_court.wav
+106350,sound,tom,false,184_tom_34_false_faux_poutine.wav
+114000,sound,bip,True,bip_court.wav
+114350,sound,colorlessg,false,19_colorlessg_16_false_vide_artiste.wav
+122000,text,empty,True,+
+130000,redtext,empty,True,+
+130350,rsvp,colorlessg,false,D'après les compagnies la collectivité a la vache d'une terre.
+138000,sound,bip,True,bip_court.wav
+138350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+146000,sound,bip,True,bip_court.wav
+146350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+154000,sound,bip,True,bip_court.wav
+154350,sound,context,false,97_context_40_false_faux_japon.wav
+162000,redtext,empty,True,+
+162350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+170000,sound,bip,True,bip_court.wav
+170350,sound,general,true,177_general_05_true_vide_labaleine.wav
+178000,sound,bip,True,bip_court.wav
+178350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+186000,redtext,empty,True,+
+186350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+194000,sound,bip,True,bip_court.wav
+194350,sound,arithfact,true,119_arithfact_05_true_vide_nombrevingtsept.wav
+202000,text,empty,True,+
+207000,sound,bip,True,bip_court.wav
+207350,sound,geomfact,false,225_geomfact_36_false_vide_untriangleaplus.wav
+215000,redtext,empty,True,+
+215350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+223000,redtext,empty,True,+
+223350,rsvp,arithprin,false,Tout nombre réel peut être écrit comme une fraction.
+231000,sound,bip,True,bip_court.wav
+231350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+239000,redtext,empty,True,+
+239350,rsvp,geomfact,true,Un carré possède des axes de symétrie.
+247000,redtext,empty,True,+
+247350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+255000,sound,bip,True,bip_court.wav
+255350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+263000,redtext,empty,True,+
+263350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+271000,redtext,empty,True,+
+271350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+279000,text,empty,True,+
+287000,redtext,empty,True,+
+287350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+295000,redtext,empty,True,+
+295350,rsvp,colorlessg,false,L’espoir d’oignon lisse et brun fait joli et gras.
+303000,sound,bip,True,bip_court.wav
+303350,sound,geomfact,true,104_geomfact_07_true_vide_losanges.wav
+311000,redtext,empty,True,+
+311350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+319000,sound,bip,True,bip_court.wav
+319350,sound,arithfact,false,115_arithfact_27_false_vide_multiplicationquatre.wav
+327000,redtext,empty,True,+
+327350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+335000,redtext,empty,True,+
+335350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+343000,text,empty,True,+
+351000,sound,bip,True,bip_court.wav
+351350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+359000,sound,bip,True,bip_court.wav
+359350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+367000,sound,bip,True,bip_court.wav
+367350,sound,context,true,26_context_17_true_faux_londres.wav
+375000,redtext,empty,True,+
+375350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+383000,redtext,empty,True,+
+383350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+391000,redtext,empty,True,+
+391350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+399000,sound,bip,True,bip_court.wav
+399350,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+407000,sound,bip,True,bip_court.wav
+407350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+415000,sound,bip,True,bip_court.wav
+415350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+423000,text,empty,True,+
+430000,redtext,empty,True,+
+430350,rsvp,context,true,A San Francisco les températures sont clémentes.
+438000,redtext,empty,True,+
+438350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+446000,sound,bip,True,bip_court.wav
+446350,sound,control,false,186_control_23_false_vide_douceurpoisson.wav
+454000,sound,bip,True,bip_court.wav
+454350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+462000,redtext,empty,True,+
+462350,rsvp,general,true,Le calendrier grégorien est utilisé dans la plupart des pays occidentaux.
+470000,sound,bip,True,bip_court.wav
+470350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+478000,redtext,empty,True,+
+478350,rsvp,control,false,Faux geler obligés semaine proposer doux carré fois.
+486000,redtext,empty,True,+
+486350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+494000,text,empty,True,+
+498000,redtext,empty,True,+
+498350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+506000,sound,bip,True,bip_court.wav
+506350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+514000,text,empty,True,+
+520000,sound,bip,True,bip_court.wav
+520350,sound,control,false,7_control_07_false_vide_dapres.wav
+528000,sound,bip,True,bip_court.wav
+528350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+536000,sound,bip,True,bip_court.wav
+536350,sound,arithfact,false,211_arithfact_30_false_vide_trentecinqmoins.wav
+544000,sound,bip,True,bip_court.wav
+544350,sound,general,false,38_general_34_false_vide_hiver.wav
+552000,sound,bip,True,bip_court.wav
+552350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+560000,redtext,empty,True,+
+560350,rsvp,control,false,Compte production éléments demander courant amour fruits.
+568000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,control,false,314_control_37_false_vide_nombrevoie.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,geomfact,true,307_geomfact_05_true_vide_lignesparalleles.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,colorlessg,false,316_colorlessg_23_false_vide_touslescafes.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,arithfact,false,4_arithfact_28_false_vide_vingttrois.wav
+42000,redtext,empty,True,+
+42350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+50000,text,empty,True,+
+58000,sound,bip,True,bip_court.wav
+58350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+66000,redtext,empty,True,+
+66350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+74000,sound,bip,True,bip_court.wav
+74350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+82000,sound,bip,True,bip_court.wav
+82350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+90000,redtext,empty,True,+
+90350,rsvp,geomfact,true,Un carré possède des axes de symétrie.
+98000,redtext,empty,True,+
+98350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+106000,text,empty,True,+
+112000,redtext,empty,True,+
+112350,rsvp,tom,true,Selon les vulcanologues l'Etna est toujours en activité.
+120000,redtext,empty,True,+
+120350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+128000,redtext,empty,True,+
+128350,rsvp,general,true,Les flocons de neige ont des formes très variées.
+136000,sound,bip,True,bip_court.wav
+136350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+144000,redtext,empty,True,+
+144350,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+152000,sound,bip,True,bip_court.wav
+152350,sound,control,false,294_control_02_false_vide_unmependant.wav
+160000,sound,bip,True,bip_court.wav
+160350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+168000,redtext,empty,True,+
+168350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+176000,redtext,empty,True,+
+176350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+184000,text,empty,True,+
+192000,redtext,empty,True,+
+192350,rsvp,context,false,En Amazonie les araignées sont des animaux sans danger.
+200000,redtext,empty,True,+
+200350,rsvp,colorlessg,false,La décoration se déduit grâce à l'espoir moléculaire.
+208000,redtext,empty,True,+
+208350,rsvp,arithprin,true,Un nombre positif fois un nombre négatif donne un nombre négatif.
+216000,redtext,empty,True,+
+216350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+224000,text,empty,True,+
+228000,sound,bip,True,bip_court.wav
+228350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+236000,redtext,empty,True,+
+236350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+244000,text,empty,True,+
+248000,redtext,empty,True,+
+248350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+256000,sound,bip,True,bip_court.wav
+256350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+264000,sound,bip,True,bip_court.wav
+264350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+272000,sound,bip,True,bip_court.wav
+272350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+280000,text,empty,True,+
+285000,redtext,empty,True,+
+285350,rsvp,general,false,La vapeur d'eau se condense uniquement sur les arbres.
+293000,sound,bip,True,bip_court.wav
+293350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+301000,redtext,empty,True,+
+301350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+309000,sound,bip,True,bip_court.wav
+309350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+317000,sound,bip,True,bip_court.wav
+317350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+325000,sound,bip,True,bip_court.wav
+325350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+333000,sound,bip,True,bip_court.wav
+333350,sound,arithprin,false,96_arithprin_40_false_vide_nombrenonnul.wav
+341000,redtext,empty,True,+
+341350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+349000,text,empty,True,+
+354000,redtext,empty,True,+
+354350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+362000,redtext,empty,True,+
+362350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+370000,sound,bip,True,bip_court.wav
+370350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+378000,sound,bip,True,bip_court.wav
+378350,sound,context,false,251_context_27_false_vrai_parisvoielactee.wav
+386000,redtext,empty,True,+
+386350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+394000,redtext,empty,True,+
+394350,rsvp,arithprin,false,Un nombre auquel on soustrait zéro reste égal à lui même.
+402000,text,empty,True,+
+408000,sound,bip,True,bip_court.wav
+408350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+416000,sound,bip,True,bip_court.wav
+416350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+424000,redtext,empty,True,+
+424350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+432000,sound,bip,True,bip_court.wav
+432350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+440000,redtext,empty,True,+
+440350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+448000,redtext,empty,True,+
+448350,rsvp,control,false,Faux geler obligés semaine proposer doux carré fois.
+456000,sound,bip,True,bip_court.wav
+456350,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+464000,sound,bip,True,bip_court.wav
+464350,sound,general,true,124_general_17_true_vide_fevrier.wav
+472000,redtext,empty,True,+
+472350,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+480000,redtext,empty,True,+
+480350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+488000,redtext,empty,True,+
+488350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+496000,sound,bip,True,bip_court.wav
+496350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+504000,redtext,empty,True,+
+504350,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+512000,redtext,empty,True,+
+512350,rsvp,tom,true,Pour Mowgli la panthère noire est un animal affectueux.
+520000,sound,bip,True,bip_court.wav
+520350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+528000,redtext,empty,True,+
+528350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+536000,sound,bip,True,bip_court.wav
+536350,sound,colorlessg,false,57_colorlessg_04_false_vide_selonlebois.wav
+544000,sound,bip,True,bip_court.wav
+544350,sound,context,true,26_context_17_true_faux_londres.wav
+552000,sound,bip,True,bip_court.wav
+552350,sound,geomfact,true,104_geomfact_07_true_vide_losanges.wav
+560000,text,empty,True,+

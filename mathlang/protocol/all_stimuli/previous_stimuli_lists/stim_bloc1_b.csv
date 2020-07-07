@@ -1,0 +1,129 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+10350,redtext,empty,True,+
+10700,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+18700,redtext,empty,True,+
+19050,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+27050,sound,bip,True,bip_court.wav
+27400,sound,context,false,192_context_32_false_faux_enallemagne.wav
+35400,sound,bip,True,bip_court.wav
+35750,sound,tom,false,193_tom_22_false_vrai_johnnyhallyday.wav
+43750,redtext,empty,True,+
+44100,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+52100,redtext,empty,True,+
+52450,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+60450,redtext,empty,True,+
+60800,rsvp,context,true,A Londres les autobus ont des étages.
+68800,redtext,empty,True,+
+69150,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+77150,sound,bip,True,bip_court.wav
+77500,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+85500,sound,bip,True,bip_court.wav
+85850,sound,general,false,91_general_23_false_vide_alguesvertes.wav
+93850,redtext,empty,True,+
+94200,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+102200,sound,bip,True,bip_court.wav
+102550,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+110550,sound,bip,True,bip_court.wav
+110900,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+118900,redtext,empty,True,+
+119250,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+127250,sound,bip,True,bip_court.wav
+127600,sound,general,false,214_general_24_false_vide_lespoissons.wav
+135600,redtext,empty,True,+
+135950,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+143950,redtext,empty,True,+
+144300,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+152300,sound,bip,True,bip_court.wav
+152650,sound,tom,true,222_tom_02_true_vrai_dapresgalilee.wav
+160650,sound,bip,True,bip_court.wav
+161000,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+169000,redtext,empty,True,+
+169350,rsvp,control,false,Est le une tandis comme sans te pour mais dans cependant.
+177350,sound,bip,True,bip_court.wav
+177700,sound,general,true,213_general_03_true_vide_lecameleon.wav
+185700,redtext,empty,True,+
+186050,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+194050,redtext,empty,True,+
+194400,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+202400,sound,bip,True,bip_court.wav
+202750,sound,context,true,64_context_12_true_faux_selonlabible.wav
+210750,redtext,empty,True,+
+211100,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+219100,sound,bip,True,bip_court.wav
+219450,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+227450,sound,bip,True,bip_court.wav
+227800,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+235800,sound,bip,True,bip_court.wav
+236150,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+244150,sound,bip,True,bip_court.wav
+244500,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+252500,sound,bip,True,bip_court.wav
+252850,sound,control,false,7_control_07_false_vide_dapres.wav
+260850,sound,bip,True,bip_court.wav
+261200,sound,arithprin,false,10_arithprin_23_false_vide_carreimpair.wav
+269200,sound,bip,True,bip_court.wav
+269550,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+277550,sound,bip,True,bip_court.wav
+277900,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+285900,redtext,empty,True,+
+286250,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+294250,sound,bip,True,bip_court.wav
+294600,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+302600,sound,bip,True,bip_court.wav
+302950,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+310950,sound,bip,True,bip_court.wav
+311300,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+319300,redtext,empty,True,+
+319650,rsvp,colorlessg,false,Le drapeau est une vieille analyse à froid de façon.
+327650,sound,bip,True,bip_court.wav
+328000,sound,general,true,302_general_04_true_vide_leaugele.wav
+336000,sound,bip,True,bip_court.wav
+336350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+344350,sound,bip,True,bip_court.wav
+344700,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+352700,sound,bip,True,bip_court.wav
+353050,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+361050,redtext,empty,True,+
+361400,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+369400,redtext,empty,True,+
+369750,rsvp,context,true,A Pékin la pollution est un problème majeur.
+377750,redtext,empty,True,+
+378100,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+386100,redtext,empty,True,+
+386450,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+394450,sound,bip,True,bip_court.wav
+394800,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+402800,redtext,empty,True,+
+403150,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+411150,sound,bip,True,bip_court.wav
+411500,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+419500,sound,bip,True,bip_court.wav
+419850,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+427850,redtext,empty,True,+
+428200,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+436200,redtext,empty,True,+
+436550,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+444550,sound,bip,True,bip_court.wav
+444900,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+452900,redtext,empty,True,+
+453250,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+461250,redtext,empty,True,+
+461600,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+469600,redtext,empty,True,+
+469950,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+477950,redtext,empty,True,+
+478300,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+486300,redtext,empty,True,+
+486650,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+494650,redtext,empty,True,+
+495000,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+503000,redtext,empty,True,+
+503350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+511350,redtext,empty,True,+
+511700,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+519700,sound,bip,True,bip_court.wav
+520050,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+528050,redtext,empty,True,+
+528400,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+536400,text,empty,True,+

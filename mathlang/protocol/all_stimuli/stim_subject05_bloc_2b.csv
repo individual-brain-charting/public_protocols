@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+10000,redtext,empty,True,+
+10350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+18000,redtext,empty,True,+
+18350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+26000,sound,bip,True,bip_court.wav
+26350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,control,false,89_control_10_false_vide_auxlesaussitot.wav
+42000,redtext,empty,True,+
+42350,rsvp,general,true,La photosynthèse se produit grâce à l'énergie lumineuse.
+50000,sound,bip,True,bip_court.wav
+50350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+58000,sound,bip,True,bip_court.wav
+58350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+66000,text,empty,True,+
+73000,sound,bip,True,bip_court.wav
+73350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+81000,sound,bip,True,bip_court.wav
+81350,sound,general,true,51_general_09_true_vide_flocons.wav
+89000,sound,bip,True,bip_court.wav
+89350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+97000,redtext,empty,True,+
+97350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+105000,redtext,empty,True,+
+105350,rsvp,arithfact,true,Soustraire trois du nombre vingt donne dix sept.
+113000,text,empty,True,+
+117000,sound,bip,True,bip_court.wav
+117350,sound,control,false,305_control_40_false_vide_campagnelangage.wav
+125000,redtext,empty,True,+
+125350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+133000,sound,bip,True,bip_court.wav
+133350,sound,general,true,180_general_08_true_vide_lesperles.wav
+141000,redtext,empty,True,+
+141350,rsvp,context,true,A Londres les autobus ont des étages.
+149000,sound,bip,True,bip_court.wav
+149350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+157000,redtext,empty,True,+
+157350,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+165000,sound,bip,True,bip_court.wav
+165350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+173000,text,empty,True,+
+181000,redtext,empty,True,+
+181350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+189000,sound,bip,True,bip_court.wav
+189350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+197000,redtext,empty,True,+
+197350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+205000,sound,bip,True,bip_court.wav
+205350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+213000,sound,bip,True,bip_court.wav
+213350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+221000,redtext,empty,True,+
+221350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+229000,sound,bip,True,bip_court.wav
+229350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+237000,sound,bip,True,bip_court.wav
+237350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+245000,text,empty,True,+
+253000,sound,bip,True,bip_court.wav
+253350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+261000,sound,bip,True,bip_court.wav
+261350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+269000,redtext,empty,True,+
+269350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+277000,redtext,empty,True,+
+277350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+285000,sound,bip,True,bip_court.wav
+285350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+293000,redtext,empty,True,+
+293350,rsvp,arithprin,true,Tous les nombres entiers sont divisibles par un.
+301000,text,empty,True,+
+306000,redtext,empty,True,+
+306350,rsvp,geomfact,false,Plus un triangle est grand
+314000,sound,bip,True,bip_court.wav
+314350,sound,context,true,3_context_08_true_vrai_australie.wav
+322000,sound,bip,True,bip_court.wav
+322350,sound,context,false,130_context_38_false_faux_kenya.wav
+330000,redtext,empty,True,+
+330350,rsvp,tom,true,Selon les chrétiens fondamentalistes Adam est notre ancêtre.
+338000,redtext,empty,True,+
+338350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+346000,text,empty,True,+
+351000,sound,bip,True,bip_court.wav
+351350,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+359000,redtext,empty,True,+
+359350,rsvp,arithfact,false,Le nombre soixante quatorze est plus grand que cent.
+367000,redtext,empty,True,+
+367350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+375000,text,empty,True,+
+379000,redtext,empty,True,+
+379350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+387000,redtext,empty,True,+
+387350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+395000,sound,bip,True,bip_court.wav
+395350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+403000,redtext,empty,True,+
+403350,rsvp,tom,true,Selon les vulcanologues l'Etna est toujours en activité.
+411000,redtext,empty,True,+
+411350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+419000,text,empty,True,+
+423000,sound,bip,True,bip_court.wav
+423350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+431000,sound,bip,True,bip_court.wav
+431350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+439000,sound,bip,True,bip_court.wav
+439350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+447000,sound,bip,True,bip_court.wav
+447350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+455000,redtext,empty,True,+
+455350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+463000,redtext,empty,True,+
+463350,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+471000,redtext,empty,True,+
+471350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+479000,sound,bip,True,bip_court.wav
+479350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+487000,sound,bip,True,bip_court.wav
+487350,sound,arithprin,true,161_arithprin_18_true_vide_unefraction.wav
+495000,redtext,empty,True,+
+495350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+503000,sound,bip,True,bip_court.wav
+503350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+511000,redtext,empty,True,+
+511350,rsvp,arithfact,true,La racine carrée de trente six est plus grand que cinq.
+519000,redtext,empty,True,+
+519350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+527000,redtext,empty,True,+
+527350,rsvp,colorlessg,false,En vérité tous les gouvernements doivent retrouver à l'année.
+535000,redtext,empty,True,+
+535350,rsvp,control,false,Aux les qui duquel les sont que selon ce le dans.
+543000,sound,bip,True,bip_court.wav
+543350,sound,arithfact,false,4_arithfact_28_false_vide_vingttrois.wav
+551000,sound,bip,True,bip_court.wav
+551350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+559000,text,empty,True,+

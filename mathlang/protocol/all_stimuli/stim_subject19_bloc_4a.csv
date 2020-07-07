@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+10000,redtext,empty,True,+
+10350,rsvp,geomfact,false,Un carré peut se diviser en triangles équilatéraux.
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+34000,redtext,empty,True,+
+34350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+42000,sound,bip,True,bip_court.wav
+42350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,control,false,230_control_34_false_vide_membresinterieur.wav
+58000,redtext,empty,True,+
+58350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+66000,sound,bip,True,bip_court.wav
+66350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+74000,text,empty,True,+
+79000,redtext,empty,True,+
+79350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+87000,redtext,empty,True,+
+87350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+95000,sound,bip,True,bip_court.wav
+95350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+103000,redtext,empty,True,+
+103350,rsvp,geomfact,false,Plus un triangle est grand
+111000,redtext,empty,True,+
+111350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+119000,redtext,empty,True,+
+119350,rsvp,tom,true,Pour les créationnistes Dieu est à l'origine de la vie.
+127000,redtext,empty,True,+
+127350,rsvp,arithprin,false,Le résultat d'une division est toujours un nombre entier.
+135000,text,empty,True,+
+139000,sound,bip,True,bip_court.wav
+139350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+147000,sound,bip,True,bip_court.wav
+147350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+155000,redtext,empty,True,+
+155350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+163000,sound,bip,True,bip_court.wav
+163350,sound,arithfact,true,102_arithfact_08_true_vide_racinecarree.wav
+171000,sound,bip,True,bip_court.wav
+171350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+179000,redtext,empty,True,+
+179350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+187000,redtext,empty,True,+
+187350,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+195000,text,empty,True,+
+200000,redtext,empty,True,+
+200350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+208000,sound,bip,True,bip_court.wav
+208350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+216000,redtext,empty,True,+
+216350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+224000,redtext,empty,True,+
+224350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+232000,sound,bip,True,bip_court.wav
+232350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+240000,text,empty,True,+
+247000,redtext,empty,True,+
+247350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+255000,sound,bip,True,bip_court.wav
+255350,sound,control,false,305_control_40_false_vide_campagnelangage.wav
+263000,sound,bip,True,bip_court.wav
+263350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+271000,sound,bip,True,bip_court.wav
+271350,sound,colorlessg,false,57_colorlessg_04_false_vide_selonlebois.wav
+279000,redtext,empty,True,+
+279350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+287000,sound,bip,True,bip_court.wav
+287350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+295000,text,empty,True,+
+301000,redtext,empty,True,+
+301350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+309000,sound,bip,True,bip_court.wav
+309350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+317000,redtext,empty,True,+
+317350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+325000,sound,bip,True,bip_court.wav
+325350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+333000,redtext,empty,True,+
+333350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+341000,redtext,empty,True,+
+341350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+349000,text,empty,True,+
+355000,sound,bip,True,bip_court.wav
+355350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+363000,sound,bip,True,bip_court.wav
+363350,sound,context,true,45_context_11_true_faux_londres.wav
+371000,sound,bip,True,bip_court.wav
+371350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+379000,sound,bip,True,bip_court.wav
+379350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+387000,redtext,empty,True,+
+387350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+395000,sound,bip,True,bip_court.wav
+395350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+403000,redtext,empty,True,+
+403350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+411000,redtext,empty,True,+
+411350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+419000,sound,bip,True,bip_court.wav
+419350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+427000,redtext,empty,True,+
+427350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+435000,sound,bip,True,bip_court.wav
+435350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+443000,text,empty,True,+
+449000,sound,bip,True,bip_court.wav
+449350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+457000,redtext,empty,True,+
+457350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+465000,sound,bip,True,bip_court.wav
+465350,sound,general,true,54_general_07_true_vide_soleil.wav
+473000,text,empty,True,+
+480000,redtext,empty,True,+
+480350,rsvp,context,false,Dans le métro parisien les trains transportent des céréales.
+488000,redtext,empty,True,+
+488350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+496000,redtext,empty,True,+
+496350,rsvp,control,false,Demain manger solution guerre couleur boire chambre bruit.
+504000,redtext,empty,True,+
+504350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+512000,sound,bip,True,bip_court.wav
+512350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+520000,sound,bip,True,bip_court.wav
+520350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+528000,sound,bip,True,bip_court.wav
+528350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+536000,redtext,empty,True,+
+536350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+544000,sound,bip,True,bip_court.wav
+544350,sound,general,true,51_general_09_true_vide_flocons.wav
+552000,redtext,empty,True,+
+552350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+560000,text,empty,True,+

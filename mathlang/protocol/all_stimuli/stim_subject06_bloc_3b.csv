@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+10000,redtext,empty,True,+
+10350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,230_control_34_false_vide_membresinterieur.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+42000,text,empty,True,+
+47000,redtext,empty,True,+
+47350,rsvp,tom,true,Selon Pasteur la rage est une maladie mortelle.
+55000,sound,bip,True,bip_court.wav
+55350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+63000,sound,bip,True,bip_court.wav
+63350,sound,control,false,110_control_03_false_vide_quileestun.wav
+71000,sound,bip,True,bip_court.wav
+71350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+79000,redtext,empty,True,+
+79350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+87000,redtext,empty,True,+
+87350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+95000,redtext,empty,True,+
+95350,rsvp,tom,false,Pour Donald Trump les mexicains sont bienvenus aux Etats Unis.
+103000,sound,bip,True,bip_court.wav
+103350,sound,general,false,286_general_38_false_vide_levietnam.wav
+111000,sound,bip,True,bip_court.wav
+111350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+119000,text,empty,True,+
+123000,redtext,empty,True,+
+123350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+131000,sound,bip,True,bip_court.wav
+131350,sound,colorlessg,false,140_colorlessg_36_false_vide_bibliotheques.wav
+139000,redtext,empty,True,+
+139350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+147000,sound,bip,True,bip_court.wav
+147350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+155000,sound,bip,True,bip_court.wav
+155350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+163000,redtext,empty,True,+
+163350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+171000,text,empty,True,+
+176000,sound,bip,True,bip_court.wav
+176350,sound,tom,false,184_tom_34_false_faux_poutine.wav
+184000,redtext,empty,True,+
+184350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+192000,redtext,empty,True,+
+192350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+200000,redtext,empty,True,+
+200350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+208000,redtext,empty,True,+
+208350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+216000,redtext,empty,True,+
+216350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+224000,sound,bip,True,bip_court.wav
+224350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+232000,redtext,empty,True,+
+232350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+240000,redtext,empty,True,+
+240350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+248000,text,empty,True,+
+254000,sound,bip,True,bip_court.wav
+254350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+262000,sound,bip,True,bip_court.wav
+262350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+270000,text,empty,True,+
+275000,sound,bip,True,bip_court.wav
+275350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+283000,redtext,empty,True,+
+283350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+291000,sound,bip,True,bip_court.wav
+291350,sound,context,true,317_context_16_true_faux_aujapon.wav
+299000,redtext,empty,True,+
+299350,rsvp,arithfact,false,Sept fois sept est plus grand que le chiffre cinquante quatre.
+307000,sound,bip,True,bip_court.wav
+307350,sound,general,true,111_general_20_true_vide_mitose.wav
+315000,redtext,empty,True,+
+315350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+323000,sound,bip,True,bip_court.wav
+323350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+331000,redtext,empty,True,+
+331350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+339000,sound,bip,True,bip_court.wav
+339350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+347000,redtext,empty,True,+
+347350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+355000,text,empty,True,+
+363000,sound,bip,True,bip_court.wav
+363350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+371000,redtext,empty,True,+
+371350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+379000,sound,bip,True,bip_court.wav
+379350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+387000,redtext,empty,True,+
+387350,rsvp,arithprin,false,Le résultat d'une addition est toujours positif.
+395000,sound,bip,True,bip_court.wav
+395350,sound,arithfact,true,183_arithfact_19_true_vide_quarantedeuxmoins.wav
+403000,sound,bip,True,bip_court.wav
+403350,sound,context,false,192_context_32_false_faux_enallemagne.wav
+411000,text,empty,True,+
+418000,sound,bip,True,bip_court.wav
+418350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+426000,redtext,empty,True,+
+426350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+434000,sound,bip,True,bip_court.wav
+434350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+442000,sound,bip,True,bip_court.wav
+442350,sound,general,true,125_general_14_true_vide_chenilles.wav
+450000,sound,bip,True,bip_court.wav
+450350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+458000,sound,bip,True,bip_court.wav
+458350,sound,context,true,90_context_09_true_vrai_himalaya.wav
+466000,text,empty,True,+
+474000,redtext,empty,True,+
+474350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+482000,redtext,empty,True,+
+482350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+490000,sound,bip,True,bip_court.wav
+490350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+498000,redtext,empty,True,+
+498350,rsvp,tom,false,D'après les humoristes rire est mauvais pour la santé.
+506000,sound,bip,True,bip_court.wav
+506350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+514000,redtext,empty,True,+
+514350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+522000,redtext,empty,True,+
+522350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+530000,sound,bip,True,bip_court.wav
+530350,sound,colorlessg,false,257_colorlessg_30_false_vide_unboldepain.wav
+538000,redtext,empty,True,+
+538350,rsvp,general,true,Février est le mois de l'année le plus court.
+546000,redtext,empty,True,+
+546350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+554000,sound,bip,True,bip_court.wav
+554350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+562000,text,empty,True,+

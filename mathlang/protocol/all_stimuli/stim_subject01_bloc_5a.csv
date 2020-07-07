@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+10000,redtext,empty,True,+
+10350,rsvp,arithfact,false,Dix sept est la racine carrée de cent quatre vingt dix.
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+26000,text,empty,True,+
+30000,redtext,empty,True,+
+30350,rsvp,general,false,Le Vietnam est appelé le pays du soleil levant.
+38000,sound,bip,True,bip_court.wav
+38350,sound,general,true,266_general_16_true_vide_larose.wav
+46000,redtext,empty,True,+
+46350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+54000,sound,bip,True,bip_court.wav
+54350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+62000,sound,bip,True,bip_court.wav
+62350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+70000,redtext,empty,True,+
+70350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+78000,redtext,empty,True,+
+78350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+86000,text,empty,True,+
+90000,redtext,empty,True,+
+90350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+98000,redtext,empty,True,+
+98350,rsvp,arithprin,false,Le résultat d'une addition est toujours positif.
+106000,sound,bip,True,bip_court.wav
+106350,sound,arithfact,false,295_arithfact_26_false_vide_trenteseptestlamoitie.wav
+114000,sound,bip,True,bip_court.wav
+114350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+122000,sound,bip,True,bip_court.wav
+122350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+130000,sound,bip,True,bip_court.wav
+130350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+138000,sound,bip,True,bip_court.wav
+138350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+146000,sound,bip,True,bip_court.wav
+146350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+154000,sound,bip,True,bip_court.wav
+154350,sound,tom,false,193_tom_22_false_vrai_johnnyhallyday.wav
+162000,text,empty,True,+
+169000,redtext,empty,True,+
+169350,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+177000,redtext,empty,True,+
+177350,rsvp,arithfact,true,Quarante cinq est le résultat de quinze fois trois.
+185000,redtext,empty,True,+
+185350,rsvp,colorlessg,false,L’espoir d’oignon lisse et brun fait joli et gras.
+193000,text,empty,True,+
+198000,redtext,empty,True,+
+198350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+206000,sound,bip,True,bip_court.wav
+206350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+214000,redtext,empty,True,+
+214350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+222000,sound,bip,True,bip_court.wav
+222350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+230000,redtext,empty,True,+
+230350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+238000,redtext,empty,True,+
+238350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+246000,redtext,empty,True,+
+246350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+254000,text,empty,True,+
+260000,sound,bip,True,bip_court.wav
+260350,sound,geomfact,true,248_geomfact_02_true_vide_cotesduntriangle.wav
+268000,redtext,empty,True,+
+268350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+276000,redtext,empty,True,+
+276350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+284000,text,empty,True,+
+289000,sound,bip,True,bip_court.wav
+289350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+297000,sound,bip,True,bip_court.wav
+297350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+305000,sound,bip,True,bip_court.wav
+305350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+313000,sound,bip,True,bip_court.wav
+313350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+321000,sound,bip,True,bip_court.wav
+321350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+329000,sound,bip,True,bip_court.wav
+329350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+337000,redtext,empty,True,+
+337350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+345000,sound,bip,True,bip_court.wav
+345350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+353000,sound,bip,True,bip_court.wav
+353350,sound,control,false,294_control_02_false_vide_unmependant.wav
+361000,sound,bip,True,bip_court.wav
+361350,sound,colorlessg,false,257_colorlessg_30_false_vide_unboldepain.wav
+369000,text,empty,True,+
+375000,sound,bip,True,bip_court.wav
+375350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+383000,redtext,empty,True,+
+383350,rsvp,context,true,Au Japon manger bruyamment est une forme de politesse.
+391000,redtext,empty,True,+
+391350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+399000,redtext,empty,True,+
+399350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+407000,sound,bip,True,bip_court.wav
+407350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+415000,redtext,empty,True,+
+415350,rsvp,control,false,Aux les qui duquel les sont que selon ce le dans.
+423000,redtext,empty,True,+
+423350,rsvp,tom,true,Selon les écrivains l'Odyssée est un chef d'oeuvre littéraire.
+431000,redtext,empty,True,+
+431350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+439000,sound,bip,True,bip_court.wav
+439350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+447000,sound,bip,True,bip_court.wav
+447350,sound,geomfact,false,241_geomfact_32_false_vide_unrectanglenecomprend.wav
+455000,sound,bip,True,bip_court.wav
+455350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+463000,redtext,empty,True,+
+463350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+471000,text,empty,True,+
+477000,sound,bip,True,bip_court.wav
+477350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+485000,redtext,empty,True,+
+485350,rsvp,control,false,Demain manger solution guerre couleur boire chambre bruit.
+493000,redtext,empty,True,+
+493350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+501000,redtext,empty,True,+
+501350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+509000,sound,bip,True,bip_court.wav
+509350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+517000,redtext,empty,True,+
+517350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+525000,sound,bip,True,bip_court.wav
+525350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+533000,redtext,empty,True,+
+533350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+541000,sound,bip,True,bip_court.wav
+541350,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+549000,redtext,empty,True,+
+549350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+557000,text,empty,True,+

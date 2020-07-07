@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+10000,redtext,empty,True,+
+10350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+18000,redtext,empty,True,+
+18350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+26000,redtext,empty,True,+
+26350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+34000,redtext,empty,True,+
+34350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+42000,sound,bip,True,bip_court.wav
+42350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+58000,redtext,empty,True,+
+58350,rsvp,general,false,La terre tourne autour de la planète Venus.
+66000,text,empty,True,+
+74000,redtext,empty,True,+
+74350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+82000,redtext,empty,True,+
+82350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+90000,redtext,empty,True,+
+90350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+98000,redtext,empty,True,+
+98350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+106000,sound,bip,True,bip_court.wav
+106350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+114000,redtext,empty,True,+
+114350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+122000,sound,bip,True,bip_court.wav
+122350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+130000,redtext,empty,True,+
+130350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+138000,text,empty,True,+
+143000,sound,bip,True,bip_court.wav
+143350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+151000,sound,bip,True,bip_court.wav
+151350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+159000,sound,bip,True,bip_court.wav
+159350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+167000,sound,bip,True,bip_court.wav
+167350,sound,context,false,192_context_32_false_faux_enallemagne.wav
+175000,text,empty,True,+
+183000,redtext,empty,True,+
+183350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+191000,sound,bip,True,bip_court.wav
+191350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+199000,sound,bip,True,bip_court.wav
+199350,sound,context,true,290_context_18_true_faux_contespourenfants.wav
+207000,sound,bip,True,bip_court.wav
+207350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+215000,sound,bip,True,bip_court.wav
+215350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+223000,redtext,empty,True,+
+223350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+231000,sound,bip,True,bip_court.wav
+231350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+239000,sound,bip,True,bip_court.wav
+239350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+247000,sound,bip,True,bip_court.wav
+247350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+255000,text,empty,True,+
+259000,sound,bip,True,bip_court.wav
+259350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+267000,sound,bip,True,bip_court.wav
+267350,sound,control,false,7_control_07_false_vide_dapres.wav
+275000,redtext,empty,True,+
+275350,rsvp,colorlessg,false,D'après les compagnies la collectivité a la vache d'une terre.
+283000,redtext,empty,True,+
+283350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+291000,sound,bip,True,bip_court.wav
+291350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+299000,sound,bip,True,bip_court.wav
+299350,sound,arithfact,false,211_arithfact_30_false_vide_trentecinqmoins.wav
+307000,redtext,empty,True,+
+307350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+315000,redtext,empty,True,+
+315350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+323000,sound,bip,True,bip_court.wav
+323350,sound,tom,false,184_tom_34_false_faux_poutine.wav
+331000,sound,bip,True,bip_court.wav
+331350,sound,general,true,125_general_14_true_vide_chenilles.wav
+339000,text,empty,True,+
+344000,sound,bip,True,bip_court.wav
+344350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+352000,sound,bip,True,bip_court.wav
+352350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+360000,redtext,empty,True,+
+360350,rsvp,arithfact,true,Deux fois vingt quatre a comme résultat quarante huit.
+368000,sound,bip,True,bip_court.wav
+368350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+376000,text,empty,True,+
+381000,redtext,empty,True,+
+381350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+389000,sound,bip,True,bip_court.wav
+389350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+397000,redtext,empty,True,+
+397350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+405000,sound,bip,True,bip_court.wav
+405350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+413000,sound,bip,True,bip_court.wav
+413350,sound,arithfact,true,318_arithfact_09_true_vide_quarantecinqest.wav
+421000,sound,bip,True,bip_court.wav
+421350,sound,general,true,281_general_02_true_vide_latulipe.wav
+429000,sound,bip,True,bip_court.wav
+429350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+437000,text,empty,True,+
+441000,redtext,empty,True,+
+441350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+449000,redtext,empty,True,+
+449350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+457000,redtext,empty,True,+
+457350,rsvp,geomfact,false,Un rectangle a un seul axe de symétrie.
+465000,redtext,empty,True,+
+465350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+473000,text,empty,True,+
+480000,redtext,empty,True,+
+480350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+488000,redtext,empty,True,+
+488350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+496000,redtext,empty,True,+
+496350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+504000,redtext,empty,True,+
+504350,rsvp,colorlessg,false,En vérité tous les gouvernements doivent retrouver à l'année.
+512000,sound,bip,True,bip_court.wav
+512350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+520000,sound,bip,True,bip_court.wav
+520350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+528000,redtext,empty,True,+
+528350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+536000,redtext,empty,True,+
+536350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+544000,sound,bip,True,bip_court.wav
+544350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+552000,redtext,empty,True,+
+552350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+560000,text,empty,True,+

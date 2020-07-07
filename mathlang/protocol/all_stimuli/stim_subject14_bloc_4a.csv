@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+10000,redtext,empty,True,+
+10350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+18000,redtext,empty,True,+
+18350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+26000,redtext,empty,True,+
+26350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+34000,redtext,empty,True,+
+34350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+42000,sound,bip,True,bip_court.wav
+42350,sound,general,true,101_general_10_true_vide_noyauatome.wav
+50000,redtext,empty,True,+
+50350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+58000,redtext,empty,True,+
+58350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+66000,sound,bip,True,bip_court.wav
+66350,sound,arithfact,true,102_arithfact_08_true_vide_racinecarree.wav
+74000,sound,bip,True,bip_court.wav
+74350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+82000,text,empty,True,+
+88000,sound,bip,True,bip_court.wav
+88350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+96000,sound,bip,True,bip_court.wav
+96350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+104000,sound,bip,True,bip_court.wav
+104350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+112000,redtext,empty,True,+
+112350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+120000,text,empty,True,+
+127000,sound,bip,True,bip_court.wav
+127350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+135000,sound,bip,True,bip_court.wav
+135350,sound,general,true,180_general_08_true_vide_lesperles.wav
+143000,sound,bip,True,bip_court.wav
+143350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+151000,redtext,empty,True,+
+151350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+159000,sound,bip,True,bip_court.wav
+159350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+167000,sound,bip,True,bip_court.wav
+167350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+175000,text,empty,True,+
+180000,sound,bip,True,bip_court.wav
+180350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+188000,sound,bip,True,bip_court.wav
+188350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+196000,sound,bip,True,bip_court.wav
+196350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+204000,sound,bip,True,bip_court.wav
+204350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+212000,redtext,empty,True,+
+212350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+220000,redtext,empty,True,+
+220350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+228000,redtext,empty,True,+
+228350,rsvp,geomfact,false,Des lignes perpendiculaires forment un angle aigu.
+236000,redtext,empty,True,+
+236350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+244000,sound,bip,True,bip_court.wav
+244350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+252000,text,empty,True,+
+260000,sound,bip,True,bip_court.wav
+260350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+268000,redtext,empty,True,+
+268350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+276000,sound,bip,True,bip_court.wav
+276350,sound,tom,false,193_tom_22_false_vrai_johnnyhallyday.wav
+284000,sound,bip,True,bip_court.wav
+284350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+292000,redtext,empty,True,+
+292350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+300000,redtext,empty,True,+
+300350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+308000,redtext,empty,True,+
+308350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+316000,redtext,empty,True,+
+316350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+324000,text,empty,True,+
+331000,redtext,empty,True,+
+331350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+339000,redtext,empty,True,+
+339350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+347000,redtext,empty,True,+
+347350,rsvp,context,false,En Inde le dinar est la monnaie courante.
+355000,redtext,empty,True,+
+355350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+363000,sound,bip,True,bip_court.wav
+363350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+371000,redtext,empty,True,+
+371350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+379000,sound,bip,True,bip_court.wav
+379350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+387000,text,empty,True,+
+393000,redtext,empty,True,+
+393350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+401000,sound,bip,True,bip_court.wav
+401350,sound,geomfact,true,95_geomfact_01_true_vide_carrefigure.wav
+409000,sound,bip,True,bip_court.wav
+409350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+417000,sound,bip,True,bip_court.wav
+417350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+425000,sound,bip,True,bip_court.wav
+425350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+433000,sound,bip,True,bip_court.wav
+433350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+441000,text,empty,True,+
+445000,redtext,empty,True,+
+445350,rsvp,context,true,Dans les îles volcaniques le sable est noir.
+453000,redtext,empty,True,+
+453350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+461000,sound,bip,True,bip_court.wav
+461350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+469000,sound,bip,True,bip_court.wav
+469350,sound,control,false,294_control_02_false_vide_unmependant.wav
+477000,sound,bip,True,bip_court.wav
+477350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+485000,redtext,empty,True,+
+485350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+493000,redtext,empty,True,+
+493350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+501000,text,empty,True,+
+505000,sound,bip,True,bip_court.wav
+505350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+513000,redtext,empty,True,+
+513350,rsvp,colorlessg,false,La réaction brosse par elle même de longs zoos barbus.
+521000,redtext,empty,True,+
+521350,rsvp,control,false,Membres intérieur venir gros faisant papier dents.
+529000,sound,bip,True,bip_court.wav
+529350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+537000,sound,bip,True,bip_court.wav
+537350,sound,general,false,286_general_38_false_vide_levietnam.wav
+545000,redtext,empty,True,+
+545350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+553000,redtext,empty,True,+
+553350,rsvp,arithfact,false,Sept fois sept est plus grand que le chiffre cinquante quatre.
+561000,text,empty,True,+

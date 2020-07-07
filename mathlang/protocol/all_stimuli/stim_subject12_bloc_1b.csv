@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+10000,sound,bip,True,bip_court.wav
+10350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+34000,redtext,empty,True,+
+34350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+42000,text,empty,True,+
+50000,redtext,empty,True,+
+50350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+58000,sound,bip,True,bip_court.wav
+58350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+66000,redtext,empty,True,+
+66350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+74000,redtext,empty,True,+
+74350,rsvp,general,true,La tragédie classique est fondée sur une unité de lieu.
+82000,redtext,empty,True,+
+82350,rsvp,arithfact,true,Le double du nombre neuf est le nombre dix huit.
+90000,redtext,empty,True,+
+90350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+98000,text,empty,True,+
+103000,redtext,empty,True,+
+103350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+111000,sound,bip,True,bip_court.wav
+111350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+119000,sound,bip,True,bip_court.wav
+119350,sound,general,false,152_general_22_false_vide_petitvache.wav
+127000,sound,bip,True,bip_court.wav
+127350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+135000,redtext,empty,True,+
+135350,rsvp,arithprin,false,Tout nombre réel peut être écrit comme une fraction.
+143000,text,empty,True,+
+149000,sound,bip,True,bip_court.wav
+149350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+157000,sound,bip,True,bip_court.wav
+157350,sound,arithprin,true,312_arithprin_08_true_vide_unnombredivise.wav
+165000,redtext,empty,True,+
+165350,rsvp,colorlessg,false,Une mélancolie offre de piloter le pouvoir à ses savons chauds.
+173000,redtext,empty,True,+
+173350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+181000,sound,bip,True,bip_court.wav
+181350,sound,control,false,89_control_10_false_vide_auxlesaussitot.wav
+189000,sound,bip,True,bip_court.wav
+189350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+197000,text,empty,True,+
+205000,redtext,empty,True,+
+205350,rsvp,geomfact,true,Les angles d'un polygone régulier sont de la même taille.
+213000,redtext,empty,True,+
+213350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+221000,redtext,empty,True,+
+221350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+229000,redtext,empty,True,+
+229350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+237000,redtext,empty,True,+
+237350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+245000,sound,bip,True,bip_court.wav
+245350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+253000,redtext,empty,True,+
+253350,rsvp,context,true,A San Francisco les températures sont clémentes.
+261000,sound,bip,True,bip_court.wav
+261350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+269000,sound,bip,True,bip_court.wav
+269350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+277000,text,empty,True,+
+283000,sound,bip,True,bip_court.wav
+283350,sound,colorlessg,false,19_colorlessg_16_false_vide_artiste.wav
+291000,sound,bip,True,bip_court.wav
+291350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+299000,redtext,empty,True,+
+299350,rsvp,colorlessg,false,Le colis de l'ombre matérielle est toujours gratuit.
+307000,redtext,empty,True,+
+307350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+315000,redtext,empty,True,+
+315350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+323000,text,empty,True,+
+327000,sound,bip,True,bip_court.wav
+327350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+335000,sound,bip,True,bip_court.wav
+335350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+343000,sound,bip,True,bip_court.wav
+343350,sound,tom,true,15_tom_16_true_faux_creationistes.wav
+351000,sound,bip,True,bip_court.wav
+351350,sound,colorlessg,false,156_colorlessg_38_false_vide_pitiedebitee.wav
+359000,sound,bip,True,bip_court.wav
+359350,sound,context,false,130_context_38_false_faux_kenya.wav
+367000,sound,bip,True,bip_court.wav
+367350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+375000,redtext,empty,True,+
+375350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+383000,text,empty,True,+
+389000,redtext,empty,True,+
+389350,rsvp,arithprin,false,Le résultat d'une addition est toujours positif.
+397000,redtext,empty,True,+
+397350,rsvp,control,false,Compte production éléments demander courant amour fruits.
+405000,redtext,empty,True,+
+405350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+413000,redtext,empty,True,+
+413350,rsvp,control,false,Membres intérieur venir gros faisant papier dents.
+421000,sound,bip,True,bip_court.wav
+421350,sound,general,true,281_general_02_true_vide_latulipe.wav
+429000,sound,bip,True,bip_court.wav
+429350,sound,context,true,3_context_08_true_vrai_australie.wav
+437000,sound,bip,True,bip_court.wav
+437350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+445000,sound,bip,True,bip_court.wav
+445350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+453000,sound,bip,True,bip_court.wav
+453350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+461000,redtext,empty,True,+
+461350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+469000,sound,bip,True,bip_court.wav
+469350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+477000,sound,bip,True,bip_court.wav
+477350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+485000,redtext,empty,True,+
+485350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+493000,text,empty,True,+
+498000,redtext,empty,True,+
+498350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+506000,redtext,empty,True,+
+506350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+514000,sound,bip,True,bip_court.wav
+514350,sound,general,false,1_general_26_false_vide_jupiter.wav
+522000,redtext,empty,True,+
+522350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+530000,sound,bip,True,bip_court.wav
+530350,sound,control,false,171_control_32_false_vide_souventete.wav
+538000,redtext,empty,True,+
+538350,rsvp,geomfact,true,Un triangle équilatéral se divise en deux triangles rectangles.
+546000,redtext,empty,True,+
+546350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+554000,sound,bip,True,bip_court.wav
+554350,sound,general,true,46_general_11_true_vide_photosynthese.wav
+562000,text,empty,True,+

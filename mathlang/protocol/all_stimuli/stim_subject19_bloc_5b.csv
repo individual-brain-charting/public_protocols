@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,224_control_21_false_vide_sombremanteau.wav
+26000,redtext,empty,True,+
+26350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+34000,text,empty,True,+
+39000,redtext,empty,True,+
+39350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+47000,redtext,empty,True,+
+47350,rsvp,tom,false,Pour Hitler les juifs sont des hommes comme les autres.
+55000,sound,bip,True,bip_court.wav
+55350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+63000,redtext,empty,True,+
+63350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+71000,redtext,empty,True,+
+71350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+79000,sound,bip,True,bip_court.wav
+79350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+87000,sound,bip,True,bip_court.wav
+87350,sound,tom,false,231_tom_35_false_faux_martinlutherking.wav
+95000,text,empty,True,+
+103000,redtext,empty,True,+
+103350,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+111000,redtext,empty,True,+
+111350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+119000,redtext,empty,True,+
+119350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+127000,redtext,empty,True,+
+127350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+135000,sound,bip,True,bip_court.wav
+135350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+143000,redtext,empty,True,+
+143350,rsvp,colorlessg,false,En vérité tous les gouvernements doivent retrouver à l'année.
+151000,redtext,empty,True,+
+151350,rsvp,arithprin,false,Une somme de fractions est toujours un nombre entier.
+159000,redtext,empty,True,+
+159350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+167000,sound,bip,True,bip_court.wav
+167350,sound,general,true,124_general_17_true_vide_fevrier.wav
+175000,sound,bip,True,bip_court.wav
+175350,sound,context,false,192_context_32_false_faux_enallemagne.wav
+183000,text,empty,True,+
+188000,redtext,empty,True,+
+188350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+196000,sound,bip,True,bip_court.wav
+196350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+204000,sound,bip,True,bip_court.wav
+204350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+212000,redtext,empty,True,+
+212350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+220000,redtext,empty,True,+
+220350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+228000,sound,bip,True,bip_court.wav
+228350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+236000,sound,bip,True,bip_court.wav
+236350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+244000,text,empty,True,+
+252000,redtext,empty,True,+
+252350,rsvp,geomfact,true,Tous les points d'un cercle sont à égale distance du centre.
+260000,redtext,empty,True,+
+260350,rsvp,general,false,La terre tourne autour de la planète Venus.
+268000,sound,bip,True,bip_court.wav
+268350,sound,general,false,286_general_38_false_vide_levietnam.wav
+276000,sound,bip,True,bip_court.wav
+276350,sound,tom,false,32_tom_23_false_vrai_julesverne.wav
+284000,redtext,empty,True,+
+284350,rsvp,control,false,Période histoire visage pleine côté conditions jamais.
+292000,text,empty,True,+
+300000,sound,bip,True,bip_court.wav
+300350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+308000,redtext,empty,True,+
+308350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+316000,sound,bip,True,bip_court.wav
+316350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+324000,redtext,empty,True,+
+324350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+332000,text,empty,True,+
+340000,sound,bip,True,bip_court.wav
+340350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+348000,redtext,empty,True,+
+348350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+356000,redtext,empty,True,+
+356350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+364000,redtext,empty,True,+
+364350,rsvp,tom,false,Selon Christophe Colomb la terre est plate.
+372000,sound,bip,True,bip_court.wav
+372350,sound,tom,true,59_tom_07_true_vrai_vulcanologues.wav
+380000,sound,bip,True,bip_court.wav
+380350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+388000,sound,bip,True,bip_court.wav
+388350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+396000,text,empty,True,+
+404000,redtext,empty,True,+
+404350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+412000,redtext,empty,True,+
+412350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+420000,redtext,empty,True,+
+420350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+428000,sound,bip,True,bip_court.wav
+428350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+436000,redtext,empty,True,+
+436350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+444000,redtext,empty,True,+
+444350,rsvp,geomfact,false,Des lignes sont perpendiculaires quand elles forment un angle aigu.
+452000,redtext,empty,True,+
+452350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+460000,sound,bip,True,bip_court.wav
+460350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+468000,sound,bip,True,bip_court.wav
+468350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+476000,sound,bip,True,bip_court.wav
+476350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+484000,sound,bip,True,bip_court.wav
+484350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+492000,sound,bip,True,bip_court.wav
+492350,sound,general,true,34_general_01_true_vide_chameau.wav
+500000,text,empty,True,+
+507000,redtext,empty,True,+
+507350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+515000,sound,bip,True,bip_court.wav
+515350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+523000,redtext,empty,True,+
+523350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+531000,sound,bip,True,bip_court.wav
+531350,sound,context,true,217_context_15_true_faux_enchine.wav
+539000,sound,bip,True,bip_court.wav
+539350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+547000,sound,bip,True,bip_court.wav
+547350,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+555000,redtext,empty,True,+
+555350,rsvp,arithprin,false,Le résultat d'une soustraction est toujours négatif.
+563000,sound,bip,True,bip_court.wav
+563350,sound,arithprin,false,10_arithprin_23_false_vide_carreimpair.wav
+571000,text,empty,True,+

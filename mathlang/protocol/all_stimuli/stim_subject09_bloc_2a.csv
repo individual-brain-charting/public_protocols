@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+10000,redtext,empty,True,+
+10350,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+18000,redtext,empty,True,+
+18350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+34000,redtext,empty,True,+
+34350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+42000,redtext,empty,True,+
+42350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+50000,sound,bip,True,bip_court.wav
+50350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+58000,redtext,empty,True,+
+58350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+66000,text,empty,True,+
+70000,sound,bip,True,bip_court.wav
+70350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+78000,sound,bip,True,bip_court.wav
+78350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+86000,redtext,empty,True,+
+86350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+94000,redtext,empty,True,+
+94350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+102000,redtext,empty,True,+
+102350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+110000,text,empty,True,+
+115000,sound,bip,True,bip_court.wav
+115350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+123000,sound,bip,True,bip_court.wav
+123350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+131000,sound,bip,True,bip_court.wav
+131350,sound,context,true,138_context_06_true_vrai_sanfrancisco.wav
+139000,sound,bip,True,bip_court.wav
+139350,sound,arithprin,true,309_arithprin_20_true_vide_unnombreeleve.wav
+147000,redtext,empty,True,+
+147350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+155000,sound,bip,True,bip_court.wav
+155350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+163000,redtext,empty,True,+
+163350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+171000,sound,bip,True,bip_court.wav
+171350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+179000,text,empty,True,+
+183000,redtext,empty,True,+
+183350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+191000,sound,bip,True,bip_court.wav
+191350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+199000,sound,bip,True,bip_court.wav
+199350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+207000,sound,bip,True,bip_court.wav
+207350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+215000,text,empty,True,+
+223000,sound,bip,True,bip_court.wav
+223350,sound,general,true,281_general_02_true_vide_latulipe.wav
+231000,sound,bip,True,bip_court.wav
+231350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+239000,redtext,empty,True,+
+239350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+247000,sound,bip,True,bip_court.wav
+247350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+255000,sound,bip,True,bip_court.wav
+255350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+263000,sound,bip,True,bip_court.wav
+263350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+271000,redtext,empty,True,+
+271350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+279000,text,empty,True,+
+287000,sound,bip,True,bip_court.wav
+287350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+295000,sound,bip,True,bip_court.wav
+295350,sound,general,true,125_general_14_true_vide_chenilles.wav
+303000,redtext,empty,True,+
+303350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+311000,sound,bip,True,bip_court.wav
+311350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+319000,redtext,empty,True,+
+319350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+327000,text,empty,True,+
+335000,redtext,empty,True,+
+335350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+343000,redtext,empty,True,+
+343350,rsvp,control,false,Lui eux puis chaque pour si d'après pourtant d'un sitôt est.
+351000,sound,bip,True,bip_court.wav
+351350,sound,context,false,13_context_33_false_faux_afriquedusud.wav
+359000,redtext,empty,True,+
+359350,rsvp,context,true,Dans les contes pour enfants les animaux parlent couramment.
+367000,redtext,empty,True,+
+367350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+375000,sound,bip,True,bip_court.wav
+375350,sound,control,false,166_control_28_false_vide_voiliertigres.wav
+383000,redtext,empty,True,+
+383350,rsvp,colorlessg,false,L’espoir d’oignon lisse et brun fait joli et gras.
+391000,sound,bip,True,bip_court.wav
+391350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+399000,redtext,empty,True,+
+399350,rsvp,colorlessg,false,D'après les compagnies la collectivité a la vache d'une terre.
+407000,redtext,empty,True,+
+407350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+415000,redtext,empty,True,+
+415350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+423000,sound,bip,True,bip_court.wav
+423350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+431000,redtext,empty,True,+
+431350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+439000,text,empty,True,+
+447000,redtext,empty,True,+
+447350,rsvp,general,true,Février est le mois de l'année le plus court.
+455000,sound,bip,True,bip_court.wav
+455350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+463000,sound,bip,True,bip_court.wav
+463350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+471000,redtext,empty,True,+
+471350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+479000,sound,bip,True,bip_court.wav
+479350,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+487000,sound,bip,True,bip_court.wav
+487350,sound,general,false,152_general_22_false_vide_petitvache.wav
+495000,text,empty,True,+
+501000,redtext,empty,True,+
+501350,rsvp,control,false,Est le une tandis comme sans te pour mais dans cependant.
+509000,sound,bip,True,bip_court.wav
+509350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+517000,sound,bip,True,bip_court.wav
+517350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+525000,sound,bip,True,bip_court.wav
+525350,sound,tom,false,184_tom_34_false_faux_poutine.wav
+533000,sound,bip,True,bip_court.wav
+533350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+541000,redtext,empty,True,+
+541350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+549000,redtext,empty,True,+
+549350,rsvp,colorlessg,false,Le pompier d'ailes se brise lentement sur les chiens.
+557000,redtext,empty,True,+
+557350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+565000,text,empty,True,+

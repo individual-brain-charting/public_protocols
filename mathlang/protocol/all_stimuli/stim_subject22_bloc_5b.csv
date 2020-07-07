@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,context,true,A Londres les autobus ont des étages.
+10000,sound,bip,True,bip_court.wav
+10350,sound,general,true,302_general_04_true_vide_leaugele.wav
+18000,redtext,empty,True,+
+18350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+26000,sound,bip,True,bip_court.wav
+26350,sound,context,false,226_context_21_false_vrai_eninde.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+42000,redtext,empty,True,+
+42350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+50000,sound,bip,True,bip_court.wav
+50350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+58000,text,empty,True,+
+64000,sound,bip,True,bip_court.wav
+64350,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+72000,sound,bip,True,bip_court.wav
+72350,sound,context,true,18_context_19_true_faux_irlande.wav
+80000,sound,bip,True,bip_court.wav
+80350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+88000,redtext,empty,True,+
+88350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+96000,text,empty,True,+
+103000,sound,bip,True,bip_court.wav
+103350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+111000,sound,bip,True,bip_court.wav
+111350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+119000,redtext,empty,True,+
+119350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+127000,sound,bip,True,bip_court.wav
+127350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+135000,redtext,empty,True,+
+135350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+143000,redtext,empty,True,+
+143350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+151000,redtext,empty,True,+
+151350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+159000,sound,bip,True,bip_court.wav
+159350,sound,general,false,38_general_34_false_vide_hiver.wav
+167000,text,empty,True,+
+173000,redtext,empty,True,+
+173350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+181000,redtext,empty,True,+
+181350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+189000,sound,bip,True,bip_court.wav
+189350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+197000,redtext,empty,True,+
+197350,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+205000,text,empty,True,+
+212000,redtext,empty,True,+
+212350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+220000,sound,bip,True,bip_court.wav
+220350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+228000,sound,bip,True,bip_court.wav
+228350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+236000,redtext,empty,True,+
+236350,rsvp,general,true,Février est le mois de l'année le plus court.
+244000,sound,bip,True,bip_court.wav
+244350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+252000,text,empty,True,+
+258000,redtext,empty,True,+
+258350,rsvp,colorlessg,false,L'intermédiaire de l'armée d'oxygène est doublé d'un programme véritable.
+266000,sound,bip,True,bip_court.wav
+266350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+274000,sound,bip,True,bip_court.wav
+274350,sound,general,true,111_general_20_true_vide_mitose.wav
+282000,redtext,empty,True,+
+282350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+290000,sound,bip,True,bip_court.wav
+290350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+298000,sound,bip,True,bip_court.wav
+298350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+306000,sound,bip,True,bip_court.wav
+306350,sound,arithprin,false,165_arithprin_39_false_vide_lordreselonlequel.wav
+314000,redtext,empty,True,+
+314350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+322000,text,empty,True,+
+330000,redtext,empty,True,+
+330350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+338000,redtext,empty,True,+
+338350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+346000,text,empty,True,+
+353000,redtext,empty,True,+
+353350,rsvp,geomfact,true,Un carré est un rectangle aux côtés égaux.
+361000,sound,bip,True,bip_court.wav
+361350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+369000,redtext,empty,True,+
+369350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+377000,redtext,empty,True,+
+377350,rsvp,colorlessg,false,Pour les lions la voile est une bouteille pensive.
+385000,sound,bip,True,bip_court.wav
+385350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+393000,redtext,empty,True,+
+393350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+401000,redtext,empty,True,+
+401350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+409000,text,empty,True,+
+417000,sound,bip,True,bip_court.wav
+417350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+425000,redtext,empty,True,+
+425350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+433000,sound,bip,True,bip_court.wav
+433350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+441000,sound,bip,True,bip_court.wav
+441350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+449000,redtext,empty,True,+
+449350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+457000,sound,bip,True,bip_court.wav
+457350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+465000,redtext,empty,True,+
+465350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+473000,sound,bip,True,bip_court.wav
+473350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+481000,redtext,empty,True,+
+481350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+489000,redtext,empty,True,+
+489350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+497000,sound,bip,True,bip_court.wav
+497350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+505000,sound,bip,True,bip_court.wav
+505350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+513000,redtext,empty,True,+
+513350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+521000,sound,bip,True,bip_court.wav
+521350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+529000,sound,bip,True,bip_court.wav
+529350,sound,arithfact,false,295_arithfact_26_false_vide_trenteseptestlamoitie.wav
+537000,redtext,empty,True,+
+537350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+545000,redtext,empty,True,+
+545350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+553000,redtext,empty,True,+
+553350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+561000,sound,bip,True,bip_court.wav
+561350,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+569000,text,empty,True,+

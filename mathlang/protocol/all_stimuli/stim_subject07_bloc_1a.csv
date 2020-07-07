@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,colorlessg,false,140_colorlessg_36_false_vide_bibliotheques.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,tom,true,121_tom_11_true_faux_pourlesgrecs.wav
+18000,redtext,empty,True,+
+18350,rsvp,geomfact,false,Des lignes perpendiculaires forment un angle aigu.
+26000,redtext,empty,True,+
+26350,rsvp,geomfact,true,Un carré est un rectangle aux côtés égaux.
+34000,sound,bip,True,bip_court.wav
+34350,sound,colorlessg,false,257_colorlessg_30_false_vide_unboldepain.wav
+42000,redtext,empty,True,+
+42350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+50000,redtext,empty,True,+
+50350,rsvp,arithprin,false,Un nombre auquel on soustrait zéro reste égal à lui même.
+58000,sound,bip,True,bip_court.wav
+58350,sound,arithprin,false,63_arithprin_33_false_vide_tousnombresnegatifs.wav
+66000,sound,bip,True,bip_court.wav
+66350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+74000,text,empty,True,+
+79000,sound,bip,True,bip_court.wav
+79350,sound,control,false,110_control_03_false_vide_quileestun.wav
+87000,redtext,empty,True,+
+87350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+95000,redtext,empty,True,+
+95350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+103000,redtext,empty,True,+
+103350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+111000,redtext,empty,True,+
+111350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+119000,sound,bip,True,bip_court.wav
+119350,sound,general,true,170_general_18_true_vide_calendriergregorien.wav
+127000,redtext,empty,True,+
+127350,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+135000,text,empty,True,+
+142000,redtext,empty,True,+
+142350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+150000,redtext,empty,True,+
+150350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+158000,redtext,empty,True,+
+158350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+166000,redtext,empty,True,+
+166350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+174000,sound,bip,True,bip_court.wav
+174350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+182000,sound,bip,True,bip_court.wav
+182350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+190000,text,empty,True,+
+195000,redtext,empty,True,+
+195350,rsvp,tom,true,Pour Mowgli la panthère noire est un animal affectueux.
+203000,sound,bip,True,bip_court.wav
+203350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+211000,redtext,empty,True,+
+211350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+219000,redtext,empty,True,+
+219350,rsvp,context,true,Dans les contes pour enfants les animaux parlent couramment.
+227000,sound,bip,True,bip_court.wav
+227350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+235000,sound,bip,True,bip_court.wav
+235350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+243000,redtext,empty,True,+
+243350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+251000,text,empty,True,+
+257000,sound,bip,True,bip_court.wav
+257350,sound,context,true,45_context_11_true_faux_londres.wav
+265000,sound,bip,True,bip_court.wav
+265350,sound,general,true,177_general_05_true_vide_labaleine.wav
+273000,sound,bip,True,bip_court.wav
+273350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+281000,sound,bip,True,bip_court.wav
+281350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+289000,sound,bip,True,bip_court.wav
+289350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+297000,text,empty,True,+
+301000,redtext,empty,True,+
+301350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+309000,sound,bip,True,bip_court.wav
+309350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+317000,redtext,empty,True,+
+317350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+325000,redtext,empty,True,+
+325350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+333000,redtext,empty,True,+
+333350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+341000,sound,bip,True,bip_court.wav
+341350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+349000,sound,bip,True,bip_court.wav
+349350,sound,arithfact,true,53_arithfact_13_true_vide_unquartdecent.wav
+357000,text,empty,True,+
+365000,sound,bip,True,bip_court.wav
+365350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+373000,redtext,empty,True,+
+373350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+381000,sound,bip,True,bip_court.wav
+381350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+389000,sound,bip,True,bip_court.wav
+389350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+397000,text,empty,True,+
+402000,redtext,empty,True,+
+402350,rsvp,arithfact,false,Le nombre soixante quatorze est plus grand que cent.
+410000,sound,bip,True,bip_court.wav
+410350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+418000,redtext,empty,True,+
+418350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+426000,redtext,empty,True,+
+426350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+434000,redtext,empty,True,+
+434350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+442000,text,empty,True,+
+447000,sound,bip,True,bip_court.wav
+447350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+455000,sound,bip,True,bip_court.wav
+455350,sound,context,true,157_context_04_true_vrai_anewyork.wav
+463000,sound,bip,True,bip_court.wav
+463350,sound,context,false,126_context_24_false_vrai_burundi.wav
+471000,redtext,empty,True,+
+471350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+479000,sound,bip,True,bip_court.wav
+479350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+487000,redtext,empty,True,+
+487350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+495000,redtext,empty,True,+
+495350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+503000,sound,bip,True,bip_court.wav
+503350,sound,arithprin,true,312_arithprin_08_true_vide_unnombredivise.wav
+511000,sound,bip,True,bip_court.wav
+511350,sound,geomfact,false,241_geomfact_32_false_vide_unrectanglenecomprend.wav
+519000,sound,bip,True,bip_court.wav
+519350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+527000,redtext,empty,True,+
+527350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+535000,redtext,empty,True,+
+535350,rsvp,general,true,Le noyau de l'atome d'hydrogène est composé d'un seul proton.
+543000,redtext,empty,True,+
+543350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+551000,sound,bip,True,bip_court.wav
+551350,sound,control,false,314_control_37_false_vide_nombrevoie.wav
+559000,text,empty,True,+

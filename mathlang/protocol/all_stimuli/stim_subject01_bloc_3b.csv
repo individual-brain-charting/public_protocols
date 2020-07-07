@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,context,false,207_context_39_false_faux_enindedinar.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+26000,text,empty,True,+
+32000,sound,bip,True,bip_court.wav
+32350,sound,control,false,224_control_21_false_vide_sombremanteau.wav
+40000,sound,bip,True,bip_court.wav
+40350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+48000,redtext,empty,True,+
+48350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+56000,redtext,empty,True,+
+56350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+64000,redtext,empty,True,+
+64350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+72000,text,empty,True,+
+80000,sound,bip,True,bip_court.wav
+80350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+88000,sound,bip,True,bip_court.wav
+88350,sound,geomfact,false,160_geomfact_25_false_vide_plusuntriangle.wav
+96000,sound,bip,True,bip_court.wav
+96350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+104000,redtext,empty,True,+
+104350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+112000,redtext,empty,True,+
+112350,rsvp,colorlessg,false,Pour les lions la voile est une bouteille pensive.
+120000,sound,bip,True,bip_court.wav
+120350,sound,general,true,174_general_12_true_vide_uneencyclopedie.wav
+128000,text,empty,True,+
+135000,sound,bip,True,bip_court.wav
+135350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+143000,redtext,empty,True,+
+143350,rsvp,tom,true,Selon les chrétiens fondamentalistes Adam est notre ancêtre.
+151000,sound,bip,True,bip_court.wav
+151350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+159000,redtext,empty,True,+
+159350,rsvp,geomfact,false,Un triangle équilatéral est formé uniquement d'angles droits.
+167000,sound,bip,True,bip_court.wav
+167350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+175000,redtext,empty,True,+
+175350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+183000,redtext,empty,True,+
+183350,rsvp,geomfact,false,Un carré peut se diviser en triangles équilatéraux.
+191000,sound,bip,True,bip_court.wav
+191350,sound,general,true,170_general_18_true_vide_calendriergregorien.wav
+199000,sound,bip,True,bip_court.wav
+199350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+207000,redtext,empty,True,+
+207350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+215000,redtext,empty,True,+
+215350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+223000,text,empty,True,+
+231000,sound,bip,True,bip_court.wav
+231350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+239000,redtext,empty,True,+
+239350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+247000,redtext,empty,True,+
+247350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+255000,redtext,empty,True,+
+255350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+263000,redtext,empty,True,+
+263350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+271000,redtext,empty,True,+
+271350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+279000,sound,bip,True,bip_court.wav
+279350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+287000,text,empty,True,+
+294000,sound,bip,True,bip_court.wav
+294350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+302000,sound,bip,True,bip_court.wav
+302350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+310000,sound,bip,True,bip_court.wav
+310350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+318000,sound,bip,True,bip_court.wav
+318350,sound,colorlessg,false,156_colorlessg_38_false_vide_pitiedebitee.wav
+326000,sound,bip,True,bip_court.wav
+326350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+334000,redtext,empty,True,+
+334350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+342000,sound,bip,True,bip_court.wav
+342350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+350000,redtext,empty,True,+
+350350,rsvp,arithprin,false,Le résultat d'une soustraction est toujours négatif.
+358000,text,empty,True,+
+365000,redtext,empty,True,+
+365350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+373000,redtext,empty,True,+
+373350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+381000,sound,bip,True,bip_court.wav
+381350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+389000,sound,bip,True,bip_court.wav
+389350,sound,context,true,191_context_01_true_vrai_apekin.wav
+397000,text,empty,True,+
+402000,redtext,empty,True,+
+402350,rsvp,colorlessg,false,Des bibliothèques de chaque cible ont le mauvais squelette.
+410000,sound,bip,True,bip_court.wav
+410350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+418000,text,empty,True,+
+422000,redtext,empty,True,+
+422350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+430000,redtext,empty,True,+
+430350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+438000,sound,bip,True,bip_court.wav
+438350,sound,general,false,152_general_22_false_vide_petitvache.wav
+446000,redtext,empty,True,+
+446350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+454000,sound,bip,True,bip_court.wav
+454350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+462000,redtext,empty,True,+
+462350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+470000,redtext,empty,True,+
+470350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+478000,redtext,empty,True,+
+478350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+486000,redtext,empty,True,+
+486350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+494000,redtext,empty,True,+
+494350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+502000,sound,bip,True,bip_court.wav
+502350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+510000,sound,bip,True,bip_court.wav
+510350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+518000,sound,bip,True,bip_court.wav
+518350,sound,arithfact,false,255_arithfact_36_false_vide_seizeestleresultat.wav
+526000,sound,bip,True,bip_court.wav
+526350,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+534000,sound,bip,True,bip_court.wav
+534350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+542000,redtext,empty,True,+
+542350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+550000,redtext,empty,True,+
+550350,rsvp,general,true,Février est le mois de l'année le plus court.
+558000,redtext,empty,True,+
+558350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+566000,text,empty,True,+

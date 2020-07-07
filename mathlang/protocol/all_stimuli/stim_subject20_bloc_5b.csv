@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,geomfact,false,114_geomfact_33_false_vide_cotesdunlosange.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+18000,redtext,empty,True,+
+18350,rsvp,geomfact,false,Des lignes perpendiculaires forment un angle aigu.
+26000,redtext,empty,True,+
+26350,rsvp,control,false,Lui eux puis chaque pour si d'après pourtant d'un sitôt est.
+34000,sound,bip,True,bip_court.wav
+34350,sound,context,true,45_context_11_true_faux_londres.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,colorlessg,false,203_colorlessg_11_false_vide_auxchampsbleus.wav
+50000,redtext,empty,True,+
+50350,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+58000,redtext,empty,True,+
+58350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+66000,redtext,empty,True,+
+66350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+74000,text,empty,True,+
+82000,sound,bip,True,bip_court.wav
+82350,sound,arithprin,false,275_arithprin_27_false_vide_leresultatduneaddition.wav
+90000,sound,bip,True,bip_court.wav
+90350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+98000,sound,bip,True,bip_court.wav
+98350,sound,general,true,51_general_09_true_vide_flocons.wav
+106000,redtext,empty,True,+
+106350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+114000,text,empty,True,+
+119000,redtext,empty,True,+
+119350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+127000,redtext,empty,True,+
+127350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+135000,redtext,empty,True,+
+135350,rsvp,context,true,En Irlande avoir les cheveux roux est assez courant.
+143000,sound,bip,True,bip_court.wav
+143350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+151000,text,empty,True,+
+156000,sound,bip,True,bip_court.wav
+156350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+164000,sound,bip,True,bip_court.wav
+164350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+172000,redtext,empty,True,+
+172350,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+180000,redtext,empty,True,+
+180350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+188000,sound,bip,True,bip_court.wav
+188350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+196000,text,empty,True,+
+204000,redtext,empty,True,+
+204350,rsvp,tom,true,Selon les chrétiens fondamentalistes Adam est notre ancêtre.
+212000,sound,bip,True,bip_court.wav
+212350,sound,arithprin,false,175_arithprin_31_false_vide_ladifference.wav
+220000,sound,bip,True,bip_court.wav
+220350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+228000,sound,bip,True,bip_court.wav
+228350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+236000,sound,bip,True,bip_court.wav
+236350,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+244000,sound,bip,True,bip_court.wav
+244350,sound,context,false,130_context_38_false_faux_kenya.wav
+252000,redtext,empty,True,+
+252350,rsvp,arithprin,false,Un nombre multiplié par un est égal à zéro.
+260000,redtext,empty,True,+
+260350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+268000,sound,bip,True,bip_court.wav
+268350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+276000,sound,bip,True,bip_court.wav
+276350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+284000,sound,bip,True,bip_court.wav
+284350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+292000,text,empty,True,+
+297000,redtext,empty,True,+
+297350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+305000,redtext,empty,True,+
+305350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+313000,sound,bip,True,bip_court.wav
+313350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+321000,redtext,empty,True,+
+321350,rsvp,arithprin,true,Pour additionner des fractions les dénominateurs doivent être égaux.
+329000,redtext,empty,True,+
+329350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+337000,text,empty,True,+
+342000,sound,bip,True,bip_court.wav
+342350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+350000,sound,bip,True,bip_court.wav
+350350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+358000,redtext,empty,True,+
+358350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+366000,sound,bip,True,bip_court.wav
+366350,sound,geomfact,true,104_geomfact_07_true_vide_losanges.wav
+374000,redtext,empty,True,+
+374350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+382000,sound,bip,True,bip_court.wav
+382350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+390000,text,empty,True,+
+394000,sound,bip,True,bip_court.wav
+394350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+402000,redtext,empty,True,+
+402350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+410000,sound,bip,True,bip_court.wav
+410350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+418000,sound,bip,True,bip_court.wav
+418350,sound,tom,false,193_tom_22_false_vrai_johnnyhallyday.wav
+426000,redtext,empty,True,+
+426350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+434000,redtext,empty,True,+
+434350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+442000,redtext,empty,True,+
+442350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+450000,text,empty,True,+
+455000,sound,bip,True,bip_court.wav
+455350,sound,context,true,191_context_01_true_vrai_apekin.wav
+463000,redtext,empty,True,+
+463350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+471000,redtext,empty,True,+
+471350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+479000,redtext,empty,True,+
+479350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+487000,redtext,empty,True,+
+487350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+495000,sound,bip,True,bip_court.wav
+495350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+503000,sound,bip,True,bip_court.wav
+503350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+511000,sound,bip,True,bip_court.wav
+511350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+519000,redtext,empty,True,+
+519350,rsvp,tom,true,Selon Greenpeace la déforestation en Amazonie est une catastrophe.
+527000,redtext,empty,True,+
+527350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+535000,redtext,empty,True,+
+535350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+543000,redtext,empty,True,+
+543350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+551000,sound,bip,True,bip_court.wav
+551350,sound,geomfact,false,21_geomfact_29_false_vide_figures.wav
+559000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+10000,redtext,empty,True,+
+10350,rsvp,geomfact,true,Les diagonales d'un losange sont ses axes de symétrie.
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+26000,sound,bip,True,bip_court.wav
+26350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+34000,redtext,empty,True,+
+34350,rsvp,context,true,Dans l'Himalaya les montagnes sont de hauts sommets enneigées.
+42000,sound,bip,True,bip_court.wav
+42350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+50000,redtext,empty,True,+
+50350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+58000,redtext,empty,True,+
+58350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+66000,redtext,empty,True,+
+66350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+74000,sound,bip,True,bip_court.wav
+74350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+82000,text,empty,True,+
+89000,redtext,empty,True,+
+89350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+97000,redtext,empty,True,+
+97350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+105000,sound,bip,True,bip_court.wav
+105350,sound,arithfact,true,102_arithfact_08_true_vide_racinecarree.wav
+113000,redtext,empty,True,+
+113350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+121000,text,empty,True,+
+127000,sound,bip,True,bip_court.wav
+127350,sound,general,false,6_general_21_false_vide_papillons.wav
+135000,sound,bip,True,bip_court.wav
+135350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+143000,redtext,empty,True,+
+143350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+151000,sound,bip,True,bip_court.wav
+151350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+159000,redtext,empty,True,+
+159350,rsvp,geomfact,false,Un triangle peut avoir plusieurs angles droits.
+167000,text,empty,True,+
+171000,redtext,empty,True,+
+171350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+179000,redtext,empty,True,+
+179350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+187000,redtext,empty,True,+
+187350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+195000,redtext,empty,True,+
+195350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+203000,text,empty,True,+
+207000,sound,bip,True,bip_court.wav
+207350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+215000,redtext,empty,True,+
+215350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+223000,sound,bip,True,bip_court.wav
+223350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+231000,sound,bip,True,bip_court.wav
+231350,sound,tom,false,232_tom_29_false_vrai_pournapoleon.wav
+239000,sound,bip,True,bip_court.wav
+239350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+247000,redtext,empty,True,+
+247350,rsvp,context,false,En Amazonie les araignées sont des animaux sans danger.
+255000,text,empty,True,+
+260000,redtext,empty,True,+
+260350,rsvp,geomfact,false,Un carré peut se diviser en triangles équilatéraux.
+268000,sound,bip,True,bip_court.wav
+268350,sound,general,true,46_general_11_true_vide_photosynthese.wav
+276000,sound,bip,True,bip_court.wav
+276350,sound,arithprin,false,50_arithprin_34_false_vide_nombreauquel.wav
+284000,sound,bip,True,bip_court.wav
+284350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+292000,sound,bip,True,bip_court.wav
+292350,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+300000,redtext,empty,True,+
+300350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+308000,sound,bip,True,bip_court.wav
+308350,sound,context,false,308_context_26_false_vrai_enequateur.wav
+316000,sound,bip,True,bip_court.wav
+316350,sound,control,false,171_control_32_false_vide_souventete.wav
+324000,redtext,empty,True,+
+324350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+332000,text,empty,True,+
+337000,redtext,empty,True,+
+337350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+345000,sound,bip,True,bip_court.wav
+345350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+353000,sound,bip,True,bip_court.wav
+353350,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+361000,sound,bip,True,bip_court.wav
+361350,sound,general,false,216_general_32_false_vide_lavapeurdeau.wav
+369000,sound,bip,True,bip_court.wav
+369350,sound,arithfact,false,306_arithfact_21_false_vide_quarantedivisepardeux.wav
+377000,text,empty,True,+
+385000,sound,bip,True,bip_court.wav
+385350,sound,control,false,58_control_13_false_vide_plusensuite.wav
+393000,sound,bip,True,bip_court.wav
+393350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+401000,redtext,empty,True,+
+401350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+409000,redtext,empty,True,+
+409350,rsvp,geomfact,true,Un carré possède des axes de symétrie.
+417000,sound,bip,True,bip_court.wav
+417350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+425000,redtext,empty,True,+
+425350,rsvp,tom,false,Selon Christophe Colomb la terre est plate.
+433000,redtext,empty,True,+
+433350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+441000,sound,bip,True,bip_court.wav
+441350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+449000,redtext,empty,True,+
+449350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+457000,text,empty,True,+
+465000,redtext,empty,True,+
+465350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+473000,sound,bip,True,bip_court.wav
+473350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+481000,sound,bip,True,bip_court.wav
+481350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+489000,sound,bip,True,bip_court.wav
+489350,sound,general,true,125_general_14_true_vide_chenilles.wav
+497000,redtext,empty,True,+
+497350,rsvp,control,false,Histoire jours frère société café armée saint états.
+505000,sound,bip,True,bip_court.wav
+505350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+513000,redtext,empty,True,+
+513350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+521000,sound,bip,True,bip_court.wav
+521350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+529000,sound,bip,True,bip_court.wav
+529350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+537000,redtext,empty,True,+
+537350,rsvp,arithprin,true,Ajouter zéro ne change pas un nombre.
+545000,redtext,empty,True,+
+545350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+553000,redtext,empty,True,+
+553350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+561000,text,empty,True,+

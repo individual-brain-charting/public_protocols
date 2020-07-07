@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+10000,sound,bip,True,bip_court.wav
+10350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+18000,redtext,empty,True,+
+18350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+42000,text,empty,True,+
+49000,redtext,empty,True,+
+49350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+57000,sound,bip,True,bip_court.wav
+57350,sound,general,false,83_general_40_false_vide_laterre.wav
+65000,sound,bip,True,bip_court.wav
+65350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+73000,sound,bip,True,bip_court.wav
+73350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+81000,sound,bip,True,bip_court.wav
+81350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+89000,redtext,empty,True,+
+89350,rsvp,arithfact,false,Dix sept est la racine carrée de cent quatre vingt dix.
+97000,sound,bip,True,bip_court.wav
+97350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+105000,redtext,empty,True,+
+105350,rsvp,context,true,Dans les îles volcaniques le sable est noir.
+113000,sound,bip,True,bip_court.wav
+113350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+121000,sound,bip,True,bip_court.wav
+121350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+129000,text,empty,True,+
+134000,redtext,empty,True,+
+134350,rsvp,arithfact,true,Le double du nombre neuf est le nombre dix huit.
+142000,sound,bip,True,bip_court.wav
+142350,sound,general,false,37_general_25_false_vide_primevere.wav
+150000,sound,bip,True,bip_court.wav
+150350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+158000,redtext,empty,True,+
+158350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+166000,sound,bip,True,bip_court.wav
+166350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+174000,redtext,empty,True,+
+174350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+182000,sound,bip,True,bip_court.wav
+182350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+190000,redtext,empty,True,+
+190350,rsvp,colorlessg,false,La réaction brosse par elle même de longs zoos barbus.
+198000,text,empty,True,+
+203000,sound,bip,True,bip_court.wav
+203350,sound,control,false,16_control_29_false_vide_insigne.wav
+211000,redtext,empty,True,+
+211350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+219000,redtext,empty,True,+
+219350,rsvp,context,false,Dans le métro parisien les trains transportent des céréales.
+227000,redtext,empty,True,+
+227350,rsvp,control,false,Chaque dès duquel de en tous eux mais ou ont celle.
+235000,sound,bip,True,bip_court.wav
+235350,sound,arithfact,true,53_arithfact_13_true_vide_unquartdecent.wav
+243000,redtext,empty,True,+
+243350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+251000,sound,bip,True,bip_court.wav
+251350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+259000,sound,bip,True,bip_court.wav
+259350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+267000,text,empty,True,+
+274000,sound,bip,True,bip_court.wav
+274350,sound,general,true,302_general_04_true_vide_leaugele.wav
+282000,redtext,empty,True,+
+282350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+290000,redtext,empty,True,+
+290350,rsvp,arithprin,true,Un nombre positif fois un nombre négatif donne un nombre négatif.
+298000,redtext,empty,True,+
+298350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+306000,text,empty,True,+
+312000,redtext,empty,True,+
+312350,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+320000,sound,bip,True,bip_court.wav
+320350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+328000,redtext,empty,True,+
+328350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+336000,sound,bip,True,bip_court.wav
+336350,sound,context,false,226_context_21_false_vrai_eninde.wav
+344000,sound,bip,True,bip_court.wav
+344350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+352000,text,empty,True,+
+360000,redtext,empty,True,+
+360350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+368000,sound,bip,True,bip_court.wav
+368350,sound,geomfact,false,21_geomfact_29_false_vide_figures.wav
+376000,redtext,empty,True,+
+376350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+384000,text,empty,True,+
+391000,redtext,empty,True,+
+391350,rsvp,geomfact,true,Un point peut être traversé par un nombre infini de lignes.
+399000,redtext,empty,True,+
+399350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+407000,redtext,empty,True,+
+407350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+415000,sound,bip,True,bip_court.wav
+415350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+423000,sound,bip,True,bip_court.wav
+423350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+431000,sound,bip,True,bip_court.wav
+431350,sound,general,true,281_general_02_true_vide_latulipe.wav
+439000,sound,bip,True,bip_court.wav
+439350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+447000,redtext,empty,True,+
+447350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+455000,redtext,empty,True,+
+455350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+463000,text,empty,True,+
+468000,sound,bip,True,bip_court.wav
+468350,sound,context,false,212_context_37_false_faux_surmars.wav
+476000,redtext,empty,True,+
+476350,rsvp,geomfact,false,Plus un triangle est grand
+484000,redtext,empty,True,+
+484350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+492000,sound,bip,True,bip_court.wav
+492350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+500000,redtext,empty,True,+
+500350,rsvp,general,true,Une encyclopédie permet de diffuser le savoir à de nombreux lecteurs.
+508000,redtext,empty,True,+
+508350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+516000,redtext,empty,True,+
+516350,rsvp,general,true,La photosynthèse se produit grâce à l'énergie lumineuse.
+524000,redtext,empty,True,+
+524350,rsvp,tom,false,Pour Einstein la bombe atomique est un objet sans danger.
+532000,redtext,empty,True,+
+532350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+540000,sound,bip,True,bip_court.wav
+540350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+548000,sound,bip,True,bip_court.wav
+548350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+556000,sound,bip,True,bip_court.wav
+556350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+564000,text,empty,True,+

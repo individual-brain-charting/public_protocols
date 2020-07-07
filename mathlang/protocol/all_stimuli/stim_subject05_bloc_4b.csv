@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+10000,redtext,empty,True,+
+10350,rsvp,context,true,Dans la mer les mammifères ont des nageoires et un évent.
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+34000,text,empty,True,+
+39000,sound,bip,True,bip_court.wav
+39350,sound,colorlessg,false,19_colorlessg_16_false_vide_artiste.wav
+47000,sound,bip,True,bip_court.wav
+47350,sound,colorlessg,false,203_colorlessg_11_false_vide_auxchampsbleus.wav
+55000,redtext,empty,True,+
+55350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+63000,redtext,empty,True,+
+63350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+71000,sound,bip,True,bip_court.wav
+71350,sound,general,false,38_general_34_false_vide_hiver.wav
+79000,sound,bip,True,bip_court.wav
+79350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+87000,sound,bip,True,bip_court.wav
+87350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+95000,sound,bip,True,bip_court.wav
+95350,sound,arithfact,true,53_arithfact_13_true_vide_unquartdecent.wav
+103000,redtext,empty,True,+
+103350,rsvp,control,false,Faux geler obligés semaine proposer doux carré fois.
+111000,sound,bip,True,bip_court.wav
+111350,sound,arithprin,true,244_arithprin_17_true_vide_additionnerfractions.wav
+119000,text,empty,True,+
+126000,sound,bip,True,bip_court.wav
+126350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+134000,redtext,empty,True,+
+134350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+142000,sound,bip,True,bip_court.wav
+142350,sound,arithprin,true,312_arithprin_08_true_vide_unnombredivise.wav
+150000,redtext,empty,True,+
+150350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+158000,redtext,empty,True,+
+158350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+166000,redtext,empty,True,+
+166350,rsvp,geomfact,true,Un carré possède des axes de symétrie.
+174000,redtext,empty,True,+
+174350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+182000,text,empty,True,+
+187000,sound,bip,True,bip_court.wav
+187350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+195000,sound,bip,True,bip_court.wav
+195350,sound,geomfact,false,225_geomfact_36_false_vide_untriangleaplus.wav
+203000,text,empty,True,+
+210000,redtext,empty,True,+
+210350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+218000,sound,bip,True,bip_court.wav
+218350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+226000,sound,bip,True,bip_court.wav
+226350,sound,arithfact,false,211_arithfact_30_false_vide_trentecinqmoins.wav
+234000,redtext,empty,True,+
+234350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+242000,redtext,empty,True,+
+242350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+250000,text,empty,True,+
+254000,redtext,empty,True,+
+254350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+262000,redtext,empty,True,+
+262350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+270000,sound,bip,True,bip_court.wav
+270350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+278000,redtext,empty,True,+
+278350,rsvp,arithprin,true,La multiplication est le contraire de la division.
+286000,redtext,empty,True,+
+286350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+294000,sound,bip,True,bip_court.wav
+294350,sound,geomfact,true,95_geomfact_01_true_vide_carrefigure.wav
+302000,redtext,empty,True,+
+302350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+310000,redtext,empty,True,+
+310350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+318000,sound,bip,True,bip_court.wav
+318350,sound,general,false,37_general_25_false_vide_primevere.wav
+326000,sound,bip,True,bip_court.wav
+326350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+334000,text,empty,True,+
+339000,sound,bip,True,bip_court.wav
+339350,sound,control,false,186_control_23_false_vide_douceurpoisson.wav
+347000,redtext,empty,True,+
+347350,rsvp,context,true,Dans l'Himalaya les montagnes sont de hauts sommets enneigées.
+355000,sound,bip,True,bip_court.wav
+355350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+363000,redtext,empty,True,+
+363350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+371000,redtext,empty,True,+
+371350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+379000,sound,bip,True,bip_court.wav
+379350,sound,control,false,224_control_21_false_vide_sombremanteau.wav
+387000,text,empty,True,+
+395000,sound,bip,True,bip_court.wav
+395350,sound,general,true,302_general_04_true_vide_leaugele.wav
+403000,redtext,empty,True,+
+403350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+411000,sound,bip,True,bip_court.wav
+411350,sound,control,false,17_control_20_false_vide_etresont.wav
+419000,redtext,empty,True,+
+419350,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+427000,redtext,empty,True,+
+427350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+435000,redtext,empty,True,+
+435350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+443000,text,empty,True,+
+447000,redtext,empty,True,+
+447350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+455000,sound,bip,True,bip_court.wav
+455350,sound,control,false,16_control_29_false_vide_insigne.wav
+463000,sound,bip,True,bip_court.wav
+463350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+471000,redtext,empty,True,+
+471350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+479000,sound,bip,True,bip_court.wav
+479350,sound,geomfact,false,118_geomfact_22_false_vide_hexagone.wav
+487000,sound,bip,True,bip_court.wav
+487350,sound,context,false,212_context_37_false_faux_surmars.wav
+495000,sound,bip,True,bip_court.wav
+495350,sound,tom,true,94_tom_01_true_vrai_darwin.wav
+503000,redtext,empty,True,+
+503350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+511000,sound,bip,True,bip_court.wav
+511350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+519000,redtext,empty,True,+
+519350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+527000,redtext,empty,True,+
+527350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+535000,sound,bip,True,bip_court.wav
+535350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+543000,redtext,empty,True,+
+543350,rsvp,colorlessg,false,Pour les lions la voile est une bouteille pensive.
+551000,redtext,empty,True,+
+551350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+559000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+10000,redtext,empty,True,+
+10350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+18000,sound,bip,True,bip_court.wav
+18350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,false,Le carré d'un nombre impair est un nombre pair.
+34000,sound,bip,True,bip_court.wav
+34350,sound,general,false,52_general_31_false_vide_veau.wav
+42000,redtext,empty,True,+
+42350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+50000,sound,bip,True,bip_court.wav
+50350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+58000,redtext,empty,True,+
+58350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+66000,text,empty,True,+
+74000,redtext,empty,True,+
+74350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+82000,redtext,empty,True,+
+82350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+90000,redtext,empty,True,+
+90350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+98000,text,empty,True,+
+103000,redtext,empty,True,+
+103350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+111000,redtext,empty,True,+
+111350,rsvp,context,true,En Irlande avoir les cheveux roux est assez courant.
+119000,redtext,empty,True,+
+119350,rsvp,control,false,Insigne doux colline biberon écrit blanc couper.
+127000,sound,bip,True,bip_court.wav
+127350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+135000,sound,bip,True,bip_court.wav
+135350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+143000,sound,bip,True,bip_court.wav
+143350,sound,arithfact,true,102_arithfact_08_true_vide_racinecarree.wav
+151000,text,empty,True,+
+157000,sound,bip,True,bip_court.wav
+157350,sound,general,true,174_general_12_true_vide_uneencyclopedie.wav
+165000,sound,bip,True,bip_court.wav
+165350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+173000,sound,bip,True,bip_court.wav
+173350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+181000,redtext,empty,True,+
+181350,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+189000,redtext,empty,True,+
+189350,rsvp,tom,false,Pour Johnny Hallyday chanter est un hobby.
+197000,redtext,empty,True,+
+197350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+205000,sound,bip,True,bip_court.wav
+205350,sound,context,true,22_context_20_true_faux_danslamer.wav
+213000,text,empty,True,+
+219000,sound,bip,True,bip_court.wav
+219350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+227000,sound,bip,True,bip_court.wav
+227350,sound,general,false,83_general_40_false_vide_laterre.wav
+235000,sound,bip,True,bip_court.wav
+235350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+243000,redtext,empty,True,+
+243350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+251000,sound,bip,True,bip_court.wav
+251350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+259000,redtext,empty,True,+
+259350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+267000,redtext,empty,True,+
+267350,rsvp,control,false,Lui eux puis chaque pour si d'après pourtant d'un sitôt est.
+275000,redtext,empty,True,+
+275350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+283000,text,empty,True,+
+290000,redtext,empty,True,+
+290350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+298000,redtext,empty,True,+
+298350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+306000,text,empty,True,+
+310000,sound,bip,True,bip_court.wav
+310350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+318000,sound,bip,True,bip_court.wav
+318350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+326000,sound,bip,True,bip_court.wav
+326350,sound,arithprin,true,161_arithprin_18_true_vide_unefraction.wav
+334000,redtext,empty,True,+
+334350,rsvp,colorlessg,false,L’espoir d’oignon lisse et brun fait joli et gras.
+342000,sound,bip,True,bip_court.wav
+342350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+350000,sound,bip,True,bip_court.wav
+350350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+358000,sound,bip,True,bip_court.wav
+358350,sound,control,false,322_control_11_false_vide_selonalors.wav
+366000,sound,bip,True,bip_court.wav
+366350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+374000,sound,bip,True,bip_court.wav
+374350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+382000,sound,bip,True,bip_court.wav
+382350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+390000,text,empty,True,+
+398000,sound,bip,True,bip_court.wav
+398350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+406000,redtext,empty,True,+
+406350,rsvp,tom,true,D'après Newton les objets sont soumis à l'attraction terrestre.
+414000,sound,bip,True,bip_court.wav
+414350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+422000,sound,bip,True,bip_court.wav
+422350,sound,general,true,46_general_11_true_vide_photosynthese.wav
+430000,sound,bip,True,bip_court.wav
+430350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+438000,redtext,empty,True,+
+438350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+446000,text,empty,True,+
+454000,redtext,empty,True,+
+454350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+462000,redtext,empty,True,+
+462350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+470000,redtext,empty,True,+
+470350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+478000,sound,bip,True,bip_court.wav
+478350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+486000,sound,bip,True,bip_court.wav
+486350,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+494000,redtext,empty,True,+
+494350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+502000,redtext,empty,True,+
+502350,rsvp,context,true,A New York les immeubles sont de hauts bâtiments modernes.
+510000,redtext,empty,True,+
+510350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+518000,redtext,empty,True,+
+518350,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+526000,redtext,empty,True,+
+526350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+534000,sound,bip,True,bip_court.wav
+534350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+542000,sound,bip,True,bip_court.wav
+542350,sound,tom,false,232_tom_29_false_vrai_pournapoleon.wav
+550000,redtext,empty,True,+
+550350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+558000,sound,bip,True,bip_court.wav
+558350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+566000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+10000,redtext,empty,True,+
+10350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+26000,redtext,empty,True,+
+26350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+34000,sound,bip,True,bip_court.wav
+34350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,tom,true,321_tom_14_true_faux_president.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,context,true,18_context_19_true_faux_irlande.wav
+58000,text,empty,True,+
+62000,redtext,empty,True,+
+62350,rsvp,arithprin,false,Le carré d'un nombre négatif est négatif.
+70000,sound,bip,True,bip_court.wav
+70350,sound,arithfact,false,306_arithfact_21_false_vide_quarantedivisepardeux.wav
+78000,sound,bip,True,bip_court.wav
+78350,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+86000,redtext,empty,True,+
+86350,rsvp,context,false,Dans le métro parisien les trains transportent des céréales.
+94000,sound,bip,True,bip_court.wav
+94350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+102000,redtext,empty,True,+
+102350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+110000,redtext,empty,True,+
+110350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+118000,text,empty,True,+
+125000,sound,bip,True,bip_court.wav
+125350,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+133000,redtext,empty,True,+
+133350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+141000,redtext,empty,True,+
+141350,rsvp,geomfact,false,Un rectangle a un seul axe de symétrie.
+149000,redtext,empty,True,+
+149350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+157000,sound,bip,True,bip_court.wav
+157350,sound,control,false,322_control_11_false_vide_selonalors.wav
+165000,redtext,empty,True,+
+165350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+173000,redtext,empty,True,+
+173350,rsvp,general,true,La tragédie classique est fondée sur une unité de lieu.
+181000,sound,bip,True,bip_court.wav
+181350,sound,context,false,188_context_23_false_vrai_auvatican.wav
+189000,redtext,empty,True,+
+189350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+197000,text,empty,True,+
+201000,redtext,empty,True,+
+201350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+209000,sound,bip,True,bip_court.wav
+209350,sound,tom,false,32_tom_23_false_vrai_julesverne.wav
+217000,sound,bip,True,bip_court.wav
+217350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+225000,redtext,empty,True,+
+225350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+233000,sound,bip,True,bip_court.wav
+233350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+241000,sound,bip,True,bip_court.wav
+241350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+249000,redtext,empty,True,+
+249350,rsvp,general,false,La terre tourne autour de la planète Venus.
+257000,sound,bip,True,bip_court.wav
+257350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+265000,sound,bip,True,bip_court.wav
+265350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+273000,text,empty,True,+
+278000,sound,bip,True,bip_court.wav
+278350,sound,geomfact,true,204_geomfact_15_true_vide_diametrecercle.wav
+286000,sound,bip,True,bip_court.wav
+286350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+294000,redtext,empty,True,+
+294350,rsvp,geomfact,true,Les losanges et les carrés ont des côtés égaux.
+302000,sound,bip,True,bip_court.wav
+302350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+310000,redtext,empty,True,+
+310350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+318000,sound,bip,True,bip_court.wav
+318350,sound,general,false,277_general_28_false_vide_lesdinosauressont.wav
+326000,sound,bip,True,bip_court.wav
+326350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+334000,text,empty,True,+
+342000,redtext,empty,True,+
+342350,rsvp,arithfact,true,Deux fois vingt quatre a comme résultat quarante huit.
+350000,redtext,empty,True,+
+350350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+358000,redtext,empty,True,+
+358350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+366000,sound,bip,True,bip_court.wav
+366350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+374000,sound,bip,True,bip_court.wav
+374350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+382000,sound,bip,True,bip_court.wav
+382350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+390000,redtext,empty,True,+
+390350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+398000,redtext,empty,True,+
+398350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+406000,redtext,empty,True,+
+406350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+414000,text,empty,True,+
+418000,sound,bip,True,bip_court.wav
+418350,sound,context,true,138_context_06_true_vrai_sanfrancisco.wav
+426000,sound,bip,True,bip_court.wav
+426350,sound,general,true,111_general_20_true_vide_mitose.wav
+434000,redtext,empty,True,+
+434350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+442000,redtext,empty,True,+
+442350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+450000,sound,bip,True,bip_court.wav
+450350,sound,general,true,170_general_18_true_vide_calendriergregorien.wav
+458000,redtext,empty,True,+
+458350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+466000,sound,bip,True,bip_court.wav
+466350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+474000,sound,bip,True,bip_court.wav
+474350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+482000,text,empty,True,+
+490000,sound,bip,True,bip_court.wav
+490350,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+498000,redtext,empty,True,+
+498350,rsvp,control,false,Sans pour est dont un lorsque de dedans celle ou puisque.
+506000,text,empty,True,+
+511000,redtext,empty,True,+
+511350,rsvp,control,false,D'après où dans ils les d'une toute cependant et sans.
+519000,redtext,empty,True,+
+519350,rsvp,tom,true,Selon les chrétiens fondamentalistes Adam est notre ancêtre.
+527000,redtext,empty,True,+
+527350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+535000,redtext,empty,True,+
+535350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+543000,redtext,empty,True,+
+543350,rsvp,arithprin,true,Tous les nombres entiers sont divisibles par un.
+551000,sound,bip,True,bip_court.wav
+551350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+559000,text,empty,True,+

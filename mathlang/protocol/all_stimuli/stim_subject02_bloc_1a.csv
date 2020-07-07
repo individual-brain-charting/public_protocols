@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+10000,sound,bip,True,bip_court.wav
+10350,sound,control,false,322_control_11_false_vide_selonalors.wav
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,true,Ajouter zéro ne change pas un nombre.
+34000,redtext,empty,True,+
+34350,rsvp,tom,false,Pour Céline Dion jouer de la musique est un hobby.
+42000,redtext,empty,True,+
+42350,rsvp,control,false,La après est de des le d'un mon le de pendant il outre.
+50000,sound,bip,True,bip_court.wav
+50350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+58000,redtext,empty,True,+
+58350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+66000,sound,bip,True,bip_court.wav
+66350,sound,arithprin,true,309_arithprin_20_true_vide_unnombreeleve.wav
+74000,redtext,empty,True,+
+74350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+82000,text,empty,True,+
+87000,redtext,empty,True,+
+87350,rsvp,geomfact,true,Les diagonales d'un losange sont ses axes de symétrie.
+95000,redtext,empty,True,+
+95350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+103000,redtext,empty,True,+
+103350,rsvp,control,false,Histoire jours frère société café armée saint états.
+111000,sound,bip,True,bip_court.wav
+111350,sound,geomfact,false,118_geomfact_22_false_vide_hexagone.wav
+119000,redtext,empty,True,+
+119350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+127000,sound,bip,True,bip_court.wav
+127350,sound,context,true,217_context_15_true_faux_enchine.wav
+135000,text,empty,True,+
+142000,redtext,empty,True,+
+142350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+150000,redtext,empty,True,+
+150350,rsvp,arithfact,false,Le nombre soixante quatorze est plus grand que cent.
+158000,sound,bip,True,bip_court.wav
+158350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+166000,redtext,empty,True,+
+166350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+174000,sound,bip,True,bip_court.wav
+174350,sound,general,false,6_general_21_false_vide_papillons.wav
+182000,text,empty,True,+
+187000,sound,bip,True,bip_court.wav
+187350,sound,general,true,302_general_04_true_vide_leaugele.wav
+195000,sound,bip,True,bip_court.wav
+195350,sound,colorlessg,false,62_colorlessg_27_false_vide_toutebase.wav
+203000,sound,bip,True,bip_court.wav
+203350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+211000,sound,bip,True,bip_court.wav
+211350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+219000,text,empty,True,+
+225000,sound,bip,True,bip_court.wav
+225350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+233000,redtext,empty,True,+
+233350,rsvp,geomfact,true,Tous les points d'un cercle sont à égale distance du centre.
+241000,sound,bip,True,bip_court.wav
+241350,sound,control,false,110_control_03_false_vide_quileestun.wav
+249000,redtext,empty,True,+
+249350,rsvp,tom,true,Pour les créationnistes Dieu est à l'origine de la vie.
+257000,sound,bip,True,bip_court.wav
+257350,sound,arithfact,false,295_arithfact_26_false_vide_trenteseptestlamoitie.wav
+265000,redtext,empty,True,+
+265350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+273000,text,empty,True,+
+278000,sound,bip,True,bip_court.wav
+278350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+286000,sound,bip,True,bip_court.wav
+286350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+294000,redtext,empty,True,+
+294350,rsvp,geomfact,false,Un rectangle a un seul axe de symétrie.
+302000,redtext,empty,True,+
+302350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+310000,sound,bip,True,bip_court.wav
+310350,sound,context,false,130_context_38_false_faux_kenya.wav
+318000,text,empty,True,+
+322000,sound,bip,True,bip_court.wav
+322350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+330000,sound,bip,True,bip_court.wav
+330350,sound,control,false,131_control_22_false_vide_devantdecide.wav
+338000,redtext,empty,True,+
+338350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+346000,redtext,empty,True,+
+346350,rsvp,context,true,A Londres les autobus ont des étages.
+354000,sound,bip,True,bip_court.wav
+354350,sound,context,true,3_context_08_true_vrai_australie.wav
+362000,sound,bip,True,bip_court.wav
+362350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+370000,redtext,empty,True,+
+370350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+378000,sound,bip,True,bip_court.wav
+378350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+386000,text,empty,True,+
+392000,sound,bip,True,bip_court.wav
+392350,sound,tom,true,313_tom_18_true_faux_marieantoinette.wav
+400000,redtext,empty,True,+
+400350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+408000,redtext,empty,True,+
+408350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+416000,text,empty,True,+
+421000,sound,bip,True,bip_court.wav
+421350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+429000,redtext,empty,True,+
+429350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+437000,redtext,empty,True,+
+437350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+445000,redtext,empty,True,+
+445350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+453000,sound,bip,True,bip_court.wav
+453350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+461000,redtext,empty,True,+
+461350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+469000,sound,bip,True,bip_court.wav
+469350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+477000,sound,bip,True,bip_court.wav
+477350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+485000,sound,bip,True,bip_court.wav
+485350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+493000,sound,bip,True,bip_court.wav
+493350,sound,colorlessg,false,156_colorlessg_38_false_vide_pitiedebitee.wav
+501000,sound,bip,True,bip_court.wav
+501350,sound,general,false,1_general_26_false_vide_jupiter.wav
+509000,redtext,empty,True,+
+509350,rsvp,arithfact,true,Quarante cinq est le résultat de quinze fois trois.
+517000,sound,bip,True,bip_court.wav
+517350,sound,general,true,281_general_02_true_vide_latulipe.wav
+525000,redtext,empty,True,+
+525350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+533000,redtext,empty,True,+
+533350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+541000,redtext,empty,True,+
+541350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+549000,sound,bip,True,bip_court.wav
+549350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+557000,text,empty,True,+

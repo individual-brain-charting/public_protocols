@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+34000,text,empty,True,+
+40000,redtext,empty,True,+
+40350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+48000,redtext,empty,True,+
+48350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+56000,sound,bip,True,bip_court.wav
+56350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+64000,redtext,empty,True,+
+64350,rsvp,general,false,La planète Terre possède plusieurs satellites naturels.
+72000,sound,bip,True,bip_court.wav
+72350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+80000,redtext,empty,True,+
+80350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+88000,sound,bip,True,bip_court.wav
+88350,sound,arithfact,false,255_arithfact_36_false_vide_seizeestleresultat.wav
+96000,text,empty,True,+
+104000,redtext,empty,True,+
+104350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+112000,sound,bip,True,bip_court.wav
+112350,sound,general,true,116_general_06_true_vide_canari.wav
+120000,sound,bip,True,bip_court.wav
+120350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+128000,redtext,empty,True,+
+128350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+136000,sound,bip,True,bip_court.wav
+136350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+144000,text,empty,True,+
+151000,redtext,empty,True,+
+151350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+159000,sound,bip,True,bip_court.wav
+159350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+167000,redtext,empty,True,+
+167350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+175000,redtext,empty,True,+
+175350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+183000,text,empty,True,+
+191000,redtext,empty,True,+
+191350,rsvp,tom,false,Pour Donald Trump les mexicains sont bienvenus aux Etats Unis.
+199000,sound,bip,True,bip_court.wav
+199350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+207000,sound,bip,True,bip_court.wav
+207350,sound,control,false,322_control_11_false_vide_selonalors.wav
+215000,sound,bip,True,bip_court.wav
+215350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+223000,redtext,empty,True,+
+223350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+231000,redtext,empty,True,+
+231350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+239000,sound,bip,True,bip_court.wav
+239350,sound,control,false,264_control_19_false_vide_cependantaauquel.wav
+247000,text,empty,True,+
+251000,sound,bip,True,bip_court.wav
+251350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+259000,sound,bip,True,bip_court.wav
+259350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+267000,redtext,empty,True,+
+267350,rsvp,arithfact,true,Deux fois vingt quatre a comme résultat quarante huit.
+275000,sound,bip,True,bip_court.wav
+275350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+283000,redtext,empty,True,+
+283350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+291000,text,empty,True,+
+296000,redtext,empty,True,+
+296350,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+304000,redtext,empty,True,+
+304350,rsvp,colorlessg,false,Une mélancolie offre de piloter le pouvoir à ses savons chauds.
+312000,redtext,empty,True,+
+312350,rsvp,geomfact,true,Un carré possède des axes de symétrie.
+320000,redtext,empty,True,+
+320350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+328000,redtext,empty,True,+
+328350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+336000,sound,bip,True,bip_court.wav
+336350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+344000,redtext,empty,True,+
+344350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+352000,text,empty,True,+
+358000,sound,bip,True,bip_court.wav
+358350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+366000,redtext,empty,True,+
+366350,rsvp,context,true,A Londres les autobus ont des étages.
+374000,sound,bip,True,bip_court.wav
+374350,sound,general,true,281_general_02_true_vide_latulipe.wav
+382000,redtext,empty,True,+
+382350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+390000,sound,bip,True,bip_court.wav
+390350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+398000,redtext,empty,True,+
+398350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+406000,redtext,empty,True,+
+406350,rsvp,arithfact,false,Dix sept est la racine carrée de cent quatre vingt dix.
+414000,sound,bip,True,bip_court.wav
+414350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+422000,redtext,empty,True,+
+422350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+430000,redtext,empty,True,+
+430350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+438000,redtext,empty,True,+
+438350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+446000,text,empty,True,+
+454000,redtext,empty,True,+
+454350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+462000,sound,bip,True,bip_court.wav
+462350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+470000,sound,bip,True,bip_court.wav
+470350,sound,general,false,37_general_25_false_vide_primevere.wav
+478000,sound,bip,True,bip_court.wav
+478350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+486000,redtext,empty,True,+
+486350,rsvp,colorlessg,false,En vérité tous les gouvernements doivent retrouver à l'année.
+494000,sound,bip,True,bip_court.wav
+494350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+502000,sound,bip,True,bip_court.wav
+502350,sound,tom,true,222_tom_02_true_vrai_dapresgalilee.wav
+510000,sound,bip,True,bip_court.wav
+510350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+518000,redtext,empty,True,+
+518350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+526000,sound,bip,True,bip_court.wav
+526350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+534000,sound,bip,True,bip_court.wav
+534350,sound,context,false,97_context_40_false_faux_japon.wav
+542000,redtext,empty,True,+
+542350,rsvp,tom,true,D'après Newton les objets sont soumis à l'attraction terrestre.
+550000,sound,bip,True,bip_court.wav
+550350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+558000,sound,bip,True,bip_court.wav
+558350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+566000,text,empty,True,+

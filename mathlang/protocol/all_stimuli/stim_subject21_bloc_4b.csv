@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+10000,redtext,empty,True,+
+10350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+18000,sound,bip,True,bip_court.wav
+18350,sound,general,true,51_general_09_true_vide_flocons.wav
+26000,redtext,empty,True,+
+26350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,La réaction brosse par elle même de longs zoos barbus.
+42000,sound,bip,True,bip_court.wav
+42350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,context,false,126_context_24_false_vrai_burundi.wav
+58000,sound,bip,True,bip_court.wav
+58350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+66000,text,empty,True,+
+70000,sound,bip,True,bip_court.wav
+70350,sound,tom,true,59_tom_07_true_vrai_vulcanologues.wav
+78000,sound,bip,True,bip_court.wav
+78350,sound,control,false,58_control_13_false_vide_plusensuite.wav
+86000,sound,bip,True,bip_court.wav
+86350,sound,colorlessg,false,19_colorlessg_16_false_vide_artiste.wav
+94000,redtext,empty,True,+
+94350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+102000,sound,bip,True,bip_court.wav
+102350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+110000,sound,bip,True,bip_court.wav
+110350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+118000,sound,bip,True,bip_court.wav
+118350,sound,tom,true,121_tom_11_true_faux_pourlesgrecs.wav
+126000,text,empty,True,+
+134000,redtext,empty,True,+
+134350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+142000,sound,bip,True,bip_court.wav
+142350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+150000,redtext,empty,True,+
+150350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+158000,redtext,empty,True,+
+158350,rsvp,geomfact,false,Des lignes perpendiculaires forment un angle aigu.
+166000,text,empty,True,+
+174000,redtext,empty,True,+
+174350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+182000,redtext,empty,True,+
+182350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+190000,redtext,empty,True,+
+190350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+198000,redtext,empty,True,+
+198350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+206000,redtext,empty,True,+
+206350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+214000,sound,bip,True,bip_court.wav
+214350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+222000,text,empty,True,+
+228000,sound,bip,True,bip_court.wav
+228350,sound,arithfact,false,211_arithfact_30_false_vide_trentecinqmoins.wav
+236000,sound,bip,True,bip_court.wav
+236350,sound,arithfact,false,295_arithfact_26_false_vide_trenteseptestlamoitie.wav
+244000,redtext,empty,True,+
+244350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+252000,redtext,empty,True,+
+252350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+260000,redtext,empty,True,+
+260350,rsvp,control,false,Période histoire visage pleine côté conditions jamais.
+268000,text,empty,True,+
+276000,redtext,empty,True,+
+276350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+284000,redtext,empty,True,+
+284350,rsvp,tom,false,Pour Donald Trump les mexicains sont bienvenus aux Etats Unis.
+292000,redtext,empty,True,+
+292350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+300000,redtext,empty,True,+
+300350,rsvp,control,false,Faux geler obligés semaine proposer doux carré fois.
+308000,text,empty,True,+
+315000,redtext,empty,True,+
+315350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+323000,sound,bip,True,bip_court.wav
+323350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+331000,redtext,empty,True,+
+331350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+339000,redtext,empty,True,+
+339350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+347000,sound,bip,True,bip_court.wav
+347350,sound,geomfact,false,114_geomfact_33_false_vide_cotesdunlosange.wav
+355000,redtext,empty,True,+
+355350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+363000,redtext,empty,True,+
+363350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+371000,sound,bip,True,bip_court.wav
+371350,sound,context,true,26_context_17_true_faux_londres.wav
+379000,text,empty,True,+
+385000,sound,bip,True,bip_court.wav
+385350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+393000,redtext,empty,True,+
+393350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+401000,sound,bip,True,bip_court.wav
+401350,sound,colorlessg,false,203_colorlessg_11_false_vide_auxchampsbleus.wav
+409000,redtext,empty,True,+
+409350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+417000,redtext,empty,True,+
+417350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+425000,sound,bip,True,bip_court.wav
+425350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+433000,redtext,empty,True,+
+433350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+441000,sound,bip,True,bip_court.wav
+441350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+449000,sound,bip,True,bip_court.wav
+449350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+457000,sound,bip,True,bip_court.wav
+457350,sound,context,false,212_context_37_false_faux_surmars.wav
+465000,sound,bip,True,bip_court.wav
+465350,sound,geomfact,true,104_geomfact_07_true_vide_losanges.wav
+473000,redtext,empty,True,+
+473350,rsvp,general,true,Le noyau de l'atome d'hydrogène est composé d'un seul proton.
+481000,redtext,empty,True,+
+481350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+489000,text,empty,True,+
+497000,sound,bip,True,bip_court.wav
+497350,sound,geomfact,true,204_geomfact_15_true_vide_diametrecercle.wav
+505000,sound,bip,True,bip_court.wav
+505350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+513000,redtext,empty,True,+
+513350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+521000,redtext,empty,True,+
+521350,rsvp,arithprin,false,Un nombre auquel on soustrait zéro reste égal à lui même.
+529000,sound,bip,True,bip_court.wav
+529350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+537000,sound,bip,True,bip_court.wav
+537350,sound,geomfact,false,225_geomfact_36_false_vide_untriangleaplus.wav
+545000,sound,bip,True,bip_court.wav
+545350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+553000,sound,bip,True,bip_court.wav
+553350,sound,control,false,314_control_37_false_vide_nombrevoie.wav
+561000,sound,bip,True,bip_court.wav
+561350,sound,general,false,37_general_25_false_vide_primevere.wav
+569000,text,empty,True,+

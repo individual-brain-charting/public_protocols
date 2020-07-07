@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+10000,redtext,empty,True,+
+10350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+18000,redtext,empty,True,+
+18350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+34000,sound,bip,True,bip_court.wav
+34350,sound,geomfact,true,307_geomfact_05_true_vide_lignesparalleles.wav
+42000,text,empty,True,+
+49000,redtext,empty,True,+
+49350,rsvp,arithprin,false,Le résultat d'une division est toujours un nombre entier.
+57000,redtext,empty,True,+
+57350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+65000,sound,bip,True,bip_court.wav
+65350,sound,context,false,207_context_39_false_faux_enindedinar.wav
+73000,redtext,empty,True,+
+73350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+81000,redtext,empty,True,+
+81350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+89000,redtext,empty,True,+
+89350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+97000,redtext,empty,True,+
+97350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+105000,redtext,empty,True,+
+105350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+113000,text,empty,True,+
+119000,redtext,empty,True,+
+119350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+127000,sound,bip,True,bip_court.wav
+127350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+135000,sound,bip,True,bip_court.wav
+135350,sound,general,true,54_general_07_true_vide_soleil.wav
+143000,redtext,empty,True,+
+143350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+151000,sound,bip,True,bip_court.wav
+151350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+159000,sound,bip,True,bip_court.wav
+159350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+167000,redtext,empty,True,+
+167350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+175000,text,empty,True,+
+182000,sound,bip,True,bip_court.wav
+182350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+190000,sound,bip,True,bip_court.wav
+190350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+198000,redtext,empty,True,+
+198350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+206000,sound,bip,True,bip_court.wav
+206350,sound,context,true,217_context_15_true_faux_enchine.wav
+214000,redtext,empty,True,+
+214350,rsvp,geomfact,true,Un triangle équilatéral se divise en deux triangles rectangles.
+222000,redtext,empty,True,+
+222350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+230000,sound,bip,True,bip_court.wav
+230350,sound,arithfact,false,115_arithfact_27_false_vide_multiplicationquatre.wav
+238000,text,empty,True,+
+242000,sound,bip,True,bip_court.wav
+242350,sound,tom,true,94_tom_01_true_vrai_darwin.wav
+250000,redtext,empty,True,+
+250350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+258000,sound,bip,True,bip_court.wav
+258350,sound,context,false,308_context_26_false_vrai_enequateur.wav
+266000,redtext,empty,True,+
+266350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+274000,redtext,empty,True,+
+274350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+282000,sound,bip,True,bip_court.wav
+282350,sound,arithprin,true,312_arithprin_08_true_vide_unnombredivise.wav
+290000,text,empty,True,+
+294000,redtext,empty,True,+
+294350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+302000,sound,bip,True,bip_court.wav
+302350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+310000,redtext,empty,True,+
+310350,rsvp,context,true,Dans les îles volcaniques le sable est noir.
+318000,redtext,empty,True,+
+318350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+326000,redtext,empty,True,+
+326350,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+334000,redtext,empty,True,+
+334350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+342000,redtext,empty,True,+
+342350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+350000,sound,bip,True,bip_court.wav
+350350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+358000,text,empty,True,+
+362000,sound,bip,True,bip_court.wav
+362350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+370000,sound,bip,True,bip_court.wav
+370350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+378000,sound,bip,True,bip_court.wav
+378350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+386000,redtext,empty,True,+
+386350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+394000,sound,bip,True,bip_court.wav
+394350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+402000,redtext,empty,True,+
+402350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+410000,text,empty,True,+
+418000,sound,bip,True,bip_court.wav
+418350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+426000,sound,bip,True,bip_court.wav
+426350,sound,control,false,314_control_37_false_vide_nombrevoie.wav
+434000,redtext,empty,True,+
+434350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+442000,sound,bip,True,bip_court.wav
+442350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+450000,sound,bip,True,bip_court.wav
+450350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+458000,text,empty,True,+
+466000,sound,bip,True,bip_court.wav
+466350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+474000,sound,bip,True,bip_court.wav
+474350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+482000,sound,bip,True,bip_court.wav
+482350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+490000,sound,bip,True,bip_court.wav
+490350,sound,general,false,6_general_21_false_vide_papillons.wav
+498000,redtext,empty,True,+
+498350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+506000,sound,bip,True,bip_court.wav
+506350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+514000,sound,bip,True,bip_court.wav
+514350,sound,context,true,191_context_01_true_vrai_apekin.wav
+522000,sound,bip,True,bip_court.wav
+522350,sound,tom,false,85_tom_40_false_faux_einstein.wav
+530000,sound,bip,True,bip_court.wav
+530350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+538000,redtext,empty,True,+
+538350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+546000,redtext,empty,True,+
+546350,rsvp,geomfact,false,Un triangle isocèle a plusieurs axes de symétrie.
+554000,sound,bip,True,bip_court.wav
+554350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+562000,text,empty,True,+

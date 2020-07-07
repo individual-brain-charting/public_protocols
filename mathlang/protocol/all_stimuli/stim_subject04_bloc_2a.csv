@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+10000,redtext,empty,True,+
+10350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+18000,sound,bip,True,bip_court.wav
+18350,sound,general,true,34_general_01_true_vide_chameau.wav
+26000,redtext,empty,True,+
+26350,rsvp,colorlessg,false,L'intermédiaire de l'armée d'oxygène est doublé d'un programme véritable.
+34000,redtext,empty,True,+
+34350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+42000,redtext,empty,True,+
+42350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+50000,redtext,empty,True,+
+50350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+58000,text,empty,True,+
+66000,sound,bip,True,bip_court.wav
+66350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+74000,sound,bip,True,bip_court.wav
+74350,sound,context,true,22_context_20_true_faux_danslamer.wav
+82000,sound,bip,True,bip_court.wav
+82350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+90000,redtext,empty,True,+
+90350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+98000,redtext,empty,True,+
+98350,rsvp,geomfact,true,Les diagonales d'un losange sont ses axes de symétrie.
+106000,text,empty,True,+
+112000,redtext,empty,True,+
+112350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+120000,sound,bip,True,bip_court.wav
+120350,sound,colorlessg,false,257_colorlessg_30_false_vide_unboldepain.wav
+128000,sound,bip,True,bip_court.wav
+128350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+136000,redtext,empty,True,+
+136350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+144000,sound,bip,True,bip_court.wav
+144350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+152000,redtext,empty,True,+
+152350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+160000,text,empty,True,+
+164000,sound,bip,True,bip_court.wav
+164350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+172000,sound,bip,True,bip_court.wav
+172350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+180000,redtext,empty,True,+
+180350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+188000,redtext,empty,True,+
+188350,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+196000,redtext,empty,True,+
+196350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+204000,text,empty,True,+
+208000,sound,bip,True,bip_court.wav
+208350,sound,general,true,51_general_09_true_vide_flocons.wav
+216000,sound,bip,True,bip_court.wav
+216350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+224000,sound,bip,True,bip_court.wav
+224350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+232000,sound,bip,True,bip_court.wav
+232350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+240000,redtext,empty,True,+
+240350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+248000,sound,bip,True,bip_court.wav
+248350,sound,control,false,89_control_10_false_vide_auxlesaussitot.wav
+256000,text,empty,True,+
+262000,sound,bip,True,bip_court.wav
+262350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+270000,sound,bip,True,bip_court.wav
+270350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+278000,redtext,empty,True,+
+278350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+286000,redtext,empty,True,+
+286350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+294000,sound,bip,True,bip_court.wav
+294350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+302000,text,empty,True,+
+310000,sound,bip,True,bip_court.wav
+310350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+318000,redtext,empty,True,+
+318350,rsvp,arithprin,false,Un nombre auquel on soustrait zéro reste égal à lui même.
+326000,redtext,empty,True,+
+326350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+334000,sound,bip,True,bip_court.wav
+334350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+342000,sound,bip,True,bip_court.wav
+342350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+350000,redtext,empty,True,+
+350350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+358000,sound,bip,True,bip_court.wav
+358350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+366000,sound,bip,True,bip_court.wav
+366350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+374000,text,empty,True,+
+380000,redtext,empty,True,+
+380350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+388000,sound,bip,True,bip_court.wav
+388350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+396000,redtext,empty,True,+
+396350,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+404000,redtext,empty,True,+
+404350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+412000,redtext,empty,True,+
+412350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+420000,redtext,empty,True,+
+420350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+428000,sound,bip,True,bip_court.wav
+428350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+436000,text,empty,True,+
+444000,redtext,empty,True,+
+444350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+452000,sound,bip,True,bip_court.wav
+452350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+460000,redtext,empty,True,+
+460350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+468000,redtext,empty,True,+
+468350,rsvp,control,false,La après est de des le d'un mon le de pendant il outre.
+476000,redtext,empty,True,+
+476350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+484000,sound,bip,True,bip_court.wav
+484350,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+492000,redtext,empty,True,+
+492350,rsvp,arithprin,true,Pour additionner des fractions les dénominateurs doivent être égaux.
+500000,sound,bip,True,bip_court.wav
+500350,sound,context,true,90_context_09_true_vrai_himalaya.wav
+508000,sound,bip,True,bip_court.wav
+508350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+516000,sound,bip,True,bip_court.wav
+516350,sound,colorlessg,false,33_colorlessg_02_false_vide_grimace.wav
+524000,sound,bip,True,bip_court.wav
+524350,sound,colorlessg,false,62_colorlessg_27_false_vide_toutebase.wav
+532000,sound,bip,True,bip_court.wav
+532350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+540000,sound,bip,True,bip_court.wav
+540350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+548000,redtext,empty,True,+
+548350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+556000,redtext,empty,True,+
+556350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+564000,text,empty,True,+

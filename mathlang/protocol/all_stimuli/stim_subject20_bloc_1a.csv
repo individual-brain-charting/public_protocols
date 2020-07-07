@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+10000,redtext,empty,True,+
+10350,rsvp,colorlessg,false,D'après les compagnies la collectivité a la vache d'une terre.
+18000,redtext,empty,True,+
+18350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+26000,text,empty,True,+
+30000,sound,bip,True,bip_court.wav
+30350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+38000,redtext,empty,True,+
+38350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+46000,sound,bip,True,bip_court.wav
+46350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+54000,redtext,empty,True,+
+54350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+62000,sound,bip,True,bip_court.wav
+62350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+70000,redtext,empty,True,+
+70350,rsvp,context,true,Dans la mer les mammifères ont des nageoires et un évent.
+78000,text,empty,True,+
+84000,redtext,empty,True,+
+84350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+92000,redtext,empty,True,+
+92350,rsvp,arithfact,true,Deux fois vingt quatre a comme résultat quarante huit.
+100000,sound,bip,True,bip_court.wav
+100350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+108000,sound,bip,True,bip_court.wav
+108350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+116000,sound,bip,True,bip_court.wav
+116350,sound,general,true,170_general_18_true_vide_calendriergregorien.wav
+124000,redtext,empty,True,+
+124350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+132000,sound,bip,True,bip_court.wav
+132350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+140000,redtext,empty,True,+
+140350,rsvp,arithprin,false,Le résultat d'une soustraction est toujours négatif.
+148000,redtext,empty,True,+
+148350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+156000,text,empty,True,+
+163000,sound,bip,True,bip_court.wav
+163350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+171000,redtext,empty,True,+
+171350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+179000,sound,bip,True,bip_court.wav
+179350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+187000,text,empty,True,+
+191000,redtext,empty,True,+
+191350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+199000,sound,bip,True,bip_court.wav
+199350,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+207000,sound,bip,True,bip_court.wav
+207350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+215000,sound,bip,True,bip_court.wav
+215350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+223000,sound,bip,True,bip_court.wav
+223350,sound,context,false,226_context_21_false_vrai_eninde.wav
+231000,redtext,empty,True,+
+231350,rsvp,colorlessg,false,Une mélancolie offre de piloter le pouvoir à ses savons chauds.
+239000,sound,bip,True,bip_court.wav
+239350,sound,context,false,207_context_39_false_faux_enindedinar.wav
+247000,sound,bip,True,bip_court.wav
+247350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+255000,redtext,empty,True,+
+255350,rsvp,tom,false,Pour Céline Dion jouer de la musique est un hobby.
+263000,text,empty,True,+
+268000,redtext,empty,True,+
+268350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+276000,redtext,empty,True,+
+276350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+284000,sound,bip,True,bip_court.wav
+284350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+292000,sound,bip,True,bip_court.wav
+292350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+300000,text,empty,True,+
+304000,redtext,empty,True,+
+304350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+312000,redtext,empty,True,+
+312350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+320000,sound,bip,True,bip_court.wav
+320350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+328000,redtext,empty,True,+
+328350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+336000,redtext,empty,True,+
+336350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+344000,text,empty,True,+
+349000,redtext,empty,True,+
+349350,rsvp,geomfact,false,Les points d'un carré sont à égale distance de son centre.
+357000,sound,bip,True,bip_court.wav
+357350,sound,tom,true,59_tom_07_true_vrai_vulcanologues.wav
+365000,redtext,empty,True,+
+365350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+373000,sound,bip,True,bip_court.wav
+373350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+381000,sound,bip,True,bip_court.wav
+381350,sound,control,false,294_control_02_false_vide_unmependant.wav
+389000,text,empty,True,+
+393000,redtext,empty,True,+
+393350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+401000,redtext,empty,True,+
+401350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+409000,sound,bip,True,bip_court.wav
+409350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+417000,sound,bip,True,bip_court.wav
+417350,sound,geomfact,true,204_geomfact_15_true_vide_diametrecercle.wav
+425000,sound,bip,True,bip_court.wav
+425350,sound,context,true,317_context_16_true_faux_aujapon.wav
+433000,sound,bip,True,bip_court.wav
+433350,sound,tom,false,231_tom_35_false_faux_martinlutherking.wav
+441000,redtext,empty,True,+
+441350,rsvp,arithprin,false,Soustraire un à un nombre le laisse inchangé.
+449000,redtext,empty,True,+
+449350,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+457000,redtext,empty,True,+
+457350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+465000,sound,bip,True,bip_court.wav
+465350,sound,geomfact,false,160_geomfact_25_false_vide_plusuntriangle.wav
+473000,sound,bip,True,bip_court.wav
+473350,sound,general,false,1_general_26_false_vide_jupiter.wav
+481000,redtext,empty,True,+
+481350,rsvp,general,true,Février est le mois de l'année le plus court.
+489000,sound,bip,True,bip_court.wav
+489350,sound,arithfact,false,4_arithfact_28_false_vide_vingttrois.wav
+497000,redtext,empty,True,+
+497350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+505000,sound,bip,True,bip_court.wav
+505350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+513000,sound,bip,True,bip_court.wav
+513350,sound,tom,true,15_tom_16_true_faux_creationistes.wav
+521000,redtext,empty,True,+
+521350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+529000,redtext,empty,True,+
+529350,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+537000,sound,bip,True,bip_court.wav
+537350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+545000,sound,bip,True,bip_court.wav
+545350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+553000,text,empty,True,+

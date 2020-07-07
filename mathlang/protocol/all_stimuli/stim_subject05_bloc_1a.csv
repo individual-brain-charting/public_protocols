@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+10000,redtext,empty,True,+
+10350,rsvp,control,false,Sans pour est dont un lorsque de dedans celle ou puisque.
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+26000,redtext,empty,True,+
+26350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+34000,redtext,empty,True,+
+34350,rsvp,control,false,Histoire jours frère société café armée saint états.
+42000,text,empty,True,+
+50000,sound,bip,True,bip_court.wav
+50350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+58000,redtext,empty,True,+
+58350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+66000,redtext,empty,True,+
+66350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+74000,redtext,empty,True,+
+74350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+82000,sound,bip,True,bip_court.wav
+82350,sound,context,false,188_context_23_false_vrai_auvatican.wav
+90000,redtext,empty,True,+
+90350,rsvp,control,false,Chaque dès duquel de en tous eux mais ou ont celle.
+98000,text,empty,True,+
+106000,redtext,empty,True,+
+106350,rsvp,tom,false,Pour Einstein la bombe atomique est un objet sans danger.
+114000,redtext,empty,True,+
+114350,rsvp,colorlessg,false,Un poulet est un cercle de chiffres internationales.
+122000,redtext,empty,True,+
+122350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+130000,sound,bip,True,bip_court.wav
+130350,sound,tom,true,321_tom_14_true_faux_president.wav
+138000,sound,bip,True,bip_court.wav
+138350,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+146000,sound,bip,True,bip_court.wav
+146350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+154000,redtext,empty,True,+
+154350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+162000,sound,bip,True,bip_court.wav
+162350,sound,general,false,277_general_28_false_vide_lesdinosauressont.wav
+170000,sound,bip,True,bip_court.wav
+170350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+178000,sound,bip,True,bip_court.wav
+178350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+186000,sound,bip,True,bip_court.wav
+186350,sound,context,true,157_context_04_true_vrai_anewyork.wav
+194000,text,empty,True,+
+201000,redtext,empty,True,+
+201350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+209000,sound,bip,True,bip_court.wav
+209350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+217000,redtext,empty,True,+
+217350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+225000,text,empty,True,+
+231000,sound,bip,True,bip_court.wav
+231350,sound,arithfact,false,115_arithfact_27_false_vide_multiplicationquatre.wav
+239000,sound,bip,True,bip_court.wav
+239350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+247000,redtext,empty,True,+
+247350,rsvp,colorlessg,false,Une mélancolie offre de piloter le pouvoir à ses savons chauds.
+255000,text,empty,True,+
+262000,sound,bip,True,bip_court.wav
+262350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+270000,sound,bip,True,bip_court.wav
+270350,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+278000,sound,bip,True,bip_court.wav
+278350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+286000,redtext,empty,True,+
+286350,rsvp,general,false,La terre tourne autour de la planète Venus.
+294000,redtext,empty,True,+
+294350,rsvp,geomfact,false,Un rectangle a un seul axe de symétrie.
+302000,text,empty,True,+
+308000,sound,bip,True,bip_court.wav
+308350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+316000,sound,bip,True,bip_court.wav
+316350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+324000,redtext,empty,True,+
+324350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+332000,redtext,empty,True,+
+332350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+340000,redtext,empty,True,+
+340350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+348000,redtext,empty,True,+
+348350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+356000,redtext,empty,True,+
+356350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+364000,text,empty,True,+
+372000,redtext,empty,True,+
+372350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+380000,redtext,empty,True,+
+380350,rsvp,tom,true,Selon les écrivains l'Odyssée est un chef d'oeuvre littéraire.
+388000,redtext,empty,True,+
+388350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+396000,sound,bip,True,bip_court.wav
+396350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+404000,sound,bip,True,bip_court.wav
+404350,sound,general,true,170_general_18_true_vide_calendriergregorien.wav
+412000,sound,bip,True,bip_court.wav
+412350,sound,tom,false,193_tom_22_false_vrai_johnnyhallyday.wav
+420000,sound,bip,True,bip_court.wav
+420350,sound,context,false,192_context_32_false_faux_enallemagne.wav
+428000,sound,bip,True,bip_court.wav
+428350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+436000,text,empty,True,+
+442000,sound,bip,True,bip_court.wav
+442350,sound,tom,false,28_tom_31_false_faux_zidane.wav
+450000,sound,bip,True,bip_court.wav
+450350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+458000,redtext,empty,True,+
+458350,rsvp,general,false,La vapeur d'eau se condense uniquement sur les arbres.
+466000,sound,bip,True,bip_court.wav
+466350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+474000,sound,bip,True,bip_court.wav
+474350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+482000,sound,bip,True,bip_court.wav
+482350,sound,colorlessg,false,257_colorlessg_30_false_vide_unboldepain.wav
+490000,redtext,empty,True,+
+490350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+498000,sound,bip,True,bip_court.wav
+498350,sound,arithprin,false,175_arithprin_31_false_vide_ladifference.wav
+506000,redtext,empty,True,+
+506350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+514000,sound,bip,True,bip_court.wav
+514350,sound,general,false,83_general_40_false_vide_laterre.wav
+522000,redtext,empty,True,+
+522350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+530000,redtext,empty,True,+
+530350,rsvp,arithprin,false,Le résultat d'une addition est toujours positif.
+538000,redtext,empty,True,+
+538350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+546000,redtext,empty,True,+
+546350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+554000,sound,bip,True,bip_court.wav
+554350,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+562000,sound,bip,True,bip_court.wav
+562350,sound,arithprin,true,309_arithprin_20_true_vide_unnombreeleve.wav
+570000,text,empty,True,+

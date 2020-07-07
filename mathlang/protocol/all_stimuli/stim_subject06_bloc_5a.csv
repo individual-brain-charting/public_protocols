@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+10000,redtext,empty,True,+
+10350,rsvp,tom,false,Pour Johnny Hallyday chanter est un hobby.
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+26000,redtext,empty,True,+
+26350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+42000,sound,bip,True,bip_court.wav
+42350,sound,context,true,18_context_19_true_faux_irlande.wav
+50000,text,empty,True,+
+56000,redtext,empty,True,+
+56350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+64000,sound,bip,True,bip_court.wav
+64350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+72000,sound,bip,True,bip_court.wav
+72350,sound,context,true,191_context_01_true_vrai_apekin.wav
+80000,redtext,empty,True,+
+80350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+88000,redtext,empty,True,+
+88350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+96000,sound,bip,True,bip_court.wav
+96350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+104000,redtext,empty,True,+
+104350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+112000,text,empty,True,+
+116000,redtext,empty,True,+
+116350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+124000,redtext,empty,True,+
+124350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+132000,sound,bip,True,bip_court.wav
+132350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+140000,text,empty,True,+
+147000,sound,bip,True,bip_court.wav
+147350,sound,tom,true,222_tom_02_true_vrai_dapresgalilee.wav
+155000,redtext,empty,True,+
+155350,rsvp,context,true,A San Francisco les températures sont clémentes.
+163000,sound,bip,True,bip_court.wav
+163350,sound,arithprin,false,63_arithprin_33_false_vide_tousnombresnegatifs.wav
+171000,sound,bip,True,bip_court.wav
+171350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+179000,redtext,empty,True,+
+179350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+187000,redtext,empty,True,+
+187350,rsvp,context,false,Dans le métro parisien les trains transportent des céréales.
+195000,redtext,empty,True,+
+195350,rsvp,colorlessg,false,La réaction brosse par elle même de longs zoos barbus.
+203000,text,empty,True,+
+209000,sound,bip,True,bip_court.wav
+209350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+217000,sound,bip,True,bip_court.wav
+217350,sound,general,true,180_general_08_true_vide_lesperles.wav
+225000,sound,bip,True,bip_court.wav
+225350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+233000,sound,bip,True,bip_court.wav
+233350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+241000,sound,bip,True,bip_court.wav
+241350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+249000,text,empty,True,+
+255000,redtext,empty,True,+
+255350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+263000,sound,bip,True,bip_court.wav
+263350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+271000,redtext,empty,True,+
+271350,rsvp,general,true,Le noyau de l'atome d'hydrogène est composé d'un seul proton.
+279000,sound,bip,True,bip_court.wav
+279350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+287000,redtext,empty,True,+
+287350,rsvp,control,false,Poile choisis forêt vertes saison canapé doivent.
+295000,redtext,empty,True,+
+295350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+303000,text,empty,True,+
+309000,redtext,empty,True,+
+309350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+317000,redtext,empty,True,+
+317350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+325000,redtext,empty,True,+
+325350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+333000,redtext,empty,True,+
+333350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+341000,text,empty,True,+
+346000,sound,bip,True,bip_court.wav
+346350,sound,geomfact,false,21_geomfact_29_false_vide_figures.wav
+354000,sound,bip,True,bip_court.wav
+354350,sound,context,false,207_context_39_false_faux_enindedinar.wav
+362000,sound,bip,True,bip_court.wav
+362350,sound,general,false,216_general_32_false_vide_lavapeurdeau.wav
+370000,sound,bip,True,bip_court.wav
+370350,sound,arithprin,false,165_arithprin_39_false_vide_lordreselonlequel.wav
+378000,redtext,empty,True,+
+378350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+386000,text,empty,True,+
+393000,redtext,empty,True,+
+393350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+401000,redtext,empty,True,+
+401350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+409000,redtext,empty,True,+
+409350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+417000,sound,bip,True,bip_court.wav
+417350,sound,context,false,251_context_27_false_vrai_parisvoielactee.wav
+425000,sound,bip,True,bip_court.wav
+425350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+433000,sound,bip,True,bip_court.wav
+433350,sound,general,true,116_general_06_true_vide_canari.wav
+441000,sound,bip,True,bip_court.wav
+441350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+449000,redtext,empty,True,+
+449350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+457000,sound,bip,True,bip_court.wav
+457350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+465000,redtext,empty,True,+
+465350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+473000,sound,bip,True,bip_court.wav
+473350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+481000,redtext,empty,True,+
+481350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+489000,redtext,empty,True,+
+489350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+497000,sound,bip,True,bip_court.wav
+497350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+505000,sound,bip,True,bip_court.wav
+505350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+513000,sound,bip,True,bip_court.wav
+513350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+521000,redtext,empty,True,+
+521350,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+529000,sound,bip,True,bip_court.wav
+529350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+537000,sound,bip,True,bip_court.wav
+537350,sound,general,false,152_general_22_false_vide_petitvache.wav
+545000,sound,bip,True,bip_court.wav
+545350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+553000,redtext,empty,True,+
+553350,rsvp,control,false,Aux les qui duquel les sont que selon ce le dans.
+561000,text,empty,True,+

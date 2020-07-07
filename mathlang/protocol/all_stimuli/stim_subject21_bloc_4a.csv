@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,tom,false,Pour Einstein la bombe atomique est un objet sans danger.
+10000,sound,bip,True,bip_court.wav
+10350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+18000,redtext,empty,True,+
+18350,rsvp,general,true,Les flocons de neige ont des formes très variées.
+26000,sound,bip,True,bip_court.wav
+26350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+42000,redtext,empty,True,+
+42350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+50000,redtext,empty,True,+
+50350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+58000,redtext,empty,True,+
+58350,rsvp,control,false,Histoire jours frère société café armée saint états.
+66000,text,empty,True,+
+74000,redtext,empty,True,+
+74350,rsvp,tom,true,Selon les vulcanologues l'Etna est toujours en activité.
+82000,redtext,empty,True,+
+82350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+90000,redtext,empty,True,+
+90350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+98000,sound,bip,True,bip_court.wav
+98350,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+106000,redtext,empty,True,+
+106350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+114000,redtext,empty,True,+
+114350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+122000,redtext,empty,True,+
+122350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+130000,text,empty,True,+
+137000,sound,bip,True,bip_court.wav
+137350,sound,tom,true,222_tom_02_true_vrai_dapresgalilee.wav
+145000,redtext,empty,True,+
+145350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+153000,sound,bip,True,bip_court.wav
+153350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+161000,sound,bip,True,bip_court.wav
+161350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+169000,text,empty,True,+
+173000,sound,bip,True,bip_court.wav
+173350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+181000,sound,bip,True,bip_court.wav
+181350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+189000,sound,bip,True,bip_court.wav
+189350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+197000,sound,bip,True,bip_court.wav
+197350,sound,control,false,264_control_19_false_vide_cependantaauquel.wav
+205000,sound,bip,True,bip_court.wav
+205350,sound,colorlessg,false,209_colorlessg_29_false_vide_lelapindemal.wav
+213000,redtext,empty,True,+
+213350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+221000,text,empty,True,+
+226000,redtext,empty,True,+
+226350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+234000,redtext,empty,True,+
+234350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+242000,sound,bip,True,bip_court.wav
+242350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+250000,sound,bip,True,bip_court.wav
+250350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+258000,sound,bip,True,bip_court.wav
+258350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+266000,text,empty,True,+
+273000,sound,bip,True,bip_court.wav
+273350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+281000,sound,bip,True,bip_court.wav
+281350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+289000,sound,bip,True,bip_court.wav
+289350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+297000,sound,bip,True,bip_court.wav
+297350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+305000,text,empty,True,+
+310000,sound,bip,True,bip_court.wav
+310350,sound,context,true,189_context_10_true_vrai_auxantilles.wav
+318000,redtext,empty,True,+
+318350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+326000,sound,bip,True,bip_court.wav
+326350,sound,general,false,31_general_33_false_vide_lapleinelune.wav
+334000,sound,bip,True,bip_court.wav
+334350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+342000,redtext,empty,True,+
+342350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+350000,sound,bip,True,bip_court.wav
+350350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+358000,sound,bip,True,bip_court.wav
+358350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+366000,redtext,empty,True,+
+366350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+374000,text,empty,True,+
+382000,redtext,empty,True,+
+382350,rsvp,arithprin,false,Le résultat d'une division est toujours un nombre entier.
+390000,sound,bip,True,bip_court.wav
+390350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+398000,redtext,empty,True,+
+398350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+406000,sound,bip,True,bip_court.wav
+406350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+414000,sound,bip,True,bip_court.wav
+414350,sound,general,true,116_general_06_true_vide_canari.wav
+422000,redtext,empty,True,+
+422350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+430000,sound,bip,True,bip_court.wav
+430350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+438000,redtext,empty,True,+
+438350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+446000,redtext,empty,True,+
+446350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+454000,redtext,empty,True,+
+454350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+462000,redtext,empty,True,+
+462350,rsvp,geomfact,true,Les losanges et les carrés ont des côtés égaux.
+470000,sound,bip,True,bip_court.wav
+470350,sound,general,true,101_general_10_true_vide_noyauatome.wav
+478000,sound,bip,True,bip_court.wav
+478350,sound,arithprin,false,96_arithprin_40_false_vide_nombrenonnul.wav
+486000,text,empty,True,+
+492000,redtext,empty,True,+
+492350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+500000,redtext,empty,True,+
+500350,rsvp,arithprin,false,Un nombre multiplié par un est égal à zéro.
+508000,sound,bip,True,bip_court.wav
+508350,sound,geomfact,false,21_geomfact_29_false_vide_figures.wav
+516000,sound,bip,True,bip_court.wav
+516350,sound,arithprin,false,50_arithprin_34_false_vide_nombreauquel.wav
+524000,redtext,empty,True,+
+524350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+532000,redtext,empty,True,+
+532350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+540000,redtext,empty,True,+
+540350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+548000,redtext,empty,True,+
+548350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+556000,redtext,empty,True,+
+556350,rsvp,general,false,La primevère est une plante vénéneuse et épineuse.
+564000,text,empty,True,+

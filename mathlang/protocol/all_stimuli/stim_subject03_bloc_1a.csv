@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,tom,true,321_tom_14_true_faux_president.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+26000,redtext,empty,True,+
+26350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+34000,sound,bip,True,bip_court.wav
+34350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+58000,text,empty,True,+
+66000,redtext,empty,True,+
+66350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+74000,redtext,empty,True,+
+74350,rsvp,geomfact,false,Des lignes sont perpendiculaires quand elles forment un angle aigu.
+82000,sound,bip,True,bip_court.wav
+82350,sound,general,true,122_general_15_true_vide_arbresperdent.wav
+90000,redtext,empty,True,+
+90350,rsvp,general,false,La primevère est une plante vénéneuse et épineuse.
+98000,sound,bip,True,bip_court.wav
+98350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+106000,redtext,empty,True,+
+106350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+114000,sound,bip,True,bip_court.wav
+114350,sound,general,true,51_general_09_true_vide_flocons.wav
+122000,text,empty,True,+
+130000,sound,bip,True,bip_court.wav
+130350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+138000,redtext,empty,True,+
+138350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+146000,redtext,empty,True,+
+146350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+154000,redtext,empty,True,+
+154350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+162000,redtext,empty,True,+
+162350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+170000,sound,bip,True,bip_court.wav
+170350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+178000,text,empty,True,+
+182000,sound,bip,True,bip_court.wav
+182350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+190000,redtext,empty,True,+
+190350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+198000,sound,bip,True,bip_court.wav
+198350,sound,geomfact,false,241_geomfact_32_false_vide_unrectanglenecomprend.wav
+206000,sound,bip,True,bip_court.wav
+206350,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+214000,sound,bip,True,bip_court.wav
+214350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+222000,text,empty,True,+
+228000,sound,bip,True,bip_court.wav
+228350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+236000,sound,bip,True,bip_court.wav
+236350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+244000,redtext,empty,True,+
+244350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+252000,sound,bip,True,bip_court.wav
+252350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+260000,redtext,empty,True,+
+260350,rsvp,geomfact,true,Les losanges et les carrés ont des côtés égaux.
+268000,sound,bip,True,bip_court.wav
+268350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+276000,redtext,empty,True,+
+276350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+284000,text,empty,True,+
+288000,sound,bip,True,bip_court.wav
+288350,sound,context,true,90_context_09_true_vrai_himalaya.wav
+296000,redtext,empty,True,+
+296350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+304000,redtext,empty,True,+
+304350,rsvp,tom,true,Selon Pasteur la rage est une maladie mortelle.
+312000,redtext,empty,True,+
+312350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+320000,redtext,empty,True,+
+320350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+328000,sound,bip,True,bip_court.wav
+328350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+336000,sound,bip,True,bip_court.wav
+336350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+344000,text,empty,True,+
+350000,redtext,empty,True,+
+350350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+358000,sound,bip,True,bip_court.wav
+358350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+366000,redtext,empty,True,+
+366350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+374000,sound,bip,True,bip_court.wav
+374350,sound,context,false,226_context_21_false_vrai_eninde.wav
+382000,text,empty,True,+
+389000,redtext,empty,True,+
+389350,rsvp,context,true,Dans la mythologie grecque le cheval de Troie est un piège.
+397000,sound,bip,True,bip_court.wav
+397350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+405000,redtext,empty,True,+
+405350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+413000,sound,bip,True,bip_court.wav
+413350,sound,general,false,52_general_31_false_vide_veau.wav
+421000,redtext,empty,True,+
+421350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+429000,redtext,empty,True,+
+429350,rsvp,context,true,En Irlande avoir les cheveux roux est assez courant.
+437000,sound,bip,True,bip_court.wav
+437350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+445000,redtext,empty,True,+
+445350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+453000,sound,bip,True,bip_court.wav
+453350,sound,context,false,192_context_32_false_faux_enallemagne.wav
+461000,redtext,empty,True,+
+461350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+469000,redtext,empty,True,+
+469350,rsvp,arithprin,true,Tous les nombres entiers sont divisibles par un.
+477000,text,empty,True,+
+482000,sound,bip,True,bip_court.wav
+482350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+490000,sound,bip,True,bip_court.wav
+490350,sound,colorlessg,false,33_colorlessg_02_false_vide_grimace.wav
+498000,redtext,empty,True,+
+498350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+506000,redtext,empty,True,+
+506350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+514000,sound,bip,True,bip_court.wav
+514350,sound,arithprin,false,10_arithprin_23_false_vide_carreimpair.wav
+522000,sound,bip,True,bip_court.wav
+522350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+530000,redtext,empty,True,+
+530350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+538000,redtext,empty,True,+
+538350,rsvp,geomfact,true,Les diagonales d'un losange sont ses axes de symétrie.
+546000,redtext,empty,True,+
+546350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+554000,sound,bip,True,bip_court.wav
+554350,sound,colorlessg,false,156_colorlessg_38_false_vide_pitiedebitee.wav
+562000,text,empty,True,+

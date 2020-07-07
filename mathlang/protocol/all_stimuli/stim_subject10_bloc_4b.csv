@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+10000,redtext,empty,True,+
+10350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+18000,redtext,empty,True,+
+18350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+26000,redtext,empty,True,+
+26350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+34000,text,empty,True,+
+38000,sound,bip,True,bip_court.wav
+38350,sound,colorlessg,false,203_colorlessg_11_false_vide_auxchampsbleus.wav
+46000,sound,bip,True,bip_court.wav
+46350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+54000,sound,bip,True,bip_court.wav
+54350,sound,context,true,138_context_06_true_vrai_sanfrancisco.wav
+62000,redtext,empty,True,+
+62350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+70000,redtext,empty,True,+
+70350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+78000,sound,bip,True,bip_court.wav
+78350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+86000,redtext,empty,True,+
+86350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+94000,sound,bip,True,bip_court.wav
+94350,sound,geomfact,false,160_geomfact_25_false_vide_plusuntriangle.wav
+102000,redtext,empty,True,+
+102350,rsvp,geomfact,true,Les angles d'un polygone régulier sont de la même taille.
+110000,text,empty,True,+
+114000,sound,bip,True,bip_court.wav
+114350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+122000,sound,bip,True,bip_court.wav
+122350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+130000,redtext,empty,True,+
+130350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+138000,sound,bip,True,bip_court.wav
+138350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+146000,sound,bip,True,bip_court.wav
+146350,sound,context,true,217_context_15_true_faux_enchine.wav
+154000,text,empty,True,+
+161000,redtext,empty,True,+
+161350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+169000,redtext,empty,True,+
+169350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+177000,redtext,empty,True,+
+177350,rsvp,arithprin,false,Le résultat d'une addition est toujours positif.
+185000,redtext,empty,True,+
+185350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+193000,redtext,empty,True,+
+193350,rsvp,general,false,La terre tourne autour de la planète Venus.
+201000,text,empty,True,+
+209000,redtext,empty,True,+
+209350,rsvp,general,false,La pleine lune a lieu plusieurs fois chaque mois.
+217000,sound,bip,True,bip_court.wav
+217350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+225000,redtext,empty,True,+
+225350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+233000,sound,bip,True,bip_court.wav
+233350,sound,arithprin,true,312_arithprin_08_true_vide_unnombredivise.wav
+241000,sound,bip,True,bip_court.wav
+241350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+249000,sound,bip,True,bip_court.wav
+249350,sound,control,false,239_control_39_false_vide_compteproduction.wav
+257000,redtext,empty,True,+
+257350,rsvp,tom,true,Selon les chrétiens fondamentalistes Adam est notre ancêtre.
+265000,text,empty,True,+
+269000,sound,bip,True,bip_court.wav
+269350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+277000,sound,bip,True,bip_court.wav
+277350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+285000,redtext,empty,True,+
+285350,rsvp,colorlessg,false,Toute prière géométrique est attachée sur un mélange de vêtements.
+293000,redtext,empty,True,+
+293350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+301000,sound,bip,True,bip_court.wav
+301350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+309000,text,empty,True,+
+314000,sound,bip,True,bip_court.wav
+314350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+322000,sound,bip,True,bip_court.wav
+322350,sound,general,false,83_general_40_false_vide_laterre.wav
+330000,sound,bip,True,bip_court.wav
+330350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+338000,redtext,empty,True,+
+338350,rsvp,context,false,Au Kenya les lacs des plaines gèlent régulièrement.
+346000,sound,bip,True,bip_court.wav
+346350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+354000,text,empty,True,+
+360000,sound,bip,True,bip_court.wav
+360350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+368000,redtext,empty,True,+
+368350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+376000,sound,bip,True,bip_court.wav
+376350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+384000,text,empty,True,+
+391000,sound,bip,True,bip_court.wav
+391350,sound,general,true,174_general_12_true_vide_uneencyclopedie.wav
+399000,sound,bip,True,bip_court.wav
+399350,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+407000,sound,bip,True,bip_court.wav
+407350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+415000,redtext,empty,True,+
+415350,rsvp,context,true,Dans les contes pour enfants les animaux parlent couramment.
+423000,redtext,empty,True,+
+423350,rsvp,context,true,En France le homard est un aliment raffiné.
+431000,sound,bip,True,bip_court.wav
+431350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+439000,sound,bip,True,bip_court.wav
+439350,sound,general,true,266_general_16_true_vide_larose.wav
+447000,redtext,empty,True,+
+447350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+455000,redtext,empty,True,+
+455350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+463000,redtext,empty,True,+
+463350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+471000,redtext,empty,True,+
+471350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+479000,redtext,empty,True,+
+479350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+487000,redtext,empty,True,+
+487350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+495000,redtext,empty,True,+
+495350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+503000,redtext,empty,True,+
+503350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+511000,sound,bip,True,bip_court.wav
+511350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+519000,sound,bip,True,bip_court.wav
+519350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+527000,redtext,empty,True,+
+527350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+535000,sound,bip,True,bip_court.wav
+535350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+543000,redtext,empty,True,+
+543350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+551000,sound,bip,True,bip_court.wav
+551350,sound,arithprin,false,50_arithprin_34_false_vide_nombreauquel.wav
+559000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,context,false,En Amazonie les araignées sont des animaux sans danger.
+10000,redtext,empty,True,+
+10350,rsvp,context,false,Dans les plaines des Pays Bas marcher est une activité épuisante.
+18000,redtext,empty,True,+
+18350,rsvp,geomfact,true,Les losanges et les carrés ont des côtés égaux.
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+50000,text,empty,True,+
+56000,redtext,empty,True,+
+56350,rsvp,arithprin,true,Ajouter zéro ne change pas un nombre.
+64000,sound,bip,True,bip_court.wav
+64350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+72000,sound,bip,True,bip_court.wav
+72350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+80000,sound,bip,True,bip_court.wav
+80350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+88000,sound,bip,True,bip_court.wav
+88350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+96000,redtext,empty,True,+
+96350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+104000,redtext,empty,True,+
+104350,rsvp,general,false,La primevère est une plante vénéneuse et épineuse.
+112000,redtext,empty,True,+
+112350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+120000,text,empty,True,+
+125000,sound,bip,True,bip_court.wav
+125350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+133000,redtext,empty,True,+
+133350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+141000,sound,bip,True,bip_court.wav
+141350,sound,general,false,83_general_40_false_vide_laterre.wav
+149000,redtext,empty,True,+
+149350,rsvp,tom,false,D'après Mère Teresa la haine est une émotion positive.
+157000,sound,bip,True,bip_court.wav
+157350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+165000,redtext,empty,True,+
+165350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+173000,sound,bip,True,bip_court.wav
+173350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+181000,redtext,empty,True,+
+181350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+189000,sound,bip,True,bip_court.wav
+189350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+197000,text,empty,True,+
+202000,sound,bip,True,bip_court.wav
+202350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+210000,redtext,empty,True,+
+210350,rsvp,general,true,L'eau gèle à la température de zéro degrés centigrades.
+218000,redtext,empty,True,+
+218350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+226000,text,empty,True,+
+230000,sound,bip,True,bip_court.wav
+230350,sound,geomfact,true,247_geomfact_14_true_vide_toutpolygone.wav
+238000,redtext,empty,True,+
+238350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+246000,redtext,empty,True,+
+246350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+254000,sound,bip,True,bip_court.wav
+254350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+262000,redtext,empty,True,+
+262350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+270000,redtext,empty,True,+
+270350,rsvp,tom,true,Selon Greenpeace la déforestation en Amazonie est une catastrophe.
+278000,sound,bip,True,bip_court.wav
+278350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+286000,sound,bip,True,bip_court.wav
+286350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+294000,sound,bip,True,bip_court.wav
+294350,sound,arithfact,false,47_arithfact_37_false_vide_moitiedeuxcents.wav
+302000,text,empty,True,+
+306000,sound,bip,True,bip_court.wav
+306350,sound,tom,false,201_tom_37_false_faux_gandhi.wav
+314000,sound,bip,True,bip_court.wav
+314350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+322000,redtext,empty,True,+
+322350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+330000,redtext,empty,True,+
+330350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+338000,text,empty,True,+
+346000,sound,bip,True,bip_court.wav
+346350,sound,general,true,51_general_09_true_vide_flocons.wav
+354000,redtext,empty,True,+
+354350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+362000,sound,bip,True,bip_court.wav
+362350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+370000,redtext,empty,True,+
+370350,rsvp,control,false,Sans pour est dont un lorsque de dedans celle ou puisque.
+378000,redtext,empty,True,+
+378350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+386000,text,empty,True,+
+391000,sound,bip,True,bip_court.wav
+391350,sound,context,false,97_context_40_false_faux_japon.wav
+399000,redtext,empty,True,+
+399350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+407000,redtext,empty,True,+
+407350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+415000,redtext,empty,True,+
+415350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+423000,redtext,empty,True,+
+423350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+431000,sound,bip,True,bip_court.wav
+431350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+439000,redtext,empty,True,+
+439350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+447000,text,empty,True,+
+451000,sound,bip,True,bip_court.wav
+451350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+459000,sound,bip,True,bip_court.wav
+459350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+467000,sound,bip,True,bip_court.wav
+467350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+475000,redtext,empty,True,+
+475350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+483000,sound,bip,True,bip_court.wav
+483350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+491000,sound,bip,True,bip_court.wav
+491350,sound,control,false,263_control_18_false_vide_ledeeesttous.wav
+499000,sound,bip,True,bip_court.wav
+499350,sound,general,true,116_general_06_true_vide_canari.wav
+507000,sound,bip,True,bip_court.wav
+507350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+515000,redtext,empty,True,+
+515350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+523000,redtext,empty,True,+
+523350,rsvp,context,true,Dans l'Himalaya les montagnes sont de hauts sommets enneigées.
+531000,redtext,empty,True,+
+531350,rsvp,arithfact,false,Le nombre soixante quatorze est plus grand que cent.
+539000,redtext,empty,True,+
+539350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+547000,sound,bip,True,bip_court.wav
+547350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+555000,text,empty,True,+

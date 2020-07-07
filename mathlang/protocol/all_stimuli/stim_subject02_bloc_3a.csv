@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+10000,redtext,empty,True,+
+10350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+18000,redtext,empty,True,+
+18350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+26000,redtext,empty,True,+
+26350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+34000,redtext,empty,True,+
+34350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+42000,sound,bip,True,bip_court.wav
+42350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+50000,text,empty,True,+
+57000,redtext,empty,True,+
+57350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+65000,sound,bip,True,bip_court.wav
+65350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+73000,redtext,empty,True,+
+73350,rsvp,geomfact,false,Un triangle équilatéral est formé uniquement d'angles droits.
+81000,redtext,empty,True,+
+81350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+89000,sound,bip,True,bip_court.wav
+89350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+97000,sound,bip,True,bip_court.wav
+97350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+105000,text,empty,True,+
+110000,sound,bip,True,bip_court.wav
+110350,sound,tom,true,59_tom_07_true_vrai_vulcanologues.wav
+118000,sound,bip,True,bip_court.wav
+118350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+126000,sound,bip,True,bip_court.wav
+126350,sound,general,true,51_general_09_true_vide_flocons.wav
+134000,redtext,empty,True,+
+134350,rsvp,tom,false,Pour Hitler les juifs sont des hommes comme les autres.
+142000,sound,bip,True,bip_court.wav
+142350,sound,general,true,34_general_01_true_vide_chameau.wav
+150000,redtext,empty,True,+
+150350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+158000,redtext,empty,True,+
+158350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+166000,sound,bip,True,bip_court.wav
+166350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+174000,sound,bip,True,bip_court.wav
+174350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+182000,text,empty,True,+
+186000,sound,bip,True,bip_court.wav
+186350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+194000,sound,bip,True,bip_court.wav
+194350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+202000,sound,bip,True,bip_court.wav
+202350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+210000,sound,bip,True,bip_court.wav
+210350,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+218000,text,empty,True,+
+226000,redtext,empty,True,+
+226350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+234000,sound,bip,True,bip_court.wav
+234350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+242000,text,empty,True,+
+246000,sound,bip,True,bip_court.wav
+246350,sound,tom,false,28_tom_31_false_faux_zidane.wav
+254000,redtext,empty,True,+
+254350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+262000,redtext,empty,True,+
+262350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+270000,redtext,empty,True,+
+270350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+278000,text,empty,True,+
+286000,sound,bip,True,bip_court.wav
+286350,sound,general,false,216_general_32_false_vide_lavapeurdeau.wav
+294000,redtext,empty,True,+
+294350,rsvp,general,false,Les poissons de rivière ne sont pas des vertébrés.
+302000,sound,bip,True,bip_court.wav
+302350,sound,control,false,305_control_40_false_vide_campagnelangage.wav
+310000,redtext,empty,True,+
+310350,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+318000,redtext,empty,True,+
+318350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+326000,redtext,empty,True,+
+326350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+334000,redtext,empty,True,+
+334350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+342000,sound,bip,True,bip_court.wav
+342350,sound,geomfact,false,12_geomfact_38_false_vide_losange.wav
+350000,text,empty,True,+
+355000,sound,bip,True,bip_court.wav
+355350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+363000,sound,bip,True,bip_court.wav
+363350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+371000,redtext,empty,True,+
+371350,rsvp,tom,false,Selon Christophe Colomb la terre est plate.
+379000,redtext,empty,True,+
+379350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+387000,sound,bip,True,bip_court.wav
+387350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+395000,sound,bip,True,bip_court.wav
+395350,sound,arithprin,false,50_arithprin_34_false_vide_nombreauquel.wav
+403000,text,empty,True,+
+408000,redtext,empty,True,+
+408350,rsvp,tom,true,Selon Pasteur la rage est une maladie mortelle.
+416000,redtext,empty,True,+
+416350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+424000,sound,bip,True,bip_court.wav
+424350,sound,general,false,83_general_40_false_vide_laterre.wav
+432000,redtext,empty,True,+
+432350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+440000,sound,bip,True,bip_court.wav
+440350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+448000,sound,bip,True,bip_court.wav
+448350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+456000,redtext,empty,True,+
+456350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+464000,redtext,empty,True,+
+464350,rsvp,general,true,Février est le mois de l'année le plus court.
+472000,sound,bip,True,bip_court.wav
+472350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+480000,sound,bip,True,bip_court.wav
+480350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+488000,sound,bip,True,bip_court.wav
+488350,sound,arithfact,true,183_arithfact_19_true_vide_quarantedeuxmoins.wav
+496000,redtext,empty,True,+
+496350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+504000,sound,bip,True,bip_court.wav
+504350,sound,arithprin,true,36_arithprin_09_true_vide_sommeplusieurs.wav
+512000,sound,bip,True,bip_court.wav
+512350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+520000,redtext,empty,True,+
+520350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+528000,sound,bip,True,bip_court.wav
+528350,sound,geomfact,false,114_geomfact_33_false_vide_cotesdunlosange.wav
+536000,redtext,empty,True,+
+536350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+544000,redtext,empty,True,+
+544350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+552000,redtext,empty,True,+
+552350,rsvp,geomfact,true,Les losanges et les carrés ont des côtés égaux.
+560000,text,empty,True,+

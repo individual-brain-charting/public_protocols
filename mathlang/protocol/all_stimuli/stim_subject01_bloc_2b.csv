@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,control,false,131_control_22_false_vide_devantdecide.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+18000,redtext,empty,True,+
+18350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+26000,sound,bip,True,bip_court.wav
+26350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+42000,text,empty,True,+
+49000,sound,bip,True,bip_court.wav
+49350,sound,arithfact,false,211_arithfact_30_false_vide_trentecinqmoins.wav
+57000,sound,bip,True,bip_court.wav
+57350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+65000,sound,bip,True,bip_court.wav
+65350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+73000,sound,bip,True,bip_court.wav
+73350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+81000,sound,bip,True,bip_court.wav
+81350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+89000,text,empty,True,+
+96000,sound,bip,True,bip_court.wav
+96350,sound,context,false,188_context_23_false_vrai_auvatican.wav
+104000,sound,bip,True,bip_court.wav
+104350,sound,arithprin,false,96_arithprin_40_false_vide_nombrenonnul.wav
+112000,sound,bip,True,bip_court.wav
+112350,sound,context,false,130_context_38_false_faux_kenya.wav
+120000,sound,bip,True,bip_court.wav
+120350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+128000,text,empty,True,+
+136000,redtext,empty,True,+
+136350,rsvp,arithfact,true,La racine carrée de trente six est plus grand que cinq.
+144000,redtext,empty,True,+
+144350,rsvp,geomfact,true,Un carré est un rectangle aux côtés égaux.
+152000,sound,bip,True,bip_court.wav
+152350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+160000,text,empty,True,+
+164000,sound,bip,True,bip_court.wav
+164350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+172000,redtext,empty,True,+
+172350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+180000,redtext,empty,True,+
+180350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+188000,redtext,empty,True,+
+188350,rsvp,tom,false,Pour Einstein la bombe atomique est un objet sans danger.
+196000,redtext,empty,True,+
+196350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+204000,redtext,empty,True,+
+204350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+212000,sound,bip,True,bip_court.wav
+212350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+220000,redtext,empty,True,+
+220350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+228000,sound,bip,True,bip_court.wav
+228350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+236000,redtext,empty,True,+
+236350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+244000,text,empty,True,+
+250000,sound,bip,True,bip_court.wav
+250350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+258000,sound,bip,True,bip_court.wav
+258350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+266000,redtext,empty,True,+
+266350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+274000,sound,bip,True,bip_court.wav
+274350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+282000,sound,bip,True,bip_court.wav
+282350,sound,general,false,52_general_31_false_vide_veau.wav
+290000,redtext,empty,True,+
+290350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+298000,sound,bip,True,bip_court.wav
+298350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+306000,redtext,empty,True,+
+306350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+314000,text,empty,True,+
+322000,redtext,empty,True,+
+322350,rsvp,geomfact,true,Les losanges et les carrés ont des côtés égaux.
+330000,redtext,empty,True,+
+330350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+338000,sound,bip,True,bip_court.wav
+338350,sound,general,true,122_general_15_true_vide_arbresperdent.wav
+346000,sound,bip,True,bip_court.wav
+346350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+354000,sound,bip,True,bip_court.wav
+354350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+362000,redtext,empty,True,+
+362350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+370000,redtext,empty,True,+
+370350,rsvp,tom,false,Pour Donald Trump les mexicains sont bienvenus aux Etats Unis.
+378000,redtext,empty,True,+
+378350,rsvp,geomfact,false,Les côtés d'un losange peuvent être de différentes longueurs.
+386000,sound,bip,True,bip_court.wav
+386350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+394000,text,empty,True,+
+398000,redtext,empty,True,+
+398350,rsvp,arithprin,false,Un nombre multiplié par un est égal à zéro.
+406000,redtext,empty,True,+
+406350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+414000,sound,bip,True,bip_court.wav
+414350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+422000,redtext,empty,True,+
+422350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+430000,redtext,empty,True,+
+430350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+438000,redtext,empty,True,+
+438350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+446000,redtext,empty,True,+
+446350,rsvp,context,true,A San Francisco les températures sont clémentes.
+454000,sound,bip,True,bip_court.wav
+454350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+462000,text,empty,True,+
+466000,redtext,empty,True,+
+466350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+474000,sound,bip,True,bip_court.wav
+474350,sound,context,true,157_context_04_true_vrai_anewyork.wav
+482000,redtext,empty,True,+
+482350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+490000,redtext,empty,True,+
+490350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+498000,redtext,empty,True,+
+498350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+506000,sound,bip,True,bip_court.wav
+506350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+514000,sound,bip,True,bip_court.wav
+514350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+522000,sound,bip,True,bip_court.wav
+522350,sound,general,true,116_general_06_true_vide_canari.wav
+530000,redtext,empty,True,+
+530350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+538000,redtext,empty,True,+
+538350,rsvp,general,true,Le noyau de l'atome d'hydrogène est composé d'un seul proton.
+546000,redtext,empty,True,+
+546350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+554000,sound,bip,True,bip_court.wav
+554350,sound,context,true,45_context_11_true_faux_londres.wav
+562000,text,empty,True,+

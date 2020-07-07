@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+10000,sound,bip,True,bip_court.wav
+10350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+26000,redtext,empty,True,+
+26350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+42000,sound,bip,True,bip_court.wav
+42350,sound,colorlessg,false,140_colorlessg_36_false_vide_bibliotheques.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,control,false,322_control_11_false_vide_selonalors.wav
+58000,sound,bip,True,bip_court.wav
+58350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+66000,redtext,empty,True,+
+66350,rsvp,tom,true,Pour Mowgli la panthère noire est un animal affectueux.
+74000,redtext,empty,True,+
+74350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+82000,sound,bip,True,bip_court.wav
+82350,sound,geomfact,false,242_geomfact_21_false_vide_uncerclepossede.wav
+90000,text,empty,True,+
+98000,sound,bip,True,bip_court.wav
+98350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+106000,sound,bip,True,bip_court.wav
+106350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+114000,sound,bip,True,bip_court.wav
+114350,sound,general,false,234_general_27_false_vide_laterretourne.wav
+122000,redtext,empty,True,+
+122350,rsvp,general,true,Le chameau est un grand mammifère à bosse.
+130000,sound,bip,True,bip_court.wav
+130350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+138000,sound,bip,True,bip_court.wav
+138350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+146000,redtext,empty,True,+
+146350,rsvp,arithfact,true,Soustraire trois du nombre vingt donne dix sept.
+154000,text,empty,True,+
+159000,sound,bip,True,bip_court.wav
+159350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+167000,redtext,empty,True,+
+167350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+175000,sound,bip,True,bip_court.wav
+175350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+183000,redtext,empty,True,+
+183350,rsvp,geomfact,false,Un triangle isocèle a plusieurs axes de symétrie.
+191000,redtext,empty,True,+
+191350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+199000,sound,bip,True,bip_court.wav
+199350,sound,general,false,52_general_31_false_vide_veau.wav
+207000,redtext,empty,True,+
+207350,rsvp,context,false,Sur Mars l'atmosphère est composée principalement d'oxygène.
+215000,text,empty,True,+
+220000,sound,bip,True,bip_court.wav
+220350,sound,control,false,171_control_32_false_vide_souventete.wav
+228000,text,empty,True,+
+236000,redtext,empty,True,+
+236350,rsvp,context,true,Dans la mer les mammifères ont des nageoires et un évent.
+244000,sound,bip,True,bip_court.wav
+244350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+252000,sound,bip,True,bip_court.wav
+252350,sound,tom,false,88_tom_27_false_vrai_donaldtrump.wav
+260000,sound,bip,True,bip_court.wav
+260350,sound,general,true,302_general_04_true_vide_leaugele.wav
+268000,redtext,empty,True,+
+268350,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+276000,redtext,empty,True,+
+276350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+284000,redtext,empty,True,+
+284350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+292000,text,empty,True,+
+300000,sound,bip,True,bip_court.wav
+300350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+308000,redtext,empty,True,+
+308350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+316000,redtext,empty,True,+
+316350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+324000,redtext,empty,True,+
+324350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+332000,sound,bip,True,bip_court.wav
+332350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+340000,sound,bip,True,bip_court.wav
+340350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+348000,text,empty,True,+
+356000,sound,bip,True,bip_court.wav
+356350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+364000,redtext,empty,True,+
+364350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+372000,sound,bip,True,bip_court.wav
+372350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+380000,sound,bip,True,bip_court.wav
+380350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+388000,text,empty,True,+
+392000,redtext,empty,True,+
+392350,rsvp,tom,false,D'après les humoristes rire est mauvais pour la santé.
+400000,redtext,empty,True,+
+400350,rsvp,general,false,Le Vietnam est appelé le pays du soleil levant.
+408000,redtext,empty,True,+
+408350,rsvp,tom,true,Selon les vulcanologues l'Etna est toujours en activité.
+416000,sound,bip,True,bip_court.wav
+416350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+424000,sound,bip,True,bip_court.wav
+424350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+432000,redtext,empty,True,+
+432350,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+440000,redtext,empty,True,+
+440350,rsvp,control,false,Campagne langage phénomènes général français monsieur minutes.
+448000,text,empty,True,+
+455000,redtext,empty,True,+
+455350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+463000,redtext,empty,True,+
+463350,rsvp,control,false,Histoire jours frère société café armée saint états.
+471000,sound,bip,True,bip_court.wav
+471350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+479000,redtext,empty,True,+
+479350,rsvp,arithprin,false,Tout nombre réel peut être écrit comme une fraction.
+487000,sound,bip,True,bip_court.wav
+487350,sound,control,false,294_control_02_false_vide_unmependant.wav
+495000,sound,bip,True,bip_court.wav
+495350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+503000,sound,bip,True,bip_court.wav
+503350,sound,context,false,192_context_32_false_faux_enallemagne.wav
+511000,redtext,empty,True,+
+511350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+519000,redtext,empty,True,+
+519350,rsvp,geomfact,false,Des lignes sont perpendiculaires quand elles forment un angle aigu.
+527000,sound,bip,True,bip_court.wav
+527350,sound,tom,true,121_tom_11_true_faux_pourlesgrecs.wav
+535000,sound,bip,True,bip_court.wav
+535350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+543000,redtext,empty,True,+
+543350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+551000,redtext,empty,True,+
+551350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+559000,redtext,empty,True,+
+559350,rsvp,geomfact,true,Un carré est un rectangle aux côtés égaux.
+567000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+10000,redtext,empty,True,+
+10350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+18000,sound,bip,True,bip_court.wav
+18350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,control,false,110_control_03_false_vide_quileestun.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+42000,text,empty,True,+
+48000,redtext,empty,True,+
+48350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+56000,redtext,empty,True,+
+56350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+64000,redtext,empty,True,+
+64350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+72000,redtext,empty,True,+
+72350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+80000,sound,bip,True,bip_court.wav
+80350,sound,control,false,264_control_19_false_vide_cependantaauquel.wav
+88000,redtext,empty,True,+
+88350,rsvp,general,false,La primevère est une plante vénéneuse et épineuse.
+96000,sound,bip,True,bip_court.wav
+96350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+104000,sound,bip,True,bip_court.wav
+104350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+112000,sound,bip,True,bip_court.wav
+112350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+120000,text,empty,True,+
+124000,sound,bip,True,bip_court.wav
+124350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+132000,redtext,empty,True,+
+132350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+140000,sound,bip,True,bip_court.wav
+140350,sound,control,false,298_control_35_false_vide_demainmanger.wav
+148000,sound,bip,True,bip_court.wav
+148350,sound,general,true,266_general_16_true_vide_larose.wav
+156000,redtext,empty,True,+
+156350,rsvp,geomfact,true,Les lignes parallèles ne se croisent pas.
+164000,redtext,empty,True,+
+164350,rsvp,context,true,Dans l'Himalaya les montagnes sont de hauts sommets enneigées.
+172000,text,empty,True,+
+178000,redtext,empty,True,+
+178350,rsvp,geomfact,false,Un triangle équilatéral est formé uniquement d'angles droits.
+186000,sound,bip,True,bip_court.wav
+186350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+194000,sound,bip,True,bip_court.wav
+194350,sound,colorlessg,false,20_colorlessg_17_false_vide_intermediaire.wav
+202000,redtext,empty,True,+
+202350,rsvp,geomfact,true,Les angles d'un polygone régulier sont de la même taille.
+210000,sound,bip,True,bip_court.wav
+210350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+218000,redtext,empty,True,+
+218350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+226000,text,empty,True,+
+231000,sound,bip,True,bip_court.wav
+231350,sound,general,true,51_general_09_true_vide_flocons.wav
+239000,sound,bip,True,bip_court.wav
+239350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+247000,text,empty,True,+
+251000,sound,bip,True,bip_court.wav
+251350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+259000,sound,bip,True,bip_court.wav
+259350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+267000,sound,bip,True,bip_court.wav
+267350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+275000,redtext,empty,True,+
+275350,rsvp,control,false,La après est de des le d'un mon le de pendant il outre.
+283000,redtext,empty,True,+
+283350,rsvp,colorlessg,false,Des bibliothèques de chaque cible ont le mauvais squelette.
+291000,redtext,empty,True,+
+291350,rsvp,context,true,A Londres les autobus ont des étages.
+299000,text,empty,True,+
+305000,redtext,empty,True,+
+305350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+313000,redtext,empty,True,+
+313350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+321000,sound,bip,True,bip_court.wav
+321350,sound,arithfact,false,255_arithfact_36_false_vide_seizeestleresultat.wav
+329000,redtext,empty,True,+
+329350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+337000,redtext,empty,True,+
+337350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+345000,sound,bip,True,bip_court.wav
+345350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+353000,redtext,empty,True,+
+353350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+361000,sound,bip,True,bip_court.wav
+361350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+369000,redtext,empty,True,+
+369350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+377000,sound,bip,True,bip_court.wav
+377350,sound,context,true,22_context_20_true_faux_danslamer.wav
+385000,text,empty,True,+
+391000,sound,bip,True,bip_court.wav
+391350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+399000,redtext,empty,True,+
+399350,rsvp,colorlessg,false,Un poulet est un cercle de chiffres internationales.
+407000,redtext,empty,True,+
+407350,rsvp,colorlessg,false,Pour les lions la voile est une bouteille pensive.
+415000,redtext,empty,True,+
+415350,rsvp,arithprin,true,Ajouter zéro ne change pas un nombre.
+423000,sound,bip,True,bip_court.wav
+423350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+431000,redtext,empty,True,+
+431350,rsvp,general,true,La photosynthèse se produit grâce à l'énergie lumineuse.
+439000,text,empty,True,+
+445000,redtext,empty,True,+
+445350,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+453000,redtext,empty,True,+
+453350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+461000,sound,bip,True,bip_court.wav
+461350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+469000,sound,bip,True,bip_court.wav
+469350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+477000,redtext,empty,True,+
+477350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+485000,sound,bip,True,bip_court.wav
+485350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+493000,sound,bip,True,bip_court.wav
+493350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+501000,redtext,empty,True,+
+501350,rsvp,tom,true,D'après Newton les objets sont soumis à l'attraction terrestre.
+509000,redtext,empty,True,+
+509350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+517000,sound,bip,True,bip_court.wav
+517350,sound,general,false,6_general_21_false_vide_papillons.wav
+525000,redtext,empty,True,+
+525350,rsvp,geomfact,false,Plus un triangle est grand
+533000,sound,bip,True,bip_court.wav
+533350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+541000,sound,bip,True,bip_court.wav
+541350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+549000,sound,bip,True,bip_court.wav
+549350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+557000,text,empty,True,+

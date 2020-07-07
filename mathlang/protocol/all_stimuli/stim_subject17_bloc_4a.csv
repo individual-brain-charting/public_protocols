@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,general,false,6_general_21_false_vide_papillons.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,geomfact,true,248_geomfact_02_true_vide_cotesduntriangle.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,131_control_22_false_vide_devantdecide.wav
+26000,text,empty,True,+
+33000,sound,bip,True,bip_court.wav
+33350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+41000,redtext,empty,True,+
+41350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+49000,sound,bip,True,bip_court.wav
+49350,sound,context,true,3_context_08_true_vrai_australie.wav
+57000,sound,bip,True,bip_court.wav
+57350,sound,tom,false,88_tom_27_false_vrai_donaldtrump.wav
+65000,redtext,empty,True,+
+65350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+73000,sound,bip,True,bip_court.wav
+73350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+81000,sound,bip,True,bip_court.wav
+81350,sound,context,true,18_context_19_true_faux_irlande.wav
+89000,text,empty,True,+
+93000,sound,bip,True,bip_court.wav
+93350,sound,general,true,180_general_08_true_vide_lesperles.wav
+101000,redtext,empty,True,+
+101350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+109000,sound,bip,True,bip_court.wav
+109350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+117000,sound,bip,True,bip_court.wav
+117350,sound,arithfact,false,255_arithfact_36_false_vide_seizeestleresultat.wav
+125000,redtext,empty,True,+
+125350,rsvp,arithfact,false,Quarante divisé par deux fait quatre vingt dix huit.
+133000,sound,bip,True,bip_court.wav
+133350,sound,arithfact,true,283_arithfact_03_true_vide_sommedecinquantecinq.wav
+141000,sound,bip,True,bip_court.wav
+141350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+149000,redtext,empty,True,+
+149350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+157000,text,empty,True,+
+165000,redtext,empty,True,+
+165350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+173000,redtext,empty,True,+
+173350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+181000,sound,bip,True,bip_court.wav
+181350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+189000,redtext,empty,True,+
+189350,rsvp,context,false,En Amazonie les araignées sont des animaux sans danger.
+197000,redtext,empty,True,+
+197350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+205000,redtext,empty,True,+
+205350,rsvp,context,true,A Londres les autobus ont des étages.
+213000,sound,bip,True,bip_court.wav
+213350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+221000,text,empty,True,+
+225000,redtext,empty,True,+
+225350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+233000,sound,bip,True,bip_court.wav
+233350,sound,context,false,308_context_26_false_vrai_enequateur.wav
+241000,redtext,empty,True,+
+241350,rsvp,arithprin,false,Une somme de fractions est toujours un nombre entier.
+249000,text,empty,True,+
+256000,redtext,empty,True,+
+256350,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+264000,sound,bip,True,bip_court.wav
+264350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+272000,sound,bip,True,bip_court.wav
+272350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+280000,sound,bip,True,bip_court.wav
+280350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+288000,redtext,empty,True,+
+288350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+296000,redtext,empty,True,+
+296350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+304000,redtext,empty,True,+
+304350,rsvp,arithprin,true,Pour additionner des fractions les dénominateurs doivent être égaux.
+312000,redtext,empty,True,+
+312350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+320000,redtext,empty,True,+
+320350,rsvp,tom,true,Pour les créationnistes Dieu est à l'origine de la vie.
+328000,text,empty,True,+
+332000,sound,bip,True,bip_court.wav
+332350,sound,arithfact,true,146_arithfact_15_true_vide_tiersdequarantecinq.wav
+340000,redtext,empty,True,+
+340350,rsvp,tom,true,Selon Pasteur la rage est une maladie mortelle.
+348000,redtext,empty,True,+
+348350,rsvp,control,false,Un me pendant est que quand ainsi sans aux plus de.
+356000,sound,bip,True,bip_court.wav
+356350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+364000,redtext,empty,True,+
+364350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+372000,text,empty,True,+
+379000,redtext,empty,True,+
+379350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+387000,sound,bip,True,bip_court.wav
+387350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+395000,redtext,empty,True,+
+395350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+403000,sound,bip,True,bip_court.wav
+403350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+411000,redtext,empty,True,+
+411350,rsvp,arithprin,false,Le résultat d'une division est toujours un nombre entier.
+419000,redtext,empty,True,+
+419350,rsvp,tom,false,Selon Christophe Colomb la terre est plate.
+427000,text,empty,True,+
+435000,sound,bip,True,bip_court.wav
+435350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+443000,redtext,empty,True,+
+443350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+451000,redtext,empty,True,+
+451350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+459000,sound,bip,True,bip_court.wav
+459350,sound,colorlessg,false,304_colorlessg_25_false_vide_unefemmedetraction.wav
+467000,sound,bip,True,bip_court.wav
+467350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+475000,redtext,empty,True,+
+475350,rsvp,arithfact,false,Le triple de quinze est plus grand que deux cent soixante.
+483000,redtext,empty,True,+
+483350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+491000,sound,bip,True,bip_court.wav
+491350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+499000,redtext,empty,True,+
+499350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+507000,sound,bip,True,bip_court.wav
+507350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+515000,sound,bip,True,bip_court.wav
+515350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+523000,redtext,empty,True,+
+523350,rsvp,general,true,Les flocons de neige ont des formes très variées.
+531000,sound,bip,True,bip_court.wav
+531350,sound,tom,true,81_tom_15_true_faux_ronaldo.wav
+539000,redtext,empty,True,+
+539350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+547000,sound,bip,True,bip_court.wav
+547350,sound,tom,true,292_tom_05_true_vrai_selonlesecrivains.wav
+555000,sound,bip,True,bip_court.wav
+555350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+563000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,Un poulet est un cercle de chiffres internationales.
+26000,sound,bip,True,bip_court.wav
+26350,sound,general,false,6_general_21_false_vide_papillons.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+42000,redtext,empty,True,+
+42350,rsvp,colorlessg,false,La pitié est débitée au roi du canard en petites montres.
+50000,text,empty,True,+
+56000,sound,bip,True,bip_court.wav
+56350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+64000,sound,bip,True,bip_court.wav
+64350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+72000,sound,bip,True,bip_court.wav
+72350,sound,general,true,266_general_16_true_vide_larose.wav
+80000,redtext,empty,True,+
+80350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+88000,redtext,empty,True,+
+88350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+96000,sound,bip,True,bip_court.wav
+96350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+104000,redtext,empty,True,+
+104350,rsvp,general,true,Une encyclopédie permet de diffuser le savoir à de nombreux lecteurs.
+112000,text,empty,True,+
+116000,redtext,empty,True,+
+116350,rsvp,control,false,La est alors les par puisque de se près même je eux me.
+124000,redtext,empty,True,+
+124350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+132000,redtext,empty,True,+
+132350,rsvp,arithprin,true,Une fraction est la division d’un nombre entier par un autre.
+140000,text,empty,True,+
+146000,sound,bip,True,bip_court.wav
+146350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+154000,sound,bip,True,bip_court.wav
+154350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+162000,sound,bip,True,bip_court.wav
+162350,sound,general,true,34_general_01_true_vide_chameau.wav
+170000,redtext,empty,True,+
+170350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+178000,sound,bip,True,bip_court.wav
+178350,sound,context,true,317_context_16_true_faux_aujapon.wav
+186000,redtext,empty,True,+
+186350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+194000,redtext,empty,True,+
+194350,rsvp,general,false,Le veau est le petit de la chèvre.
+202000,sound,bip,True,bip_court.wav
+202350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+210000,redtext,empty,True,+
+210350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+218000,sound,bip,True,bip_court.wav
+218350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+226000,sound,bip,True,bip_court.wav
+226350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+234000,text,empty,True,+
+239000,sound,bip,True,bip_court.wav
+239350,sound,colorlessg,false,304_colorlessg_25_false_vide_unefemmedetraction.wav
+247000,redtext,empty,True,+
+247350,rsvp,tom,false,Pour Hitler les juifs sont des hommes comme les autres.
+255000,sound,bip,True,bip_court.wav
+255350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+263000,redtext,empty,True,+
+263350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+271000,sound,bip,True,bip_court.wav
+271350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+279000,redtext,empty,True,+
+279350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+287000,redtext,empty,True,+
+287350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+295000,text,empty,True,+
+302000,redtext,empty,True,+
+302350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+310000,redtext,empty,True,+
+310350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+318000,sound,bip,True,bip_court.wav
+318350,sound,control,false,110_control_03_false_vide_quileestun.wav
+326000,sound,bip,True,bip_court.wav
+326350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+334000,sound,bip,True,bip_court.wav
+334350,sound,geomfact,false,197_geomfact_24_false_vide_untriangleisocele.wav
+342000,redtext,empty,True,+
+342350,rsvp,arithprin,false,Le résultat d'une addition est toujours positif.
+350000,redtext,empty,True,+
+350350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+358000,text,empty,True,+
+362000,sound,bip,True,bip_court.wav
+362350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+370000,sound,bip,True,bip_court.wav
+370350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+378000,redtext,empty,True,+
+378350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+386000,sound,bip,True,bip_court.wav
+386350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+394000,redtext,empty,True,+
+394350,rsvp,colorlessg,false,Le drapeau est une vieille analyse à froid de façon.
+402000,redtext,empty,True,+
+402350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+410000,sound,bip,True,bip_court.wav
+410350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+418000,redtext,empty,True,+
+418350,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+426000,text,empty,True,+
+431000,redtext,empty,True,+
+431350,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+439000,redtext,empty,True,+
+439350,rsvp,arithfact,true,Deux fois vingt quatre a comme résultat quarante huit.
+447000,redtext,empty,True,+
+447350,rsvp,geomfact,true,Un carré possède des axes de symétrie.
+455000,redtext,empty,True,+
+455350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+463000,redtext,empty,True,+
+463350,rsvp,tom,true,D'après Newton les objets sont soumis à l'attraction terrestre.
+471000,text,empty,True,+
+475000,sound,bip,True,bip_court.wav
+475350,sound,control,false,305_control_40_false_vide_campagnelangage.wav
+483000,sound,bip,True,bip_court.wav
+483350,sound,colorlessg,false,109_colorlessg_18_false_vide_decoration.wav
+491000,redtext,empty,True,+
+491350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+499000,redtext,empty,True,+
+499350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+507000,sound,bip,True,bip_court.wav
+507350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+515000,sound,bip,True,bip_court.wav
+515350,sound,arithprin,false,63_arithprin_33_false_vide_tousnombresnegatifs.wav
+523000,sound,bip,True,bip_court.wav
+523350,sound,geomfact,true,307_geomfact_05_true_vide_lignesparalleles.wav
+531000,redtext,empty,True,+
+531350,rsvp,context,true,Dans les contes pour enfants les animaux parlent couramment.
+539000,sound,bip,True,bip_court.wav
+539350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+547000,sound,bip,True,bip_court.wav
+547350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+555000,text,empty,True,+

@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,tom,true,321_tom_14_true_faux_president.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,control,false,58_control_13_false_vide_plusensuite.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,context,true,138_context_06_true_vrai_sanfrancisco.wav
+42000,text,empty,True,+
+49000,sound,bip,True,bip_court.wav
+49350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+57000,sound,bip,True,bip_court.wav
+57350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+65000,redtext,empty,True,+
+65350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+73000,sound,bip,True,bip_court.wav
+73350,sound,arithprin,false,50_arithprin_34_false_vide_nombreauquel.wav
+81000,sound,bip,True,bip_court.wav
+81350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+89000,redtext,empty,True,+
+89350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+97000,sound,bip,True,bip_court.wav
+97350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+105000,redtext,empty,True,+
+105350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+113000,redtext,empty,True,+
+113350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+121000,text,empty,True,+
+127000,redtext,empty,True,+
+127350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+135000,redtext,empty,True,+
+135350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+143000,redtext,empty,True,+
+143350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+151000,redtext,empty,True,+
+151350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+159000,sound,bip,True,bip_court.wav
+159350,sound,general,false,83_general_40_false_vide_laterre.wav
+167000,redtext,empty,True,+
+167350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+175000,sound,bip,True,bip_court.wav
+175350,sound,colorlessg,false,181_colorlessg_26_false_vide_ontueunastre.wav
+183000,text,empty,True,+
+189000,redtext,empty,True,+
+189350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+197000,redtext,empty,True,+
+197350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+205000,sound,bip,True,bip_court.wav
+205350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+213000,sound,bip,True,bip_court.wav
+213350,sound,tom,true,159_tom_03_true_vrai_pourlafontaine.wav
+221000,redtext,empty,True,+
+221350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+229000,redtext,empty,True,+
+229350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+237000,sound,bip,True,bip_court.wav
+237350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+245000,sound,bip,True,bip_court.wav
+245350,sound,general,true,302_general_04_true_vide_leaugele.wav
+253000,text,empty,True,+
+260000,sound,bip,True,bip_court.wav
+260350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+268000,sound,bip,True,bip_court.wav
+268350,sound,context,false,97_context_40_false_faux_japon.wav
+276000,sound,bip,True,bip_court.wav
+276350,sound,control,false,89_control_10_false_vide_auxlesaussitot.wav
+284000,redtext,empty,True,+
+284350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+292000,sound,bip,True,bip_court.wav
+292350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+300000,redtext,empty,True,+
+300350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+308000,redtext,empty,True,+
+308350,rsvp,arithfact,true,Quarante deux moins un donne le nombre quarante et un.
+316000,sound,bip,True,bip_court.wav
+316350,sound,colorlessg,false,20_colorlessg_17_false_vide_intermediaire.wav
+324000,text,empty,True,+
+328000,redtext,empty,True,+
+328350,rsvp,tom,true,Selon Greenpeace la déforestation en Amazonie est une catastrophe.
+336000,redtext,empty,True,+
+336350,rsvp,context,false,En Amazonie les araignées sont des animaux sans danger.
+344000,sound,bip,True,bip_court.wav
+344350,sound,context,true,317_context_16_true_faux_aujapon.wav
+352000,redtext,empty,True,+
+352350,rsvp,colorlessg,false,Un sol de vieux ciel chante bêtement un verre d'énergie.
+360000,sound,bip,True,bip_court.wav
+360350,sound,general,true,180_general_08_true_vide_lesperles.wav
+368000,text,empty,True,+
+376000,redtext,empty,True,+
+376350,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+384000,redtext,empty,True,+
+384350,rsvp,arithfact,false,Le triple de quinze est plus grand que deux cent soixante.
+392000,redtext,empty,True,+
+392350,rsvp,geomfact,true,Les diagonales d'un losange sont ses axes de symétrie.
+400000,sound,bip,True,bip_court.wav
+400350,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+408000,redtext,empty,True,+
+408350,rsvp,tom,true,Pour Mowgli la panthère noire est un animal affectueux.
+416000,redtext,empty,True,+
+416350,rsvp,context,false,Aux Etats Unis les études universitaires sont gratuites.
+424000,text,empty,True,+
+429000,sound,bip,True,bip_court.wav
+429350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+437000,redtext,empty,True,+
+437350,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+445000,sound,bip,True,bip_court.wav
+445350,sound,context,false,226_context_21_false_vrai_eninde.wav
+453000,redtext,empty,True,+
+453350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+461000,redtext,empty,True,+
+461350,rsvp,arithfact,false,Dix sept est la racine carrée de cent quatre vingt dix.
+469000,text,empty,True,+
+474000,redtext,empty,True,+
+474350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+482000,sound,bip,True,bip_court.wav
+482350,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+490000,sound,bip,True,bip_court.wav
+490350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+498000,sound,bip,True,bip_court.wav
+498350,sound,colorlessg,false,19_colorlessg_16_false_vide_artiste.wav
+506000,redtext,empty,True,+
+506350,rsvp,general,true,Une encyclopédie permet de diffuser le savoir à de nombreux lecteurs.
+514000,sound,bip,True,bip_court.wav
+514350,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+522000,redtext,empty,True,+
+522350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+530000,redtext,empty,True,+
+530350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+538000,redtext,empty,True,+
+538350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+546000,sound,bip,True,bip_court.wav
+546350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+554000,sound,bip,True,bip_court.wav
+554350,sound,arithprin,false,73_arithprin_21_false_vide_ordresoustraction.wav
+562000,text,empty,True,+

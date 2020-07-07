@@ -1,0 +1,129 @@
+2000,redtext,empty,True,+
+2350,rsvp,context,true,En Allemagne tous les enfants doivent aller à l'école.
+10350,sound,bip,True,bip_court.wav
+10700,sound,control,false,186_control_23_false_vide_douceurpoisson.wav
+18700,sound,bip,True,bip_court.wav
+19050,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+27050,redtext,empty,True,+
+27400,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+35400,redtext,empty,True,+
+35750,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+43750,redtext,empty,True,+
+44100,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+52100,sound,bip,True,bip_court.wav
+52450,sound,general,false,52_general_31_false_vide_veau.wav
+60450,sound,bip,True,bip_court.wav
+60800,sound,context,true,138_context_06_true_vrai_sanfrancisco.wav
+68800,sound,bip,True,bip_court.wav
+69150,sound,control,false,131_control_22_false_vide_devantdecide.wav
+77150,sound,bip,True,bip_court.wav
+77500,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+85500,sound,bip,True,bip_court.wav
+85850,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+93850,sound,bip,True,bip_court.wav
+94200,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+102200,sound,bip,True,bip_court.wav
+102550,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+110550,redtext,empty,True,+
+110900,rsvp,general,true,Le noyau de l'atome d'hydrogène est composé d'un seul proton.
+118900,sound,bip,True,bip_court.wav
+119250,sound,general,true,174_general_12_true_vide_uneencyclopedie.wav
+127250,redtext,empty,True,+
+127600,rsvp,tom,false,Pour Donald Trump les mexicains sont bienvenus aux Etats Unis.
+135600,sound,bip,True,bip_court.wav
+135950,sound,context,true,317_context_16_true_faux_aujapon.wav
+143950,redtext,empty,True,+
+144300,rsvp,geomfact,true,Un triangle équilatéral se divise en deux triangles rectangles.
+152300,sound,bip,True,bip_court.wav
+152650,sound,control,false,224_control_21_false_vide_sombremanteau.wav
+160650,redtext,empty,True,+
+161000,rsvp,arithprin,false,Le résultat d'une division est toujours un nombre entier.
+169000,sound,bip,True,bip_court.wav
+169350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+177350,redtext,empty,True,+
+177700,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+185700,redtext,empty,True,+
+186050,rsvp,general,true,Les flocons de neige ont des formes très variées.
+194050,sound,bip,True,bip_court.wav
+194400,sound,tom,false,198_tom_36_false_faux_selonlesphysiciens.wav
+202400,sound,bip,True,bip_court.wav
+202750,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+210750,redtext,empty,True,+
+211100,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+219100,sound,bip,True,bip_court.wav
+219450,sound,arithfact,false,252_arithfact_32_false_vide_vingtseptmoinsdeux.wav
+227450,sound,bip,True,bip_court.wav
+227800,sound,geomfact,false,241_geomfact_32_false_vide_unrectanglenecomprend.wav
+235800,sound,bip,True,bip_court.wav
+236150,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+244150,redtext,empty,True,+
+244500,rsvp,colorlessg,false,L'intermédiaire de l'armée d'oxygène est doublé d'un programme véritable.
+252500,redtext,empty,True,+
+252850,rsvp,colorlessg,false,La décoration se déduit grâce à l'espoir moléculaire.
+260850,sound,bip,True,bip_court.wav
+261200,sound,general,true,46_general_11_true_vide_photosynthese.wav
+269200,sound,bip,True,bip_court.wav
+269550,sound,geomfact,true,40_geomfact_12_true_vide_surfacerectangle.wav
+277550,redtext,empty,True,+
+277900,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+285900,sound,bip,True,bip_court.wav
+286250,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+294250,redtext,empty,True,+
+294600,rsvp,colorlessg,false,Un poulet est un cercle de chiffres internationales.
+302600,redtext,empty,True,+
+302950,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+310950,sound,bip,True,bip_court.wav
+311300,sound,context,false,308_context_26_false_vrai_enequateur.wav
+319300,sound,bip,True,bip_court.wav
+319650,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+327650,redtext,empty,True,+
+328000,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+336000,sound,bip,True,bip_court.wav
+336350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+344350,sound,bip,True,bip_court.wav
+344700,sound,colorlessg,false,316_colorlessg_23_false_vide_touslescafes.wav
+352700,sound,bip,True,bip_court.wav
+353050,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+361050,redtext,empty,True,+
+361400,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+369400,sound,bip,True,bip_court.wav
+369750,sound,general,false,216_general_32_false_vide_lavapeurdeau.wav
+377750,redtext,empty,True,+
+378100,rsvp,tom,true,Selon les écrivains l'Odyssée est un chef d'oeuvre littéraire.
+386100,sound,bip,True,bip_court.wav
+386450,sound,tom,true,15_tom_16_true_faux_creationistes.wav
+394450,redtext,empty,True,+
+394800,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+402800,sound,bip,True,bip_court.wav
+403150,sound,arithprin,false,175_arithprin_31_false_vide_ladifference.wav
+411150,redtext,empty,True,+
+411500,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+419500,redtext,empty,True,+
+419850,rsvp,arithfact,true,Quarante cinq est le résultat de quinze fois trois.
+427850,redtext,empty,True,+
+428200,rsvp,geomfact,true,Tous les points d'un cercle sont à égale distance du centre.
+436200,redtext,empty,True,+
+436550,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+444550,sound,bip,True,bip_court.wav
+444900,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+452900,sound,bip,True,bip_court.wav
+453250,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+461250,redtext,empty,True,+
+461600,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+469600,redtext,empty,True,+
+469950,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+477950,redtext,empty,True,+
+478300,rsvp,colorlessg,false,Une mélancolie offre de piloter le pouvoir à ses savons chauds.
+486300,redtext,empty,True,+
+486650,rsvp,arithprin,true,La somme de plusieurs nombres pairs est un nombre pair.
+494650,redtext,empty,True,+
+495000,rsvp,tom,true,Pour Ronaldo le football est un art. 
+503000,redtext,empty,True,+
+503350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+511350,sound,bip,True,bip_court.wav
+511700,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+519700,redtext,empty,True,+
+520050,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+528050,redtext,empty,True,+
+528400,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+536400,text,empty,True,+

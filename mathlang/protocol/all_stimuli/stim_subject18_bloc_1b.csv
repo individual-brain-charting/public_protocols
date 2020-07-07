@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+10000,redtext,empty,True,+
+10350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,false,114_geomfact_33_false_vide_cotesdunlosange.wav
+26000,redtext,empty,True,+
+26350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+34000,text,empty,True,+
+38000,sound,bip,True,bip_court.wav
+38350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+46000,sound,bip,True,bip_court.wav
+46350,sound,arithfact,true,53_arithfact_13_true_vide_unquartdecent.wav
+54000,redtext,empty,True,+
+54350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+62000,sound,bip,True,bip_court.wav
+62350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+70000,redtext,empty,True,+
+70350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+78000,redtext,empty,True,+
+78350,rsvp,arithfact,true,Le nombre trois multiplié par douze fait trente six.
+86000,redtext,empty,True,+
+86350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+94000,text,empty,True,+
+102000,redtext,empty,True,+
+102350,rsvp,geomfact,true,Tout polygone peut entrer dans un cercle.
+110000,sound,bip,True,bip_court.wav
+110350,sound,general,false,6_general_21_false_vide_papillons.wav
+118000,redtext,empty,True,+
+118350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+126000,sound,bip,True,bip_court.wav
+126350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+134000,sound,bip,True,bip_court.wav
+134350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+142000,redtext,empty,True,+
+142350,rsvp,arithfact,true,Le résultat de vingt sept moins trois est le nombre vingt quatre.
+150000,text,empty,True,+
+157000,sound,bip,True,bip_court.wav
+157350,sound,general,true,34_general_01_true_vide_chameau.wav
+165000,sound,bip,True,bip_court.wav
+165350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+173000,redtext,empty,True,+
+173350,rsvp,tom,false,D'après Mère Teresa la haine est une émotion positive.
+181000,redtext,empty,True,+
+181350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+189000,sound,bip,True,bip_court.wav
+189350,sound,geomfact,true,145_geomfact_18_true_vide_lesfacesduncube.wav
+197000,sound,bip,True,bip_court.wav
+197350,sound,context,true,26_context_17_true_faux_londres.wav
+205000,sound,bip,True,bip_court.wav
+205350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+213000,text,empty,True,+
+218000,sound,bip,True,bip_court.wav
+218350,sound,general,false,52_general_31_false_vide_veau.wav
+226000,sound,bip,True,bip_court.wav
+226350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+234000,sound,bip,True,bip_court.wav
+234350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+242000,redtext,empty,True,+
+242350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+250000,sound,bip,True,bip_court.wav
+250350,sound,control,false,131_control_22_false_vide_devantdecide.wav
+258000,sound,bip,True,bip_court.wav
+258350,sound,context,true,191_context_01_true_vrai_apekin.wav
+266000,text,empty,True,+
+273000,sound,bip,True,bip_court.wav
+273350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+281000,redtext,empty,True,+
+281350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+289000,sound,bip,True,bip_court.wav
+289350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+297000,sound,bip,True,bip_court.wav
+297350,sound,colorlessg,false,209_colorlessg_29_false_vide_lelapindemal.wav
+305000,redtext,empty,True,+
+305350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+313000,sound,bip,True,bip_court.wav
+313350,sound,general,true,125_general_14_true_vide_chenilles.wav
+321000,text,empty,True,+
+325000,redtext,empty,True,+
+325350,rsvp,context,true,En Irlande avoir les cheveux roux est assez courant.
+333000,redtext,empty,True,+
+333350,rsvp,general,true,La tragédie classique est fondée sur une unité de lieu.
+341000,sound,bip,True,bip_court.wav
+341350,sound,control,false,258_control_30_false_vide_fauxgeler.wav
+349000,redtext,empty,True,+
+349350,rsvp,colorlessg,false,La grimace est un arbre parallèle sans doigts.
+357000,sound,bip,True,bip_court.wav
+357350,sound,context,false,126_context_24_false_vrai_burundi.wav
+365000,text,empty,True,+
+370000,sound,bip,True,bip_court.wav
+370350,sound,arithfact,false,211_arithfact_30_false_vide_trentecinqmoins.wav
+378000,redtext,empty,True,+
+378350,rsvp,control,false,D'après où dans ils les d'une toute cependant et sans.
+386000,sound,bip,True,bip_court.wav
+386350,sound,arithprin,false,275_arithprin_27_false_vide_leresultatduneaddition.wav
+394000,redtext,empty,True,+
+394350,rsvp,arithfact,false,Le nombre soixante quatorze est plus grand que cent.
+402000,redtext,empty,True,+
+402350,rsvp,general,false,Le Vietnam est appelé le pays du soleil levant.
+410000,text,empty,True,+
+414000,redtext,empty,True,+
+414350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+422000,redtext,empty,True,+
+422350,rsvp,colorlessg,false,Pour les lions la voile est une bouteille pensive.
+430000,sound,bip,True,bip_court.wav
+430350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+438000,redtext,empty,True,+
+438350,rsvp,colorlessg,false,La décoration se déduit grâce à l'espoir moléculaire.
+446000,sound,bip,True,bip_court.wav
+446350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+454000,sound,bip,True,bip_court.wav
+454350,sound,context,false,130_context_38_false_faux_kenya.wav
+462000,redtext,empty,True,+
+462350,rsvp,colorlessg,false,Des bibliothèques de chaque cible ont le mauvais squelette.
+470000,redtext,empty,True,+
+470350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+478000,redtext,empty,True,+
+478350,rsvp,tom,true,Pour Mowgli la panthère noire est un animal affectueux.
+486000,redtext,empty,True,+
+486350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+494000,redtext,empty,True,+
+494350,rsvp,control,false,Voilier tigres carafe pensif câlin boit ère blessé.
+502000,redtext,empty,True,+
+502350,rsvp,arithprin,false,Le carré d'un nombre négatif est négatif.
+510000,sound,bip,True,bip_court.wav
+510350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+518000,sound,bip,True,bip_court.wav
+518350,sound,tom,true,121_tom_11_true_faux_pourlesgrecs.wav
+526000,sound,bip,True,bip_court.wav
+526350,sound,arithprin,false,179_arithprin_22_false_vide_touslesentiers.wav
+534000,redtext,empty,True,+
+534350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+542000,sound,bip,True,bip_court.wav
+542350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+550000,redtext,empty,True,+
+550350,rsvp,arithfact,false,Vingt sept moins deux moins quatre fait dix huit.
+558000,text,empty,True,+

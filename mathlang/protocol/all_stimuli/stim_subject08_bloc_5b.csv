@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+10000,redtext,empty,True,+
+10350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+18000,sound,bip,True,bip_court.wav
+18350,sound,geomfact,true,147_geomfact_11_true_vide_perimetreduncarre.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,general,true,111_general_20_true_vide_mitose.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,tom,true,77_tom_09_true_vrai_nelsonmandela.wav
+42000,redtext,empty,True,+
+42350,rsvp,geomfact,false,Un rectangle a un seul axe de symétrie.
+50000,redtext,empty,True,+
+50350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+58000,sound,bip,True,bip_court.wav
+58350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+66000,sound,bip,True,bip_court.wav
+66350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+74000,redtext,empty,True,+
+74350,rsvp,geomfact,true,Un triangle équilatéral se divise en deux triangles rectangles.
+82000,text,empty,True,+
+89000,redtext,empty,True,+
+89350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+97000,sound,bip,True,bip_court.wav
+97350,sound,general,false,6_general_21_false_vide_papillons.wav
+105000,sound,bip,True,bip_court.wav
+105350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+113000,sound,bip,True,bip_court.wav
+113350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+121000,redtext,empty,True,+
+121350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+129000,sound,bip,True,bip_court.wav
+129350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+137000,redtext,empty,True,+
+137350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+145000,sound,bip,True,bip_court.wav
+145350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+153000,sound,bip,True,bip_court.wav
+153350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+161000,sound,bip,True,bip_court.wav
+161350,sound,arithprin,false,63_arithprin_33_false_vide_tousnombresnegatifs.wav
+169000,text,empty,True,+
+173000,redtext,empty,True,+
+173350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+181000,sound,bip,True,bip_court.wav
+181350,sound,arithprin,false,269_arithprin_25_false_vide_nombremultiplieparzero.wav
+189000,redtext,empty,True,+
+189350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+197000,text,empty,True,+
+201000,sound,bip,True,bip_court.wav
+201350,sound,control,false,131_control_22_false_vide_devantdecide.wav
+209000,redtext,empty,True,+
+209350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+217000,sound,bip,True,bip_court.wav
+217350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+225000,redtext,empty,True,+
+225350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+233000,redtext,empty,True,+
+233350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+241000,sound,bip,True,bip_court.wav
+241350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+249000,text,empty,True,+
+255000,redtext,empty,True,+
+255350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+263000,redtext,empty,True,+
+263350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+271000,redtext,empty,True,+
+271350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+279000,redtext,empty,True,+
+279350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+287000,sound,bip,True,bip_court.wav
+287350,sound,control,false,16_control_29_false_vide_insigne.wav
+295000,sound,bip,True,bip_court.wav
+295350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+303000,redtext,empty,True,+
+303350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+311000,text,empty,True,+
+316000,redtext,empty,True,+
+316350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+324000,redtext,empty,True,+
+324350,rsvp,context,true,Au Japon manger bruyamment est une forme de politesse.
+332000,redtext,empty,True,+
+332350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+340000,sound,bip,True,bip_court.wav
+340350,sound,arithprin,true,278_arithprin_02_true_vide_nombremultiplieparun.wav
+348000,sound,bip,True,bip_court.wav
+348350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+356000,text,empty,True,+
+361000,sound,bip,True,bip_court.wav
+361350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+369000,sound,bip,True,bip_court.wav
+369350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+377000,sound,bip,True,bip_court.wav
+377350,sound,geomfact,false,160_geomfact_25_false_vide_plusuntriangle.wav
+385000,redtext,empty,True,+
+385350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+393000,sound,bip,True,bip_court.wav
+393350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+401000,text,empty,True,+
+407000,redtext,empty,True,+
+407350,rsvp,tom,false,Pour Einstein la bombe atomique est un objet sans danger.
+415000,redtext,empty,True,+
+415350,rsvp,arithprin,false,Un nombre non nul multiplié par lui même donne toujours un.
+423000,sound,bip,True,bip_court.wav
+423350,sound,context,true,191_context_01_true_vrai_apekin.wav
+431000,redtext,empty,True,+
+431350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+439000,sound,bip,True,bip_court.wav
+439350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+447000,sound,bip,True,bip_court.wav
+447350,sound,control,false,186_control_23_false_vide_douceurpoisson.wav
+455000,sound,bip,True,bip_court.wav
+455350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+463000,sound,bip,True,bip_court.wav
+463350,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+471000,redtext,empty,True,+
+471350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+479000,text,empty,True,+
+485000,redtext,empty,True,+
+485350,rsvp,control,false,Période histoire visage pleine côté conditions jamais.
+493000,redtext,empty,True,+
+493350,rsvp,arithfact,false,La division de trente trois par deux donne le chiffre douze.
+501000,sound,bip,True,bip_court.wav
+501350,sound,general,true,180_general_08_true_vide_lesperles.wav
+509000,redtext,empty,True,+
+509350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+517000,sound,bip,True,bip_court.wav
+517350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+525000,redtext,empty,True,+
+525350,rsvp,geomfact,false,Les points d'un carré sont à égale distance de son centre.
+533000,redtext,empty,True,+
+533350,rsvp,arithprin,false,Le carré d'un nombre négatif est négatif.
+541000,redtext,empty,True,+
+541350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+549000,redtext,empty,True,+
+549350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+557000,text,empty,True,+

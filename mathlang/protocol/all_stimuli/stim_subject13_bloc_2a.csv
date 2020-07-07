@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+10000,redtext,empty,True,+
+10350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+26000,sound,bip,True,bip_court.wav
+26350,sound,control,false,298_control_35_false_vide_demainmanger.wav
+34000,redtext,empty,True,+
+34350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+42000,redtext,empty,True,+
+42350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+50000,sound,bip,True,bip_court.wav
+50350,sound,control,false,294_control_02_false_vide_unmependant.wav
+58000,redtext,empty,True,+
+58350,rsvp,geomfact,true,Un point peut être traversé par un nombre infini de lignes.
+66000,text,empty,True,+
+72000,sound,bip,True,bip_court.wav
+72350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+80000,redtext,empty,True,+
+80350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+88000,sound,bip,True,bip_court.wav
+88350,sound,colorlessg,false,5_colorlessg_01_false_vide_drapeau.wav
+96000,sound,bip,True,bip_court.wav
+96350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+104000,redtext,empty,True,+
+104350,rsvp,geomfact,false,Un triangle peut avoir plusieurs angles droits.
+112000,redtext,empty,True,+
+112350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+120000,sound,bip,True,bip_court.wav
+120350,sound,context,true,90_context_09_true_vrai_himalaya.wav
+128000,text,empty,True,+
+132000,sound,bip,True,bip_court.wav
+132350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+140000,redtext,empty,True,+
+140350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+148000,redtext,empty,True,+
+148350,rsvp,colorlessg,false,Aux champs bleus les couvertures inversibles sont brutaux.
+156000,sound,bip,True,bip_court.wav
+156350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+164000,redtext,empty,True,+
+164350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+172000,sound,bip,True,bip_court.wav
+172350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+180000,text,empty,True,+
+187000,redtext,empty,True,+
+187350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+195000,redtext,empty,True,+
+195350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+203000,redtext,empty,True,+
+203350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+211000,redtext,empty,True,+
+211350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+219000,sound,bip,True,bip_court.wav
+219350,sound,general,true,125_general_14_true_vide_chenilles.wav
+227000,text,empty,True,+
+232000,redtext,empty,True,+
+232350,rsvp,general,true,La rose est la fleur d'une plante épineuse.
+240000,redtext,empty,True,+
+240350,rsvp,arithfact,true,Le produit de vingt et un par trois donne comme résultat soixante trois.
+248000,redtext,empty,True,+
+248350,rsvp,control,false,Rouge doigts caractère occasion regard étoiles pièces.
+256000,redtext,empty,True,+
+256350,rsvp,tom,false,D'après Astérix les romains dominent tous les gaulois.
+264000,text,empty,True,+
+270000,sound,bip,True,bip_court.wav
+270350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+278000,sound,bip,True,bip_court.wav
+278350,sound,context,false,188_context_23_false_vrai_auvatican.wav
+286000,redtext,empty,True,+
+286350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+294000,redtext,empty,True,+
+294350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+302000,redtext,empty,True,+
+302350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+310000,sound,bip,True,bip_court.wav
+310350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+318000,redtext,empty,True,+
+318350,rsvp,arithprin,false,Une somme de fractions est toujours un nombre entier.
+326000,redtext,empty,True,+
+326350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+334000,redtext,empty,True,+
+334350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+342000,sound,bip,True,bip_court.wav
+342350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+350000,sound,bip,True,bip_court.wav
+350350,sound,context,false,97_context_40_false_faux_japon.wav
+358000,redtext,empty,True,+
+358350,rsvp,context,true,Dans les contes pour enfants les animaux parlent couramment.
+366000,sound,bip,True,bip_court.wav
+366350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+374000,text,empty,True,+
+382000,redtext,empty,True,+
+382350,rsvp,geomfact,true,Un carré est un rectangle aux côtés égaux.
+390000,sound,bip,True,bip_court.wav
+390350,sound,geomfact,false,310_geomfact_23_false_vide_unrectanglecoupe.wav
+398000,redtext,empty,True,+
+398350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+406000,redtext,empty,True,+
+406350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+414000,text,empty,True,+
+422000,sound,bip,True,bip_court.wav
+422350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+430000,sound,bip,True,bip_court.wav
+430350,sound,arithprin,false,275_arithprin_27_false_vide_leresultatduneaddition.wav
+438000,sound,bip,True,bip_court.wav
+438350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+446000,sound,bip,True,bip_court.wav
+446350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+454000,sound,bip,True,bip_court.wav
+454350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+462000,text,empty,True,+
+468000,redtext,empty,True,+
+468350,rsvp,geomfact,false,Plus un triangle est grand
+476000,sound,bip,True,bip_court.wav
+476350,sound,context,true,26_context_17_true_faux_londres.wav
+484000,sound,bip,True,bip_court.wav
+484350,sound,general,true,51_general_09_true_vide_flocons.wav
+492000,sound,bip,True,bip_court.wav
+492350,sound,tom,false,92_tom_26_false_vrai_dapresmusulmans.wav
+500000,sound,bip,True,bip_court.wav
+500350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+508000,redtext,empty,True,+
+508350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+516000,sound,bip,True,bip_court.wav
+516350,sound,tom,false,231_tom_35_false_faux_martinlutherking.wav
+524000,sound,bip,True,bip_court.wav
+524350,sound,control,false,110_control_03_false_vide_quileestun.wav
+532000,redtext,empty,True,+
+532350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+540000,sound,bip,True,bip_court.wav
+540350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+548000,sound,bip,True,bip_court.wav
+548350,sound,colorlessg,false,25_colorlessg_34_false_vide_populations.wav
+556000,sound,bip,True,bip_court.wav
+556350,sound,geomfact,true,247_geomfact_14_true_vide_toutpolygone.wav
+564000,text,empty,True,+

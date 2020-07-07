@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+10000,sound,bip,True,bip_court.wav
+10350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,general,true,54_general_07_true_vide_soleil.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,context,false,13_context_33_false_faux_afriquedusud.wav
+34000,redtext,empty,True,+
+34350,rsvp,control,false,Poile choisis forêt vertes saison canapé doivent.
+42000,sound,bip,True,bip_court.wav
+42350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+58000,redtext,empty,True,+
+58350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+66000,text,empty,True,+
+71000,redtext,empty,True,+
+71350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+79000,redtext,empty,True,+
+79350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+87000,redtext,empty,True,+
+87350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+95000,redtext,empty,True,+
+95350,rsvp,arithprin,true,La moitié d'un nombre est plus grande que le tiers.
+103000,sound,bip,True,bip_court.wav
+103350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+111000,sound,bip,True,bip_court.wav
+111350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+119000,text,empty,True,+
+123000,redtext,empty,True,+
+123350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+131000,sound,bip,True,bip_court.wav
+131350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+139000,sound,bip,True,bip_court.wav
+139350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+147000,redtext,empty,True,+
+147350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+155000,sound,bip,True,bip_court.wav
+155350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+163000,redtext,empty,True,+
+163350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+171000,text,empty,True,+
+176000,sound,bip,True,bip_court.wav
+176350,sound,geomfact,true,112_geomfact_17_true_vide_diagonaleslosange.wav
+184000,sound,bip,True,bip_court.wav
+184350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+192000,sound,bip,True,bip_court.wav
+192350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+200000,redtext,empty,True,+
+200350,rsvp,tom,true,Pour les créationnistes Dieu est à l'origine de la vie.
+208000,redtext,empty,True,+
+208350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+216000,sound,bip,True,bip_court.wav
+216350,sound,control,false,166_control_28_false_vide_voiliertigres.wav
+224000,sound,bip,True,bip_court.wav
+224350,sound,context,false,251_context_27_false_vrai_parisvoielactee.wav
+232000,redtext,empty,True,+
+232350,rsvp,geomfact,false,Le périmètre d'un cercle est le triple de son rayon.
+240000,text,empty,True,+
+248000,sound,bip,True,bip_court.wav
+248350,sound,arithprin,false,165_arithprin_39_false_vide_lordreselonlequel.wav
+256000,sound,bip,True,bip_court.wav
+256350,sound,general,false,38_general_34_false_vide_hiver.wav
+264000,redtext,empty,True,+
+264350,rsvp,context,true,Dans la mythologie égyptienne le chat incarne un dieu.
+272000,sound,bip,True,bip_court.wav
+272350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+280000,sound,bip,True,bip_court.wav
+280350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+288000,redtext,empty,True,+
+288350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+296000,text,empty,True,+
+303000,redtext,empty,True,+
+303350,rsvp,general,false,Les aurores boréales ont lieu près de l'équateur.
+311000,redtext,empty,True,+
+311350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+319000,sound,bip,True,bip_court.wav
+319350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+327000,redtext,empty,True,+
+327350,rsvp,control,false,Membres intérieur venir gros faisant papier dents.
+335000,redtext,empty,True,+
+335350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+343000,text,empty,True,+
+351000,sound,bip,True,bip_court.wav
+351350,sound,context,true,3_context_08_true_vrai_australie.wav
+359000,sound,bip,True,bip_court.wav
+359350,sound,tom,true,182_tom_19_true_faux_indiensdamerique.wav
+367000,redtext,empty,True,+
+367350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+375000,text,empty,True,+
+382000,sound,bip,True,bip_court.wav
+382350,sound,arithfact,true,183_arithfact_19_true_vide_quarantedeuxmoins.wav
+390000,redtext,empty,True,+
+390350,rsvp,arithprin,false,Tout nombre réel peut être écrit comme une fraction.
+398000,redtext,empty,True,+
+398350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+406000,sound,bip,True,bip_court.wav
+406350,sound,tom,false,32_tom_23_false_vrai_julesverne.wav
+414000,sound,bip,True,bip_court.wav
+414350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+422000,sound,bip,True,bip_court.wav
+422350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+430000,redtext,empty,True,+
+430350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+438000,text,empty,True,+
+444000,sound,bip,True,bip_court.wav
+444350,sound,arithfact,false,4_arithfact_28_false_vide_vingttrois.wav
+452000,redtext,empty,True,+
+452350,rsvp,tom,false,Selon Zidane la pétanque est un sport olympique.
+460000,sound,bip,True,bip_court.wav
+460350,sound,arithprin,false,10_arithprin_23_false_vide_carreimpair.wav
+468000,redtext,empty,True,+
+468350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+476000,redtext,empty,True,+
+476350,rsvp,arithfact,false,Cinq plus seize est plus grand que le nombre vingt huit.
+484000,sound,bip,True,bip_court.wav
+484350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+492000,redtext,empty,True,+
+492350,rsvp,general,false,La vapeur d'eau se condense uniquement sur les arbres.
+500000,redtext,empty,True,+
+500350,rsvp,context,false,En Amazonie les araignées sont des animaux sans danger.
+508000,sound,bip,True,bip_court.wav
+508350,sound,arithfact,true,117_arithfact_17_true_vide_cinquantepourcent.wav
+516000,sound,bip,True,bip_court.wav
+516350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+524000,sound,bip,True,bip_court.wav
+524350,sound,colorlessg,false,2_colorlessg_07_false_vide_compagnies.wav
+532000,redtext,empty,True,+
+532350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+540000,redtext,empty,True,+
+540350,rsvp,colorlessg,false,Dans les chiens imperceptibles le poivre est laid.
+548000,redtext,empty,True,+
+548350,rsvp,geomfact,true,Un point peut être traversé par un nombre infini de lignes.
+556000,redtext,empty,True,+
+556350,rsvp,context,false,En Inde le dinar est la monnaie courante.
+564000,text,empty,True,+

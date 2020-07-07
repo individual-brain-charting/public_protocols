@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+10000,redtext,empty,True,+
+10350,rsvp,arithprin,false,Le résultat d'une soustraction est toujours négatif.
+18000,redtext,empty,True,+
+18350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+34000,redtext,empty,True,+
+34350,rsvp,tom,false,Selon Jules Verne voyager au centre de la terre est impossible.
+42000,sound,bip,True,bip_court.wav
+42350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+50000,redtext,empty,True,+
+50350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+58000,sound,bip,True,bip_court.wav
+58350,sound,colorlessg,false,257_colorlessg_30_false_vide_unboldepain.wav
+66000,redtext,empty,True,+
+66350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+74000,redtext,empty,True,+
+74350,rsvp,context,true,Au Japon manger bruyamment est une forme de politesse.
+82000,text,empty,True,+
+86000,sound,bip,True,bip_court.wav
+86350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+94000,redtext,empty,True,+
+94350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+102000,sound,bip,True,bip_court.wav
+102350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+110000,sound,bip,True,bip_court.wav
+110350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+118000,redtext,empty,True,+
+118350,rsvp,geomfact,true,Un cercle a un nombre infini d'axes de symétrie.
+126000,sound,bip,True,bip_court.wav
+126350,sound,context,true,300_context_02_true_vrai_auxpaysbas.wav
+134000,sound,bip,True,bip_court.wav
+134350,sound,context,true,22_context_20_true_faux_danslamer.wav
+142000,sound,bip,True,bip_court.wav
+142350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+150000,text,empty,True,+
+154000,sound,bip,True,bip_court.wav
+154350,sound,tom,true,81_tom_15_true_faux_ronaldo.wav
+162000,sound,bip,True,bip_court.wav
+162350,sound,tom,false,193_tom_22_false_vrai_johnnyhallyday.wav
+170000,text,empty,True,+
+176000,redtext,empty,True,+
+176350,rsvp,general,true,Les chenilles sont des insectes qui se transforment en papillon.
+184000,redtext,empty,True,+
+184350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+192000,sound,bip,True,bip_court.wav
+192350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+200000,redtext,empty,True,+
+200350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+208000,sound,bip,True,bip_court.wav
+208350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+216000,redtext,empty,True,+
+216350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+224000,redtext,empty,True,+
+224350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+232000,sound,bip,True,bip_court.wav
+232350,sound,colorlessg,false,56_colorlessg_06_false_vide_chaqueassoiffe.wav
+240000,text,empty,True,+
+248000,redtext,empty,True,+
+248350,rsvp,colorlessg,false,Le lapin de mal va vite au bal du camion doux.
+256000,sound,bip,True,bip_court.wav
+256350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+264000,redtext,empty,True,+
+264350,rsvp,general,false,Le veau est le petit de la chèvre.
+272000,redtext,empty,True,+
+272350,rsvp,control,false,Compte production éléments demander courant amour fruits.
+280000,redtext,empty,True,+
+280350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+288000,redtext,empty,True,+
+288350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+296000,sound,bip,True,bip_court.wav
+296350,sound,arithprin,false,10_arithprin_23_false_vide_carreimpair.wav
+304000,sound,bip,True,bip_court.wav
+304350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+312000,redtext,empty,True,+
+312350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+320000,sound,bip,True,bip_court.wav
+320350,sound,control,false,151_control_27_false_vide_pigmeesboeuf.wav
+328000,redtext,empty,True,+
+328350,rsvp,context,true,Dans l'Himalaya les montagnes sont de hauts sommets enneigées.
+336000,text,empty,True,+
+343000,sound,bip,True,bip_court.wav
+343350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+351000,text,empty,True,+
+358000,sound,bip,True,bip_court.wav
+358350,sound,control,false,89_control_10_false_vide_auxlesaussitot.wav
+366000,redtext,empty,True,+
+366350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+374000,redtext,empty,True,+
+374350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+382000,sound,bip,True,bip_court.wav
+382350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+390000,redtext,empty,True,+
+390350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+398000,text,empty,True,+
+405000,sound,bip,True,bip_court.wav
+405350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+413000,redtext,empty,True,+
+413350,rsvp,arithfact,true,La racine carrée de trente six est plus grand que cinq.
+421000,sound,bip,True,bip_court.wav
+421350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+429000,sound,bip,True,bip_court.wav
+429350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+437000,redtext,empty,True,+
+437350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+445000,redtext,empty,True,+
+445350,rsvp,geomfact,false,Les points d'un carré sont à égale distance de son centre.
+453000,sound,bip,True,bip_court.wav
+453350,sound,geomfact,true,43_geomfact_10_true_vide_triangleequilateral.wav
+461000,sound,bip,True,bip_court.wav
+461350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+469000,text,empty,True,+
+477000,redtext,empty,True,+
+477350,rsvp,tom,true,Selon Greenpeace la déforestation en Amazonie est une catastrophe.
+485000,sound,bip,True,bip_court.wav
+485350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+493000,sound,bip,True,bip_court.wav
+493350,sound,control,false,298_control_35_false_vide_demainmanger.wav
+501000,sound,bip,True,bip_court.wav
+501350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+509000,sound,bip,True,bip_court.wav
+509350,sound,general,true,174_general_12_true_vide_uneencyclopedie.wav
+517000,redtext,empty,True,+
+517350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+525000,redtext,empty,True,+
+525350,rsvp,geomfact,true,Le diamètre d'un cercle est le double de son rayon.
+533000,redtext,empty,True,+
+533350,rsvp,control,false,D'après où dans ils les d'une toute cependant et sans.
+541000,redtext,empty,True,+
+541350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+549000,sound,bip,True,bip_court.wav
+549350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+557000,sound,bip,True,bip_court.wav
+557350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+565000,text,empty,True,+

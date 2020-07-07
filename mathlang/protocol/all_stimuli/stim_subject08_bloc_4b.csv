@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithprin,false,Un nombre multiplié par un est égal à zéro.
+10000,redtext,empty,True,+
+10350,rsvp,colorlessg,false,Dans les chiens imperceptibles le poivre est laid.
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+26000,sound,bip,True,bip_court.wav
+26350,sound,arithprin,true,200_arithprin_12_true_vide_lamoitiedunnombre.wav
+34000,text,empty,True,+
+40000,sound,bip,True,bip_court.wav
+40350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+48000,sound,bip,True,bip_court.wav
+48350,sound,tom,true,81_tom_15_true_faux_ronaldo.wav
+56000,redtext,empty,True,+
+56350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+64000,sound,bip,True,bip_court.wav
+64350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+72000,redtext,empty,True,+
+72350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+80000,sound,bip,True,bip_court.wav
+80350,sound,colorlessg,false,237_colorlessg_39_false_vide_attributionsabstraites.wav
+88000,redtext,empty,True,+
+88350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+96000,text,empty,True,+
+100000,sound,bip,True,bip_court.wav
+100350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+108000,redtext,empty,True,+
+108350,rsvp,general,true,Le canari est un petit oiseau chanteur jaune.
+116000,redtext,empty,True,+
+116350,rsvp,geomfact,true,Un point peut être traversé par un nombre infini de lignes.
+124000,sound,bip,True,bip_court.wav
+124350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+132000,redtext,empty,True,+
+132350,rsvp,context,false,Sur la planète Mars la lune entraîne des marées.
+140000,text,empty,True,+
+145000,sound,bip,True,bip_court.wav
+145350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+153000,redtext,empty,True,+
+153350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+161000,sound,bip,True,bip_court.wav
+161350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+169000,sound,bip,True,bip_court.wav
+169350,sound,tom,false,301_tom_33_false_faux_pournietzsche.wav
+177000,text,empty,True,+
+183000,sound,bip,True,bip_court.wav
+183350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+191000,redtext,empty,True,+
+191350,rsvp,geomfact,true,Les diagonales d'un losange sont ses axes de symétrie.
+199000,redtext,empty,True,+
+199350,rsvp,control,false,Selon alors auxquelles aux sur cette dans les est car ses.
+207000,redtext,empty,True,+
+207350,rsvp,tom,false,D'après les humoristes rire est mauvais pour la santé.
+215000,sound,bip,True,bip_court.wav
+215350,sound,geomfact,true,247_geomfact_14_true_vide_toutpolygone.wav
+223000,sound,bip,True,bip_court.wav
+223350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+231000,redtext,empty,True,+
+231350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+239000,text,empty,True,+
+245000,redtext,empty,True,+
+245350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+253000,redtext,empty,True,+
+253350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+261000,sound,bip,True,bip_court.wav
+261350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+269000,redtext,empty,True,+
+269350,rsvp,tom,true,Selon les chrétiens fondamentalistes Adam est notre ancêtre.
+277000,sound,bip,True,bip_court.wav
+277350,sound,arithprin,false,11_arithprin_24_false_vide_soustraireun.wav
+285000,text,empty,True,+
+289000,sound,bip,True,bip_court.wav
+289350,sound,general,true,34_general_01_true_vide_chameau.wav
+297000,sound,bip,True,bip_court.wav
+297350,sound,colorlessg,false,296_colorlessg_20_false_vide_unemelancolie.wav
+305000,sound,bip,True,bip_court.wav
+305350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+313000,sound,bip,True,bip_court.wav
+313350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+321000,sound,bip,True,bip_court.wav
+321350,sound,control,false,305_control_40_false_vide_campagnelangage.wav
+329000,redtext,empty,True,+
+329350,rsvp,geomfact,false,Un angle droit est plus grand qu'un angle obtus.
+337000,sound,bip,True,bip_court.wav
+337350,sound,geomfact,false,21_geomfact_29_false_vide_figures.wav
+345000,text,empty,True,+
+351000,redtext,empty,True,+
+351350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+359000,sound,bip,True,bip_court.wav
+359350,sound,context,true,45_context_11_true_faux_londres.wav
+367000,redtext,empty,True,+
+367350,rsvp,general,true,La tulipe est une plante multicolore à bulbe.
+375000,sound,bip,True,bip_court.wav
+375350,sound,general,true,54_general_07_true_vide_soleil.wav
+383000,redtext,empty,True,+
+383350,rsvp,colorlessg,false,A chaque montagne les importances sont de molles stalactites.
+391000,sound,bip,True,bip_court.wav
+391350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+399000,sound,bip,True,bip_court.wav
+399350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+407000,redtext,empty,True,+
+407350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+415000,sound,bip,True,bip_court.wav
+415350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+423000,sound,bip,True,bip_court.wav
+423350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+431000,sound,bip,True,bip_court.wav
+431350,sound,context,false,308_context_26_false_vrai_enequateur.wav
+439000,text,empty,True,+
+444000,sound,bip,True,bip_court.wav
+444350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+452000,redtext,empty,True,+
+452350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+460000,redtext,empty,True,+
+460350,rsvp,general,false,La primevère est une plante vénéneuse et épineuse.
+468000,redtext,empty,True,+
+468350,rsvp,tom,false,D'après les musulmans la viande de porc est bonne à manger.
+476000,sound,bip,True,bip_court.wav
+476350,sound,colorlessg,false,162_colorlessg_10_false_vide_enverite.wav
+484000,redtext,empty,True,+
+484350,rsvp,arithprin,false,Le résultat d'une division est toujours un nombre entier.
+492000,redtext,empty,True,+
+492350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+500000,redtext,empty,True,+
+500350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+508000,sound,bip,True,bip_court.wav
+508350,sound,control,false,294_control_02_false_vide_unmependant.wav
+516000,redtext,empty,True,+
+516350,rsvp,control,false,La toutefois pour les est avec selon de une chacun plus.
+524000,redtext,empty,True,+
+524350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+532000,sound,bip,True,bip_court.wav
+532350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+540000,redtext,empty,True,+
+540350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+548000,redtext,empty,True,+
+548350,rsvp,arithprin,true,L'addition de nombres positifs est supérieure ou égale à ces nombres.
+556000,text,empty,True,+

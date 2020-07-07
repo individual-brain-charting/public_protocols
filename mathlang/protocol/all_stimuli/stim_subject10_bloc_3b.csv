@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,geomfact,false,12_geomfact_38_false_vide_losange.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+18000,redtext,empty,True,+
+18350,rsvp,arithfact,true,Cinquante pour cent de trente a comme valeur quinze.
+26000,sound,bip,True,bip_court.wav
+26350,sound,context,false,249_context_34_false_faux_aupakistan.wav
+34000,redtext,empty,True,+
+34350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+42000,redtext,empty,True,+
+42350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+50000,sound,bip,True,bip_court.wav
+50350,sound,arithprin,true,98_arithprin_15_true_vide_additionnombres.wav
+58000,sound,bip,True,bip_court.wav
+58350,sound,general,true,116_general_06_true_vide_canari.wav
+66000,text,empty,True,+
+73000,sound,bip,True,bip_court.wav
+73350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+81000,redtext,empty,True,+
+81350,rsvp,arithfact,false,La moitié de deux cents vaut trois cent cinquante cinq.
+89000,text,empty,True,+
+95000,redtext,empty,True,+
+95350,rsvp,general,true,Les flocons de neige ont des formes très variées.
+103000,redtext,empty,True,+
+103350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+111000,redtext,empty,True,+
+111350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+119000,text,empty,True,+
+127000,redtext,empty,True,+
+127350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+135000,sound,bip,True,bip_court.wav
+135350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+143000,sound,bip,True,bip_court.wav
+143350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+151000,sound,bip,True,bip_court.wav
+151350,sound,control,false,89_control_10_false_vide_auxlesaussitot.wav
+159000,text,empty,True,+
+165000,sound,bip,True,bip_court.wav
+165350,sound,arithfact,true,107_arithfact_07_true_vide_deuxfoisvingtquatre.wav
+173000,redtext,empty,True,+
+173350,rsvp,arithprin,true,Tous les nombres entiers sont divisibles par un.
+181000,redtext,empty,True,+
+181350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+189000,redtext,empty,True,+
+189350,rsvp,arithprin,true,Un nombre multiplié par un est égal à lui même.
+197000,sound,bip,True,bip_court.wav
+197350,sound,colorlessg,false,33_colorlessg_02_false_vide_grimace.wav
+205000,sound,bip,True,bip_court.wav
+205350,sound,tom,false,29_tom_21_false_vrai_mozart.wav
+213000,redtext,empty,True,+
+213350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+221000,text,empty,True,+
+229000,sound,bip,True,bip_court.wav
+229350,sound,general,false,240_general_39_false_vide_auroresboreales.wav
+237000,redtext,empty,True,+
+237350,rsvp,general,false,L'hiver est la saison la plus chaude de l'année.
+245000,sound,bip,True,bip_court.wav
+245350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+253000,sound,bip,True,bip_court.wav
+253350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+261000,redtext,empty,True,+
+261350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+269000,redtext,empty,True,+
+269350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+277000,sound,bip,True,bip_court.wav
+277350,sound,arithprin,true,14_arithprin_06_true_vide_nombrepositif.wav
+285000,redtext,empty,True,+
+285350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+293000,sound,bip,True,bip_court.wav
+293350,sound,arithfact,false,285_arithfact_31_false_vide_deuxfoissoixantedix.wav
+301000,text,empty,True,+
+308000,redtext,empty,True,+
+308350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+316000,sound,bip,True,bip_court.wav
+316350,sound,colorlessg,false,209_colorlessg_29_false_vide_lelapindemal.wav
+324000,sound,bip,True,bip_court.wav
+324350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+332000,sound,bip,True,bip_court.wav
+332350,sound,context,true,45_context_11_true_faux_londres.wav
+340000,sound,bip,True,bip_court.wav
+340350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+348000,sound,bip,True,bip_court.wav
+348350,sound,tom,true,15_tom_16_true_faux_creationistes.wav
+356000,redtext,empty,True,+
+356350,rsvp,arithprin,false,Tout nombre réel peut être écrit comme une fraction.
+364000,redtext,empty,True,+
+364350,rsvp,arithprin,false,Un nombre multiplié par un est égal à zéro.
+372000,text,empty,True,+
+379000,redtext,empty,True,+
+379350,rsvp,colorlessg,false,Le drapeau est une vieille analyse à froid de façon.
+387000,sound,bip,True,bip_court.wav
+387350,sound,colorlessg,false,84_colorlessg_35_false_vide_lecostume.wav
+395000,redtext,empty,True,+
+395350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+403000,sound,bip,True,bip_court.wav
+403350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+411000,redtext,empty,True,+
+411350,rsvp,control,false,Aux les qui duquel les sont que selon ce le dans.
+419000,redtext,empty,True,+
+419350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+427000,sound,bip,True,bip_court.wav
+427350,sound,arithprin,false,150_arithprin_32_false_vide_produitnombresnegatifs.wav
+435000,redtext,empty,True,+
+435350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+443000,text,empty,True,+
+451000,redtext,empty,True,+
+451350,rsvp,colorlessg,false,On tue un astre en le grossissant avec des convictions.
+459000,redtext,empty,True,+
+459350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+467000,sound,bip,True,bip_court.wav
+467350,sound,context,true,191_context_01_true_vrai_apekin.wav
+475000,sound,bip,True,bip_court.wav
+475350,sound,control,false,17_control_20_false_vide_etresont.wav
+483000,sound,bip,True,bip_court.wav
+483350,sound,context,false,226_context_21_false_vrai_eninde.wav
+491000,redtext,empty,True,+
+491350,rsvp,context,false,En Bretagne la température atteint souvent des sommets.
+499000,redtext,empty,True,+
+499350,rsvp,colorlessg,false,Le colis de l'ombre matérielle est toujours gratuit.
+507000,redtext,empty,True,+
+507350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+515000,sound,bip,True,bip_court.wav
+515350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+523000,sound,bip,True,bip_court.wav
+523350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+531000,redtext,empty,True,+
+531350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+539000,sound,bip,True,bip_court.wav
+539350,sound,geomfact,false,114_geomfact_33_false_vide_cotesdunlosange.wav
+547000,redtext,empty,True,+
+547350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+555000,sound,bip,True,bip_court.wav
+555350,sound,control,false,166_control_28_false_vide_voiliertigres.wav
+563000,redtext,empty,True,+
+563350,rsvp,tom,false,Pour Céline Dion jouer de la musique est un hobby.
+571000,text,empty,True,+

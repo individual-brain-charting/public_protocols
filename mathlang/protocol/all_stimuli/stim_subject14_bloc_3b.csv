@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+10000,sound,bip,True,bip_court.wav
+10350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithfact,true,8_arithfact_02_true_vide_soixantedixneuf.wav
+26000,redtext,empty,True,+
+26350,rsvp,control,false,Être sont toute le une les quand qui sur afin très et.
+34000,redtext,empty,True,+
+34350,rsvp,arithprin,false,Le résultat d'une soustraction est toujours négatif.
+42000,sound,bip,True,bip_court.wav
+42350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,context,true,317_context_16_true_faux_aujapon.wav
+58000,text,empty,True,+
+62000,sound,bip,True,bip_court.wav
+62350,sound,context,false,212_context_37_false_faux_surmars.wav
+70000,redtext,empty,True,+
+70350,rsvp,general,true,Février est le mois de l'année le plus court.
+78000,redtext,empty,True,+
+78350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+86000,redtext,empty,True,+
+86350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+94000,redtext,empty,True,+
+94350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+102000,sound,bip,True,bip_court.wav
+102350,sound,geomfact,false,241_geomfact_32_false_vide_unrectanglenecomprend.wav
+110000,text,empty,True,+
+116000,sound,bip,True,bip_court.wav
+116350,sound,colorlessg,false,156_colorlessg_38_false_vide_pitiedebitee.wav
+124000,sound,bip,True,bip_court.wav
+124350,sound,arithprin,false,269_arithprin_25_false_vide_nombremultiplieparzero.wav
+132000,sound,bip,True,bip_court.wav
+132350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+140000,redtext,empty,True,+
+140350,rsvp,colorlessg,false,Le costume d'un melon est le frère de son gazon.
+148000,sound,bip,True,bip_court.wav
+148350,sound,colorlessg,false,33_colorlessg_02_false_vide_grimace.wav
+156000,text,empty,True,+
+161000,redtext,empty,True,+
+161350,rsvp,control,false,Chaque dès duquel de en tous eux mais ou ont celle.
+169000,redtext,empty,True,+
+169350,rsvp,colorlessg,false,Toute base jeune peut être chère à une girafe.
+177000,redtext,empty,True,+
+177350,rsvp,geomfact,false,Un triangle est une figure dont tous les côtés sont égaux.
+185000,sound,bip,True,bip_court.wav
+185350,sound,control,false,48_control_31_false_vide_periodehistoire.wav
+193000,sound,bip,True,bip_court.wav
+193350,sound,geomfact,true,70_geomfact_13_true_vide_diagonalecarre.wav
+201000,redtext,empty,True,+
+201350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+209000,sound,bip,True,bip_court.wav
+209350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+217000,redtext,empty,True,+
+217350,rsvp,tom,true,Selon Darwin l’homme est le cousin des singes.
+225000,text,empty,True,+
+230000,redtext,empty,True,+
+230350,rsvp,tom,false,Selon les physiciens les atomes sont des particules gigantesques.
+238000,sound,bip,True,bip_court.wav
+238350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+246000,sound,bip,True,bip_court.wav
+246350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+254000,sound,bip,True,bip_court.wav
+254350,sound,context,false,235_context_29_false_vrai_encoreedunord.wav
+262000,redtext,empty,True,+
+262350,rsvp,tom,true,Pour les indiens d'Amérique les armes à feu sont magiques.
+270000,sound,bip,True,bip_court.wav
+270350,sound,general,true,176_general_19_true_vide_lecorpshumain.wav
+278000,redtext,empty,True,+
+278350,rsvp,arithfact,true,Le résultat de la multiplication de six par dix est soixante.
+286000,redtext,empty,True,+
+286350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+294000,redtext,empty,True,+
+294350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+302000,text,empty,True,+
+310000,sound,bip,True,bip_court.wav
+310350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+318000,redtext,empty,True,+
+318350,rsvp,arithprin,false,Le résultat d'une addition est toujours positif.
+326000,sound,bip,True,bip_court.wav
+326350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+334000,sound,bip,True,bip_court.wav
+334350,sound,arithfact,false,253_arithfact_38_false_vide_resultatdivision.wav
+342000,redtext,empty,True,+
+342350,rsvp,general,false,La Terre tourne sur elle même en un mois.
+350000,redtext,empty,True,+
+350350,rsvp,context,false,En Afrique du Sud le diamant est une pierre sans valeur.
+358000,text,empty,True,+
+366000,sound,bip,True,bip_court.wav
+366350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+374000,redtext,empty,True,+
+374350,rsvp,arithprin,true,Un nombre entier est divisible par un et par lui même.
+382000,redtext,empty,True,+
+382350,rsvp,arithfact,true,L'addition de dix huit et trois fait vingt et un.
+390000,redtext,empty,True,+
+390350,rsvp,context,true,A New York les immeubles sont de hauts bâtiments modernes.
+398000,redtext,empty,True,+
+398350,rsvp,general,false,Jupiter est la plus petite planète du système solaire.
+406000,redtext,empty,True,+
+406350,rsvp,control,false,Aux les qui duquel les sont que selon ce le dans.
+414000,sound,bip,True,bip_court.wav
+414350,sound,colorlessg,false,57_colorlessg_04_false_vide_selonlebois.wav
+422000,sound,bip,True,bip_court.wav
+422350,sound,arithprin,false,55_arithprin_26_false_vide_nombremultiplieparun.wav
+430000,redtext,empty,True,+
+430350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+438000,text,empty,True,+
+442000,redtext,empty,True,+
+442350,rsvp,general,true,Une encyclopédie permet de diffuser le savoir à de nombreux lecteurs.
+450000,sound,bip,True,bip_court.wav
+450350,sound,tom,true,133_tom_12_true_faux_selonlepape.wav
+458000,sound,bip,True,bip_court.wav
+458350,sound,control,false,58_control_13_false_vide_plusensuite.wav
+466000,redtext,empty,True,+
+466350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+474000,text,empty,True,+
+482000,redtext,empty,True,+
+482350,rsvp,tom,false,Pour Céline Dion jouer de la musique est un hobby.
+490000,sound,bip,True,bip_court.wav
+490350,sound,general,false,52_general_31_false_vide_veau.wav
+498000,redtext,empty,True,+
+498350,rsvp,geomfact,true,Le périmètre d'un carré est la somme des longueurs des côtés.
+506000,sound,bip,True,bip_court.wav
+506350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+514000,redtext,empty,True,+
+514350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+522000,sound,bip,True,bip_court.wav
+522350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+530000,sound,bip,True,bip_court.wav
+530350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+538000,sound,bip,True,bip_court.wav
+538350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+546000,sound,bip,True,bip_court.wav
+546350,sound,general,false,31_general_33_false_vide_lapleinelune.wav
+554000,sound,bip,True,bip_court.wav
+554350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+562000,text,empty,True,+

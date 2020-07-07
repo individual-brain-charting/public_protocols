@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+10000,redtext,empty,True,+
+10350,rsvp,control,false,Douceur poisson cannelle grimace pôle mire mer.
+18000,sound,bip,True,bip_court.wav
+18350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+26000,sound,bip,True,bip_court.wav
+26350,sound,colorlessg,false,196_colorlessg_22_false_vide_lecolisdelombre.wav
+34000,sound,bip,True,bip_court.wav
+34350,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,context,true,78_context_13_true_faux_ilesvolcaniques.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,general,true,170_general_18_true_vide_calendriergregorien.wav
+58000,text,empty,True,+
+66000,sound,bip,True,bip_court.wav
+66350,sound,geomfact,false,155_geomfact_40_false_vide_unangledroit.wav
+74000,sound,bip,True,bip_court.wav
+74350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+82000,sound,bip,True,bip_court.wav
+82350,sound,tom,false,32_tom_23_false_vrai_julesverne.wav
+90000,redtext,empty,True,+
+90350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+98000,redtext,empty,True,+
+98350,rsvp,arithfact,true,Un quart du nombre cent vaut vingt cinq. 
+106000,text,empty,True,+
+110000,redtext,empty,True,+
+110350,rsvp,tom,false,Pour Mozart la batterie donne le rythme de la musique.
+118000,sound,bip,True,bip_court.wav
+118350,sound,arithfact,false,35_arithfact_22_false_vide_vingtdeux.wav
+126000,sound,bip,True,bip_court.wav
+126350,sound,arithfact,true,185_arithfact_06_true_vide_nombretroismultiplie.wav
+134000,sound,bip,True,bip_court.wav
+134350,sound,arithfact,false,71_arithfact_35_false_vide_dixmille.wav
+142000,sound,bip,True,bip_court.wav
+142350,sound,context,false,126_context_24_false_vrai_burundi.wav
+150000,redtext,empty,True,+
+150350,rsvp,general,false,Les dinosaures sont des mammifères qui ont disparu.
+158000,redtext,empty,True,+
+158350,rsvp,colorlessg,false,Les attributions abstraites se plient près de l'idéal.
+166000,redtext,empty,True,+
+166350,rsvp,general,false,Le Vietnam est appelé le pays du soleil levant.
+174000,text,empty,True,+
+179000,redtext,empty,True,+
+179350,rsvp,arithfact,false,Sept fois sept est plus grand que le chiffre cinquante quatre.
+187000,redtext,empty,True,+
+187350,rsvp,arithprin,false,L'ordre selon lequel on divise des nombres est sans importance.
+195000,sound,bip,True,bip_court.wav
+195350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+203000,redtext,empty,True,+
+203350,rsvp,control,false,D'après où dans ils les d'une toute cependant et sans.
+211000,sound,bip,True,bip_court.wav
+211350,sound,general,false,83_general_40_false_vide_laterre.wav
+219000,sound,bip,True,bip_court.wav
+219350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+227000,sound,bip,True,bip_court.wav
+227350,sound,arithfact,true,8_arithfact_02_true_vide_soixantedixneuf.wav
+235000,sound,bip,True,bip_court.wav
+235350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+243000,sound,bip,True,bip_court.wav
+243350,sound,control,false,264_control_19_false_vide_cependantaauquel.wav
+251000,redtext,empty,True,+
+251350,rsvp,colorlessg,false,Le pompier d'ailes se brise lentement sur les chiens.
+259000,sound,bip,True,bip_court.wav
+259350,sound,geomfact,false,134_geomfact_26_false_vide_deslignes.wav
+267000,text,empty,True,+
+271000,sound,bip,True,bip_court.wav
+271350,sound,arithprin,false,63_arithprin_33_false_vide_tousnombresnegatifs.wav
+279000,redtext,empty,True,+
+279350,rsvp,tom,true,Selon Nelson Mandela l'apartheid est un système raciste.
+287000,redtext,empty,True,+
+287350,rsvp,arithprin,false,Une somme de fractions est toujours un nombre entier.
+295000,redtext,empty,True,+
+295350,rsvp,geomfact,false,Les points d'un carré sont à égale distance de son centre.
+303000,sound,bip,True,bip_court.wav
+303350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+311000,redtext,empty,True,+
+311350,rsvp,general,true,La mitose est le processus par lequel les cellules se divisent.
+319000,sound,bip,True,bip_court.wav
+319350,sound,colorlessg,false,20_colorlessg_17_false_vide_intermediaire.wav
+327000,redtext,empty,True,+
+327350,rsvp,colorlessg,false,L’espoir d’oignon lisse et brun fait joli et gras.
+335000,text,empty,True,+
+340000,redtext,empty,True,+
+340350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+348000,redtext,empty,True,+
+348350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+356000,text,empty,True,+
+363000,sound,bip,True,bip_court.wav
+363350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+371000,redtext,empty,True,+
+371350,rsvp,context,false,Au Vatican le pape est une personne comme les autres.
+379000,text,empty,True,+
+387000,sound,bip,True,bip_court.wav
+387350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+395000,sound,bip,True,bip_court.wav
+395350,sound,context,false,130_context_38_false_faux_kenya.wav
+403000,redtext,empty,True,+
+403350,rsvp,context,true,A Londres les voitures roulent à gauche de la chaussée.
+411000,sound,bip,True,bip_court.wav
+411350,sound,tom,true,291_tom_17_true_faux_pourmowgli.wav
+419000,sound,bip,True,bip_court.wav
+419350,sound,arithprin,true,190_arithprin_10_true_vide_ordredaddition.wav
+427000,redtext,empty,True,+
+427350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+435000,redtext,empty,True,+
+435350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+443000,redtext,empty,True,+
+443350,rsvp,tom,true,Selon le pape la mort est le début d'une vie éternelle.
+451000,redtext,empty,True,+
+451350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+459000,redtext,empty,True,+
+459350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+467000,redtext,empty,True,+
+467350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+475000,text,empty,True,+
+483000,redtext,empty,True,+
+483350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+491000,sound,bip,True,bip_court.wav
+491350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+499000,redtext,empty,True,+
+499350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+507000,redtext,empty,True,+
+507350,rsvp,arithprin,true,Un nombre positif est plus grand qu'un nombre négatif.
+515000,redtext,empty,True,+
+515350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+523000,sound,bip,True,bip_court.wav
+523350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+531000,redtext,empty,True,+
+531350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+539000,sound,bip,True,bip_court.wav
+539350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+547000,sound,bip,True,bip_court.wav
+547350,sound,control,false,272_control_24_false_vide_poilechoisis.wav
+555000,sound,bip,True,bip_court.wav
+555350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+563000,text,empty,True,+

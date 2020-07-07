@@ -1,0 +1,137 @@
+2000,sound,bip,True,bip_court.wav
+2350,sound,colorlessg,false,79_colorlessg_28_false_vide_lepompier.wav
+10000,sound,bip,True,bip_court.wav
+10350,sound,arithprin,false,113_arithprin_36_false_vide_ondouble.wav
+18000,redtext,empty,True,+
+18350,rsvp,arithfact,false,Le nombre dix neuf est compris entre un et dix sept.
+26000,redtext,empty,True,+
+26350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+34000,redtext,empty,True,+
+34350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+42000,sound,bip,True,bip_court.wav
+42350,sound,context,true,245_context_14_true_faux_mythologieegyptienne.wav
+50000,redtext,empty,True,+
+50350,rsvp,geomfact,true,Un carré possède des axes de symétrie.
+58000,sound,bip,True,bip_court.wav
+58350,sound,control,false,82_control_17_false_vide_onquetoute.wav
+66000,redtext,empty,True,+
+66350,rsvp,general,false,Le veau est le petit de la chèvre.
+74000,text,empty,True,+
+81000,sound,bip,True,bip_court.wav
+81350,sound,arithprin,false,100_arithprin_28_false_vide_resultatsoustraction.wav
+89000,redtext,empty,True,+
+89350,rsvp,arithprin,false,Une somme de nombres négatifs peut être positive.
+97000,sound,bip,True,bip_court.wav
+97350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+105000,redtext,empty,True,+
+105350,rsvp,tom,false,D'après les humoristes rire est mauvais pour la santé.
+113000,sound,bip,True,bip_court.wav
+113350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+121000,redtext,empty,True,+
+121350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+129000,redtext,empty,True,+
+129350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+137000,sound,bip,True,bip_court.wav
+137350,sound,general,false,233_general_35_false_vide_forcedegravitation.wav
+145000,text,empty,True,+
+150000,redtext,empty,True,+
+150350,rsvp,general,true,Les flocons de neige ont des formes très variées.
+158000,redtext,empty,True,+
+158350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+166000,sound,bip,True,bip_court.wav
+166350,sound,geomfact,false,42_geomfact_37_false_vide_lignesperpend.wav
+174000,redtext,empty,True,+
+174350,rsvp,context,true,Au Japon manger bruyamment est une forme de politesse.
+182000,redtext,empty,True,+
+182350,rsvp,arithprin,true,La multiplication est le contraire de la division.
+190000,redtext,empty,True,+
+190350,rsvp,tom,false,Pour Johnny Hallyday chanter est un hobby.
+198000,sound,bip,True,bip_court.wav
+198350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+206000,redtext,empty,True,+
+206350,rsvp,general,true,Les arbres perdent leurs feuilles au moment de l'automne.
+214000,sound,bip,True,bip_court.wav
+214350,sound,arithfact,false,199_arithfact_33_false_vide_quatrevingtcinq.wav
+222000,redtext,empty,True,+
+222350,rsvp,arithprin,false,Tous les nombres négatifs sont des nombres impairs.
+230000,text,empty,True,+
+237000,sound,bip,True,bip_court.wav
+237350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+245000,sound,bip,True,bip_court.wav
+245350,sound,general,false,262_general_37_false_vide_phrasesfrancaises.wav
+253000,redtext,empty,True,+
+253350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+261000,sound,bip,True,bip_court.wav
+261350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+269000,redtext,empty,True,+
+269350,rsvp,colorlessg,false,Selon le bois la plume est le choix des disques saisonniers.
+277000,sound,bip,True,bip_court.wav
+277350,sound,geomfact,false,167_geomfact_35_false_vide_untrianglepeut.wav
+285000,sound,bip,True,bip_court.wav
+285350,sound,arithprin,true,80_arithprin_19_true_vide_unnombrenegatif.wav
+293000,sound,bip,True,bip_court.wav
+293350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+301000,sound,bip,True,bip_court.wav
+301350,sound,colorlessg,false,72_colorlessg_24_false_vide_untrainauquel.wav
+309000,redtext,empty,True,+
+309350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+317000,sound,bip,True,bip_court.wav
+317350,sound,colorlessg,false,187_colorlessg_15_false_vide_lesvieuxsont.wav
+325000,text,empty,True,+
+329000,redtext,empty,True,+
+329350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+337000,text,empty,True,+
+341000,sound,bip,True,bip_court.wav
+341350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+349000,sound,bip,True,bip_court.wav
+349350,sound,tom,true,168_tom_13_true_faux_selonchretiens.wav
+357000,sound,bip,True,bip_court.wav
+357350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+365000,text,empty,True,+
+369000,redtext,empty,True,+
+369350,rsvp,context,true,A Pékin la pollution est un problème majeur.
+377000,sound,bip,True,bip_court.wav
+377350,sound,arithfact,true,67_arithfact_14_true_vide_additiondixhuit.wav
+385000,redtext,empty,True,+
+385350,rsvp,geomfact,false,Un losange peut se diviser en carrés.
+393000,sound,bip,True,bip_court.wav
+393350,sound,tom,true,105_tom_10_true_vrai_greenpeace.wav
+401000,redtext,empty,True,+
+401350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+409000,sound,bip,True,bip_court.wav
+409350,sound,tom,false,66_tom_38_false_faux_dapresmereteresa.wav
+417000,text,empty,True,+
+425000,redtext,empty,True,+
+425350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+433000,sound,bip,True,bip_court.wav
+433350,sound,context,false,282_context_28_false_vrai_metroparisien.wav
+441000,sound,bip,True,bip_court.wav
+441350,sound,control,false,206_control_36_false_vide_histoirejours.wav
+449000,sound,bip,True,bip_court.wav
+449350,sound,general,true,268_general_13_true_vide_latragedieclassique.wav
+457000,text,empty,True,+
+461000,redtext,empty,True,+
+461350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+469000,sound,bip,True,bip_court.wav
+469350,sound,control,false,23_control_09_false_vide_chaquedes.wav
+477000,redtext,empty,True,+
+477350,rsvp,arithfact,false,Trente cinq moins six fait cent soixante dix neuf.
+485000,redtext,empty,True,+
+485350,rsvp,control,false,Soif échapper concombre vite verre souterrain petit.
+493000,sound,bip,True,bip_court.wav
+493350,sound,arithfact,true,318_arithfact_09_true_vide_quarantecinqest.wav
+501000,sound,bip,True,bip_court.wav
+501350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+509000,redtext,empty,True,+
+509350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+517000,redtext,empty,True,+
+517350,rsvp,colorlessg,false,En vérité tous les gouvernements doivent retrouver à l'année.
+525000,sound,bip,True,bip_court.wav
+525350,sound,arithprin,true,106_arithprin_05_true_vide_soustractioncontraire.wav
+533000,redtext,empty,True,+
+533350,rsvp,colorlessg,false,Pour les lions la voile est une bouteille pensive.
+541000,redtext,empty,True,+
+541350,rsvp,context,false,A Paris la Voie Lactée est souvent visible la nuit.
+549000,redtext,empty,True,+
+549350,rsvp,arithfact,true,La division de seize par quatre est égale à quatre.
+557000,text,empty,True,+

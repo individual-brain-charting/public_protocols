@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,general,false,Le petit de la vache s'appelle un poulain.
+10000,sound,bip,True,bip_court.wav
+10350,sound,control,false,322_control_11_false_vide_selonalors.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,general,true,124_general_17_true_vide_fevrier.wav
+26000,text,empty,True,+
+33000,redtext,empty,True,+
+33350,rsvp,arithfact,false,Le nombre soixante quatorze est plus grand que cent.
+41000,sound,bip,True,bip_court.wav
+41350,sound,control,false,297_control_12_false_vide_auxlesquiduquel.wav
+49000,sound,bip,True,bip_court.wav
+49350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+57000,sound,bip,True,bip_court.wav
+57350,sound,general,true,34_general_01_true_vide_chameau.wav
+65000,redtext,empty,True,+
+65350,rsvp,arithfact,false,Vingt deux est le carré du chiffre dix sept.
+73000,sound,bip,True,bip_court.wav
+73350,sound,colorlessg,false,257_colorlessg_30_false_vide_unboldepain.wav
+81000,text,empty,True,+
+86000,redtext,empty,True,+
+86350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+94000,redtext,empty,True,+
+94350,rsvp,arithprin,false,Le résultat d'une soustraction est toujours négatif.
+102000,redtext,empty,True,+
+102350,rsvp,arithfact,true,Soustraire trois du nombre vingt donne dix sept.
+110000,sound,bip,True,bip_court.wav
+110350,sound,context,true,64_context_12_true_faux_selonlabible.wav
+118000,sound,bip,True,bip_court.wav
+118350,sound,context,false,251_context_27_false_vrai_parisvoielactee.wav
+126000,redtext,empty,True,+
+126350,rsvp,general,true,La baleine est un énorme mammifère qui vit en mer.
+134000,text,empty,True,+
+138000,sound,bip,True,bip_court.wav
+138350,sound,general,false,83_general_40_false_vide_laterre.wav
+146000,redtext,empty,True,+
+146350,rsvp,tom,false,Pour Napoléon Austerlitz est le nom d'une gare.
+154000,redtext,empty,True,+
+154350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+162000,sound,bip,True,bip_court.wav
+162350,sound,general,false,286_general_38_false_vide_levietnam.wav
+170000,redtext,empty,True,+
+170350,rsvp,tom,true,D'après Galilée la terre a la forme d'une sphère.
+178000,redtext,empty,True,+
+178350,rsvp,geomfact,true,Les faces d'un cube sont des carrés.
+186000,redtext,empty,True,+
+186350,rsvp,context,true,Dans la mer les mammifères ont des nageoires et un évent.
+194000,sound,bip,True,bip_court.wav
+194350,sound,colorlessg,false,169_colorlessg_21_false_vide_toutepriere.wav
+202000,text,empty,True,+
+206000,redtext,empty,True,+
+206350,rsvp,arithprin,true,L'ordre de multiplication des nombres est sans importance.
+214000,redtext,empty,True,+
+214350,rsvp,control,false,Pigmées boeuf lac anticipe bouchon gazon chemise.
+222000,sound,bip,True,bip_court.wav
+222350,sound,context,true,227_context_03_true_vrai_enfrance.wav
+230000,sound,bip,True,bip_court.wav
+230350,sound,arithfact,false,315_arithfact_23_false_vide_dixseptestlaracine.wav
+238000,sound,bip,True,bip_court.wav
+238350,sound,geomfact,true,103_geomfact_19_true_vide_carrerectangle.wav
+246000,sound,bip,True,bip_court.wav
+246350,sound,arithfact,false,288_arithfact_40_false_vide_septfoissept.wav
+254000,redtext,empty,True,+
+254350,rsvp,context,true,Aux Antilles les restaurants servent souvent du poisson frais.
+262000,redtext,empty,True,+
+262350,rsvp,arithprin,true,Un nombre négatif fois un nombre négatif donne un nombre positif.
+270000,text,empty,True,+
+277000,redtext,empty,True,+
+277350,rsvp,tom,true,Pour les grecs le mont Olympe est une montagne sacrée.
+285000,sound,bip,True,bip_court.wav
+285350,sound,geomfact,false,225_geomfact_36_false_vide_untriangleaplus.wav
+293000,sound,bip,True,bip_court.wav
+293350,sound,arithprin,false,275_arithprin_27_false_vide_leresultatduneaddition.wav
+301000,sound,bip,True,bip_court.wav
+301350,sound,colorlessg,false,276_colorlessg_13_false_vide_chiensimperceptibles.wav
+309000,sound,bip,True,bip_court.wav
+309350,sound,arithfact,true,183_arithfact_19_true_vide_quarantedeuxmoins.wav
+317000,text,empty,True,+
+324000,sound,bip,True,bip_court.wav
+324350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+332000,redtext,empty,True,+
+332350,rsvp,arithprin,false,L'ordre de soustraction des nombres est sans importance.
+340000,redtext,empty,True,+
+340350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+348000,sound,bip,True,bip_court.wav
+348350,sound,tom,true,94_tom_01_true_vrai_darwin.wav
+356000,sound,bip,True,bip_court.wav
+356350,sound,geomfact,true,173_geomfact_04_true_vide_lesangles.wav
+364000,text,empty,True,+
+370000,redtext,empty,True,+
+370350,rsvp,control,false,Poile choisis forêt vertes saison canapé doivent.
+378000,sound,bip,True,bip_court.wav
+378350,sound,geomfact,false,319_geomfact_30_false_vide_untriangleestunefigure.wav
+386000,sound,bip,True,bip_court.wav
+386350,sound,arithfact,true,141_arithfact_18_true_vide_doubledeneuf.wav
+394000,redtext,empty,True,+
+394350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+402000,sound,bip,True,bip_court.wav
+402350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+410000,sound,bip,True,bip_court.wav
+410350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+418000,redtext,empty,True,+
+418350,rsvp,geomfact,true,Un triangle équilatéral se divise en deux triangles rectangles.
+426000,redtext,empty,True,+
+426350,rsvp,control,false,Histoire jours frère société café armée saint états.
+434000,redtext,empty,True,+
+434350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+442000,sound,bip,True,bip_court.wav
+442350,sound,colorlessg,false,20_colorlessg_17_false_vide_intermediaire.wav
+450000,redtext,empty,True,+
+450350,rsvp,general,false,Les phrases françaises se lisent de la droite vers la gauche.
+458000,text,empty,True,+
+462000,redtext,empty,True,+
+462350,rsvp,tom,false,Selon Gandhi la violence résout tous les problèmes.
+470000,sound,bip,True,bip_court.wav
+470350,sound,arithprin,true,218_arithprin_14_true_vide_unnombreentier.wav
+478000,redtext,empty,True,+
+478350,rsvp,colorlessg,false,L'artiste est l'album inévitable le plus fou de circonstances.
+486000,redtext,empty,True,+
+486350,rsvp,colorlessg,false,La décoration se déduit grâce à l'espoir moléculaire.
+494000,sound,bip,True,bip_court.wav
+494350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+502000,sound,bip,True,bip_court.wav
+502350,sound,control,false,87_control_25_false_vide_tournerdecide.wav
+510000,sound,bip,True,bip_court.wav
+510350,sound,tom,false,132_tom_30_false_vrai_celinedion.wav
+518000,redtext,empty,True,+
+518350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+526000,redtext,empty,True,+
+526350,rsvp,geomfact,false,Des figures de même périmètre ont la même surface.
+534000,redtext,empty,True,+
+534350,rsvp,geomfact,false,Plus un triangle est grand
+542000,sound,bip,True,bip_court.wav
+542350,sound,arithprin,false,246_arithprin_37_false_vide_toutnombrereel.wav
+550000,redtext,empty,True,+
+550350,rsvp,colorlessg,false,Tous les cafés appris sont des moments bavardes.
+558000,text,empty,True,+

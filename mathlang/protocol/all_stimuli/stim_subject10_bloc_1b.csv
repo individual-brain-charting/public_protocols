@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+10000,sound,bip,True,bip_court.wav
+10350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+26000,redtext,empty,True,+
+26350,rsvp,context,false,En Allemagne les automobilistes roulent à gauche.
+34000,sound,bip,True,bip_court.wav
+34350,sound,context,true,18_context_19_true_faux_irlande.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,colorlessg,false,316_colorlessg_23_false_vide_touslescafes.wav
+50000,sound,bip,True,bip_court.wav
+50350,sound,geomfact,true,248_geomfact_02_true_vide_cotesduntriangle.wav
+58000,redtext,empty,True,+
+58350,rsvp,tom,true,Pour Marie Antoinette la monarchie est le meilleur régime politique.
+66000,redtext,empty,True,+
+66350,rsvp,arithfact,false,Le résultat de vingt trois fois deux est le chiffre neuf.
+74000,redtext,empty,True,+
+74350,rsvp,colorlessg,false,La sensation est un allumeur qui mange la douleur.
+82000,redtext,empty,True,+
+82350,rsvp,control,false,Nombre voie assemblée parfois épaules peinture avions.
+90000,text,empty,True,+
+97000,sound,bip,True,bip_court.wav
+97350,sound,arithfact,true,223_arithfact_20_true_vide_lenombredouze.wav
+105000,sound,bip,True,bip_court.wav
+105350,sound,arithprin,false,63_arithprin_33_false_vide_tousnombresnegatifs.wav
+113000,redtext,empty,True,+
+113350,rsvp,geomfact,false,Un rectangle ne comprend que des angles aigus.
+121000,redtext,empty,True,+
+121350,rsvp,tom,true,Selon les vulcanologues l'Etna est toujours en activité.
+129000,redtext,empty,True,+
+129350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+137000,text,empty,True,+
+143000,redtext,empty,True,+
+143350,rsvp,arithprin,false,Un nombre multiplié par zéro est égal à lui même.
+151000,sound,bip,True,bip_court.wav
+151350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+159000,sound,bip,True,bip_court.wav
+159350,sound,tom,true,81_tom_15_true_faux_ronaldo.wav
+167000,sound,bip,True,bip_court.wav
+167350,sound,context,false,126_context_24_false_vrai_burundi.wav
+175000,text,empty,True,+
+179000,sound,bip,True,bip_court.wav
+179350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+187000,sound,bip,True,bip_court.wav
+187350,sound,general,true,111_general_20_true_vide_mitose.wav
+195000,redtext,empty,True,+
+195350,rsvp,colorlessg,false,Selon la voiture l'amitié a été pliée sur cette application.
+203000,sound,bip,True,bip_court.wav
+203350,sound,general,false,259_general_36_false_vide_planeteterre.wav
+211000,redtext,empty,True,+
+211350,rsvp,context,false,En Corée du Nord les gens sont libres de s'exprimer.
+219000,sound,bip,True,bip_court.wav
+219350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+227000,text,empty,True,+
+235000,redtext,empty,True,+
+235350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+243000,redtext,empty,True,+
+243350,rsvp,arithfact,true,Le résultat de soixante dix neuf moins cinq est soixante quatorze.
+251000,redtext,empty,True,+
+251350,rsvp,tom,false,Pour Johnny Hallyday chanter est un hobby.
+259000,sound,bip,True,bip_court.wav
+259350,sound,general,true,122_general_15_true_vide_arbresperdent.wav
+267000,text,empty,True,+
+273000,redtext,empty,True,+
+273350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+281000,sound,bip,True,bip_court.wav
+281350,sound,colorlessg,false,205_colorlessg_09_false_vide_achaquemontagne.wav
+289000,sound,bip,True,bip_court.wav
+289350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+297000,redtext,empty,True,+
+297350,rsvp,geomfact,true,Un carré est une figure dont tous les côtés sont égaux.
+305000,sound,bip,True,bip_court.wav
+305350,sound,geomfact,true,128_geomfact_06_true_vide_pointtraverse.wav
+313000,redtext,empty,True,+
+313350,rsvp,control,false,Le selon la est des néanmoins le avec pour très chaque.
+321000,sound,bip,True,bip_court.wav
+321350,sound,general,false,52_general_31_false_vide_veau.wav
+329000,sound,bip,True,bip_court.wav
+329350,sound,arithprin,false,10_arithprin_23_false_vide_carreimpair.wav
+337000,text,empty,True,+
+343000,redtext,empty,True,+
+343350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+351000,sound,bip,True,bip_court.wav
+351350,sound,colorlessg,false,208_colorlessg_37_false_vide_leslivresfondus.wav
+359000,redtext,empty,True,+
+359350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+367000,sound,bip,True,bip_court.wav
+367350,sound,arithprin,true,93_arithprin_16_true_vide_multiplication.wav
+375000,sound,bip,True,bip_court.wav
+375350,sound,control,false,230_control_34_false_vide_membresinterieur.wav
+383000,redtext,empty,True,+
+383350,rsvp,arithfact,false,La multiplication de quatre par trois donne dix.
+391000,redtext,empty,True,+
+391350,rsvp,colorlessg,false,La solution de bureaux des heures est banale à finir.
+399000,redtext,empty,True,+
+399350,rsvp,control,false,Plus ensuite est de comme d'un les se d'après or celle toutefois.
+407000,redtext,empty,True,+
+407350,rsvp,geomfact,false,Un triangle a plus d'angles qu'un carré.
+415000,text,empty,True,+
+420000,redtext,empty,True,+
+420350,rsvp,colorlessg,false,L'intermédiaire de l'armée d'oxygène est doublé d'un programme véritable.
+428000,redtext,empty,True,+
+428350,rsvp,tom,false,Pour Einstein la bombe atomique est un objet sans danger.
+436000,sound,bip,True,bip_court.wav
+436350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+444000,sound,bip,True,bip_court.wav
+444350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+452000,redtext,empty,True,+
+452350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+460000,redtext,empty,True,+
+460350,rsvp,general,false,L'écureuil est l'animal terrestre le plus grand d'Amérique.
+468000,text,empty,True,+
+475000,sound,bip,True,bip_court.wav
+475350,sound,context,true,157_context_04_true_vrai_anewyork.wav
+483000,redtext,empty,True,+
+483350,rsvp,arithprin,true,L'ordre d'addition des nombres est sans importance.
+491000,sound,bip,True,bip_court.wav
+491350,sound,tom,false,28_tom_31_false_faux_zidane.wav
+499000,sound,bip,True,bip_court.wav
+499350,sound,context,false,207_context_39_false_faux_enindedinar.wav
+507000,sound,bip,True,bip_court.wav
+507350,sound,control,false,154_control_26_false_vide_soifechapper.wav
+515000,sound,bip,True,bip_court.wav
+515350,sound,control,false,228_control_16_false_vide_laapresestde.wav
+523000,redtext,empty,True,+
+523350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+531000,redtext,empty,True,+
+531350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+539000,sound,bip,True,bip_court.wav
+539350,sound,tom,false,61_tom_28_false_vrai_asterix.wav
+547000,sound,bip,True,bip_court.wav
+547350,sound,arithprin,true,221_arithprin_07_true_vide_unnombrenegatiffois.wav
+555000,redtext,empty,True,+
+555350,rsvp,general,true,Le caméléon est un animal qui change de couleur.
+563000,text,empty,True,+

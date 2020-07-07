@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,general,false,Les papillons ont des ailes minuscules et transparentes.
+10000,redtext,empty,True,+
+10350,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+18000,redtext,empty,True,+
+18350,rsvp,control,false,Devant décide lumière saule rouge lapin pouce.
+26000,text,empty,True,+
+30000,redtext,empty,True,+
+30350,rsvp,arithprin,true,Un nombre négatif élevé au carré devient positif.
+38000,sound,bip,True,bip_court.wav
+38350,sound,arithfact,true,60_arithfact_01_true_vide_resultatvingtsept.wav
+46000,redtext,empty,True,+
+46350,rsvp,context,true,En Australie le kangourou est un animal répandu.
+54000,redtext,empty,True,+
+54350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+62000,sound,bip,True,bip_court.wav
+62350,sound,tom,false,32_tom_23_false_vrai_julesverne.wav
+70000,redtext,empty,True,+
+70350,rsvp,general,true,La tragédie classique est fondée sur une unité de lieu.
+78000,redtext,empty,True,+
+78350,rsvp,context,true,En Irlande avoir les cheveux roux est assez courant.
+86000,text,empty,True,+
+93000,redtext,empty,True,+
+93350,rsvp,general,true,Les perles sont fabriquées par les huîtres dans la mer.
+101000,sound,bip,True,bip_court.wav
+101350,sound,arithprin,true,279_arithprin_01_true_vide_nombremultiplieparzero.wav
+109000,redtext,empty,True,+
+109350,rsvp,colorlessg,false,La réaction brosse par elle même de longs zoos barbus.
+117000,redtext,empty,True,+
+117350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+125000,sound,bip,True,bip_court.wav
+125350,sound,arithfact,false,306_arithfact_21_false_vide_quarantedivisepardeux.wav
+133000,redtext,empty,True,+
+133350,rsvp,arithfact,true,La somme de cinquante cinq et deux donne cinquante sept.
+141000,redtext,empty,True,+
+141350,rsvp,geomfact,true,Tous les angles d'un carré sont des angles droits.
+149000,sound,bip,True,bip_court.wav
+149350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+157000,text,empty,True,+
+163000,sound,bip,True,bip_court.wav
+163350,sound,control,false,238_control_08_false_vide_latoutefoispour.wav
+171000,sound,bip,True,bip_court.wav
+171350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+179000,redtext,empty,True,+
+179350,rsvp,control,false,On que toute sur est une afin le de tandis en pourquoi.
+187000,sound,bip,True,bip_court.wav
+187350,sound,context,false,9_context_22_false_vrai_amazonie.wav
+195000,sound,bip,True,bip_court.wav
+195350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+203000,sound,bip,True,bip_court.wav
+203350,sound,context,true,45_context_11_true_faux_londres.wav
+211000,redtext,empty,True,+
+211350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+219000,text,empty,True,+
+223000,sound,bip,True,bip_court.wav
+223350,sound,colorlessg,false,62_colorlessg_27_false_vide_toutebase.wav
+231000,redtext,empty,True,+
+231350,rsvp,context,false,En Equateur la durée du jour est courte en hiver.
+239000,sound,bip,True,bip_court.wav
+239350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+247000,text,empty,True,+
+254000,sound,bip,True,bip_court.wav
+254350,sound,context,false,274_context_31_false_faux_auxetatsunis.wav
+262000,redtext,empty,True,+
+262350,rsvp,control,false,Chaque dès duquel de en tous eux mais ou ont celle.
+270000,redtext,empty,True,+
+270350,rsvp,arithprin,true,La multiplication est le contraire de la division.
+278000,redtext,empty,True,+
+278350,rsvp,colorlessg,false,Pour charger la décision pluvieuse est un inconvénient sans fauteuil.
+286000,sound,bip,True,bip_court.wav
+286350,sound,geomfact,false,129_geomfact_28_false_vide_perimetrecercle.wav
+294000,sound,bip,True,bip_court.wav
+294350,sound,control,false,194_control_15_false_vide_ladeavantpar.wav
+302000,sound,bip,True,bip_court.wav
+302350,sound,arithprin,true,244_arithprin_17_true_vide_additionnerfractions.wav
+310000,sound,bip,True,bip_court.wav
+310350,sound,geomfact,true,210_geomfact_16_true_vide_uncercleaunnombre.wav
+318000,sound,bip,True,bip_court.wav
+318350,sound,tom,true,15_tom_16_true_faux_creationistes.wav
+326000,text,empty,True,+
+330000,redtext,empty,True,+
+330350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+338000,sound,bip,True,bip_court.wav
+338350,sound,tom,true,243_tom_08_true_vrai_selonpasteur.wav
+346000,sound,bip,True,bip_court.wav
+346350,sound,control,false,294_control_02_false_vide_unmependant.wav
+354000,redtext,empty,True,+
+354350,rsvp,arithfact,false,Dix mille est le produit de cent par cent soixante.
+362000,sound,bip,True,bip_court.wav
+362350,sound,general,false,277_general_28_false_vide_lesdinosauressont.wav
+370000,text,empty,True,+
+376000,sound,bip,True,bip_court.wav
+376350,sound,geomfact,true,204_geomfact_15_true_vide_diametrecercle.wav
+384000,redtext,empty,True,+
+384350,rsvp,tom,false,D'après Mère Teresa la haine est une émotion positive.
+392000,sound,bip,True,bip_court.wav
+392350,sound,general,false,76_general_29_false_vide_ecureuil.wav
+400000,redtext,empty,True,+
+400350,rsvp,geomfact,false,Les points d'un carré sont à égale distance de son centre.
+408000,sound,bip,True,bip_court.wav
+408350,sound,arithprin,false,24_arithprin_29_false_vide_resultatdivision.wav
+416000,sound,bip,True,bip_court.wav
+416350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+424000,text,empty,True,+
+432000,redtext,empty,True,+
+432350,rsvp,arithprin,false,Tous les entiers sont des nombres pairs.
+440000,sound,bip,True,bip_court.wav
+440350,sound,geomfact,false,118_geomfact_22_false_vide_hexagone.wav
+448000,sound,bip,True,bip_court.wav
+448350,sound,colorlessg,false,135_colorlessg_14_false_vide_telegrammes.wav
+456000,redtext,empty,True,+
+456350,rsvp,colorlessg,false,Une femme de traction est toujours un rond point sale.
+464000,redtext,empty,True,+
+464350,rsvp,colorlessg,false,Un poulet est un cercle de chiffres internationales.
+472000,sound,bip,True,bip_court.wav
+472350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+480000,sound,bip,True,bip_court.wav
+480350,sound,general,true,54_general_07_true_vide_soleil.wav
+488000,redtext,empty,True,+
+488350,rsvp,arithprin,false,Le carré d'un nombre négatif est négatif.
+496000,sound,bip,True,bip_court.wav
+496350,sound,arithfact,true,53_arithfact_13_true_vide_unquartdecent.wav
+504000,redtext,empty,True,+
+504350,rsvp,geomfact,false,Un carré peut se diviser en triangles équilatéraux.
+512000,redtext,empty,True,+
+512350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+520000,sound,bip,True,bip_court.wav
+520350,sound,general,true,51_general_09_true_vide_flocons.wav
+528000,redtext,empty,True,+
+528350,rsvp,tom,true,Pour Ronaldo le football est un art. 
+536000,sound,bip,True,bip_court.wav
+536350,sound,colorlessg,false,120_colorlessg_33_false_vide_solutiondebureau.wav
+544000,redtext,empty,True,+
+544350,rsvp,tom,true,Selon les écrivains l'Odyssée est un chef d'oeuvre littéraire.
+552000,redtext,empty,True,+
+552350,rsvp,control,false,La après est de des le d'un mon le de pendant il outre.
+560000,text,empty,True,+

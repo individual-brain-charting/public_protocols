@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,general,true,Février est le mois de l'année le plus court.
+10000,sound,bip,True,bip_court.wav
+10350,sound,geomfact,false,160_geomfact_25_false_vide_plusuntriangle.wav
+18000,redtext,empty,True,+
+18350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+26000,redtext,empty,True,+
+26350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+34000,sound,bip,True,bip_court.wav
+34350,sound,control,false,7_control_07_false_vide_dapres.wav
+42000,sound,bip,True,bip_court.wav
+42350,sound,control,false,273_control_05_false_vide_sanspourestdont.wav
+50000,redtext,empty,True,+
+50350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+58000,sound,bip,True,bip_court.wav
+58350,sound,control,false,294_control_02_false_vide_unmependant.wav
+66000,redtext,empty,True,+
+66350,rsvp,control,false,Le de est tous auquel les d'ailleurs qui des chacun.
+74000,text,empty,True,+
+81000,redtext,empty,True,+
+81350,rsvp,arithfact,true,Le nombre vingt sept divisé par trois donne comme résultat neuf.
+89000,redtext,empty,True,+
+89350,rsvp,control,false,La de avant par même son comme donc en le tu vous si.
+97000,sound,bip,True,bip_court.wav
+97350,sound,tom,true,86_tom_06_true_vrai_climatologues.wav
+105000,sound,bip,True,bip_court.wav
+105350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+113000,redtext,empty,True,+
+113350,rsvp,general,true,La photosynthèse se produit grâce à l'énergie lumineuse.
+121000,sound,bip,True,bip_court.wav
+121350,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+129000,sound,bip,True,bip_court.wav
+129350,sound,context,true,287_context_07_true_vrai_mythologiegrecque.wav
+137000,sound,bip,True,bip_court.wav
+137350,sound,geomfact,false,136_geomfact_34_false_vide_triangleequilateral.wav
+145000,text,empty,True,+
+151000,sound,bip,True,bip_court.wav
+151350,sound,context,true,22_context_20_true_faux_danslamer.wav
+159000,sound,bip,True,bip_court.wav
+159350,sound,arithfact,true,49_arithfact_11_true_vide_soustrairetrois.wav
+167000,redtext,empty,True,+
+167350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+175000,redtext,empty,True,+
+175350,rsvp,context,false,Pendant les cours les étudiants peuvent parler entre eux.
+183000,text,empty,True,+
+189000,redtext,empty,True,+
+189350,rsvp,colorlessg,false,Le colis de l'ombre matérielle est toujours gratuit.
+197000,redtext,empty,True,+
+197350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+205000,sound,bip,True,bip_court.wav
+205350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+213000,sound,bip,True,bip_court.wav
+213350,sound,geomfact,true,320_geomfact_03_true_vide_touslesanglescarre.wav
+221000,sound,bip,True,bip_court.wav
+221350,sound,tom,false,232_tom_29_false_vrai_pournapoleon.wav
+229000,sound,bip,True,bip_court.wav
+229350,sound,arithprin,false,164_arithprin_30_false_vide_unesomme.wav
+237000,sound,bip,True,bip_court.wav
+237350,sound,geomfact,true,247_geomfact_14_true_vide_toutpolygone.wav
+245000,redtext,empty,True,+
+245350,rsvp,tom,false,Pour Johnny Hallyday chanter est un hobby.
+253000,text,empty,True,+
+258000,sound,bip,True,bip_court.wav
+258350,sound,arithprin,true,244_arithprin_17_true_vide_additionnerfractions.wav
+266000,redtext,empty,True,+
+266350,rsvp,colorlessg,false,Aux télégrammes les pompiers sont crachés par la blessure fine.
+274000,redtext,empty,True,+
+274350,rsvp,arithfact,true,Quarante cinq est le résultat de quinze fois trois.
+282000,redtext,empty,True,+
+282350,rsvp,tom,true,Selon les écrivains l'Odyssée est un chef d'oeuvre littéraire.
+290000,text,empty,True,+
+298000,redtext,empty,True,+
+298350,rsvp,colorlessg,false,Pour chaque assoiffé s'évader est une majorité.
+306000,sound,bip,True,bip_court.wav
+306350,sound,tom,true,81_tom_15_true_faux_ronaldo.wav
+314000,text,empty,True,+
+321000,redtext,empty,True,+
+321350,rsvp,geomfact,true,Tous les points d'un cercle sont à égale distance du centre.
+329000,redtext,empty,True,+
+329350,rsvp,context,true,A New York les immeubles sont de hauts bâtiments modernes.
+337000,sound,bip,True,bip_court.wav
+337350,sound,general,false,286_general_38_false_vide_levietnam.wav
+345000,redtext,empty,True,+
+345350,rsvp,tom,false,Pour Martin Luther King la ségrégation raciale est légitime.
+353000,redtext,empty,True,+
+353350,rsvp,arithfact,false,Dix sept est la racine carrée de cent quatre vingt dix.
+361000,sound,bip,True,bip_court.wav
+361350,sound,colorlessg,false,27_colorlessg_05_false_vide_pourcharger.wav
+369000,redtext,empty,True,+
+369350,rsvp,general,false,Les algues vertes sont des plantes aquatiques.
+377000,sound,bip,True,bip_court.wav
+377350,sound,general,true,281_general_02_true_vide_latulipe.wav
+385000,sound,bip,True,bip_court.wav
+385350,sound,arithfact,false,284_arithfact_25_false_vide_tripledequinze.wav
+393000,text,empty,True,+
+398000,sound,bip,True,bip_court.wav
+398350,sound,colorlessg,false,127_colorlessg_08_false_vide_pourleslions.wav
+406000,sound,bip,True,bip_court.wav
+406350,sound,general,false,83_general_40_false_vide_laterre.wav
+414000,redtext,empty,True,+
+414350,rsvp,geomfact,false,Un rectangle coupé par une ligne droite donne des carrés égaux.
+422000,sound,bip,True,bip_court.wav
+422350,sound,arithfact,true,108_arithfact_04_true_vide_produitdetrois.wav
+430000,redtext,empty,True,+
+430350,rsvp,arithfact,false,Quatre vingt cinq est plus petit que quarante quatre.
+438000,redtext,empty,True,+
+438350,rsvp,geomfact,true,Les côtés d'un triangle équilatéral ont la même longueur.
+446000,redtext,empty,True,+
+446350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+454000,redtext,empty,True,+
+454350,rsvp,arithprin,true,Un nombre divisé par un est égal à lui même.
+462000,redtext,empty,True,+
+462350,rsvp,arithprin,false,Le produit de nombres négatifs est toujours négatif.
+470000,sound,bip,True,bip_court.wav
+470350,sound,general,true,302_general_04_true_vide_leaugele.wav
+478000,sound,bip,True,bip_court.wav
+478350,sound,arithprin,false,236_arithprin_35_false_vide_unesommedefractions.wav
+486000,sound,bip,True,bip_court.wav
+486350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+494000,text,empty,True,+
+499000,redtext,empty,True,+
+499350,rsvp,context,true,En Chine les baguettes servent de couverts à table.
+507000,sound,bip,True,bip_court.wav
+507350,sound,context,false,74_context_36_false_faux_plainespaysbas.wav
+515000,redtext,empty,True,+
+515350,rsvp,control,false,Demain manger solution guerre couleur boire chambre bruit.
+523000,sound,bip,True,bip_court.wav
+523350,sound,colorlessg,false,57_colorlessg_04_false_vide_selonlebois.wav
+531000,sound,bip,True,bip_court.wav
+531350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+539000,redtext,empty,True,+
+539350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+547000,sound,bip,True,bip_court.wav
+547350,sound,control,false,171_control_32_false_vide_souventete.wav
+555000,redtext,empty,True,+
+555350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+563000,text,empty,True,+

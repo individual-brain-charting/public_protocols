@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,tom,true,D'après les climatologues la Terre est en réchauffement. 
+10000,sound,bip,True,bip_court.wav
+10350,sound,tom,true,65_tom_04_true_vrai_dapresnewton.wav
+18000,sound,bip,True,bip_court.wav
+18350,sound,arithfact,false,267_arithfact_29_false_vide_cinqplusseize.wav
+26000,redtext,empty,True,+
+26350,rsvp,geomfact,true,Un point peut être traversé par un nombre infini de lignes.
+34000,redtext,empty,True,+
+34350,rsvp,arithfact,false,Deux fois soixante dix font trois cent cinquante quatre.
+42000,redtext,empty,True,+
+42350,rsvp,colorlessg,false,Un train auquel on prend la fête reste commun de soi.
+50000,sound,bip,True,bip_court.wav
+50350,sound,general,true,177_general_05_true_vide_labaleine.wav
+58000,sound,bip,True,bip_court.wav
+58350,sound,colorlessg,false,143_colorlessg_19_false_vide_unpoulet.wav
+66000,sound,bip,True,bip_court.wav
+66350,sound,geomfact,true,148_geomfact_08_true_vide_unangledroit.wav
+74000,sound,bip,True,bip_court.wav
+74350,sound,context,true,220_context_05_true_vrai_enallemagne.wav
+82000,text,empty,True,+
+86000,redtext,empty,True,+
+86350,rsvp,arithprin,false,Tout nombre réel peut être écrit comme une fraction.
+94000,redtext,empty,True,+
+94350,rsvp,arithprin,true,Un nombre positif fois un nombre négatif donne un nombre négatif.
+102000,redtext,empty,True,+
+102350,rsvp,tom,false,Selon Vladimir Poutine la Russie est un tout petit pays.
+110000,redtext,empty,True,+
+110350,rsvp,tom,false,Selon Donald Trump le changement climatique est inquiétant.
+118000,sound,bip,True,bip_court.wav
+118350,sound,arithfact,false,293_arithfact_39_false_vide_lenombredixneuf.wav
+126000,sound,bip,True,bip_court.wav
+126350,sound,geomfact,true,95_geomfact_01_true_vide_carrefigure.wav
+134000,redtext,empty,True,+
+134350,rsvp,general,false,Un pamphlet est un ensemble de textes mélancoliques.
+142000,text,empty,True,+
+147000,sound,bip,True,bip_court.wav
+147350,sound,colorlessg,false,20_colorlessg_17_false_vide_intermediaire.wav
+155000,sound,bip,True,bip_court.wav
+155350,sound,geomfact,false,68_geomfact_31_false_vide_unrectangle.wav
+163000,sound,bip,True,bip_court.wav
+163350,sound,arithfact,true,102_arithfact_08_true_vide_racinecarree.wav
+171000,sound,bip,True,bip_court.wav
+171350,sound,control,false,254_control_14_false_vide_laestalorslespar.wav
+179000,redtext,empty,True,+
+179350,rsvp,arithfact,true,Le produit de trois par sept a comme résultat vingt et un.
+187000,redtext,empty,True,+
+187350,rsvp,arithfact,false,Trente sept est la moitié du nombre cinquante quatre.
+195000,redtext,empty,True,+
+195350,rsvp,general,true,Le noyau de l'atome d'hydrogène est composé d'un seul proton.
+203000,redtext,empty,True,+
+203350,rsvp,control,false,Cependant à auquel elle la une de est un enfin soit.
+211000,text,empty,True,+
+217000,redtext,empty,True,+
+217350,rsvp,context,false,Au Pakistan tous les enfants sont scolarisés. 
+225000,sound,bip,True,bip_court.wav
+225350,sound,geomfact,false,178_geomfact_27_false_vide_pointsduncarre.wav
+233000,sound,bip,True,bip_court.wav
+233350,sound,colorlessg,false,209_colorlessg_29_false_vide_lelapindemal.wav
+241000,redtext,empty,True,+
+241350,rsvp,geomfact,false,Des lignes perpendiculaires forment un angle aigu.
+249000,sound,bip,True,bip_court.wav
+249350,sound,colorlessg,false,137_colorlessg_32_false_vide_unsoldevieux.wav
+257000,text,empty,True,+
+264000,sound,bip,True,bip_court.wav
+264350,sound,arithprin,false,63_arithprin_33_false_vide_tousnombresnegatifs.wav
+272000,sound,bip,True,bip_court.wav
+272350,sound,general,false,214_general_24_false_vide_lespoissons.wav
+280000,redtext,empty,True,+
+280350,rsvp,context,false,Au Burundi les médecins sont remboursés par la sécurité sociale.
+288000,redtext,empty,True,+
+288350,rsvp,colorlessg,false,Le drapeau est une vieille analyse à froid de façon.
+296000,redtext,empty,True,+
+296350,rsvp,arithfact,true,Un tiers de quarante cinq a pour valeur quinze. 
+304000,text,empty,True,+
+309000,redtext,empty,True,+
+309350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+317000,sound,bip,True,bip_court.wav
+317350,sound,context,true,22_context_20_true_faux_danslamer.wav
+325000,sound,bip,True,bip_court.wav
+325350,sound,general,false,38_general_34_false_vide_hiver.wav
+333000,redtext,empty,True,+
+333350,rsvp,arithprin,false,Le carré d'un nombre négatif est négatif.
+341000,sound,bip,True,bip_court.wav
+341350,sound,context,false,260_context_25_false_vrai_surlaplanetemars.wav
+349000,redtext,empty,True,+
+349350,rsvp,arithprin,true,Un nombre élevé à la puissance un est égal à lui même.
+357000,redtext,empty,True,+
+357350,rsvp,colorlessg,false,Les livres fondus se gavent de liberté aimablement.
+365000,redtext,empty,True,+
+365350,rsvp,context,true,Selon la Bible l'univers a été créé en quelques jours.
+373000,text,empty,True,+
+381000,redtext,empty,True,+
+381350,rsvp,control,false,Aux les aussitôt sont un de encore une mon le auxquels.
+389000,sound,bip,True,bip_court.wav
+389350,sound,arithprin,true,280_arithprin_03_true_vide_ajouterzero.wav
+397000,sound,bip,True,bip_court.wav
+397350,sound,arithprin,true,99_arithprin_11_true_vide_ordremultiplication.wav
+405000,sound,bip,True,bip_court.wav
+405350,sound,tom,false,44_tom_25_false_vrai_donaldtrump.wav
+413000,redtext,empty,True,+
+413350,rsvp,tom,true,Selon Tarzan nos parents sont des singes.
+421000,text,empty,True,+
+427000,sound,bip,True,bip_court.wav
+427350,sound,control,false,153_control_06_false_vide_luieuxpuis.wav
+435000,sound,bip,True,bip_court.wav
+435350,sound,arithprin,false,269_arithprin_25_false_vide_nombremultiplieparzero.wav
+443000,sound,bip,True,bip_court.wav
+443350,sound,control,false,202_control_38_false_vide_lettresgrave.wav
+451000,text,empty,True,+
+458000,redtext,empty,True,+
+458350,rsvp,control,false,Sombre manteau titille cité chaud mégot trop chat.
+466000,redtext,empty,True,+
+466350,rsvp,general,true,Une encyclopédie permet de diffuser le savoir à de nombreux lecteurs.
+474000,redtext,empty,True,+
+474350,rsvp,colorlessg,false,Les vieux sont complexes par les feuilles dans la pierre.
+482000,sound,bip,True,bip_court.wav
+482350,sound,control,false,172_control_33_false_vide_rougedoigts.wav
+490000,sound,bip,True,bip_court.wav
+490350,sound,tom,false,289_tom_32_false_faux_christophecolomb.wav
+498000,sound,bip,True,bip_court.wav
+498350,sound,general,true,213_general_03_true_vide_lecameleon.wav
+506000,redtext,empty,True,+
+506350,rsvp,control,false,D'après où dans ils les d'une toute cependant et sans.
+514000,redtext,empty,True,+
+514350,rsvp,context,true,A San Francisco les températures sont clémentes.
+522000,sound,bip,True,bip_court.wav
+522350,sound,arithfact,true,215_arithfact_10_true_vide_resultatmultiplication.wav
+530000,redtext,empty,True,+
+530350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+538000,sound,bip,True,bip_court.wav
+538350,sound,tom,true,121_tom_11_true_faux_pourlesgrecs.wav
+546000,sound,bip,True,bip_court.wav
+546350,sound,context,false,270_context_35_false_faux_enbretagne.wav
+554000,redtext,empty,True,+
+554350,rsvp,geomfact,true,La surface d'un rectangle est le produit de ses côtés.
+562000,text,empty,True,+
