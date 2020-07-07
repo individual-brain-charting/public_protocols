@@ -1,0 +1,5 @@
+All walkers in time series format
+
+{1} = BMLwalker
+{2} = Modified (constant velocity) walker
+{3} = idealCutting walker

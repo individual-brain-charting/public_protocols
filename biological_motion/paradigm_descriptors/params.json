@@ -1,0 +1,14 @@
+{
+    "cond_dict": {
+        "0": "fixation_block",
+        "2": "global_upright",
+        "4": "global_inverted",
+        "5": "natural_upright",
+        "6": "modified_upright",
+        "7": "natural_inverted",
+        "8": "modified_inverted"
+    },
+    "inter_stim_interval": 1.5,
+    "trial_duration": 0.5,
+    "trials_per_block": 8
+}
