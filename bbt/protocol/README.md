@@ -22,7 +22,7 @@ Attention: Do not kill the process with __Ctrl+C__! Otherwise the log files are 
 
 _________________________________________________________________________________________________  
 
-The video stimuli of each run corresponded to the contiguous display of one chapter of the 2000 DVD edition of the movie *The Good, the Bad and the Ugly* dubbed into french. The onset time of each chapter is provided next:  
+The video stimuli of each run corresponded to the contiguous display of one chapter of the 2005 DVD edition of the movie *The Good, the Bad and the Ugly* dubbed into french. The onset time of each chapter is provided next:  
 
 Chapter 1  - 00:00:00  
 Chapter 2  - 00:08:48  
