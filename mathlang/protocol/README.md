@@ -6,7 +6,8 @@ about the naming conventions, software and file structure used by us.
 
 ## Table of contents
 1. [Python version and dependencies](#Python version and dependencies)
-2. [How to run the tasks](#How to run the tasks)
+2. [Randomization of the stimuli](#Randomization of the stimuli)
+3. [How to run the tasks](#How to run the tasks)
 3. [How to get logfiles from the tasks](#How to get logfiles from the tasks)
 4. [Where can I find X in the code? (Adjustments help)](#Where can I find X in the code?)
 
@@ -16,6 +17,17 @@ To run the tasks, you will need to install Expyriment. This task was developed a
 Python 3. To get instructions on how to install Expyriment, refer to its [documentation](https://docs.expyriment.org/Installation.html).
 
 No other Python packages are needed to run the tasks.
+
+## Randomization of the stimuli
+
+The randomization performed to divide the stimuli between 5 blocks (although we only used blocks 1-4) was performed by estipulating the contents of a single block:
+
+    * 8 false for control
+    * 4 true and 4 false for arithfact, arithprin, general and geomfact
+    * 2 true-true, 2 true-false, 2 false-true, 2 false-false for context and tom
+    * Half of each type are auditory and half are visual (written)
+
+After grouping all sentences in a single file, random picks were performed for the five blocks in order to conform the conditions described above. Every sentence exists in visual and auditory formats. Only one of those was picked for the all-sentences file, with a 50% auditory and 50% visual. Then, after making the picks for each block, 8 new stimuli were added for the empty stimuli, and then the order of the stimuli within a block is randomized. Lastly, the "b" blocks are generated changing the file type of each sentence in its corresponding "a" block.
 
 ## How to run the tasks
 
