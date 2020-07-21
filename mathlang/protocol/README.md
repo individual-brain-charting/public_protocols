@@ -20,14 +20,14 @@ No other Python packages are needed to run the tasks.
 
 ## Randomization of the stimuli
 
-The randomization performed to divide the stimuli between 5 blocks (although we only used blocks 1-4) was performed by estipulating the contents of a single block:
+The randomization performed to divide the stimuli between 5 blocks (although we only used blocks 1-4) was performed by estipulating the contents of a single block in terms of four different conditions:
 
     * 8 false for control
     * 4 true and 4 false for arithfact, arithprin, general and geomfact
     * 2 true-true, 2 true-false, 2 false-true, 2 false-false for context and tom
     * Half of each type are auditory and half are visual (written)
 
-After grouping all sentences in a single file, random picks were performed for the five blocks in order to conform the conditions described above. Every sentence exists in visual and auditory formats. Only one of those was picked for the all-sentences file, with a 50% auditory and 50% visual. Then, after making the picks for each block, 8 new stimuli were added for the empty stimuli, and then the order of the stimuli within a block is randomized. Lastly, the "b" blocks are generated changing the file type of each sentence in its corresponding "a" block.
+After grouping all sentences in a single file, random picks were performed for the five blocks in order to conform the conditions listed above. Every sentence exists in visual and auditory formats. Only one of those was picked for the all-sentences file, with a 50% auditory and 50% visual. Then, after making the picks for each block, 8 new stimuli were added for the empty stimuli, and then the order of the stimuli within a block is randomized. Lastly, the "b" blocks are generated changing the file type of each sentence in its corresponding "a" block.
 
 ## How to run the tasks
 
