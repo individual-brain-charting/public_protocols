@@ -1,4 +1,4 @@
-## Script to generate the inputs for the IBC protocol on mental time travelling   
+## Script to generate the randomized input-trials for the IBC protocol on mental time travel   
 
 Author: Ana Luisa Pinho  
 e-mail: ana.pinho@inria.fr  
