@@ -22,8 +22,10 @@ It is a propietary software, so you have two options:
 The problem with the second option is that you will not be able to make any changes from how we prepared
 the experiment, which can lead to some problems. The most obvious one being that all the texts are in french.
 
-Whether you buy a license or decide to use the executable, you won't need anything else to run the tasks. Vizard
-runs in python, but contains everything needed for it to work.
+If you acquire a Vizard's license, you will need the 'objects' folder, that was not included due to file size constrains. 
+You can find said folder under the release tagged ['spatial_navigation'](https://github.com/hbp-brain-charting/public_protocols/releases/tag/spatial_navigation) in the Github repository. Once dowloaded, unzip it in the 'protocol' folder.
+
+The same release contains the executable files needed to run the experiment without a license.
 
 ## How to run the tasks
 
