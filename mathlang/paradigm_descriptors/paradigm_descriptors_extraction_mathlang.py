@@ -252,6 +252,16 @@ def get_correct_responses(logfile, keymap):
     pass
 
 
+def remove_quotations(file):
+    """Remove all quotations from a file"""
+    with open(file, 'r+') as f:
+        data = f.read()
+        f.seek(0)
+        for line in data:
+            f.write(line.replace('"', ''))
+        f.truncate()
+
+
 # Parameters
 path = os.getcwd()
 
@@ -267,6 +277,9 @@ glob_str = os.path.join(input_path, '*_{}_*'.format(sub_num))
 logfile_list = glob.glob(glob_str)
 
 for logfile in logfile_list:
+
+    # Remove quotations
+    remove_quotations(logfile)
 
     # Load logfile
     raw_df = pd.read_csv(logfile, sep=',', skiprows=10, encoding='ISO-8859-1', engine='python')
