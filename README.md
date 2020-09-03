@@ -16,10 +16,10 @@ Each directory is structured as follows:
 ### Tasks  
 
 The `archi` directory contains the protocols of:  
-* _ARCHI Standard_ task  
-* _ARCHI Spatial_ task  
-* _ARCHI Social_ task  
-* _ARCHI Emotional_ task  
+* [_ARCHI Standard_](https://www.youtube.com/watch?v=U8qezhcoww8) task 
+* [_ARCHI Spatial_](https://www.youtube.com/watch?v=OciyqEt3ViU) task  
+* [_ARCHI Social_](https://www.youtube.com/watch?v=xl881hM38so) task  
+* [_ARCHI Emotional_](https://www.youtube.com/watch?v=5YMc7BKRWyc) task  
 
 The `hcp` directory contains the protocols of:  
 * _HCP Emotion_ task  
@@ -30,34 +30,34 @@ The `hcp` directory contains the protocols of:
 * _HCP Social_ task  
 * _HCP Working Memory_ task      
 
-The `rsvp_language` directory contains the protocol employed for the *RSVP Language* task.  
+The `rsvp_language` directory contains the protocol employed for the [*RSVP Language*](https://youtu.be/YAOVrJBDxS8) task.  
 
-The `mtt` directory contains the protocol employed for the *Mental Time Travel* task.  
+The `mtt` directory contains the protocol employed for the [*Mental Time Travel*](https://www.youtube.com/watch?v=SkvqbFDF-HA) task.  
 
-The `preference` directory contains the protocol employed for the *Preference* task.  
+The `preference` directory contains the protocol employed for the [*Preference*](https://www.youtube.com/watch?v=W_V3zPMEPMI) task.  
 
 The `tom` directory contains the protocols of:  
-* _Theory-of-Mind Localizer_ task in the `tom_localizer` folder
-* _Theory-of-Mind_ and _Pain Matrix Narrative Localizer_ task in the `ep_localizer` folder
+* [_Theory-of-Mind Localizer_](https://youtu.be/pFAhI7s7sd0) task in the `tom_localizer` folder
+* [_Theory-of-Mind_ and _Pain Matrix Narrative Localizer_](https://www.youtube.com/watch?v=G9d05QeJ-RM) task in the `ep_localizer` folder
 * _Theory-of-Mind_ and _Pain Matrix Movie Localizer_ task  in the `mov_localizer` folder
 
 The `vstm_enumeration` directory contains the protocols of:  
-* _Visual Short-Term Memory_ task  
-* _Enumeration_ task  
+* [_Visual Short-Term Memory_](https://www.youtube.com/watch?v=3j1JC9OxkBw) task  
+* [_Enumeration_](https://youtu.be/-6PI3_CwjaM) task  
 
 The `self` directory contains the protocol employed for the *Self* task.  
 
 The `bang` directory contains the protocol employed for the *Bang* task.
 
-The `clips` directory contains the protocol employed for the *Clips* task.
+The `clips` directory contains the protocol employed for the [*Clips*](https://youtu.be/sWuZdJoZrms) task.
 
-The `retinotopy` directory contains the protocol employed for the *Retinotopy* task.
+The `retinotopy` directory contains the protocol employed for the [*Retinotopy*](https://www.youtube.com/watch?v=rsykP-9-moA) task.
 
 The `raiders` directory contains the protocol employed for the *Raiders* task.
 
 The `lyon` directory contains the protocols of:  
 * _Lyon Moto_ task in the `localizers/session_1/loca_moto_adapt`
-* _Lyon MCSE_ task in the `localizers/session_1/loca_mcse_adapt`
+* [_Lyon MCSE_](https://youtu.be/K4z2uHUAlDE) task in the `localizers/session_1/loca_mcse_adapt`
 * _Lyon MVIS_ task in the `localizers/session_1/loca_mvis_adapt`
 * _Lyon MVEB_ task in the `localizers/session_1/loca_mveb_adapt`
 * _Lyon AUDI_ task in the `localizers/session_2/loca_audi_adapt`
