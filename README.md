@@ -90,4 +90,5 @@ Please, feel free to report any issue and propose improvements on github.
 
 ## Authors
 - Ana Luísa Pinho, 2015 - present
-- Juan Jesús Torre, 2018 - present
+- Juan Jesús Torre, 2018 - 2020
+- Swetha Shankar, 2019 - present
