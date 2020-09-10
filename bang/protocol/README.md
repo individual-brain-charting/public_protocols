@@ -4,7 +4,6 @@ Author: Ana Luisa Pinho
 email: ana.pinho@inria.fr  
 
 Compatibility: Expyriment 0.9.0 or newer / Python 2.7  
-Preset resolution of the screen: 1024x768  
 
 To launch the protocol, please run the script `bang_protocol.py`. Make sure the directory with the video files exists.  
 
