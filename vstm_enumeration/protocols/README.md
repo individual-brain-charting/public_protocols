@@ -7,9 +7,6 @@ e-mail address: ana.pinho@inria.fr
 
 Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or Matlab and Python 2.7.  
 
-Preset resolution: 1024x768  
-
-
 ### Visual Short-term Memory task
 
 #### Run the protocol
