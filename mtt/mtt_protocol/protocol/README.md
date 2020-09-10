@@ -4,7 +4,6 @@ Authors: Ana Luisa Pinho, Baptiste Gauthier
 email: ana.pinho@inria.fr
 
 Compatibility: Expyriment 0.7.0 (Revision 7a6b73d) or older / pygame version 1.9.3 or newer  
-Preset resolution of the screen: 1024x768
 
 To launch the protocol, please run the script `mtt.py` along with the arg val concerning the story to be presented.
 
