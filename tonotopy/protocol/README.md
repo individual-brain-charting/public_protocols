@@ -4,7 +4,7 @@ et al. (2017), for the analysis of sound processing using fMRI.
 
 ## Python version
 
-This protocol was developed in Python 3.6, using expyriment 0.9.0.
+This protocol was developed in Python 3.6, using Expyriment 0.9.0.
 
 ## Settings
 
