@@ -12,7 +12,7 @@ import numpy as np
 # %%
 # ========================== GENERAL PARAMETERS ===============================
 # List of participants id
-participant_list = [1]
+participant_list = [8]
 
 # Subject or Pilot?
 # prefix = "pilot"
@@ -45,6 +45,9 @@ for participant in participant_list:
             # Load the log files:
             # (1) define the filenames;
 
+            ttl_fname = 'TTL_sub-' + '%02d' % participant + '_run' + \
+                '%01d' % run_number[b][k] + '.mat'
+
             # ================ for the subjects =========================
             mbb_fname = 'MBB_battery_ratings_onsets_sub-' + \
                 '%02d' % participant + '_run' + \
@@ -76,6 +79,9 @@ for participant in participant_list:
             #              '_sess' + '%01d' % run_number[b][k] + '.mat'
 
             # (2) define the pathways;
+            ttl_path = os.path.abspath(os.pardir + '/protocol/results/' +
+                                       prefix + '-' +
+                                       '%02d' % participant + '/' + ttl_fname)
             mbb_path = os.path.abspath(os.pardir + '/protocol/results/' +
                                        prefix + '-' +
                                        '%02d' % participant + '/' + mbb_fname)
@@ -88,6 +94,12 @@ for participant in participant_list:
                                         '/' + perm_fname)
 
             no_log_flag = int()
+            if not os.path.exists(ttl_path):
+                print 'Warning: No TTL-file for ' + '%s' % block + \
+                    ', group ' + '%s' % kind + ' and participant ' + \
+                    '%s' % participant
+                print ttl_path
+                no_log_flag = 1
             if not os.path.exists(mbb_path):
                 print 'Warning: No MBB-file for ' + '%s' % block + \
                     ', group ' + '%s' % kind + ' and participant ' + \
@@ -110,6 +122,8 @@ for participant in participant_list:
                 continue
 
             # and (3) read the log files.
+            ttl_mat = [line for line in csv.reader(open(ttl_path),
+                                                   delimiter=',')]
             mbb_mat = [line for line in csv.reader(open(mbb_path),
                                                    delimiter=',')]
             ratings_mat = [line for line in csv.reader(open(ratings_path),
@@ -117,6 +131,7 @@ for participant in participant_list:
             perm_mat = [line for line in csv.reader(open(perm_path),
                                                     delimiter=',')]
             # Flatten list of lists
+            ttl_mat_flatten = np.hstack(ttl_mat).tolist()
             mbb_mat_flatten = np.hstack(mbb_mat).tolist()
             ratings_mat_flatten = np.hstack(ratings_mat).tolist()
             perm_mat_flatten = np.hstack(perm_mat).tolist()
@@ -133,6 +148,9 @@ for participant in participant_list:
             duration = []
             absolute_tooslow_onset = []
             tooslow_duration = []
+            for t, t0 in enumerate(ttl_mat_flatten):
+                if ttl_mat_flatten[t - 2] == '# name: T0':
+                    TTL = round(float(t0), 3)
             for r, row in enumerate(mbb_mat_flatten):
                 # Start extracting the onsets
                 if row == '# name: onset':
@@ -140,9 +158,6 @@ for participant in participant_list:
                 # Start extracting the durations
                 elif row == '# name: duration':
                     flag = 2
-                # Extract TTL
-                elif mbb_mat_flatten[r - 2] == '# name: firstTTL':
-                    TTL = round(float(row), 3)
                 # Extract onsets
                 elif flag == 1:
                     if mbb_mat_flatten[r - 4 - counter_onset] == \
