@@ -101,7 +101,7 @@ for participant in participant_list:
         # Set pathway of output file
         output_path = output_dir + "/" + "paradigm_descriptors_eploc_" + \
             prefix + "-" + "%02d" % participant + "_run" + \
-            "%01d" % run + ".csv"
+            "%01d" % run + ".tsv"
 
         # Save liste in the output file
         with open(output_path, "w") as fp:
