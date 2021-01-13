@@ -14,6 +14,9 @@ Preset resolution: 1024x768
 
 #### Run the protocol
 
+The run sequence in the session was as follows: 
+VSTM, VSTM, Enumeration, Enumeration, VSTM, VSTM
+
 To launch the protocol of the *Visual Short-term Memory* task, run in the command window of Octave/MATLAB:  
 
 1. For the main session:  
@@ -24,13 +27,16 @@ To launch the protocol of the *Visual Short-term Memory* task, run in the comman
 
 `WM_EnumWM_CTRL_fMRI_ts.m`  
 
+The functions take 3 arguments as input: subject number, run group (1 or 2) and log file number (legacy argument; 1 works). Run group identifies the initial or final set of VSTM runs. 
+For training runs the run group and log file number are meaningless; just use 1.
+
 #### Paradigm descriptors extraction
 
 To extract the paradigm descriptors of this task, run:  
 
 `paradigm_descriptors_extraction.py`
 
-Make sure you have set the correctly the task parameters for this task on the top of the script. The inputs are stored in the folder `log_files/vSTM*`; they have been created in the same directory after running the protocol. The outputs will be stored in the same directory.
+from the vstm_enumeration folder. Within the python file set the subject number(s) and uncomment the appropriate task details. The inputs should be in the folder `log_files/vSTM/<sub>`. The outputs will be stored in the same directory.
 
 
 ### Enumeration task
@@ -47,11 +53,14 @@ To launch the protocol of the *Theory-of-Mind and Pain Matrix Narrative Localize
 
 `Enum_EnumWM_CTRL_fMRI_ts.m`  
 
+The functions take 3 arguments as input: subject number, run group (1 or 2) and log file number (legacy argument; 1 works). Run group is meaningless but required; 1 works.
+For training runs the run group and log file number are meaningless; just use 1.
+
 #### Paradigm descriptors extraction
 
 To extract the paradigm descriptors of this task, run:  
 
 `paradigm_descriptors_extraction.py`
 
-Make sure you have set the correctly the task parameters for this task on the top of the script. The inputs are stored in the folder `log_files/enumeration*`; they have been created in the same directory after running the protocol. The outputs will be stored in the same directory.
+from the vstm_enumeration folder. Within the python file set the subject number(s) and uncomment the appropriate task details. The inputs should be in the folder `log_files/enumeration/<sub>`. The outputs will be stored in the same directory.
 
