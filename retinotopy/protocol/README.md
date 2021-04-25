@@ -5,7 +5,7 @@ Author: Michael Eickenberg
 Adaptations made by: Ana Luisa Pinho   
 email: ana.pinho@inria.fr  
 
-Compatibility: Psychopy (Python 2.7)  
+Compatibility: PsychoPy (Python 2.7)  
 
 Retinotopy protocols:
 To run them, typewrite:
