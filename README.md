@@ -89,6 +89,5 @@ More protocols will be made available following the releases of the IBC dataset 
 Please, feel free to report any issue and propose improvements on github.
 
 ## Authors
-- Ana Luísa Pinho, 2015 - present
+- Ana Luísa Pinho, 2017 - present
 - Juan Jesús Torre, 2018 - 2020
-- Swetha Shankar, 2019 - present
