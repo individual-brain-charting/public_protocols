@@ -5,6 +5,8 @@ Authors of the protocol: The Gallant lab - UCB, USA (2012)
 Adaptations made by: Ana Luisa Pinho   
 email: ana.pinho@inria.fr  
 
+Compatibility: Python 2.7  
+
 
 To run, typewrite in the terminal under the directory containing all scripts:
 > `python play.py <arg1> <arg2>`

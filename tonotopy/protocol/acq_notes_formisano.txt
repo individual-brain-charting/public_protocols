@@ -1,8 +1,0 @@
-﻿Resolution:
-3200x1800
-
-Sound:
-Set it to the maximum
-
-Key-press box:
-FORP USB

@@ -5,6 +5,8 @@ Author: Michael Eickenberg
 Adaptations made by: Ana Luisa Pinho   
 email: ana.pinho@inria.fr  
 
+Compatibility: PsychoPy (Python 2.7)  
+
 Retinotopy protocols:
 To run them, typewrite:
 > `python retinoto.py 1` #first wedge clock video  

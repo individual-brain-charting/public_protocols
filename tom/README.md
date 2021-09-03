@@ -9,11 +9,6 @@ Date: May 2019
 
 Compatibility: Psychophysics Toolbox Version 3 (PTB-3), aka Psychtoolbox-3, for GNU Octave or Matlab and Python 2.7.  
 
-Preset resolutions:  
-Main session - 800x600  
-Training session - 3200x1800  
-
-
 ### Theory-of-Mind Localizer
 
 #### Run the protocol
