@@ -1,0 +1,137 @@
+2000,redtext,empty,True,+
+2350,rsvp,colorlessg,false,Les populations d'un meublé sont à belle gueule de la vitre.
+10000,redtext,empty,True,+
+10350,rsvp,colorlessg,false,Des bibliothèques de chaque cible ont le mauvais squelette.
+18000,redtext,empty,True,+
+18350,rsvp,colorlessg,false,En vérité tous les gouvernements doivent retrouver à l'année.
+26000,redtext,empty,True,+
+26350,rsvp,general,false,La terre tourne autour de la planète Venus.
+34000,text,empty,True,+
+39000,sound,bip,True,bip_court.wav
+39350,sound,geomfact,true,163_geomfact_09_true_vide_touslespoints.wav
+47000,redtext,empty,True,+
+47350,rsvp,general,true,Le corps humain est formé par des milliards de cellules.
+55000,redtext,empty,True,+
+55350,rsvp,general,false,La force de gravitation protège la terre des radiations solaires.
+63000,redtext,empty,True,+
+63350,rsvp,arithfact,false,Seize est le résultat de deux multiplié par dix huit.
+71000,redtext,empty,True,+
+71350,rsvp,geomfact,true,La diagonale d'un carré est plus grande que son côté.
+79000,sound,bip,True,bip_court.wav
+79350,sound,control,false,16_control_29_false_vide_insigne.wav
+87000,sound,bip,True,bip_court.wav
+87350,sound,control,false,30_control_01_false_vide_estleunetandis.wav
+95000,text,empty,True,+
+101000,sound,bip,True,bip_court.wav
+101350,sound,tom,true,59_tom_07_true_vrai_vulcanologues.wav
+109000,redtext,empty,True,+
+109350,rsvp,tom,false,Pour Nietzsche Dieu est plus vivant que jamais.
+117000,text,empty,True,+
+123000,redtext,empty,True,+
+123350,rsvp,context,true,Aux Pays Bas les moulins fonctionnent avec le vent.
+131000,redtext,empty,True,+
+131350,rsvp,tom,false,Pour Donald Trump les mexicains sont bienvenus aux Etats Unis.
+139000,sound,bip,True,bip_court.wav
+139350,sound,tom,true,219_tom_20_true_faux_selontarzan.wav
+147000,redtext,empty,True,+
+147350,rsvp,context,false,En Inde les vaches sont des animaux de boucherie.
+155000,sound,bip,True,bip_court.wav
+155350,sound,tom,false,142_tom_24_false_vrai_hitler.wav
+163000,sound,bip,True,bip_court.wav
+163350,sound,colorlessg,false,158_colorlessg_12_false_vide_selonlavoiture.wav
+171000,sound,bip,True,bip_court.wav
+171350,sound,general,true,111_general_20_true_vide_mitose.wav
+179000,text,empty,True,+
+184000,sound,bip,True,bip_court.wav
+184350,sound,colorlessg,false,299_colorlessg_31_false_vide_lespoirdoignon.wav
+192000,sound,bip,True,bip_court.wav
+192350,sound,context,false,75_context_30_false_vrai_pendantcours.wav
+200000,redtext,empty,True,+
+200350,rsvp,arithfact,true,Le double du nombre neuf est le nombre dix huit.
+208000,text,empty,True,+
+216000,sound,bip,True,bip_court.wav
+216350,sound,tom,false,123_tom_39_false_faux_humoristes.wav
+224000,sound,bip,True,bip_court.wav
+224350,sound,arithprin,false,139_arithprin_38_false_vide_carrenombrenegatif.wav
+232000,sound,bip,True,bip_court.wav
+232350,sound,context,true,217_context_15_true_faux_enchine.wav
+240000,redtext,empty,True,+
+240350,rsvp,arithprin,true,Un nombre multiplié par zéro est égal à zéro.
+248000,redtext,empty,True,+
+248350,rsvp,general,true,Le soleil se lève à l'est tous les matins.
+256000,redtext,empty,True,+
+256350,rsvp,tom,true,Pour La Fontaine les fables sont de courtes leçons de vie.
+264000,sound,bip,True,bip_court.wav
+264350,sound,control,false,271_control_04_false_vide_leselonlaestdes.wav
+272000,sound,bip,True,bip_court.wav
+272350,sound,general,false,83_general_40_false_vide_laterre.wav
+280000,redtext,empty,True,+
+280350,rsvp,arithfact,false,Le résultat de la division de quatorze par sept est trois.
+288000,text,empty,True,+
+293000,sound,bip,True,bip_court.wav
+293350,sound,geomfact,false,21_geomfact_29_false_vide_figures.wav
+301000,redtext,empty,True,+
+301350,rsvp,geomfact,true,Un angle droit est plus grand qu'un angle aigu.
+309000,redtext,empty,True,+
+309350,rsvp,control,false,Lettres grave économie création partie mesure mouvement.
+317000,sound,bip,True,bip_court.wav
+317350,sound,colorlessg,false,39_colorlessg_40_false_vide_reaction.wav
+325000,sound,bip,True,bip_court.wav
+325350,sound,general,true,266_general_16_true_vide_larose.wav
+333000,sound,bip,True,bip_court.wav
+333350,sound,arithprin,true,144_arithprin_04_true_vide_nombrepositif.wav
+341000,redtext,empty,True,+
+341350,rsvp,context,true,Au Japon manger bruyamment est une forme de politesse.
+349000,redtext,empty,True,+
+349350,rsvp,arithprin,true,La soustraction est le contraire de l'addition.
+357000,sound,bip,True,bip_court.wav
+357350,sound,context,true,157_context_04_true_vrai_anewyork.wav
+365000,redtext,empty,True,+
+365350,rsvp,arithprin,false,On double un nombre en le multipliant par lui même.
+373000,redtext,empty,True,+
+373350,rsvp,context,false,Au Japon la mortalité infantile est importante.
+381000,text,empty,True,+
+386000,sound,bip,True,bip_court.wav
+386350,sound,arithprin,false,10_arithprin_23_false_vide_carreimpair.wav
+394000,sound,bip,True,bip_court.wav
+394350,sound,geomfact,false,149_geomfact_39_false_vide_uncarrepeutsediviser.wav
+402000,redtext,empty,True,+
+402350,rsvp,colorlessg,false,Un bol de pain vaut son loup de jaune contraire.
+410000,redtext,empty,True,+
+410350,rsvp,geomfact,false,Un hexagone est une figure avec des angles droits.
+418000,redtext,empty,True,+
+418350,rsvp,geomfact,false,Un cercle possède de nombreux côtés rectilignes.
+426000,sound,bip,True,bip_court.wav
+426350,sound,arithprin,true,250_arithprin_13_true_vide_touslesnombres.wav
+434000,sound,bip,True,bip_court.wav
+434350,sound,general,false,41_general_30_false_vide_pamphlet.wav
+442000,sound,bip,True,bip_court.wav
+442350,sound,arithfact,true,265_arithfact_12_true_vide_produitdevingtetun.wav
+450000,text,empty,True,+
+458000,sound,bip,True,bip_court.wav
+458350,sound,colorlessg,false,311_colorlessg_03_false_vide_lasensation.wav
+466000,sound,bip,True,bip_court.wav
+466350,sound,arithfact,false,69_arithfact_24_false_vide_divisiontrentetrois.wav
+474000,sound,bip,True,bip_court.wav
+474350,sound,arithfact,true,303_arithfact_16_true_vide_ladivisiondeseize.wav
+482000,redtext,empty,True,+
+482350,rsvp,control,false,Souvent été car double esprit dos jeune relations doute.
+490000,redtext,empty,True,+
+490350,rsvp,arithprin,false,La différence de nombres négatifs est toujours positive.
+498000,sound,bip,True,bip_court.wav
+498350,sound,context,false,212_context_37_false_faux_surmars.wav
+506000,redtext,empty,True,+
+506350,rsvp,control,false,Tourner décide journal antilope pluie effacer assis.
+514000,sound,bip,True,bip_court.wav
+514350,sound,geomfact,true,261_geomfact_20_true_vide_uncarrepossede.wav
+522000,redtext,empty,True,+
+522350,rsvp,tom,true,Pour le président l'Elysée est un lieu de tous les jours.
+530000,redtext,empty,True,+
+530350,rsvp,arithfact,true,Le nombre douze multiplié par dix fait cent vingt.
+538000,redtext,empty,True,+
+538350,rsvp,control,false,Qui le est un la selon pourtant se lorsque d'une avec.
+546000,sound,bip,True,bip_court.wav
+546350,sound,arithfact,false,256_arithfact_34_false_vide_lenombresoixantequatorze.wav
+554000,sound,bip,True,bip_court.wav
+554350,sound,control,false,7_control_07_false_vide_dapres.wav
+562000,text,empty,True,+
