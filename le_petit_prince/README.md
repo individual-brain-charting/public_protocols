@@ -27,7 +27,7 @@
 
 * Select the run and press Enter.
 
-* Ask the questions between each run and write down the answers to the MCQ. Open the file `questions_a_presenter.pdf` for the participant with the command shown, eg.:
+* Ask the questions after each run and mark the answers on the printed sheet. Open the file `questions_a_presenter.pdf` for the participant with the command shown, eg.:
 
 	```
     $ evince -s -p 4 questions_a_presenter.pdf
