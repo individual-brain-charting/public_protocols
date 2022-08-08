@@ -5,10 +5,13 @@
 
 ## How to run
 
+* Download the audio files from OpenNeuro: 
 * Print the `protocol/questions_reponses_a_imprimer.pdf` file to mark participant's answers after each run
 * Go into the task folder:
 	
+	```
 	$ cd le_petit_prince/protocol
+	```
 
 ### Practice
 
@@ -18,13 +21,17 @@
 
 * Run the script `run-lepetitprince-mri.sh` as follows:
 	
+	```
 	$ sh run-lepetitprince-mri.sh
+	```
 
 * Select the run and press Enter.
 
 * Ask the questions between each run and write down the answers to the MCQ. Open the file `questions_a_presenter.pdf` for the participant with the command shown, eg.:
 
+	```
     $ evince -s -p 4 questions_a_presenter.pdf
+	```
 
 * This would open the pdf at page 4 after run 1 and similarly, prompts after each run show corresponding page number in the pdf.
 
