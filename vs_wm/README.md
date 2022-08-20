@@ -7,7 +7,7 @@ Experimental protocol for visual search and working memory, adapted from [Kuo et
 * Set the slave monitor to clone the primary one.
 * Display resolution - 1280 x 960, refresh rate - 60 Hz.
 
-### Practice
+## Practice
 
 * Run the script `practice.py`
 
@@ -17,7 +17,7 @@ Experimental protocol for visual search and working memory, adapted from [Kuo et
 
 * Presents 8 trials - first 4 have longer stimulus and response duration, and shorter inter-trial intervals and the rest 4 have the actual durations (just as in the main task).
 
-### Scanner task
+## Scanner task
 	
 * Run the script `protocol.py` as follows:
 
