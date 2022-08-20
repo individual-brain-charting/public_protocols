@@ -2,7 +2,6 @@
 Event extraction script for the reward_proc.
 Creates .tsv files with relevant events from .pkl logs
 
-Adapted for IBC by:
 Himanshu Aggarwal
 himanshu.aggarwal@inria.fr
 January 2021
