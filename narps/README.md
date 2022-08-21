@@ -50,7 +50,7 @@ Press Escape when the gamble is on screen.
 
 ### Data extraction
 
-Run `paradigm_descriptors.py` as follows:
+* Run `paradigm_descriptors.py` as follows:
 
     ```
     python paradigm_descriptors.py
