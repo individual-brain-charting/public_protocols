@@ -3,20 +3,6 @@
 * Extend the primary display to the slave monitor.
 * Display resolution - 1920 x 1080, refresh rate - 60 Hz.
 
-## How to run
-
-* Before running the script activate the conda environment
-	
-	```
-	conda activate py38psypy
-	```
-
-* Go into the task folder:
-	
-	```
-	cd C:\Users\Public\gitrepos\cognitive_protocols\color
-	```
-
 ## Practice
 
 * For practice sessions, run the script `training.py`:
@@ -53,12 +39,6 @@ Press ESC anytime.
 `log` folder contains log of the run if it ran completely.  
 
 ### Data extraction
-
-* Activate conda environment py38psypy 
-	
-	```
-    conda activate py38psypy
-	```
 
 * Run `paradigm_descriptors.py` as follows:
 
