@@ -9,7 +9,7 @@ Experimental protocol for probabilistic reversal learning task with gains and lo
 
 ## How to run
 	
-Go into the task folder:
+Go into the task folder
 
 ### Practice
 
@@ -21,9 +21,9 @@ Go into the task folder:
 
 * Presents 20 trials.
 
-## Scanner task
+### Scanner task
 
-Run the script `protocol.py` as follows:
+* Run the script `protocol.py` as follows:
 	
 	```
 	python protocol.py <SubNo> <RunNo>
