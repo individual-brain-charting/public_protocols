@@ -1,0 +1,46 @@
+pulsetrial.present();
+
+### MAY BE SPECIFIC TO EGNER LAB ###
+#synchronize fmri and task, remove the next 4 lines if you don't use the triggers from the scanner to start the task
+int startCounter = pulse_manager.main_pulse_count();
+loop until (pulse_manager.main_pulse_count() > startCounter)
+	begin
+	end;
+
+
+FixTrial.present();  # Has mri_pulse = 1, so scanner should start this trial
+
+# trial loop
+loop int trialId = 1 until trialId > trialNum begin
+	
+	# Get number of responses so far
+	numres = response_manager.response_count();
+	
+	term.print_line(numres);
+
+	# Determine face and word
+	imgId = imageIds[2][trialId];
+	nameId = nameIds[2][trialId];
+	bitmap1.set_filename(fileNames[imgId]);
+	bitmap1.load();
+	text1.set_font_size(58 - mod(nameId, 2) * 10);
+	text1.set_caption(nameStrings[nameId]);
+	text1.redraw();
+	
+	# Determine event code and ISI
+	# event_code 100-400 = female word; 500-800 = male word --- x01-x12 = female face; x13-x24 = male face
+	# So e.g. 120 = incongruent (female word on male face); 615 = congruent (male word on male face)
+	picSe.set_event_code(string(nameId*100 + imgId));
+	fixSe.set_duration(jitter[2][trialId] * 500 + 3500);
+	
+	# Present trial
+	PicTrial.present();
+	
+	# Increment trial counter
+	trialId = trialId + 1;
+	
+end;
+
+
+instruction_text.set_caption("FIN"); instruction_text.redraw();
+EndTask.present();

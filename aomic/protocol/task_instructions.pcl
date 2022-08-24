@@ -1,0 +1,112 @@
+
+# show first instruction screens
+instruction_text.set_caption("Vous verrez bientôt un visage surmonté d'un mot.\n\n"+
+                             "Appuyez sur le bouton sous l'index pour le voir."); instruction_text.redraw();
+Instructie.present();
+
+# show example trial
+bitmap1.set_filename("F_01.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("femme");
+text1.redraw();
+PicExampTrial1.present();
+
+# show second instruction screens
+instruction_text.set_caption("Vous devez trouver le sexe de la personne,\n"+
+							"sans tenir compte de la mot s'affichant.\n\n"+
+                            "Pour un visage MASCULIN, appuyez sur le bouton sous L'INDEX. \n"+
+							"Pour un visage FÉMENIN, appuyez sur le bouton sous LE MAJEUR.\n\n"+
+					"Un certain nombre d'exemples suivent ; appuyez sur le bouton sous l'index pour continuer."); instruction_text.redraw();
+Instructie.present();
+
+# show example trial of congruent/incongruent male/female
+# I male UPPER 1
+bitmap1.set_filename("M_01.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("FEMME");
+text1.redraw();
+text2.set_caption("Homme, appuyez avec l'index");
+text2.redraw();
+PicExampTrial2.present();
+
+# I female lower 2
+bitmap1.set_filename("F_01.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("monsieur");
+text1.redraw();
+text2.set_caption("Femme, alors appuyez avec majeur");
+text2.redraw();
+PicExampTrial2.present();
+
+# C male lower 1
+bitmap1.set_filename("M_02.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("homme");
+text1.redraw();
+text2.set_caption("Homme, appuyez avec l'index");
+text2.redraw();
+PicExampTrial2.present();
+
+# C female UPPER 2
+bitmap1.set_filename("F_02.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("MADAME");
+text1.redraw();
+text2.set_caption("Femme, alors appuyez avec le majeur");
+text2.redraw();
+PicExampTrial2.present();
+
+# I female UPPER 2
+bitmap1.set_filename("F_03.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("MONSIEUR");
+text1.redraw();
+text2.set_caption("Femme, alors appuyez avec le majeur");
+text2.redraw();
+PicExampTrial2.present();
+
+# C male UPPER 1
+bitmap1.set_filename("M_03.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("HOMME");
+text1.redraw();
+text2.set_caption("Homme, appuyez avec l'index");
+text2.redraw();
+PicExampTrial2.present();
+
+# I male lower 1
+bitmap1.set_filename("M_04.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("femme");
+text1.redraw();
+text2.set_caption("Homme, appuyez avec l'index");
+text2.redraw();
+PicExampTrial2.present();
+
+# C female lower 2
+bitmap1.set_filename("F_04.jpg");
+bitmap1.load();
+text1.set_font_size(58 - mod(nameId, 2) * 10);
+text1.set_caption("madame");
+text1.redraw();
+text2.set_caption("Femme, alors appuyez avec le majeur");
+text2.redraw();
+PicExampTrial2.present();
+
+# show get ready screen
+instruction_text.set_caption("Ceci conclut l'exercice.\n\n"+
+							"Si tout est clair, vous pouvez commencer.\n\n"+
+                            "Appuyez avec l'index pour commencer.\n\n"+
+							"Cela prendra un moment avant que la tâche ne commence réellement."); instruction_text.redraw();
+Instructie.present();
+
+
+

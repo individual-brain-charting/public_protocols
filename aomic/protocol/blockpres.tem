@@ -1,0 +1,32 @@
+trial {
+   trial_duration = $tdur;
+   trial_type = fixed;
+   
+   picture {
+      bitmap $the_bitmap;
+      x = 0; y = 0;
+   };
+   code = $the_code;
+   response_active = true;
+   stimulus_time_in = 0;
+   stimulus_time_out = 4900;
+   target_button = $targetbutton;
+ #  duration = $pdur;
+duration = response;
+ picture {
+		text{caption="+";
+		font = "Arial";
+		font_size=60;
+		font_color=0,0,0;
+		background_color=246,246,246;
+		transparent_color=246,246,246;
+		};
+		x=0;y=0;
+};
+
+
+    deltat=0;       # show at 1000 ms if pic2 done by then
+    duration = $pdur;
+
+
+};

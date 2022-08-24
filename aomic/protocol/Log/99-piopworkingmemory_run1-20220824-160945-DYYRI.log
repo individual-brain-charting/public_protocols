@@ -1,0 +1,15 @@
+Scenario - 
+Logfile written - 08/24/2022 16:10:02
+
+Subject	Trial	Event Type	Code	Time	TTime	Uncertainty	Duration	Uncertainty	ReqTime	ReqDur	Stim Type	Pair Index
+
+99	1	Response	2	11295	10962	0
+99	2	Pulse	255	22335	10993	0
+99	2	Picture	0	22518	11176	1	334	1	0	160	other	0
+99	3	Picture	0	23019	0	1	80066	1	0	next	other	0
+99	4	Picture	10	103085	0	1	10175	1	0	next	other	0
+99	5	Picture	20	113260	0	1	10175	1	0	next	other	0
+99	6	Picture	30	123435	0	1	20183	1	0	next	other	0
+99	7	Picture	40	143618	0	1	10175	1	0	next	other	0
+99	8	Picture	0	163802	0	1	9313	1	0	next	other	0
+99	8	Quit		168496	4694	NA

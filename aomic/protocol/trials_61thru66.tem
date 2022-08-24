@@ -1,0 +1,9 @@
+TEMPLATE "blockpres.tem" {
+	the_bitmap	the_code	targetbutton;
+	c61	"61"	1;
+	c62	"62"	2;
+	c63	"63"	1;
+	c64	"64"	2;
+	c65	"65"	2;
+	c66	"66"	1;
+};
