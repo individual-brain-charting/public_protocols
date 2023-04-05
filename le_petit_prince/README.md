@@ -5,7 +5,7 @@
 
 ## How to run
 
-* Download the audio files from OpenNeuro: 
+* Download the audio files (`.wav` files with suffix `task-lppFR`) from OpenNeuro: https://openneuro.org/datasets/ds003643/versions/2.0.1
 * Print the `protocol/questions_reponses_a_imprimer.pdf` file to mark participant's answers after each run
 * Go into the task folder:
 	
