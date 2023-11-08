@@ -268,7 +268,7 @@ path = os.getcwd()
 keymap = {'98': 'false',
           '121': 'true'}
 
-input_path = os.path.join(path, '../protocol/data')
+input_path = os.path.join(path, '../data')
 output_path = os.path.join(path, 'paradigm_descriptors_logfiles')
 if not os.path.exists(output_path):
     os.mkdir(output_path)

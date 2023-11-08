@@ -33,6 +33,6 @@ ses_type = args.type
 
 # We use the files for sub-15 for all participants, and specify the
 # participant number inside the experiment
-os.system("python mathlang.py all_stimuli/"
+os.system("python mathlang.py stim/"
           "stim_subject15_bloc_{}{}.csv -r {} -t {}".format(run, ses_type, run,
                                                             ses_type))

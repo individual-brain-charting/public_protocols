@@ -29,11 +29,11 @@ the same files for every participant, but you can change that if changing the or
 There are two files in the protocol folder that you are interested in: mathlang.py and run_experiment.py. The latter
 one contains the launching sequence, and internally calls mathlang.py. You can initiate it typing:
 
-    $ python run_experiment.py -t [type] -r [run]
+    $ python protocol.py -t [type] -r [run]
     
 To get more information about the command line arguments, you can type:
     
-    $ python run_experiment.py -h
+    $ python protocol.py -h
     
 There you will see what each argument represents and what are the possible choices for each one.
 
@@ -41,7 +41,7 @@ There you will see what each argument represents and what are the possible choic
 
 Before launching the protocol, you might want to test the audio. To do so, type:
 
-    $ python run_experiment_test_audio.py
+    $ python test_audio.py
     
 This will play a short audio probe that you can test together with the noise of the machine.
 
@@ -49,11 +49,11 @@ This will play a short audio probe that you can test together with the noise of 
 
 In the paradigm_descriptors folder you can type:
 
-    $ paradigm_descriptors_extraction_mathlang.py -n [number]
+    $ paradigm_descriptors.py -n [number]
     
 Again, to get useful information about the arguments, type:
 
-    $ paradigm_descriptors_extraction_mathlang.py -h
+    $ paradigm_descriptors.py -h
     
 The logfiles will be in the paradigm_descriptors_logfiles folder.
 
@@ -82,7 +82,7 @@ go to the run_experiment.py script and:
  - Include a new argument at the beginning of the script to reflect the subject number when calling the script
  - Change the format of the string to change the "15" for the additional argument, the result should be something like:
      
-       os.system("python mathlang.py all_stimuli/"
+       os.system("python mathlang.py stim/"
                  "stim_subject{}_bloc_{}{}.csv -r {} -t {}".format(sub, run, ses_type, 
                                                                    run, ses_type))
                                                                    

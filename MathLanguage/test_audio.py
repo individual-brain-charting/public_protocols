@@ -15,4 +15,4 @@ import os
 # subject 01 ##################################################################
 
 # 5 blocs type a
-os.system("python mathlang.py all_stimuli/stim_test_audio.csv")
+os.system("python mathlang.py stim/stim_test_audio.csv")
