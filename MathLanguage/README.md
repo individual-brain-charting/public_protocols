@@ -50,7 +50,7 @@ This will play a short audio probe that you can test together with the noise of 
 
 ## Scanner tasks
 
-The files of this protocol contain personalized audio and text files for a number of different participants. We used the same files for every participant, but you can change that if changing the order suits your needs better. Check the [Where can I find X in the code?](#find-incode) section to learn more about that.
+The files of this protocol contain personalized audio and text files for a number of different participants. We used the same files for every participant, but you can change that if changing the order suits your needs better. Check the [Where can I find X in the code?](#where-can-i-find-x-in-the-code) section to learn more about that.
 
 There are two files in the protocol folder that you are interested in: `mathlang.py` and `run_experiment.py`. The latter contains the launching sequence, and internally calls mathlang.py. You can initiate it typing:
 
@@ -92,7 +92,7 @@ paradigm_descriptors.py -h
 
 The logfiles will be in the `paradigm_descriptors_logfiles` folder.
 
-## Where can I find X in the code? {#find-incode}
+## Where can I find X in the code?
 
 ### Encoding error when running the script
 
