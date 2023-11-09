@@ -1,8 +1,10 @@
+# MathLanguage
+
 ## About this protocol
 
-This protocol was designed to comprehensively capture the activation related with several types of mathematical and other types of facts. 
+The **Mathematical Language** protocol was designed to comprehensively capture the activation related with several types of mathematical and other types of facts. 
 
-Relevant references: 
+Relevant references:
 
 * [Amalric et al., 2016](https://www.pnas.org/doi/full/10.1073/pnas.1603205113)
 
