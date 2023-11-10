@@ -1,3 +1,5 @@
+# NARPS
+
 ## About this protocol
 
 Codes for the mixed gamble task, Neuroimaging Analysis Replication and Prediction Study (NARPS).
@@ -19,7 +21,7 @@ Relevant references:
 
 <mark>Set FORP USB button box mode to "HID NAR BYGRT"</mark>
 
-Open `narps` directory in Octave GUI.
+Open `NARPS` directory in Octave GUI.
 
 ## Training
 
@@ -52,13 +54,13 @@ Press Escape when the gamble is on screen.
 
 * Run `paradigm_descriptors.py` as follows:
 
-    ```
-    python paradigm_descriptors.py
-    ```
+```bash
+python paradigm_descriptors.py
+```
 
-* This will create BIDS compliant `.tsv` events files from the `.txt` files in the `output_paradigm_descriptors` folder. 
+* This will create BIDS compliant `.tsv` events files from the `.txt` files in the `output_paradigm_descriptors` folder.
 
-* If there are multiple `.txt` files for the same subject and same run, the script adds a suffix '(`some number`)' to the `.tsv` files. 
+* If there are multiple `.txt` files for the same subject and same run, the script adds a suffix '(`some number`)' to the `.tsv` files.
 
 * But to avoid confusions at a later stage, you must first delete unnecessary `.txt` files.
 

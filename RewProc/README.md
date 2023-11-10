@@ -1,3 +1,5 @@
+# Reward Processing
+
 ## About this protocol
 
 Experimental protocol for probabilistic reversal learning task with gains and losses, adapted from O'Doherty et al. [2001](https://doi.org/10.1038/82959) and [2003](https://doi.org/10.1523/JNEUROSCI.23-21-07931.2003).
@@ -8,26 +10,26 @@ Experimental protocol for probabilistic reversal learning task with gains and lo
 * Display resolution - 1600 x 1200, refresh rate - 60 Hz.
 
 ## How to run
-	
+
 Go into the task folder
 
 ### Practice
 
 * For practice sessions, run the script `training.py`:
 
-	```
-	python training.py <SubNo>
-	```
+```bash
+python training.py <SubNo>
+```
 
 * Presents 20 trials.
 
 ### Scanner task
 
 * Run the script `protocol.py` as follows:
-	
-	```
-	python protocol.py <SubNo> <RunNo>
-	```
+
+```bash
+python protocol.py <SubNo> <RunNo>
+```
 
 The subject and run numbers both start from 1.
 
@@ -43,16 +45,18 @@ Press ESC when the stimulus is on the screen.
 ## After the acquisition
 
 * `Output` folder contains `.pkl` files:
-	- data for practice run would be saved as `sub{subject-number}pract_sess{run-number}_data_{timestamp}.pkl` file.
-	- data for the task would be saved as `sub{subject-number}_sess{run-number}_data_{timestamp}.pkl` file.
+
+    * data for practice run would be saved as `sub{subject-number}pract_sess{run-number}_data_{timestamp}.pkl` file.
+
+    * data for the task would be saved as `sub{subject-number}_sess{run-number}_data_{timestamp}.pkl` file.
 
 ### Data extraction
 
 * Run `paradigm_descriptors.py` as follows:
 
-	```
-    python paradigm_descriptors.py
-	```
+```bash
+python paradigm_descriptors.py
+```
 
 * This will create BIDS compliant `.tsv` events files from the `.pkl` files in the `output_paradigm_descriptors` folder. 
 
