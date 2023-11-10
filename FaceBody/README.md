@@ -1,3 +1,5 @@
+# FaceBody
+
 ## About this protocol
 
 Functional localizer experiment used to define category-selective cortical regions (published in [Stigliani et al., 2015](http://www.jneurosci.org/content/35/36/12412))
@@ -12,13 +14,13 @@ Repo for original code - [here](https://github.com/VPNL/fLoc).
 
 ## Training
 
-Open `face_body` directory in Octave GUI and type `training` in command window to run the training protocol.
+Open `FaceBody` directory in Octave GUI and type `training` in command window to run the training protocol.
 
 Enter the subject number when prompted.
 
 ## Scanner task
 
-Open `face_body` directory in Octave GUI and type `protocol` in command window to run the protocol.
+Open `FaceBody` directory in Octave GUI and type `protocol` in command window to run the protocol.
 
 Enter the subject number and initial run number when prompted.
 
@@ -43,13 +45,13 @@ Press Escape when the fixation dot is on screen.
 
 * Run `paradigm_descriptors.py` as follows:
 
-    ```
-    python paradigm_descriptors.py
-    ```
+```bash
+python paradigm_descriptors.py
+```
 
-* This will create BIDS compliant `.tsv` events files from the `.mat` files in the `output_paradigm_descriptors` folder. 
+* This will create BIDS compliant `.tsv` events files from the `.mat` files in the `output_paradigm_descriptors` folder.
 
-* If there are multiple folders in `data` folder for the same subject and same run, the script adds a suffix '(`some number`)' to the `.tsv` files. 
+* If there are multiple folders in `data` folder for the same subject and same run, the script adds a suffix '(`some number`)' to the `.tsv` files.
 
 * But to avoid confusions at a later stage, you must first delete unnecessary folders.
 
