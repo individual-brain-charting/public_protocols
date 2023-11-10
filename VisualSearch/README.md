@@ -1,3 +1,5 @@
+# Visual Search and Working Memory
+
 ## About this protocol
 
 Experimental protocol for visual search and working memory, adapted from [Kuo et al. (2016)](https://www.researchgate.net/publication/297895192_Top-Down_Activation_of_Spatiotopic_Sensory_Codes_in_Perceptual_and_Working_Memory_Search).
@@ -11,19 +13,19 @@ Experimental protocol for visual search and working memory, adapted from [Kuo et
 
 * Run the script `practice.py`
 
-  ```
-  python practice.py
-  ```
+```bash
+python practice.py
+```
 
 * Presents 8 trials - first 4 have longer stimulus and response duration, and shorter inter-trial intervals and the rest 4 have the actual durations (just as in the main task).
 
 ## Scanner task
-	
+
 * Run the script `protocol.py` as follows:
 
-  ```
-  python protocol.py
-  ```
+```bash
+python protocol.py
+```
 
 * When prompted, enter the current run number (0-3, including 0 and 3) and then the subject number.
 
@@ -31,7 +33,7 @@ Experimental protocol for visual search and working memory, adapted from [Kuo et
 
 ## Responses
 
-* Two responses - index-finger key for "target present" and middle-finger key for "target absent". 
+* Two responses - index-finger key for "target present" and middle-finger key for "target absent".
 * For practice sessions, J key for "target present", and K key for "target absent".
 
 ## How to quit
@@ -48,13 +50,13 @@ Simply press ESC key any time during the experiment.
 
 Run `paradigm_descriptors.py` as follows:
 
-  ```
-  python paradigm_descriptors.py
-  ```
+```bash
+python paradigm_descriptors.py
+```
 
-* This will create BIDS compliant `.tsv` events files from the `.xpd` files in the `output_paradigm_descriptors` folder. 
+* This will create BIDS compliant `.tsv` events files from the `.xpd` files in the `output_paradigm_descriptors` folder.
 
-* If there are multiple `.xpd` files for the same subject and same run, the script adds a suffix '(`some number`)' to the `.tsv` files. 
+* If there are multiple `.xpd` files for the same subject and same run, the script adds a suffix '(`some number`)' to the `.tsv` files.
 
 * But to avoid confusions at a later stage, you must first delete unnecessary `.xpd` files.
 
@@ -69,8 +71,8 @@ Run `paradigm_descriptors.py` as follows:
 
 ## Software info
 
-* Python 3.8.5, Expyriment 0.10.0. 
+* Python 3.8.5, Expyriment 0.10.0.
 
-* Primary script `protocol.py` imports `prerandomise.py` for generating randomised trial and stimuli sequences. 
+* Primary script `protocol.py` imports `prerandomise.py` for generating randomised trial and stimuli sequences.
 
 * Other dependencies: `numpy`, `pandas`, `os`, `ast` and `time`.

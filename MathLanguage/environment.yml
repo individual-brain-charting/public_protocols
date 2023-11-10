@@ -1,9 +1,0 @@
-name: py36expy090
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - pip=19.2.1
-  - python=3.6.4
-  - pip:
-    - -r requirements.txt
