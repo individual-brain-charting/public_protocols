@@ -9,6 +9,25 @@ Experimental protocol for probabilistic reversal learning task with gains and lo
 * Extend the primary display to the slave monitor.
 * Display resolution - 1600 x 1200, refresh rate - 60 Hz.
 
+## Python version and dependencies
+
+We provide a couple of files to replicate our implementation:
+
+* Option 1: Create a python virtual environment
+
+```bash
+python -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+```
+
+* Option 2: Use conda
+
+```bash
+conda env create -f environment.yml
+conda activate py36expy090
+```
+
 ## How to run
 
 Go into the task folder

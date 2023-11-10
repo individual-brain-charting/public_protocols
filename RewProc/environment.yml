@@ -1,0 +1,11 @@
+name: py38psypy
+channels:
+  - defaults
+dependencies:
+  - pip=21.0.1
+  - python=3.8.5
+  - setuptools=52.0.0
+  - sqlite=3.35.4
+  - wheel=0.36.2
+  - pip:
+    - -r requirements.txt
